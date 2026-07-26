@@ -6,382 +6,396 @@ lang: zh
 report: stock
 ---
 
-> 从 279 条内容中筛选出 20 条重要资讯。
+> 从 280 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [比亚迪宣称 5 分钟充电，10 款车型率先搭载](#item-1) ⭐️ 9.0/10
-2. [比亚迪进军日本，汽车壁垒松动](#item-2) ⭐️ 8.0/10
-3. [比亚迪发布 11 款新车，含续航超 1000 公里纯电车型](#item-3) ⭐️ 8.0/10
-4. [印度对比亚迪罚款 6.3 亿](#item-4) ⭐️ 7.0/10
-5. [比亚迪汉 L、唐 L 因 5 月销量不佳停产](#item-5) ⭐️ 7.0/10
-6. [中国中免股价下跌，上半年收入预测疲软](#item-6) ⭐️ 6.0/10
-7. [沙特阿拉伯反击胡塞武装袭击能源设施](#item-7) ⭐️ 9.0/10
-8. [6 岁女童在中国基因编辑试验中死亡](#item-8) ⭐️ 9.0/10
-9. [美伊停火破裂 伊朗攻击 LNG 船](#item-9) ⭐️ 9.0/10
-10. [智利致命风暴扰乱铜矿，引发 AI 供应担忧](#item-10) ⭐️ 8.0/10
-11. [前证监会副主席方星海被查](#item-11) ⭐️ 8.0/10
-12. [黄金 25%回调后有望重拾升势](#item-12) ⭐️ 8.0/10
-13. [三星李在镕与 OpenAI CEO 会面商讨 AI 芯片合作](#item-13) ⭐️ 8.0/10
-14. [韩国养老金 7 月转为 KOSPI 净买方](#item-14) ⭐️ 8.0/10
-15. [特斯拉失去纯电销冠，如何翻盘？](#item-15) ⭐️ 8.0/10
-16. [投资者利用加密货币永续合约规避中国 AI 股票限制](#item-16) ⭐️ 7.0/10
-17. [中国发布拼豆玩具安全新规](#item-17) ⭐️ 7.0/10
-18. [机器人 IPO 热潮引发行业泡沫担忧](#item-18) ⭐️ 7.0/10
-19. [眸深智能完成近亿元 Pre-A+轮融资，估值半年增 10 倍](#item-19) ⭐️ 7.0/10
-20. [马斯克警告做空者，SpaceX 空头仓位达 32%](#item-20) ⭐️ 7.0/10
+1. [沙特阿拉伯在胡塞武装袭击能源设施后发动打击](#item-1) ⭐️ 9.0/10
+2. [美伊停火破裂，海湾战火重燃](#item-2) ⭐️ 9.0/10
+3. [\*ST 元道因市值跌破 3 亿元面临退市风险](#item-3) ⭐️ 9.0/10
+4. [比亚迪进军日本车市，壁垒松动](#item-4) ⭐️ 8.0/10
+5. [比亚迪发布 5 分钟闪充技术，率先搭载 10 款车型](#item-5) ⭐️ 8.0/10
+6. [比亚迪连发 11 款新车，包括续航超 1000 公里纯电车](#item-6) ⭐️ 8.0/10
+7. [比亚迪 3-4 月新车：大电池超快充，树立新标准](#item-7) ⭐️ 8.0/10
+8. [比亚迪闪充与二代刀片电池获国家级认可](#item-8) ⭐️ 8.0/10
+9. [智利致命风暴扰乱铜矿，威胁人工智能供应](#item-9) ⭐️ 8.0/10
+10. [6 岁女童在基因编辑试验中死亡](#item-10) ⭐️ 8.0/10
+11. [机器人 IPO 潮、巨额骗局、药品短缺](#item-11) ⭐️ 8.0/10
+12. [前证监会副主席方星海被查](#item-12) ⭐️ 8.0/10
+13. [马斯克警告 SpaceX 空头风险，特斯拉业绩不及预期](#item-13) ⭐️ 8.0/10
+14. [沪市一周增持回购计划达 158 亿元，创纪录](#item-14) ⭐️ 8.0/10
+15. [三星会长会晤 OpenAI CEO，探讨 AI 与芯片合作](#item-15) ⭐️ 8.0/10
+16. [中国 AI 加速落地：WAIC 2026 发布 351 款新品](#item-16) ⭐️ 7.0/10
+17. [亿田智能子公司拟 20 亿元采购服务器布局 AI 算力](#item-17) ⭐️ 7.0/10
+18. [福特因起火风险召回超 56.5 万辆烈马](#item-18) ⭐️ 7.0/10
+19. [韩国养老金 7 月首度净买入 KOSPI 股票](#item-19) ⭐️ 7.0/10
+20. [特斯拉失去纯电销冠，如何翻盘？](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [比亚迪宣称 5 分钟充电，10 款车型率先搭载](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WE1jc1Ywa1R0Y2YwZGJ2YzFxVlpucHFZQXYwYWVTVlBya3c3VjNWOUNVU0RPZUV1NWl2WmdST3F3UmdoRjBaeURDdmdHeWlFTFMxTVU5a2x1cW8?oc=5) ⭐️ 9.0/10
+## [沙特阿拉伯在胡塞武装袭击能源设施后发动打击](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-比亚迪宣布了一项突破性充电技术，可在 5 分钟内为电动汽车充满电，并将率先在 10 款车型上搭载。该技术结合了第二代刀片电池和闪充系统。 这可能消除续航焦虑，使电动汽车像加油一样方便，有望重塑电动汽车市场并提升比亚迪的竞争力。如果得到验证，可能加速全球电动汽车的普及。 闪充系统实现兆瓦级充电功率（1000 千瓦），峰值速度达每秒 2 公里，5 分钟可补充 400 公里续航。比亚迪计划到 2026 年底在中国建设 2 万个闪充站。
+沙特阿拉伯在伊朗支持的胡塞武装袭击其能源设施后，对也门胡塞武装发动了报复性打击，升级了地区冲突。 这一局势升级威胁全球石油供应稳定，可能导致显著的价格波动，影响全球能源市场。 胡塞武装袭击了沙特能源设施，促使利雅得立即作出军事回应；这种报复性暴力可能卷入其他地区大国。
 
-google\_news · 汽车之家 · 7月26日 01:20
+rss · FT Markets · 7月25日 13:02
 
-**背景**: 比亚迪的刀片电池是一种磷酸铁锂（LFP）电池，以安全性和长寿命著称。新的闪充系统是 2025 年 3 月推出的超级 e 平台的升级版，第二代刀片电池提供超过 1000 公里的续航。比亚迪计划从 2026 年中开始在欧洲部署闪充站。
+**背景**: 胡塞武装得到伊朗支持，自 2014 年以来一直在也门与沙特领导的联军进行内战。沙特能源基础设施是频繁攻击目标，此类袭击过去曾导致油价飙升。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD’s new Blade EV Battery 2.0 unlocks 1,000+ km pure ...</a></li>
-<li><a href="https://www.byd.com/en/news-list/BYD-Unveils-Super-e-Platform-Megawatt-Flash-Charging-Electric-Vehicles-Matching-Refueling-Speeds.html">BYD Unveils Super e-Platform with Megawatt Flash Charging for Electric Vehicles, Matching Refueling Speeds</a></li>
-
-</ul>
-</details>
-
-**标签**: `#EV`, `#BYD`, `#technology`, `#charging`, `#sector`
+**标签**: `#geopolitics`, `#energy`, `#oil`, `#Middle East`
 
 ---
 
 <a id="item-2"></a>
-## [比亚迪进军日本，汽车壁垒松动](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk9iVkgwRTl4WG1SZGEzRkQweFNrRXJNZDc2Z3N1SlFxQzEwOTNTNE51NEJYMDQ1UTJ5RjhNWWdzdDFBODQ3M3o3T1FUd3NRaUQ4ZDlfQ05wX2dpVW9TSXAzdDJGSWdTRmZyeHZXR0VVX2NQMk8wT0NOLXhkNnc2aEJpblBsWUdhbWtrUlBSclB1UHRmQXRiLQ?oc=5) ⭐️ 8.0/10
+## [美伊停火破裂，海湾战火重燃](https://weekly.caixin.com/2026-07-25/102467950.html) ⭐️ 9.0/10
 
-中国电动汽车制造商比亚迪进军历来保护森严的日本汽车市场，标志着贸易壁垒的突破。此举对丰田、本田等本土车企构成挑战。 日本汽车市场长期以来对外国品牌壁垒高筑，比亚迪的进入可能打破日本车企的主导地位。这也反映了全球电动化转型和中国车企竞争力的提升。 比亚迪凭借刀片电池和 e 平台 3.0 提供有竞争力的电动汽车。此前日本要求外国车辆进行额外测试，但新的认证路径正在引入。
+美伊停火协议在一个月内破裂，霍尔木兹海峡商业船只（包括一艘液化天然气船）遭袭，军事冲突升级，美军死亡人数已达 18 人。 此次冲突升级直接威胁全球能源供应和航运通道，因为霍尔木兹海峡是石油和天然气运输的关键咽喉。局势恶化可能扰乱全球市场并加剧地缘政治不稳定性。 停火协议于 2026 年 6 月 14 日达成，规定美国 30 天内解除海上封锁、伊朗保障船只安全通行，但伊朗于 7 月 7 日袭击了一艘卡塔尔液化天然气船，称其无视伊斯兰革命卫队警告。同日还有两艘商船遇袭。
 
-google\_news · finance.sina.com.cn · 7月26日 06:21
+rss · 财新网 · 7月26日 04:13
 
-**背景**: 日本汽车市场以非关税壁垒著称，如严格认证和偏向本土品牌的经销商网络。比亚迪作为中国领先的电动汽车制造商，凭借性价比电动汽车迅速全球扩张。此次壁垒松动是日本推动贸易政策现代化的举措之一。
+**背景**: 霍尔木兹海峡是连接波斯湾与阿拉伯海的狭窄水道，全球约 20%的石油途经此处。美伊紧张局势长期围绕伊朗核计划与地区影响力展开。6 月的停火协议是在数月冲突后为缓和局势所做的尝试，但深层次互不信任和利益冲突使其十分脆弱。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.trade.gov/country-commercial-guides/japan-trade-barriers">Japan - Trade Barriers</a></li>
-<li><a href="https://www.jama.org/questions-and-answers-about-the-japanese-auto-industry-and-the-trans-pacific-partnership-2/">Questions and Answers about the Japanese Auto Industry ... - JAMA</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#auto industry`, `#market entry`, `#BYD`, `#Japan`, `#electric vehicles`
+**标签**: `#geopolitics`, `#energy`, `#conflict`, `#shipping`
 
 ---
 
 <a id="item-3"></a>
-## [比亚迪发布 11 款新车，含续航超 1000 公里纯电车型](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
+## [\*ST 元道因市值跌破 3 亿元面临退市风险](https://36kr.com/newsflashes/3912183328347269?f=rss) ⭐️ 9.0/10
 
-比亚迪发布了 11 款新车，其中包括一款续航里程超过 1000 公里的纯电动汽车。这一里程碑归功于公司最新的电池和平台技术。 此次发布加剧了电动汽车市场的竞争，并展示了比亚迪在长续航电动车领域的领先地位。通过缓解续航焦虑，这可能会加速消费者对电动车的接受。 续航 1000 公里的电动车很可能使用了比亚迪的刀片电池和 e 平台 3.0，这些技术提升了能量密度和安全性。文章未透露具体车型名称和定价。
+7 月 26 日，\*ST 元道（301139.SZ）公告称，7 月 24 日其收盘市值为 2.91 亿元，首次低于 3 亿元阈值。若市值连续 20 个交易日低于 3 亿元，公司股票将被终止上市。 这一退市风险凸显了中国股市对市值退市规则的严格执行。如果\*ST 元道未能在宽限期内恢复市值，其投资者将面临本金全损的风险。 7 月 24 日公司股价为每股 2.39 元，退市阈值为连续 20 个交易日市值低于 3 亿元。\*ST 表示公司存在财务异常或净资产为负等特殊处理状态。
 
-google\_news · 汽车之家 · 7月25日 20:30
+rss · 36氪 · 7月26日 07:58
 
-**背景**: 比亚迪是中国领先的电动汽车制造商，以其刀片电池闻名。刀片电池是一种磷酸铁锂（LFP）电池，采用电池到电池包的设计，提升了安全性和空间利用率。e 平台 3.0 是比亚迪先进的电动汽车架构，集成了核心组件以提高性能和续航。此次发布延续了比亚迪通过尖端技术扩展电动车产品线的战略。
+**背景**: 在中国股市，带有\*ST 前缀的股票因财务异常或其他风险因素而被实施特别处理。深交所规定，若股票连续 20 个交易日市值低于 3 亿元，将被强制退市。这是提升市场质量、保护投资者的措施之一。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
-<li><a href="https://www.byd.com/eu/technology/byd-e-platform-3">e-Platform 3.0 | BYD Europe</a></li>
+<li><a href="https://finance.yahoo.com/">Yahoo Finance - Stock Market Live, Quotes, Business &amp; Finance News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#product launch`, `#EV`, `#BYD`, `#auto industry`
+**标签**: `#delisting`, `#market cap`, `#regulatory`, `#\*ST`
 
 ---
 
 <a id="item-4"></a>
-## [印度对比亚迪罚款 6.3 亿](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaUJPbnFpanpycFA5aXA4MHRmYkdKXzBLU0RVaThWakh3T2hXUVZRVzdaT0tlcWgzQ05LMmJITncyRk5rQUlrR1lIaUtfQU1aSTZpS2dpY2cydTA?oc=5) ⭐️ 7.0/10
+## [比亚迪进军日本车市，壁垒松动](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk9iVkgwRTl4WG1SZGEzRkQweFNrRXJNZDc2Z3N1SlFxQzEwOTNTNE51NEJYMDQ1UTJ5RjhNWWdzdDFBODQ3M3o3T1FUd3NRaUQ4ZDlfQ05wX2dpVW9TSXAzdDJGSWdTRmZyeHZXR0VVX2NQMk8wT0NOLXhkNnc2aEJpblBsWUdhbWtrUlBSclB1UHRmQXRiLQ?oc=5) ⭐️ 8.0/10
 
-印度以监管违规为由，对中国车企比亚迪处以 6.3 亿（可能为印度卢比）的罚款。 这一监管行动可能干扰比亚迪在印度的业务及其全球扩张战略，凸显了中国车企在海外市场面临的日益增多的风险。 导致罚款的具体违规行为尚未披露，比亚迪也未公开回应。
+中国领先电动汽车制造商比亚迪宣布进入日本汽车市场，随着贸易壁垒开始松动，这标志着一次重要的扩张。 此举可能颠覆日本传统上封闭的汽车工业（由丰田、本田等本土巨头主导），并加剧全球电动汽车竞争。 比亚迪计划在日本推出其电动车型，利用成本优势和先进电池技术。日本长期以来通过严格法规和经销商网络为外国车企设置高准入壁垒。
 
-google\_news · 风闻 · 7月26日 00:32
+google\_news · finance.sina.com.cn · 7月26日 06:21
 
-**背景**: 比亚迪是中国领先的电动汽车制造商，正在全球扩张。印度近期加强了对中国企业的监管审查，此前曾对其他公司采取过类似行动。
+**背景**: 日本汽车市场以外资品牌难以进入而闻名，本土制造商占据 90%以上市场份额。比亚迪的进入紧随中国电动车制造商全球扩张的趋势，挑战老牌车企。
 
-**标签**: `#regulatory`, `#fine`, `#automaker`, `#BYD`, `#India`
+**标签**: `#BYD`, `#Japan auto market`, `#EV`, `#market entry`, `#China auto`
 
 ---
 
 <a id="item-5"></a>
-## [比亚迪汉 L、唐 L 因 5 月销量不佳停产](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1YU9ueGtMYUkyaGhucDlnUF8tRTk1WTZQSm5kTlQzZlgwMjdla3p4WUJNTUZNNXdOTlpTMjNhRl9RVzRGNHRHQzVKdU8yZnhNU2J3NXN6X2paSWs?oc=5) ⭐️ 7.0/10
+## [比亚迪发布 5 分钟闪充技术，率先搭载 10 款车型](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WE1jc1Ywa1R0Y2YwZGJ2YzFxVlpucHFZQXYwYWVTVlBya3c3VjNWOUNVU0RPZUV1NWl2WmdST3F3UmdoRjBaeURDdmdHeWlFTFMxTVU5a2x1cW8?oc=5) ⭐️ 8.0/10
 
-比亚迪已正式停止生产汉 L 和唐 L 车型，2025 年 5 月这两款车型的销量不足 700 台，公司计划将这些车辆转至海外市场销售。 此次停产标志着比亚迪在中国电动汽车市场罕见的失败，并凸显了该公司将表现不佳的车型转向海外市场而非在国内亏本销售的战略转变。 汉 L 和唐 L 是比亚迪畅销车型汉和唐的高端变体，但 5 月合计销量不足 700 台，表明市场接受度低或定价存在问题；这一举措使比亚迪能够及时止损并利用海外需求。
+比亚迪宣布推出超快充电技术，可在 5 分钟内为电动汽车电池充满电。该技术将率先搭载于 10 款新车型，首批车辆即将上市。 如果得到验证，这一突破将显著缓解续航焦虑，使电动车加电如同加油般便捷，可能颠覆电动车市场，并增强比亚迪相对于特斯拉等竞争对手的竞争优势。 该技术据称采用第二代刀片电池结合兆瓦级闪充系统。5 分钟充满电是在最佳条件下实现的，首批 10 款车型包括轿车和 SUV。
 
-google\_news · 汽车之家 · 7月26日 08:05
+google\_news · 汽车之家 · 7月26日 01:20
 
-**背景**: 比亚迪是中国最大的电动汽车制造商，以平价和中档电动汽车闻名。汉和唐轿车/SUV 是其核心车型，但‘L’版本定价较高，可能面临国内竞争对手和特斯拉的竞争。停产弱势产品是汽车行业优化资源的常见做法。
+**背景**: 比亚迪的刀片电池技术于 2020 年推出，采用独特的电芯到电池组设计，提高了安全性和空间利用率。闪充技术依赖超高功率，需要专用充电基础设施。目前的快充系统通常需要 30 分钟从 10%充到 80%。
 
-**标签**: `#BYD`, `#EV`, `#product discontinuation`, `#automotive`, `#sales disappointment`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0">刀片电池 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://car.autohome.com.cn/baike/detail_9_35_8664.html">什么是刀片电池_专业名词_汽车术语_汽车百科_汽车之家</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#EV`, `#battery tech`, `#charging`, `#innovation`
 
 ---
 
 <a id="item-6"></a>
-## [中国中免股价下跌，上半年收入预测疲软](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tdWlsWmRpRURWUTVHSkF0VDFRdFhTemRBSnRfbmJyWm9xMXN6d0VjMzJYbTJCVm1hN2JZelJFTm5ObGk4T0dWbg?oc=5) ⭐️ 6.0/10
+## [比亚迪连发 11 款新车，包括续航超 1000 公里纯电车](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
 
-中国中免（01880.HK）股价下跌近 3%，原因是机构预测其上半年收入将受到机场免税业务和中免日上线上销售阶段性承压的拖累。 这反映出中国免税零售行业面临的持续挑战：旅游复苏放缓、线上竞争加剧。作为主要的免税运营商，中国中免的业绩是行业的风向标。 股价下跌前，分析师预测公司上半年业绩将受到机场渠道及其线上免税平台“中免日上”阶段性压力的影响。投资者对消费疲软下的收入增长感到担忧。
+比亚迪发布了 11 款新车，其中包括一款续航超过 1000 公里的纯电动汽车。这标志着电动汽车续航能力的一个重要里程碑。 实现超过 1000 公里的续航里程解决了消费者对续航焦虑的关键担忧，可能加速电动汽车的普及。比亚迪积极的产品发布增强了其在全球电动汽车市场的竞争地位。 1000 公里的续航里程很可能得益于比亚迪的刀片电池技术，该技术采用 LFP 化学材料，提高了安全性和能量密度。此次发布涵盖了不同细分市场的电动和混合动力车型。
 
-google\_news · 凤凰网 · 7月26日 01:18
+google\_news · 汽车之家 · 7月25日 20:30
 
-**背景**: 中国中免是中国最大的免税零售商，在机场和线上运营门店。机场免税销售依赖于国际旅行，而国际旅行在疫情后尚未完全复苏。其线上平台“中免日上”通过 App 和微信小程序销售免税商品，但近期面临临期产品投诉和退货政策问题，可能影响销售。
+**背景**: 比亚迪是中国领先的电动汽车制造商，以其刀片电池闻名，这是一种磷酸铁锂（LFP）电池，注重安全性和寿命。续航焦虑是电动汽车普及的主要障碍，续航超过 1000 公里的车辆虽然罕见，但正成为车企的目标。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tmtpost.com/4164264.html">登 机 前给你一小时，我们能在大兴 机 场 买到什么？ -钛媒体官方网站</a></li>
+<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
+<li><a href="https://www.alfuttaim.com/en/our-brands/byd/">BYD Electric Vehicles, Hybrids &amp; Sustainable Mobility | Al-Futtaim</a></li>
 
 </ul>
 </details>
 
-**标签**: `#stock movement`, `#analyst forecast`, `#duty-free retail`, `#China travel`
+**标签**: `#electric vehicles`, `#product launch`, `#BYD`, `#automotive`
 
 ---
 
 <a id="item-7"></a>
-## [沙特阿拉伯反击胡塞武装袭击能源设施](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1) ⭐️ 9.0/10
+## [比亚迪 3-4 月新车：大电池超快充，树立新标准](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SmlvQW51T1J2M2syc19fWXdPMmRHZk5mekFLV01VZFBWLVd3bEQzZllDeDNBZWVyay1BRTE3eHZlMi1GZG94ZVlmNlZfWXN6bktXcWNrb1NlMmo5R1E?oc=5) ⭐️ 8.0/10
 
-沙特阿拉伯对也门胡塞武装发动了报复性打击，此前该伊朗支持的组织袭击了沙特能源基础设施，导致中东局势升级。 这种针锋相对的暴力行为可能扰乱世界最大石油出口国的供应，威胁全球能源市场，并可能扩大地区冲突。 胡塞武装袭击针对沙特能源设施，引发对石油生产稳定性的担忧，而沙特的报复可能引发也门战争的进一步升级。
+比亚迪计划在 2025 年 3 月至 4 月推出一系列新电动汽车，配备大容量电池和超快充技术，可在 5 至 8 分钟内完成充电，有望重新定义 13 万元以上车型的技术标准。 如果成功，比亚迪的新车型可能在中国大众市场电动汽车领域给特斯拉和蔚来等竞争对手带来压力，加速快速充电基础设施建设，并为电池性能和充电速度树立新基准。 比亚迪于 2025 年 3 月发布的超快充系统采用闪充技术，可在 5 至 8 分钟内为兼容的电动汽车充满电，类似燃油车加油所需时间。比亚迪还计划在中国建设超过 4000 个此类充电站。
 
-rss · FT Markets · 7月25日 13:02
+google\_news · 汽车之家 · 7月26日 01:04
 
-**背景**: 胡塞武装，正式名称为安萨尔·阿拉，是 1990 年代从也门兴起的扎伊迪复兴派和什叶派伊斯兰主义组织。他们于 2014 年反抗也门政府，占领首都萨那，引发人道主义危机。该组织得到伊朗支持，自 2015 年以来一直与沙特领导的联军作战。
+**背景**: 比亚迪是中国最大的电动汽车制造商，也是电池技术的领导者。其自主研发的刀片电池是一种磷酸铁锂（LFP）电池，以高安全性、长寿命和稳定性能著称。新的超快充技术是该技术的演进，充电速度可媲美传统加油。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Houthis">Houthis - Wikipedia</a></li>
-<li><a href="https://www.aljazeera.com/news/2024/1/12/who-are-yemens-houthis-a-basic-guide">Who are the Houthis ? A simple guide to the Yemeni group | Al Jazeera</a></li>
+<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
+<li><a href="https://www.aol.com/chinas-byd-launches-ev-charging-083103941.html">China&#x27;s BYD launches EV charging system it says works nearly... - AOL</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#energy`, `#oil`, `#Middle East`, `#conflict`
+**标签**: `#BYD`, `#EV`, `#China auto`, `#technology`, `#product launch`
 
 ---
 
 <a id="item-8"></a>
-## [6 岁女童在中国基因编辑试验中死亡](https://www.caixin.com/2026-07-24/102467859.html) ⭐️ 9.0/10
+## [比亚迪闪充与二代刀片电池获国家级认可](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQaHB6ZUFWRkNMdkhSc0puMlRIRkIwUl8wV2lSRThzWkpJOEhMUG12MVNMM09jMlZMWEs1Sl9lNWVGRm0zTXJFclloNGRXYkI1aE9lM0JQMDIxQ1VaME1rRjczck9TRjZoSUs4?oc=5) ⭐️ 8.0/10
 
-2025 年 3 月，一名化名 Mei 的 6 岁女童在一项针对神经发育性疾病的基因编辑临床试验中死亡，但该死亡事件并未出现在随后发表的研究论文中，引发关于透明度的争议。 这一事件凸显了中国在基因治疗试验监管和透明度方面的关键缺陷，可能影响公众对生物技术领域的信任和投资。同时，它也强调了将基因编辑试剂安全递送至目标细胞的巨大挑战。 《Science》杂志通过 Retraction Watch 发表的报道揭露了这起死亡事件，而研究者的论文中并未报告。基因编辑领域的研究者指出，该女童的治疗旨在纠正致病基因，但递送编辑试剂仍是瓶颈。
+比亚迪的第二代刀片电池及闪充技术获得了中国工信部的官方点赞，这是重要的政策认可。第二代刀片电池在常温下可实现 5 分钟从 10%充电至 70%。 这项国家级认可强化了比亚迪的垂直整合战略和电动汽车电池市场的竞争优势，有望提升投资者信心，并加速其闪充技术在整个行业的推广。 第二代刀片电池在常温下可实现 5 分钟从 10%充电至 70%，且更耐用，比亚迪提供了质保承诺。闪充技术在北京低温环境下也被证明有效。
 
-rss · 财新网 · 7月26日 09:46
+google\_news · 汽车之家 · 7月26日 05:57
 
-**背景**: 基因编辑疗法（如 CRISPR）通过修改 DNA 有望治疗遗传病，但将编辑工具（如通过病毒或纳米颗粒）安全高效地递送至特定细胞是一大挑战。中国在细胞和基因治疗临床试验方面进展迅速，但监管和透明度被批评不足，实行研究和商业化的双轨制。Retraction Watch 组织跟踪科学出版中的撤稿和伦理问题。
+**背景**: 刀片电池是比亚迪开发的磷酸铁锂（LFP）电池技术，以其安全性和能量密度著称。第一代刀片电池于 2020 年推出。闪充技术是一种快速充电技术，旨在通过大幅缩短充电时间来解决续航焦虑。获得工信部认可表明政府对国内电动汽车技术创新的强力支持。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531%2825%2900011-3">Advanced delivery systems for gene editing: A comprehensive ...</a></li>
-<li><a href="https://www.nature.com/articles/s41587-025-02945-w">Targeted delivery of genome editors in vivo - Nature</a></li>
-<li><a href="https://www.btsjournals.com/assets/2025v22p310-316.pdf">China’s cell therapy landscape: Regulatory advances and ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Retraction_Watch">Retraction Watch - Wikipedia</a></li>
+<li><a href="https://post.smzdm.com/p/al3eprmp/">硬核闪充技术树立行业新标杆： BYD ...</a></li>
+<li><a href="https://auto.sina.cn/newcar/2026-03-06/detail-inhqahae2428406.d.html">北京低温环境10分钟 充 满电？ 比 亚 迪 闪 充 技 术 体验-手机新浪汽车</a></li>
+<li><a href="https://m.guokr.com/article/468528">m.guokr.com/article/468528</a></li>
 
 </ul>
 </details>
 
-**标签**: `#biotech`, `#gene editing`, `#regulation`, `#clinical trial`, `#safety`
+**标签**: `#BYD`, `#EV batteries`, `#policy`, `#technology`, `#China`
 
 ---
 
 <a id="item-9"></a>
-## [美伊停火破裂 伊朗攻击 LNG 船](https://weekly.caixin.com/2026-07-25/102467950.html) ⭐️ 9.0/10
+## [智利致命风暴扰乱铜矿，威胁人工智能供应](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-2026 年 6 月 14 日达成的美伊停火协议破裂，伊朗于 7 月 7 日在霍尔木兹海峡袭击了一艘液化天然气船及另外两艘商船，标志着两国军事冲突重启。 霍尔木兹海峡承载着全球约 20%的石油供应，对商业船只的袭击威胁全球能源安全，可能推高油价和航运保险费。停火破裂及美军伤亡表明地缘政治不稳定将持续。 遇袭的液化天然气船隶属于卡塔尔天然气运输公司，伊朗称该船无视伊斯兰革命卫队海军的警告；同日还有两艘商船遇袭。
+智利一场致命风暴扰乱了多个高海拔铜矿的运营，引发了对铜供应的担忧，铜是人工智能基础设施的关键材料。 铜是人工智能数据中心电力基础设施的关键材料，供应中断可能导致价格上涨并减缓 AI 硬件的部署。 风暴袭击了位于高海拔（超过 5000 米）的矿场，这些矿场特别容易受到天气波动的影响。智利占全球铜产量的约 28%。
 
-rss · 财新网 · 7月26日 04:13
+rss · FT Markets · 7月26日 09:46
 
-**背景**: 2026 年 6 月 14 日，美伊双方签署谅解备忘录，停止所有战线军事行动并在 60 天内谈判最终协议。备忘录规定美国 30 天内解除海上封锁，伊朗则确保船只免费安全通过霍尔木兹海峡。但该停火协议非常脆弱，很快被打破。
+**背景**: 铜是数据中心和可再生能源系统所需的电线、变压器等组件的关键材料。安第斯山脉的高海拔矿场，包括智利的矿场，由于气候变化日益面临极端天气的风险，对供应链构成威胁。
 
-**标签**: `#geopolitics`, `#oil`, `#energy`, `#shipping`, `#Middle East`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Copper">Copper - Wikipedia</a></li>
+<li><a href="https://www.streamax.com/resources-blog-technology/high-altitude-mining-safety-by-streamax.html">High - Altitude Mining Safety with AI Monitoring | Streamax</a></li>
+<li><a href="https://skillings.net/smart-mining-ai-energy-optimization-in-high-altitude-copper-2026-outlook/">Smart Mining : AI Energy Optimization in High - Altitude Copper , 2026...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#copper`, `#supply chain`, `#AI`, `#commodity`, `#natural disaster`
 
 ---
 
 <a id="item-10"></a>
-## [智利致命风暴扰乱铜矿，引发 AI 供应担忧](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [6 岁女童在基因编辑试验中死亡](https://www.caixin.com/2026-07-24/102467859.html) ⭐️ 8.0/10
 
-智利一场致命风暴扰乱了多个铜矿的运营，凸显了用于 AI 基础设施的铜供应链的脆弱性。 铜是 AI 基础设施的关键金属，尤其用于数据中心和电线，供应中断可能影响 AI 发展并推高成本。 文章指出，金属繁荣依赖于海拔高、储量下降的矿场，这些矿场日益受到天气波动的影响，突显了长期供应风险。
+2025 年 3 月，一名化名 Mei 的 6 岁女童在一项针对神经发育性疾病的基因编辑临床试验中死亡；该事件未在后续研究论文中披露，于 2026 年 7 月被 Retraction Watch 在《Science》上的报道曝光。 这一事件引发对基因编辑临床试验安全性和透明度的严重担忧，可能影响全球监管标准和公众对基因疗法的信任，尤其涉及脆弱的儿童群体。 该试验旨在通过体内基因编辑纠正与神经发育障碍相关的基因突变；递送编辑工具至目标细胞被认为是一大挑战，此次死亡突显了此类疗法中病毒或其他递送方法的风险。
 
-rss · FT Markets · 7月26日 09:46
+rss · 财新网 · 7月26日 10:16
 
-**背景**: 铜是电线、数据中心和可再生能源系统的重要材料，这些对 AI 扩张至关重要。智利是全球最大的铜生产国，其矿场常位于偏远高海拔地区，容易受到极端天气影响。
+**背景**: 体内基因编辑是指将 CRISPR 等工具直接递送入体内，修改靶细胞基因。递送方法包括病毒载体、脂质纳米颗粒和物理技术，各具毒性和效率方面的风险。针对神经系统疾病的基因疗法仍处于实验阶段，获批治疗有限，且中国的监管透明度曾受到批评。
 
-**标签**: `#commodities`, `#copper`, `#supply chain`, `#AI`, `#weather`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12341149/">Optimization of in vivo delivery methods and their applications in...</a></li>
+<li><a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.805007/full">Frontiers | Gene Therapy : Novel Approaches to Targeting Monogenic...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#biotech`, `#regulation`, `#gene editing`, `#clinical trial`
 
 ---
 
 <a id="item-11"></a>
-## [前证监会副主席方星海被查](https://wenews.caixin.com/2026-07-25/102468018.html) ⭐️ 8.0/10
+## [机器人 IPO 潮、巨额骗局、药品短缺](https://weekly.caixin.com/2026-07-25/102468134.html) ⭐️ 8.0/10
 
-2026 年 7 月 24 日，中央纪委国家监委通报，中国证监会原副主席方星海因涉嫌严重违纪违法，正接受纪律审查和监察调查。 这是近两年内第四位被查的证监会高层干部，表明中国金融监管系统反腐力度持续加大，可能影响市场信心和监管稳定性。 方星海是海归精英，曾长期主管证监会国际、发行等关键部门，以直率敢言著称。他于 2024 年 7 月退休，两年后被查。
+近 50 家具身智能公司已进入港股或 A 股上市流程，估值在两到四个月内从 100 亿元翻倍至 200 亿元，尽管商业化部署极少。此外，一起涉及 244 亿元的非法集资案通过免费旅游诈骗锁定 36 万名老人，同时一种关键化疗药全国断货，价格从每支 24 元暴涨至 1000 元。 机器人 IPO 热潮凸显了潜在市场泡沫，尚未证明商业可行性的公司急于上市融资，而针对老年人的巨额诈骗和药品供应危机暴露了关键监管和医疗体系漏洞，直接影响公众福祉。 2025 年全球人形机器人出货量仅 2 万台，业内人士称尚无任何公司展示出有效的实际作业能力。化疗药短缺归因于零冗余供应链，单一故障点即可导致整个生产中断。
 
-rss · 财新网 · 7月26日 09:01
+rss · 财新网 · 7月26日 09:46
 
-**背景**: 自 2025 年以来，证监会已有多名高官落马，包括原主席易会满、原副主席王会民和王建军。方星海于 2015 年至 2024 年担任证监会副主席，在沪港通等国际市场准入改革中发挥了关键作用。
+**背景**: 具身智能（也称具身 AI）是指通过物理身体进行感知、推理和行动的人工智能系统，例如人形机器人。零冗余供应链意味着供应链没有备用或替代来源，极易受到原材料短缺或生产线故障等干扰。
 
-**标签**: `#regulatory`, `#China`, `#CSRC`, `#anti-corruption`, `#policy`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ofweek.com/ai/2025-07/ART-201717-8110-30666688.html">一文读懂：到底 什 么 是 “ 具 身 智 能 ” ？ - OFweek 人工 智 能 网</a></li>
+<li><a href="https://www.cnblogs.com/haohai9309/p/18957952">供 应 链 系统篇：理解、演化与治理逻辑 - 郝hai - 博客园</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IPO`, `#robotics`, `#valuation`, `#healthcare`, `#regulation`
 
 ---
 
 <a id="item-12"></a>
-## [黄金 25%回调后有望重拾升势](https://weekly.caixin.com/2026-07-25/102467947.html) ⭐️ 8.0/10
+## [前证监会副主席方星海被查](https://wenews.caixin.com/2026-07-25/102468018.html) ⭐️ 8.0/10
 
-宏观策略师徐小庆认为，黄金自 2026 年 1 月以来的 25%回调可能接近尾声，科技股下跌导致的美元走弱以及降息预期增强将推动金价重拾涨势。 这很重要，因为黄金是关键的避险资产和宏观变化的晴雨表；若预测成立，将标志着市场从科技股向大宗商品的轮动以及对宽松货币政策的预期。 徐小庆指出，2020 年至 2024 年间黄金经历了四轮上涨，每轮持续 6-12 个月，涨幅 20%-50%，随后伴随约半年的回调，回吐前期涨幅比例大多超过 50%；当前 25%的回撤是疫情后最大纪录。
+2026 年 7 月 24 日，中央纪委国家监委宣布，中国证券监督管理委员会原副主席方星海因涉嫌严重违纪违法接受调查。他是近两年内被查的第四位证监系统高层干部。 此次调查表明中国金融监管系统的反腐行动仍在持续，可能引发政策调整和市场不确定性增加。这也体现了中共清理证券监管机构的决心。 方星海于 2024 年 7 月到龄退休，此次调查恰逢其退休两年整。他曾主管国际事务和发行等关键部门，以直率敢言著称。
 
-rss · 财新网 · 7月26日 08:39
+rss · 财新网 · 7月26日 09:01
 
-**背景**: 黄金价格受实际利率、美元强弱和风险情绪影响。历史上，如此幅度的回调往往预示着新一轮上涨。文章提到两个催化剂：科技股下跌导致美元走弱，以及降息预期降低持有黄金的机会成本。
+**背景**: 中国证券监督管理委员会（证监会）是中国证券市场的主要监管机构。近年来，包括前主席易会满、前副主席王建军在内的多名高层官员因腐败被调查，显示证监会内部正在进行广泛整顿。
 
-**标签**: `#gold`, `#precious metals`, `#macro`, `#monetary policy`, `#technical analysis`
+**标签**: `#regulatory`, `#policy`, `#China`, `#corruption`
 
 ---
 
 <a id="item-13"></a>
-## [三星李在镕与 OpenAI CEO 会面商讨 AI 芯片合作](https://36kr.com/newsflashes/3912076178789766?f=rss) ⭐️ 8.0/10
+## [马斯克警告 SpaceX 空头风险，特斯拉业绩不及预期](https://36kr.com/newsflashes/3912221918107015?f=rss) ⭐️ 8.0/10
 
-三星电子会长李在镕于 1 月 25 日在旧金山 OpenAI 总部与首席执行官山姆·奥特曼会面，双方探讨了在高带宽内存（HBM）、动态随机存取存储器（DRAM）及先进晶圆代工等人工智能与半导体领域的合作方案。 此次会面标志着 AI 巨头与顶级存储及代工企业之间联系加深，有望强化 AI 芯片供应链，并提升三星在 AI 硬件市场的地位。 OpenAI 未透露具体议程，但业内观察人士预计双方重点讨论了用于 AI 基础设施的高带宽内存（HBM）、DRAM 及先进晶圆代工。三星已是 OpenAI 顶级企业客户之一，已为全体员工开放 ChatGPT 和 Codex 的使用权限。
+埃隆·马斯克警告称，长期持有 SpaceX 大规模空头仓位的机构生存概率非常低，目前 SpaceX 的空头仓位已升至流通股的 32%。与此同时，特斯拉二季度业绩不及预期导致股价暴跌 14.5%，市值蒸发 2145 亿美元。 SpaceX 高企的空头仓位和马斯克的警告表明市场对该私营太空公司估值的严重怀疑，可能影响其未来 IPO 计划和投资者信心。此外，SpaceX 与特斯拉合并的持续猜测可能重塑太空技术和电动汽车领域的格局。 SpaceX 的空头仓位约占流通股的 32%，一个月前仅为 5%-7%，名义空头头寸达 250 亿美元。马斯克在财报会上既没有承认也没有否认 SpaceX 与特斯拉潜在合并的可能性，仅表示两家公司业务重叠将越来越多。
 
-rss · 36氪 · 7月26日 06:09
+rss · 36氪 · 7月26日 08:37
 
-**背景**: 高带宽内存（HBM）是一种基于 3D 堆叠的 DRAM 技术，可实现高速、宽带宽的数据传输，对 GPU 等 AI 加速器至关重要。先进晶圆代工指在尖端工艺节点上制造芯片，这对 AI 芯片十分关键。三星是少数同时提供存储和代工解决方案的公司之一。
+**背景**: SpaceX 是埃隆·马斯克于 2002 年创立的私营公司，专注于太空运输和探索。做空是指押注股票价格下跌的交易行为；高空头仓位通常表明市场看跌情绪。特斯拉同样是马斯克领导的电动汽车制造商，两家公司在技术和领导层上有重叠，助长了合并传闻。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.21ic.com/a/985500.html">为什么 HBM 高 带 宽 内 存 很重要？ 看完你就懂了 - 21ic电子网</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5">晶圓代工 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://openai.com/codex/">Codex in ChatGPT | AI Coding Agents for Software... | OpenAI</a></li>
+<li><a href="https://www.geekpark.net/news/367779">苹果将推「iPhone 月租」计划； SpaceX ...</a></li>
+<li><a href="https://www.spacex.com/careers/jobs">SpaceX</a></li>
+<li><a href="https://x.com/spacex">x .com/ spacex</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#semiconductors`, `#partnership`, `#Samsung`, `#OpenAI`
+**标签**: `#earnings`, `#short interest`, `#merger`, `#space tech`, `#electric vehicles`
 
 ---
 
 <a id="item-14"></a>
-## [韩国养老金 7 月转为 KOSPI 净买方](https://36kr.com/newsflashes/3911979618849920?f=rss) ⭐️ 8.0/10
+## [沪市一周增持回购计划达 158 亿元，创纪录](https://36kr.com/newsflashes/3912147209983368?f=rss) ⭐️ 8.0/10
 
-韩国国民年金公团等养老金资金在 2024 年 7 月首次转为 KOSPI 股票净买方，净买入 684 亿韩元（约合 4680 万美元），结束了此前连续六个月的净卖出态势。 作为韩国最大的机构投资者，养老金转为净买入表明对国内股市的信心回升，可能影响其他机构资金流向。同时，这一操作凸显了板块轮动，大量资金流入 SK 海力士，流出 SK Square。 7 月 1 日至 24 日，养老金在 17 个交易日中有 11 天净买入，其中 SK 海力士是最大增持标的（4258 亿韩元），SK Square 是最大减持标的（5757 亿韩元）。分析师预计 7 月剩余 5 个交易日养老金将继续净买入。
+7 月 20 日至 26 日当周，沪市上市公司发布了 42 项回购计划和 17 项增持计划，金额上限分别为 83.86 亿元和 74.57 亿元，年内累计金额达 776 亿元。 这波回购和增持浪潮显示了产业资本的强烈信心，为股价提供了实质性支撑，有助于在更广泛的经济担忧中稳定市场情绪。 回购计划用于股权激励、员工持股及市值维护。年内沪市公司已披露 190 项回购计划（555 亿元）和 155 项增持计划（221 亿元）。
 
-rss · 36氪 · 7月26日 04:31
+rss · 36氪 · 7月26日 07:21
 
-**背景**: 国民年金公团（NPS）是韩国最大的公共养老金基金，也是 KOSPI 市场上最大的机构投资者之一。其交易模式被视为机构情绪的晴雨表。2024 年早些时候的持续卖出曾引发对外资流出和市场疲软的担忧。
+**背景**: 股票回购和增持是公司回购自身股份或大股东增持的行动，通常表明公司认为股票被低估，以提振投资者信心。这些举措在中国被视为公司健康和市场方向的重要指标。
 
-**标签**: `#institutional flows`, `#Korea market`, `#pension fund`, `#equity`
+**标签**: `#buybacks`, `#market sentiment`, `#China markets`, `#corporate action`
 
 ---
 
 <a id="item-15"></a>
-## [特斯拉失去纯电销冠，如何翻盘？](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 8.0/10
+## [三星会长会晤 OpenAI CEO，探讨 AI 与芯片合作](https://36kr.com/newsflashes/3912076178789766?f=rss) ⭐️ 8.0/10
 
-特斯拉已失去全球纯电动汽车（EV）销售冠军地位，表明市场格局发生重大变化，竞争对手如比亚迪正在赶超。 这一发展突显了电动汽车市场竞争日益激烈，挑战了特斯拉的主导地位，可能影响其股票估值和未来增长前景。 该新闻由新浪报道，未具体说明销售额数据对应的季度或年份，但反映出来自比亚迪等中国车企的持续竞争。
+三星电子会长李在镕于 2025 年 1 月 25 日在 OpenAI 旧金山总部与 CEO 山姆·奥特曼会面，讨论在人工智能和半导体领域的潜在合作，涉及高带宽内存（HBM）、动态随机存取存储器（DRAM）和先进晶圆代工。 此次会面标志着领先 AI 公司与顶级半导体制造商之间的关系更加紧密，可能加速 AI 基础设施建设，并在全球 HBM 短缺背景下保障关键内存和代工服务的供应链安全。 OpenAI 未透露具体细节，但行业观察人士认为会谈聚焦于 AI 基础设施组件，如 HBM、DRAM 和先进晶圆代工。三星已为员工开放 ChatGPT 和 Codex 的使用权限，是 OpenAI 的顶级企业客户之一。
 
-google\_news · 手机新浪网 · 7月26日 01:15
+rss · 36氪 · 7月26日 06:09
 
-**背景**: 多年来，特斯拉一直是领先的纯电动汽车制造商。然而，比亚迪等竞争对手迅速提升电动汽车产量和销量，特别是在全球最大汽车市场中国。失去冠军地位预示着潜在的长期格局变化。
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠 DRAM 技术，对 AI 加速器至关重要，而 AI 需求正导致全球 HBM 短缺。先进晶圆代工指用于 AI 芯片的尖端芯片制造工艺（如 3nm）。三星在内存和代工领域均是主要玩家，与 SK 海力士和台积电竞争。
 
-**标签**: `#Tesla`, `#electric vehicles`, `#competition`, `#market share`, `#China`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Codex_%28AI_agent%29">Codex (AI agent)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#semiconductors`, `#Samsung`, `#OpenAI`, `#partnership`
 
 ---
 
 <a id="item-16"></a>
-## [投资者利用加密货币永续合约规避中国 AI 股票限制](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [中国 AI 加速落地：WAIC 2026 发布 351 款新品](https://weekly.caixin.com/2026-07-25/102467939.html) ⭐️ 7.0/10
 
-据英国《金融时报》报道，投资者正在利用加密货币交易所的永续合约来规避中国限制外资投资 AI 股票的资本管制。 这种监管套利使全球投资者能够间接获得对中国 AI 股票的高杠杆敞口，可能削弱中国的资本管制，并引发进一步的监管审查。 永续合约是一种没有到期日的衍生品，允许交易者利用杠杆对资产价格进行投机，在币安和 Bybit 等加密货币交易所颇受欢迎。
+2026 世界人工智能大会（WAIC）上，351 款产品全球首发，包括月之暗面（Moonshot AI）发布的 2.8 万亿参数开源大模型 Kimi K3。 此次大会凸显了中国在芯片、大模型和硬件等环节的 AI 快速商业化，标志着全球 AI 竞赛中的重要推进。 Kimi K3 模型拥有 2.8 万亿参数和 100 万 token 的上下文窗口，在公开排行榜上位列第四，总得分 80.96/100。
 
-rss · FT Markets · 7月26日 04:00
+rss · 财新网 · 7月26日 10:11
 
-**背景**: 中国实行严格的资本管制，限制外资投资其股市，合格境外机构投资者（QFII）计划要求配额。加密货币交易所的永续合约提供了一种无需实际持有股票即可获得中国股票合成敞口的方式，其价格通常追踪标的资产。
+**背景**: WAIC 是中国一年一度的重要 AI 大会。参数数量是衡量模型规模的指标，参数越多，模型能处理的任务越复杂。月之暗面是中国‘AI 六虎’之一，持续开源其模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Perpetual_futures">Perpetual futures - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regulatory_arbitrage">Regulatory arbitrage</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI</a></li>
+<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
+<li><a href="https://benchlm.ai/models/kimi-3">Kimi K 3 Benchmarks, Pricing &amp; Speed (July 2026) | BenchLM.ai</a></li>
 
 </ul>
 </details>
 
-**标签**: `#crypto`, `#China`, `#AI stocks`, `#regulatory arbitrage`, `#perpetual futures`
+**标签**: `#AI`, `#large language models`, `#technology conference`, `#China`, `#sector growth`
 
 ---
 
 <a id="item-17"></a>
-## [中国发布拼豆玩具安全新规](https://photos.caixin.com/2026-07-24/102467585.html) ⭐️ 7.0/10
+## [亿田智能子公司拟 20 亿元采购服务器布局 AI 算力](https://36kr.com/newsflashes/3912181723518084?f=rss) ⭐️ 7.0/10
 
-2026 年 7 月 17 日，中国国家市场监管总局专门针对拼豆产品发布安全公告，要求面向 14 岁以下儿童的产品必须符合玩具安全标准，并禁止在面向较大年龄用户的套装中使用家用熨斗作为加热工具。 拼豆玩具在抖音上拥有超过 460 亿次播放，在小红书上浏览量达 116.8 亿次，已成为现象级的社交媒体热潮。新规直接影响到制造商和零售商，解决了电熨斗烫伤风险并确保这一流行手工产品的儿童安全。 面向 14 岁以下儿童的产品在必要时须获得中国强制性认证（CCC），所有部件包括豆粒、模板、镊子和加热设备都必须符合强制性国家玩具安全标准。在面向 14 岁以上用户的套装中，明确禁止使用家用熨斗作为加热部件。
+亿田智能公告称，全资子公司甘肃亿算拟向多家供应商采购服务器及配套设备，采购合同总金额预计不超过 20 亿元，用于为客户提供算力服务。 这标志着厨房电器制造商向 AI 算力基础设施的重大战略转型，反映出算力服务需求的增长以及非科技公司向 AI 生态拓展的趋势。 该采购不构成重大资产重组或关联交易，亿田智能强调其主营业务仍为集成灶等厨房电器，算力业务尚处于初期阶段。
 
-rss · 财新网 · 7月26日 10:08
+rss · 36氪 · 7月26日 07:57
 
-**背景**: 拼豆，又称熔豆或像素豆，是一种小塑料颗粒，在模板上排列成图案后通过加热（通常用电熨斗）使其熔合。它们已成为中国年轻人中流行的 DIY 手工，通常以包含电熨斗的套装形式出售。然而，电熨斗的高温存在烫伤风险，尤其是对儿童，因此引发了监管行动。
+**背景**: 算力服务是指按需提供高性能计算（HPC）资源（如服务器和 GPU）用于 AI 模型训练和数据处理等任务。由于 AI 热潮，许多公司正在进入这一领域，甚至传统制造商也在探索向云和 HPC 多元化发展，以抓住不断增长的需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="http://english.scio.gov.cn/pressroom/2026-07/20/content_118608237.html">China tightens safety oversight of pixel bead products</a></li>
-<li><a href="https://english.samr.gov.cn/News/PressReleases/art/2026/art_3288e579358e4c3a9ca1e6fc7abf41b6.html">Regulator announces stricter safety requirements for &#x27;fuse ...</a></li>
-<li><a href="https://www.businesstoday.com.my/2026/07/18/china-imposes-strict-regulations-on-pixel-bead-over-child-safety-concerns/">China Imposes Strict Regulations On Pixel Bead Over Child ...</a></li>
+<li><a href="https://www.doit.com.cn/p/527952.html">15家云平台上线DeepSeek，推荐个人尝鲜的有这7家_DOIT</a></li>
+<li><a href="https://www.oracle.com/europe/cloud/hpc/what-is-hpc/">What Is High Performance Computing ? | Oracle Europe</a></li>
 
 </ul>
 </details>
 
-**标签**: `#policy`, `#regulatory`, `#consumer safety`, `#toys`, `#manufacturing`
+**标签**: `#战略转型`, `#AI算力`, `#HPC`, `#跨界`, `#厨房电器`
 
 ---
 
 <a id="item-18"></a>
-## [机器人 IPO 热潮引发行业泡沫担忧](https://weekly.caixin.com/2026-07-25/102468134.html) ⭐️ 7.0/10
+## [福特因起火风险召回超 56.5 万辆烈马](https://36kr.com/newsflashes/3912077033886854?f=rss) ⭐️ 7.0/10
 
-近 50 家中国具身智能初创公司已进入港股或 A 股上市流程，部分公司估值在两到四个月内从 100 亿元翻至 200 亿元，尽管尚未证明其商业化可行性。 这种上市热潮预示着机器人行业可能出现泡沫，投资者将资金投入尚未证明商业模式的公司的行为，可能导致市场扭曲和散户投资者损失，同时分散对更可行技术的关注。 报告称，过去两年中国成立了超过 370 家具身智能初创公司，但 2025 年全球机器人量产出货仅 2 万台。业内人士指出，目前没有任何一家机器人企业真正在生产力场景中实现有效作业。
+福特汽车公司宣布召回 56 万 5691 辆 2021 至 2026 款福特烈马和烈马猛禽汽车，原因是发动机舱线束缺陷可能导致短路，增加起火风险。 此次大规模召回涉及热门 SUV 车型，可能带来可观的维修成本和声誉损失，凸显福特面临的质量挑战。 福特估计召回车辆中仅约 1%存在该缺陷，目前尚未收到与此问题相关的事故或人员伤亡报告。
 
-rss · 财新网 · 7月26日 09:46
+rss · 36氪 · 7月26日 06:10
 
-**背景**: 具身智能是指通过物理身体在物理世界中进行感知和行动的 AI 系统，通过与环境的交互来学习和决策。上海证券交易所的科创板是中国为高科技和创新公司设立的股票市场板块，通常比主板对盈利要求较低。
+**背景**: 发动机舱线束是连接发动机、传感器、执行器和控制单元的关键部件。线束缺陷可能导致电气短路，进而引发火灾。福特烈马是一款坚固的越野 SUV，烈马猛禽是其高性能版本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://matt33.com/2026/07/21/embodied-intelligence-overview/">具 身 智 能 （一）：物理世界中的 智 能 闭环 | Matt&#x27;s Blog</a></li>
-<li><a href="https://baike.baidu.com/item/%E7%A7%91%E5%88%9B%E6%9D%BF/23274864">科创板 - 百度百科</a></li>
+<li><a href="https://www.bsqipei.com/part/1189">发 动 机 舱 线 束 -帮手汽配网(好优汽配)</a></li>
+<li><a href="https://chejiahao.m.autohome.com.cn/info/15263526">福 特 烈 马 Bronco“ 猛 禽 版”：驰骋天地的无尽魅力_车家号_汽车之家</a></li>
 
 </ul>
 </details>
 
-**标签**: `#robotics`, `#IPO`, `#healthcare`, `#regulatory`, `#sector`
+**标签**: `#召回`, `#福特`, `#汽车`, `#安全`
 
 ---
 
 <a id="item-19"></a>
-## [眸深智能完成近亿元 Pre-A+轮融资，估值半年增 10 倍](https://36kr.com/p/3911162147640456?f=rss) ⭐️ 7.0/10
+## [韩国养老金 7 月首度净买入 KOSPI 股票](https://36kr.com/newsflashes/3911979618849920?f=rss) ⭐️ 7.0/10
 
-眸深智能完成近亿元 Pre-A+轮融资，由瑾悦投资、创合汇资本及老股东徐汇资本等投资。这是两个月内的第二次融资，估值半年增长超 10 倍。 此轮融资和估值快速增长体现了投资者对中国具身智能赛道，特别是端侧大脑方案的强烈信心。眸深智能独特的世界动作模型减少了真机数据依赖并降低成本，有望加速具身智能规模化落地。 公司 STI-WM 模型采用 80%互联网视频、10%动捕和 10%真机数据训练，真机数据需求降低 90%，动作准确度达 99%。模型压缩技术将参数量降低约 75%，端侧推理延迟从 200 毫秒降至 10 毫秒左右，成本从 20 万元降至 1 万元。
+韩国国民年金公团及其他养老金资金在 2024 年 7 月首次成为 KOSPI 股票的净买方，7 月 1 日至 24 日累计净买入 6840 亿韩元（约 4680 万美元），结束了连续六个月的净卖出。 这一机构资金流向的转变可能预示着市场情绪的变化，因为养老金是韩国最大的机构投资者之一，其买入行为可能支撑 KOSPI 并影响其他投资者。 主要增持标的包括 SK 海力士（4258 亿韩元）和 SK 创新（2247 亿韩元）；主要减持包括 SK Square（5757 亿韩元）和三星电机（3136 亿韩元）。分析师预计 7 月剩余交易日将维持净买入状态。
 
-rss · 36氪 · 7月26日 01:00
+rss · 36氪 · 7月26日 04:31
 
-**背景**: 具身智能旨在赋予机器人感知、推理和行动能力。主流 VLA（视觉-语言-动作）模型依赖大量真机数据训练。眸深智能提出世界动作模型，通过互联网视频训练和动作标记化（MotionGPT）学习动作生成与控制，大幅降低对昂贵真机数据的需求。
+**背景**: 国民年金公团是韩国最大的机构投资者，管理资产超过 8000 亿美元。KOSPI 是韩国交易所的主要股票指数。此类大型基金的净买入可以提振市场信心，并发出看涨信号。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://36kr.com/p/3911162147640456">36kr.com/p/3911162147640456</a></li>
-<li><a href="https://aiinking.com/article/63140">动作即Token：眸深智能如何用端侧具身大脑重构机器人进化逻辑</a></li>
-
-</ul>
-</details>
-
-**标签**: `#funding`, `#AI`, `#robotics`, `#startup`, `#China`
+**标签**: `#Korea`, `#pension fund`, `#KOSPI`, `#institutional flows`, `#market sentiment`
 
 ---
 
 <a id="item-20"></a>
-## [马斯克警告做空者，SpaceX 空头仓位达 32%](https://36kr.com/newsflashes/3912221918107015?f=rss) ⭐️ 7.0/10
+## [特斯拉失去纯电销冠，如何翻盘？](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 7.0/10
 
-马斯克警告称，在 SpaceX 空头仓位达到 32%的情况下，持有大量空头头寸的机构生存概率极低。同时，特斯拉因第二季度业绩不及预期，股价大跌 14.5%。 这凸显了市场对马斯克旗下公司的看空情绪加剧，以及投资者面临的潜在风险，尤其是在 SpaceX 与特斯拉可能合并的猜测之下。 SpaceX 股票上市一个多月后跌破发行价，空头仓位升至流通股的 32%。马斯克既未否认也未确认与特斯拉合并的可能性，仅表示两家公司的业务重叠会越来越多。
+根据近期报道，特斯拉已不再是纯电动汽车的销量冠军，这表明市场竞争格局发生了变化。 特斯拉失去纯电销冠，表明来自比亚迪等竞争对手的压力日益增大，并引发对其增长策略和市场主导地位的质疑。 文章未提供具体的销量数据或竞争对手细节，但这一发展标志着电动汽车行业的一个重要里程碑。
 
-rss · 36氪 · 7月26日 08:37
+google\_news · 手机新浪网 · 7月26日 01:15
 
-**背景**: 做空是一种交易策略，投资者借入并卖出股票，押注其价格下跌，希望未来以更低价格买回。SpaceX 近期上市，特斯拉是一家公开交易的电动汽车制造商。马斯克的此番言论正值市场波动和空头仓位高企之际。
+**背景**: 多年来，特斯拉一直是纯电动汽车的销量领头羊，但比亚迪等中国车企正在迅速扩大其电动汽车产品线和销量。纯电动汽车市场不包括混合动力车，仅专注于电池电动汽车。这一转变反映了全球汽车行业竞争加剧的广泛趋势。
 
-**标签**: `#Tesla`, `#SpaceX`, `#short selling`, `#earnings`, `#market watch`
+**标签**: `#Tesla`, `#EVs`, `#competition`, `#sales`
 
 ---

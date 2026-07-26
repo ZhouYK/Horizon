@@ -6,399 +6,414 @@ lang: en
 report: stock
 ---
 
-> From 279 items, 20 important content pieces were selected
+> From 280 items, 20 important content pieces were selected
 
 ---
 
-1. [BYD Unveils 5-Minute Charging Technology for 10 Models](#item-1) ⭐️ 9.0/10
-2. [BYD enters Japan&\#x27;s auto market as trade barriers loosen](#item-2) ⭐️ 8.0/10
-3. [BYD Launches 11 New Models, Including 1000+ km EV](#item-3) ⭐️ 8.0/10
-4. [India Fines BYD $630 Million, Escalating Regulatory Tensions](#item-4) ⭐️ 7.0/10
-5. [BYD Discontinues Han L, Tang L After Low Sales, Shifts to Overseas Markets](#item-5) ⭐️ 7.0/10
-6. [China Tourism Group Duty Free Stock Drops on H1 Revenue Concerns](#item-6) ⭐️ 6.0/10
-7. [Saudi Arabia strikes Houthis after attacks on energy sites](#item-7) ⭐️ 9.0/10
-8. [6-year-old girl dies in Chinese gene editing trial; controversy erupts](#item-8) ⭐️ 9.0/10
-9. [Gulf War Flares: Ceasefire Collapses as Iran Strikes LNG Tanker](#item-9) ⭐️ 9.0/10
-10. [Chile storm disrupts copper mines, threatens AI supply chains](#item-10) ⭐️ 8.0/10
-11. [Former CSRC Vice Chairman Fang Xinghai Falls Under Investigation](#item-11) ⭐️ 8.0/10
-12. [Gold expected to regain upward momentum](#item-12) ⭐️ 8.0/10
-13. [Samsung Chairman Meets OpenAI CEO on AI and Chip Cooperation](#item-13) ⭐️ 8.0/10
-14. [South Korea&\#x27;s pension fund turns net buyer of KOSPI stocks in July](#item-14) ⭐️ 8.0/10
-15. [Tesla Loses Pure EV Sales Crown, Seeks Comeback](#item-15) ⭐️ 8.0/10
-16. [Investors use crypto perpetual futures to bypass China AI stock controls](#item-16) ⭐️ 7.0/10
-17. [China Issues Safety Rules for Puzzle Bead Toys](#item-17) ⭐️ 7.0/10
-18. [Robot IPOs Surge Despite Lack of Commercial Viability](#item-18) ⭐️ 7.0/10
-19. [Embodied AI Startup Motion Brain Raises Nearly 100M Yuan Pre-A+](#item-19) ⭐️ 7.0/10
-20. [Musk Warns on SpaceX Short Interest as Tesla Plunges](#item-20) ⭐️ 7.0/10
+1. [Saudi Arabia strikes Houthis after attacks on energy sites](#item-1) ⭐️ 9.0/10
+2. [US-Iran Ceasefire Collapses, Gulf Conflict Resumes](#item-2) ⭐️ 9.0/10
+3. [\*ST Yuandao faces delisting for market cap below 300 million yuan](#item-3) ⭐️ 9.0/10
+4. [BYD enters Japan&\#x27;s auto market as barriers loosen](#item-4) ⭐️ 8.0/10
+5. [BYD Reveals 5-Minute Fast Charging on 10 Models](#item-5) ⭐️ 8.0/10
+6. [BYD launches 11 new models, including 1000+ km range BEV](#item-6) ⭐️ 8.0/10
+7. [BYD&\#x27;s New Models with Big Battery and Ultra-Fast Charging Set to Reshape 130k+ RMB Segment](#item-7) ⭐️ 8.0/10
+8. [BYD&\#x27;s Flash Charging &amp; Second-Gen Blade Battery Gets National Nod](#item-8) ⭐️ 8.0/10
+9. [Chile Storm Disrupts Copper Mines, Threatens AI Supply](#item-9) ⭐️ 8.0/10
+10. [Child dies in gene editing trial, sparking safety and regulatory debate](#item-10) ⭐️ 8.0/10
+11. [Robotics IPO Rush, Billion Scam, Drug Price Surge](#item-11) ⭐️ 8.0/10
+12. [Former CSRC Vice Chairman Fang Xinghai Investigated](#item-12) ⭐️ 8.0/10
+13. [Musk Warns on SpaceX Short Sellers as Tesla Misses Earnings](#item-13) ⭐️ 8.0/10
+14. [Shanghai Firms&\#x27; Buyback Plans Surge to 158 Billion Yuan in Week](#item-14) ⭐️ 8.0/10
+15. [Samsung Chairman Meets OpenAI CEO on AI, Chip Collaboration](#item-15) ⭐️ 8.0/10
+16. [AI Deployment Accelerates in China, 351 Products Launch at WAIC 2026](#item-16) ⭐️ 7.0/10
+17. [Yitian Intelligent Subsidiary to Spend Up to 2 Billion RMB on Servers for AI Computing Services](#item-17) ⭐️ 7.0/10
+18. [Ford Recalls Over 565,000 Vehicles for Fire Risk](#item-18) ⭐️ 7.0/10
+19. [South Korea&\#x27;s pension fund turns net buyer of KOSPI stocks in July for first time in 2024](#item-19) ⭐️ 7.0/10
+20. [Tesla Loses Pure EV Sales Crown, Faces Comeback Challenge](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [BYD Unveils 5-Minute Charging Technology for 10 Models](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WE1jc1Ywa1R0Y2YwZGJ2YzFxVlpucHFZQXYwYWVTVlBya3c3VjNWOUNVU0RPZUV1NWl2WmdST3F3UmdoRjBaeURDdmdHeWlFTFMxTVU5a2x1cW8?oc=5) ⭐️ 9.0/10
+## [Saudi Arabia strikes Houthis after attacks on energy sites](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-BYD has announced a breakthrough charging technology capable of achieving a full charge in just 5 minutes \(10% to 70% in 5 minutes\), to be first deployed across 10 vehicle models. The technology combines the second-generation blade battery with fast-charging capabilities. This development could significantly reduce range anxiety and accelerate EV adoption by making charging times comparable to refueling gasoline cars. It positions BYD as a leader in EV battery technology and may pressure competitors to accelerate their fast-charging solutions. The second-generation blade battery improves energy density by 5% and enhances thermal management with a 200% faster heat dissipation response and 20% better cooling capability. The 5-minute charge is achievable from 10% to 70% state of charge, not necessarily a full 0-100% charge.
+Saudi Arabia launched military strikes against Houthi targets in Yemen following Houthi attacks on Saudi energy facilities, escalating the conflict between the two sides. These attacks threaten global oil supply chains and could cause significant oil price volatility, affecting energy markets worldwide. The Houthis, an Iran-backed rebel group, targeted Saudi energy infrastructure, prompting a swift retaliation from Saudi forces, which risks further destabilizing the Middle East region.
 
-google\_news · 汽车之家 · Jul 26, 01:20
+rss · FT Markets · Jul 25, 13:02
 
-**Background**: EV charging time has been a major barrier to adoption, with most current fast chargers taking 30 minutes or more for a significant charge. Blade batteries are a form of lithium iron phosphate \(LFP\) battery that prioritize safety by reducing thermal runaway risk. BYD&\#x27;s first-generation blade battery was already known for its safety and energy density.
+**Background**: The Houthi movement, officially known as Ansar Allah, is a Zaydi Shia Islamist political and military organization that has been fighting a civil war in Yemen since 2014. They are backed by Iran and are considered part of the Iranian-led &\#x27;Axis of Resistance&\#x27;. The conflict between Saudi Arabia and the Houthis is part of a broader proxy war between Iran and Saudi Arabia.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://m.guokr.com/article/468528">m.guokr.com/article/468528</a></li>
-<li><a href="https://auto.sina.cn/newcar/2026-03-06/detail-inhpyima3014799.d.html">比亚迪正式发布 第 二 代 刀 片 电 池 及闪充技术-手机新浪汽车</a></li>
-<li><a href="https://news.hubeidaily.net/mobile/c_5219761.html">news.hubeidaily.net/mobile/c_5219761.html</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Houthi_movement">Houthi movement</a></li>
 
 </ul>
 </details>
 
-**Discussion**: No community comments are provided.
-
-**Tags**: `#EV`, `#BYD`, `#technology`, `#charging`, `#sector`
+**Tags**: `#geopolitics`, `#energy`, `#oil`, `#Middle East`
 
 ---
 
 <a id="item-2"></a>
-## [BYD enters Japan&\#x27;s auto market as trade barriers loosen](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk9iVkgwRTl4WG1SZGEzRkQweFNrRXJNZDc2Z3N1SlFxQzEwOTNTNE51NEJYMDQ1UTJ5RjhNWWdzdDFBODQ3M3o3T1FUd3NRaUQ4ZDlfQ05wX2dpVW9TSXAzdDJGSWdTRmZyeHZXR0VVX2NQMk8wT0NOLXhkNnc2aEJpblBsWUdhbWtrUlBSclB1UHRmQXRiLQ?oc=5) ⭐️ 8.0/10
+## [US-Iran Ceasefire Collapses, Gulf Conflict Resumes](https://weekly.caixin.com/2026-07-25/102467950.html) ⭐️ 9.0/10
 
-BYD, a leading Chinese electric vehicle manufacturer, has entered the Japanese car market as protective trade barriers begin to ease, challenging established local automakers. This entry marks a significant shift in Japan&\#x27;s historically insular auto market, potentially intensifying global EV competition and pressuring Japanese automakers to accelerate their electric vehicle strategies. BYD&\#x27;s move comes amid rising global demand for electric vehicles and Japan&\#x27;s gradual relaxation of import regulations. The company plans to offer its popular models like the Atto 3 and Dolphin, leveraging its cost advantages and vertical integration.
+The ceasefire agreement between the US and Iran collapsed within a month, leading to renewed attacks on commercial vessels in the Strait of Hormuz, including an LNG tanker, and escalating military conflict with US casualties. This escalation directly threatens global energy supply and shipping lanes, potentially causing oil price spikes and economic disruption worldwide, and marks a significant failure of diplomatic efforts. The ceasefire, signed on June 14, 2026, required the US to lift its naval blockade and Iran to ensure safe passage through the Strait, but attacks resumed on July 7 when an LNG carrier was hit, and US military deaths have reached 18 since late February.
 
-google\_news · finance.sina.com.cn · Jul 26, 06:21
+rss · 财新网 · Jul 26, 04:13
 
-**Background**: Japan&\#x27;s auto market has long been dominated by domestic brands such as Toyota, Honda, and Nissan, with high tariffs and strict standards creating entry barriers for foreign manufacturers. BYD&\#x27;s breakthrough reflects both the company&\#x27;s growing competitiveness and Japan&\#x27;s need to open up to meet climate goals.
+**Background**: The Strait of Hormuz is a critical chokepoint for global oil and gas shipments, with about 20% of the world&\#x27;s petroleum passing through. The US and Iran have a long history of tensions, and the recent ceasefire was intended to de-escalate after months of conflict, but mutual distrust and unresolved issues like Iran&\#x27;s nuclear program made it fragile.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trade.gov/country-commercial-guides/japan-trade-barriers">Japan - Trade Barriers</a></li>
-<li><a href="https://www.jama.org/questions-and-answers-about-the-japanese-auto-industry-and-the-trans-pacific-partnership-2/">Questions and Answers about the Japanese Auto Industry ... - JAMA</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#auto industry`, `#market entry`, `#BYD`, `#Japan`, `#electric vehicles`
+**Tags**: `#geopolitics`, `#energy`, `#conflict`, `#shipping`
 
 ---
 
 <a id="item-3"></a>
-## [BYD Launches 11 New Models, Including 1000+ km EV](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
+## [\*ST Yuandao faces delisting for market cap below 300 million yuan](https://36kr.com/newsflashes/3912183328347269?f=rss) ⭐️ 9.0/10
 
-BYD has launched 11 new car models, including a pure electric vehicle \(EV\) with a driving range exceeding 1,000 kilometers under CLTC conditions. This milestone is achieved using the next-generation Blade Battery 2.0, which also supports ultra-fast charging in about 10 minutes. This launch marks a significant advancement in EV range and charging speed, potentially alleviating range anxiety and intensifying competition in the EV market. BYD&\#x27;s achievement could accelerate the adoption of electric vehicles and pressure rivals to improve their battery technology. The Blade Battery 2.0 is a lithium iron phosphate \(LFP\) battery that delivers over 1,000 km of range and can charge from 10% to 80% in about 10 minutes. The range is measured under CLTC conditions, which may differ from real-world driving.
+\*ST元道 \(301139.SZ\) announced on July 26 that its closing market capitalization on July 24 was 291 million yuan, below the 300 million yuan threshold, triggering a potential delisting if the condition persists for 20 consecutive trading days. This marks the first time the company&\#x27;s market cap has fallen below the regulatory threshold, signaling heightened delisting risk under China&\#x27;s stricter market-value-based delisting rules and putting pressure on other small-cap \*ST firms. The closing price was 2.39 yuan per share, resulting in a market cap of 291 million yuan. If the market cap remains below 300 million yuan for 20 consecutive trading days, the stock will be delisted automatically.
 
-google\_news · 汽车之家 · Jul 25, 20:30
+rss · 36氪 · Jul 26, 07:58
 
-**Background**: BYD is a leading Chinese electric vehicle manufacturer known for its Blade Battery technology, which emphasizes safety and energy density. The Blade Battery 2.0 was unveiled in March 2026 and represents a generational upgrade, supporting long range and fast charging. The company&\#x27;s rapid product launches reflect its strategy to dominate the EV market.
+**Background**: In China&\#x27;s A-share market, stocks with the \*ST designation are under special treatment due to financial irregularities or other risks, facing stricter delisting criteria. Market-value-based delisting rules have been strengthened since 2020, requiring a minimum market cap of 300 million yuan for continued listing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD&#x27;s new Blade EV Battery 2.0 unlocks 1,000+ km pure electric range and 10 min fast charging</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://daxstreet.com/news/362639/byd-reveals-blade-battery-2-0-with-1000-km-range-and-five-minute-charging/">BYD Reveals Blade Battery 2.0 With 1,000 km Range and Five-Minute Charging - DAX Street</a></li>
+<li><a href="https://govt.chinadaily.com.cn/s/202101/12/WS5ffd0b8e498eaba5051be89d/new-rules-boost-global-standing-of-a-shares.html">New rules boost global standing of A shares | govt.chinadaily.com.cn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#auto industry`
+**Tags**: `#delisting`, `#market cap`, `#regulatory`, `#\*ST`
 
 ---
 
 <a id="item-4"></a>
-## [India Fines BYD $630 Million, Escalating Regulatory Tensions](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaUJPbnFpanpycFA5aXA4MHRmYkdKXzBLU0RVaThWakh3T2hXUVZRVzdaT0tlcWgzQ05LMmJITncyRk5rQUlrR1lIaUtfQU1aSTZpS2dpY2cydTA?oc=5) ⭐️ 7.0/10
+## [BYD enters Japan&\#x27;s auto market as barriers loosen](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk9iVkgwRTl4WG1SZGEzRkQweFNrRXJNZDc2Z3N1SlFxQzEwOTNTNE51NEJYMDQ1UTJ5RjhNWWdzdDFBODQ3M3o3T1FUd3NRaUQ4ZDlfQ05wX2dpVW9TSXAzdDJGSWdTRmZyeHZXR0VVX2NQMk8wT0NOLXhkNnc2aEJpblBsWUdhbWtrUlBSclB1UHRmQXRiLQ?oc=5) ⭐️ 8.0/10
 
-India imposed a 630 million rupee fine on Chinese automaker BYD, alleging tax evasion or regulatory violations, escalating tensions for the company&\#x27;s operations in India. This regulatory action signals heightened scrutiny on Chinese companies in India, potentially hurting BYD&\#x27;s expansion plans and affecting the broader electric vehicle market in the region. The exact reason for the fine remains unclear, but it follows previous reports of BYD facing tax investigations. The amount represents a significant penalty for a foreign automaker in India.
+Chinese electric vehicle maker BYD has officially entered the Japanese auto market, taking advantage of loosening trade barriers. This marks a significant strategic move for BYD as it expands into one of the world&\#x27;s most closed automotive markets, potentially disrupting Japan&\#x27;s domestic auto industry and intensifying global EV competition. BYD is entering with electric vehicles, leveraging its competitive pricing and technology. The move comes as Japan gradually reduces its historical protectionist measures for local automakers.
 
-google\_news · 风闻 · Jul 26, 00:32
+google\_news · finance.sina.com.cn · Jul 26, 06:21
 
-**Background**: BYD is a leading Chinese electric vehicle manufacturer that has been expanding globally, including into India. However, India has recently increased regulatory pressure on Chinese firms due to geopolitical tensions, requiring special approvals for investments from neighboring countries.
+**Background**: Japan&\#x27;s auto market has long been considered difficult for foreign entrants due to complex dealer networks and regulatory hurdles. Chinese EV makers like BYD have been rapidly expanding globally, and this entry challenges established players like Toyota and Honda.
 
-**Tags**: `#regulatory`, `#fine`, `#automaker`, `#BYD`, `#India`
+**Tags**: `#BYD`, `#Japan auto market`, `#EV`, `#market entry`, `#China auto`
 
 ---
 
 <a id="item-5"></a>
-## [BYD Discontinues Han L, Tang L After Low Sales, Shifts to Overseas Markets](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1YU9ueGtMYUkyaGhucDlnUF8tRTk1WTZQSm5kTlQzZlgwMjdla3p4WUJNTUZNNXdOTlpTMjNhRl9RVzRGNHRHQzVKdU8yZnhNU2J3NXN6X2paSWs?oc=5) ⭐️ 7.0/10
+## [BYD Reveals 5-Minute Fast Charging on 10 Models](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WE1jc1Ywa1R0Y2YwZGJ2YzFxVlpucHFZQXYwYWVTVlBya3c3VjNWOUNVU0RPZUV1NWl2WmdST3F3UmdoRjBaeURDdmdHeWlFTFMxTVU5a2x1cW8?oc=5) ⭐️ 8.0/10
 
-BYD has halted production of its Han L sedan and Tang L SUV after May 2025 sales fell below 700 units, redirecting these models to overseas markets to mitigate losses. This discontinuation signals a product misstep for BYD in its home market, but the overseas pivot could help the company leverage global demand for its high-end EV and plug-in hybrid models. The Han L and Tang L, launched in April 2025, are full-size sedan and mid-size SUV respectively, available in both EV and plug-in hybrid variants; the May sales figures represent a steep decline from initial expectations.
+BYD has officially launched its second-generation blade battery and flash charging technology, capable of charging from 10% to 70% in just 5 minutes, and is set to debut on 10 vehicle models including the Yangwang U7, U8, and U8L. This breakthrough dramatically reduces charging time to nearly parity with refueling, potentially accelerating EV adoption and reshaping the competitive landscape, especially if the technology proves reliable and scalable across BYD&\#x27;s lineup. The technology requires megawatt-level ultra-fast charging stations with advanced thermal management and high-voltage cables, and BYD also announced an improved battery warranty with 2.5% higher capacity retention for the second-generation blade battery.
 
-google\_news · 汽车之家 · Jul 26, 08:05
+google\_news · 汽车之家 · Jul 26, 01:20
 
-**Background**: The BYD Han L is a full-size sedan and the Tang L is a mid-size crossover SUV, both part of BYD&\#x27;s higher-end lineup with the Han and Tang series. They were unveiled in January 2025 and launched in April 2025, competing in the premium segment. BYD&\#x27;s decision to redirect unsold units to overseas markets is a strategic move to avoid inventory buildup and recoup development costs.
+**Background**: Traditional EV charging typically takes 30 minutes or more even with fast chargers, limiting long-distance travel convenience. BYD&\#x27;s first-generation blade battery, introduced in 2020, was already known for its safety and energy density. The second-generation blade battery pairs with a new flash charging system to achieve ultra-fast rates, supported by a newly developed charging network.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Han_L">BYD Han L</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Tang_L">BYD Tang L - Wikipedia</a></li>
+<li><a href="https://www.dutenews.com/n/article/10511534">比 亚 迪 第 二 代 刀 片 电 池 来了！ 从10%到70%充 电 时间只用5分钟</a></li>
+<li><a href="https://auto.sina.com.cn/newcar/2026-03-06/detail-inhpyima3014799.shtml">比 亚 迪 正式发布 第 二 代 刀 片 电 池 及闪充技术-新浪汽车</a></li>
+<li><a href="https://www.myzaker.com/article/69b8b9578e9f09664654ba34">myzaker.com/article/69b8b9578e9f09664654ba34</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#BYD`, `#EV`, `#product discontinuation`, `#automotive`, `#sales disappointment`
+**Tags**: `#BYD`, `#EV`, `#battery tech`, `#charging`, `#innovation`
 
 ---
 
 <a id="item-6"></a>
-## [China Tourism Group Duty Free Stock Drops on H1 Revenue Concerns](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tdWlsWmRpRURWUTVHSkF0VDFRdFhTemRBSnRfbmJyWm9xMXN6d0VjMzJYbTJCVm1hN2JZelJFTm5ObGk4T0dWbg?oc=5) ⭐️ 6.0/10
+## [BYD launches 11 new models, including 1000+ km range BEV](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
 
-China Tourism Group Duty Free \(01880.HK\) fell nearly 3% after institutions predicted that the company&\#x27;s first-half 2025 revenue would be pressured by headwinds in airport duty-free and the CDFG online duty-free platform. This decline reflects investor sentiment about the recovery of duty-free spending in China, especially as outbound travel demand may be slower to rebound. The news also highlights challenges in both physical and online duty-free channels for a major operator. The stock fell nearly 3% in Hong Kong trading. The institutional forecast specifically cited the airport duty-free segment and the online platform &\#x27;中免日上&\#x27; as facing temporary pressure in the first half of 2025.
+BYD has launched 11 new vehicle models, including a pure electric vehicle \(BEV\) that achieves a driving range of over 1,000 kilometers on a single charge, a milestone for the company and the industry. This breakthrough directly addresses range anxiety, a major barrier to EV adoption, and strengthens BYD&\#x27;s competitive position against Tesla and other automakers, potentially accelerating the global shift to electric mobility. The over-1,000 km range is likely achieved through BYD&\#x27;s proprietary blade battery technology, which offers higher energy density and improved safety compared to conventional lithium-ion batteries. The specific model\(s\) and pricing details have not yet been fully disclosed.
 
-google\_news · 凤凰网 · Jul 26, 01:18
+google\_news · 汽车之家 · Jul 25, 20:30
 
-**Background**: China Tourism Group Duty Free \(CDFG\) is the largest duty-free retailer in China, operating duty-free shops at airports, downtown stores, and online. The company&\#x27;s performance is closely tied to Chinese outbound travel and tourism spending. Airport duty-free sales have been affected by slower recovery in international flight volumes, while online platforms face increased competition.
+**Background**: The blade battery is a lithium iron phosphate \(LFP\) battery design by BYD that uses a cell-to-pack structure to improve space utilization and thermal safety. Achieving 1,000 km range has been a target for many EV makers, typically requiring large battery packs and advanced energy management. BYD&\#x27;s launch demonstrates that such range is commercially viable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tmtpost.com/4164264.html">登 机 前给你一小时，我们能在大兴 机 场 买到什么？ -钛媒体官方网站</a></li>
+<li><a href="https://chejiahao.m.autohome.com.cn/info/9201286">同为磷酸铁锂， 刀 片 电 池 究竟特殊在哪？_ 车家号_汽车之家</a></li>
+<li><a href="https://libattery.ofweek.com/2021-01/ART-36000-8500-30484102.html">1000 ... - OFweek锂 电 网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#stock movement`, `#analyst forecast`, `#duty-free retail`, `#China travel`
+**Tags**: `#electric vehicles`, `#product launch`, `#BYD`, `#automotive`
 
 ---
 
 <a id="item-7"></a>
-## [Saudi Arabia strikes Houthis after attacks on energy sites](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1) ⭐️ 9.0/10
+## [BYD&\#x27;s New Models with Big Battery and Ultra-Fast Charging Set to Reshape 130k+ RMB Segment](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SmlvQW51T1J2M2syc19fWXdPMmRHZk5mekFLV01VZFBWLVd3bEQzZllDeDNBZWVyay1BRTE3eHZlMi1GZG94ZVlmNlZfWXN6bktXcWNrb1NlMmo5R1E?oc=5) ⭐️ 8.0/10
 
-Saudi Arabia launched retaliatory airstrikes against Houthi rebels in Yemen after the Iran-backed group attacked Saudi energy sites, escalating the regional conflict. The tit-for-tat attacks threaten to disrupt global oil supplies and further destabilize the Middle East, with potential ripple effects on energy markets worldwide. The Houthi attacks targeted energy infrastructure in Saudi Arabia, prompting a swift military response that risks widening the conflict beyond Yemen&\#x27;s borders.
+BYD is planning to launch a series of new models between March and April 2025 featuring large-capacity batteries and ultra-fast charging technology. These vehicles are expected to set new technical benchmarks in the 130,000 RMB \(approximately $18,000\) and above price segment. This move could redefine industry standards for affordable electric vehicles, forcing competitors to accelerate their own battery and charging innovations. It also strengthens BYD&\#x27;s dominance in the Chinese EV market, potentially increasing pressure on rivals like Tesla and Xpeng. The new models are likely to utilize BYD&\#x27;s blade battery and e-platform 3.0, with ultra-fast charging achieving up to 1,000 kW as announced in March 2025. BYD plans to install about 4,000 ultra-fast chargers across China to support the new technology.
 
-rss · FT Markets · Jul 25, 13:02
+google\_news · 汽车之家 · Jul 26, 01:04
 
-**Background**: The Houthi movement has been fighting a civil war in Yemen against the Saudi-led coalition since 2015. Iran provides support to the Houthis, while Saudi Arabia leads the coalition backing Yemen&\#x27;s internationally recognized government. Attacks on energy sites are a strategic escalation aimed at disrupting Saudi oil exports.
+**Background**: BYD&\#x27;s blade battery is a lithium iron phosphate \(LFP\) battery with a unique blade-shaped cell design that improves safety and energy density. The e-platform 3.0 is BYD&\#x27;s dedicated EV platform that offers efficient electric drive, OTA updates, and can be shared with other automakers. In March 2025, BYD introduced a 1,000 kW charging system supporting 1,000V and 1,000A, enabling charging to 97% in 9 minutes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Houthis">Houthis - Wikipedia</a></li>
-<li><a href="https://www.aljazeera.com/news/2024/1/12/who-are-yemens-houthis-a-basic-guide">Who are the Houthis ? A simple guide to the Yemeni group | Al Jazeera</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otbUx6aEVCRmxvX2ZINjJGUnJDZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">BYD launches new electric vehicle with ultra - fast charging - Overview</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#geopolitics`, `#energy`, `#oil`, `#Middle East`, `#conflict`
+**Tags**: `#BYD`, `#EV`, `#China auto`, `#technology`, `#product launch`
 
 ---
 
 <a id="item-8"></a>
-## [6-year-old girl dies in Chinese gene editing trial; controversy erupts](https://www.caixin.com/2026-07-24/102467859.html) ⭐️ 9.0/10
+## [BYD&\#x27;s Flash Charging &amp; Second-Gen Blade Battery Gets National Nod](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQaHB6ZUFWRkNMdkhSc0puMlRIRkIwUl8wV2lSRThzWkpJOEhMUG12MVNMM09jMlZMWEs1Sl9lNWVGRm0zTXJFclloNGRXYkI1aE9lM0JQMDIxQ1VaME1rRjczck9TRjZoSUs4?oc=5) ⭐️ 8.0/10
 
-A 6-year-old girl died in March 2025 during a gene editing trial for a neurodevelopmental disorder in China, but the death was omitted from the subsequent paper. The omission was exposed by Retraction Watch and reported in Science on July 23, 2026, sparking debate over regulatory transparency. This incident highlights serious regulatory and transparency gaps in China&\#x27;s biotech clinical trials, potentially eroding public trust and affecting investment in gene therapy. It underscores the urgent need for stricter oversight and mandatory reporting of all adverse events. The researcher noted that the challenge was not correcting the disease gene but delivering the editing machinery to target cells. In vivo gene editing delivery remains a major hurdle, with risks of off-target effects and immune responses. The death was not disclosed in the published study, raising ethical concerns.
+BYD&\#x27;s second-generation Blade Battery and flash charging technology have received official recognition from China&\#x27;s Ministry of Industry and Information Technology \(MIIT\), highlighting their global leading position. This national-level endorsement underscores strong policy support for BYD&\#x27;s vertically integrated EV strategy, likely boosting investor confidence and reinforcing BYD&\#x27;s competitive edge in the global EV battery market. The second-generation Blade Battery supports 5-minute fast charging and over 1,000 km range, while BYD plans to build 20,000 flash charging stations by 2026.
 
-rss · 财新网 · Jul 26, 09:46
+google\_news · 汽车之家 · Jul 26, 05:57
 
-**Background**: Gene therapy involves delivering genetic material into cells to treat disease, commonly using viral vectors like adeno-associated virus \(AAV\). In vivo gene editing uses tools such as CRISPR to modify genes directly in the body. However, safe and efficient delivery remains a significant challenge, especially for neurological disorders, and incomplete reporting of adverse events can undermine scientific integrity.
+**Background**: The Blade Battery is a lithium iron phosphate \(LFP\) battery design by BYD that prioritizes safety and energy density. Flash charging technology allows ultra-fast charging rates, rivaling traditional refueling times. National recognition from MIIT can accelerate adoption and signal industry standards.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Gene_delivery">Gene delivery - Wikipedia</a></li>
-<li><a href="https://www.nature.com/articles/s41434-025-00573-2">Therapeutic in vivo genome editing: innovations and ... - Nature</a></li>
+<li><a href="https://www.aol.com/lifestyle/byd-flash-charging-ev-charge-170000845.html">BYD ’s ‘ Flash Charging ’ EV Can Charge in Just 5 Minutes - AOL</a></li>
+<li><a href="https://zecar.com/reviews/byd-blade-battery-2-flash-charging-2026">BYD Launches Ultra Fast Charging Blade Battery 2 .0 and 1.5MW...</a></li>
+<li><a href="https://www.autocango.com/news-detail/byd-second-gen-blade-battery-flash-charge-china-launch?page=news">New BYD Blade Battery Breaks 1,000km Range... | AutoCango News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#biotech`, `#gene editing`, `#regulation`, `#clinical trial`, `#safety`
+**Tags**: `#BYD`, `#EV batteries`, `#policy`, `#technology`, `#China`
 
 ---
 
 <a id="item-9"></a>
-## [Gulf War Flares: Ceasefire Collapses as Iran Strikes LNG Tanker](https://weekly.caixin.com/2026-07-25/102467950.html) ⭐️ 9.0/10
+## [Chile Storm Disrupts Copper Mines, Threatens AI Supply](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-On July 7, 2026, Iran attacked a Qatari LNG tanker and two other vessels in the Strait of Hormuz, breaking a ceasefire reached on June 14. The US has responded with military escalation, and 18 US soldiers have died since the conflict began in late February. The Strait of Hormuz is a critical chokepoint for about 20% of global oil supply, and attacks on commercial shipping threaten energy security, raise oil prices, and increase insurance premiums. This renewed conflict signals sustained geopolitical instability in the Middle East. The attacked LNG tanker was owned by a Qatari gas transport company; Iran claimed it ignored warnings from the Islamic Revolutionary Guard Corps Navy. The ceasefire had stipulated that Iran would ensure safe passage through the Strait in exchange for the US lifting its naval blockade.
+A deadly storm in Chile has disrupted operations at multiple copper mines, threatening the global supply of copper critical for AI infrastructure. Copper is essential for data center wiring and power distribution, and Chile is the world&\#x27;s largest copper producer; this disruption could drive up copper prices and slow AI hardware deployment. Chile&\#x27;s copper mines are often located at high altitudes and are increasingly exposed to weather volatility, making them vulnerable to extreme events like this storm.
 
-rss · 财新网 · Jul 26, 04:13
+rss · FT Markets · Jul 26, 09:46
 
-**Background**: The Strait of Hormuz is a narrow waterway between Iran and Oman, through which about 20% of the world&\#x27;s oil passes. The US and Iran have a history of tensions, with the US imposing sanctions and naval blockades. LNG carriers are specialized ships that transport liquefied natural gas at extremely low temperatures \(-162°C\), requiring advanced technology and high construction costs.
+**Background**: Copper is vital for AI infrastructure due to its electrical conductivity, used extensively in data centers for wiring, cooling systems, and power distribution. Chile accounts for about a quarter of global copper production, and its mines are aging and declining in ore quality, compounding supply risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://stock.10jqka.com.cn/20260521/c676882194.shtml">伊 朗 革 命 卫 队 称过去24小时有31艘船通过霍尔木兹 海 峡 | 同花顺财经</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%A3%E8%BC%89%E9%81%8B%E8%88%B9">液化天然氣載運船 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://baike.baidu.com/item/%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%94%E8%88%B9/10993230">液化天然气船_百度百科</a></li>
+<li><a href="https://www.interactivecrypto.com/copper-s-enduring-bull-run-why-ai-demand-outweighs-recent-catalyst-silence-jun-2026">Copper &#x27;s Enduring Bull Run: Why AI Demand Outweighs Recent...</a></li>
+<li><a href="https://elements.visualcapitalist.com/why-copper-is-critical-for-data-centers/">Why Copper Is Critical for Data Centers | Elements by Visual Capitalist</a></li>
+<li><a href="https://myentrance.in/indias-critical-minerals-crisis-why-self-reliance-is-non-negotiable-current-affairs-competitive-exam-prep/">India’s Critical Minerals Crisis: Why Self-Reliance is... - My Entrance</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#geopolitics`, `#oil`, `#energy`, `#shipping`, `#Middle East`
+**Tags**: `#copper`, `#supply chain`, `#AI`, `#commodity`, `#natural disaster`
 
 ---
 
 <a id="item-10"></a>
-## [Chile storm disrupts copper mines, threatens AI supply chains](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Child dies in gene editing trial, sparking safety and regulatory debate](https://www.caixin.com/2026-07-24/102467859.html) ⭐️ 8.0/10
 
-A deadly storm in Chile has disrupted copper mine operations, impacting a key metal for AI infrastructure and raising concerns about supply chain vulnerabilities. The storm highlights the reliance on high-altitude, declining mines exposed to increasing weather volatility. This event underscores the fragility of copper supply chains, which are critical for AI hardware such as data centers and electrical grids. It signals potential price volatility and supply constraints that could affect the global AI industry&\#x27;s expansion. The storm struck high-altitude mines in Chile, which already face declining ore grades and operational challenges. Copper is essential for wiring and components in AI systems, and Chile is the world&\#x27;s largest copper producer.
+A 6-year-old girl named Mei died in March 2025 after receiving gene editing therapy for a neurodevelopmental disorder in a Chinese clinical trial. The death was not disclosed in the researchers&\#x27; subsequent publication, and the controversy erupted after Retraction Watch reported it in Science on July 23, 2026. This tragic event highlights serious safety risks in gene editing trials and raises questions about regulatory oversight and transparency in China. It could affect public trust in gene therapy and lead to stricter scrutiny of ongoing trials globally. The trial aimed to correct a pathogenic gene using CRISPR, but according to a researcher, the delivery method—not the gene correction itself—was the main challenge. The girl&\#x27;s death was not included in the published paper, prompting accusations of incomplete reporting.
 
-rss · FT Markets · Jul 26, 09:46
+rss · 财新网 · Jul 26, 10:16
 
-**Background**: Copper is a fundamental material for electrical conductivity and is used extensively in power cables, transformers, and connectors for data centers and electronics. The AI boom has increased demand for copper as data centers require massive amounts of wiring and cooling systems. Chile&\#x27;s copper mines are often located in remote, high-altitude regions, making them vulnerable to extreme weather events like storms and floods.
+**Background**: Gene editing therapies like CRISPR hold promise for treating genetic disorders, but efficient and safe delivery of editing tools into target cells remains a major hurdle. Viral vectors \(e.g., AAV\) and non-viral methods \(e.g., lipid nanoparticles\) are commonly used, each with risks. Retraction Watch is a blog that tracks retractions and scientific misconduct; its report brought this case to wider attention.
 
-**Tags**: `#commodities`, `#copper`, `#supply chain`, `#AI`, `#weather`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ebiotrade.com/newsf/2026-5/20260524000645138.htm">基 因 组 编 辑 领域的新前沿：从CRISPR到下一代 技 术 - 生物通</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retraction_Watch">Retraction Watch</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#biotech`, `#regulation`, `#gene editing`, `#clinical trial`
 
 ---
 
 <a id="item-11"></a>
-## [Former CSRC Vice Chairman Fang Xinghai Falls Under Investigation](https://wenews.caixin.com/2026-07-25/102468018.html) ⭐️ 8.0/10
+## [Robotics IPO Rush, Billion Scam, Drug Price Surge](https://weekly.caixin.com/2026-07-25/102468134.html) ⭐️ 8.0/10
 
-On July 24, 2026, the Central Commission for Discipline Inspection announced that former CSRC Vice Chairman Fang Xinghai is under investigation for serious disciplinary violations, becoming the fourth senior CSRC official to be investigated in two years. This case underscores China&\#x27;s ongoing anti-corruption efforts within its financial regulatory system, potentially affecting market confidence and regulatory stability as it involves a high-profile figure who oversaw international and issuance departments. Fang Xinghai retired in July 2024, two years before the investigation. He was known for his outspoken style and long tenure overseeing key departments including international affairs and stock issuance.
+Nearly 50 Chinese embodied AI companies have entered the IPO process, with valuations doubling from 100 billion to 200 billion yuan, despite minimal commercial deployment of only 2,000 humanoid robots shipped globally in 2025. This IPO frenzy signals a potential bubble in the robotics sector, as companies prioritize capital markets over proven real-world utility, which could misallocate resources and mislead investors. Unitree Technology, set to list on the STAR Market, may reach a market cap of 40 billion yuan, with some speculating it could surpass 100 billion. Another news involves a 24.4 billion yuan scam targeting elderly through free tours, and a critical chemotherapy drug shortage causing price surge from 24 yuan to 1,000 yuan per vial.
 
-rss · 财新网 · Jul 26, 09:01
+rss · 财新网 · Jul 26, 09:46
 
-**Background**: The China Securities Regulatory Commission \(CSRC\) is the top securities regulator in China. In recent years, a series of senior CSRC officials have been investigated for corruption, including former chairman Yi Huiman and former vice chairman Wang Jianjun, reflecting a broader anti-graft campaign targeting financial regulators.
+**Background**: Embodied AI refers to intelligent systems that perceive and act in the physical world through a physical body, enabling interaction with the environment. Zero-redundancy supply chain is a lean system without buffer inventory or alternative suppliers, making it vulnerable to disruptions. The chemotherapy drug shortage exemplifies this fragility.
 
-**Tags**: `#regulatory`, `#China`, `#CSRC`, `#anti-corruption`, `#policy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tkww.hk/epaper/view/newsDetail/1784295275746168832.html">話你知/什麼是「 具 身 智 能 」？ - 大公報 | 大公文匯 www.tkww.hk</a></li>
+<li><a href="https://juejin.cn/post/7486670839923359796">什么是 具 身 智 能 ？ 具 身 智 能 （Embodied Intelligence...</a></li>
+<li><a href="https://www.ofweek.com/ai/2025-07/ART-201717-8110-30666688.html">一文读懂：到底什么是 “ 具 身 智 能 ” ？ - OFweek 人工 智 能 网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#IPO`, `#robotics`, `#valuation`, `#healthcare`, `#regulation`
 
 ---
 
 <a id="item-12"></a>
-## [Gold expected to regain upward momentum](https://weekly.caixin.com/2026-07-25/102467947.html) ⭐️ 8.0/10
+## [Former CSRC Vice Chairman Fang Xinghai Investigated](https://wenews.caixin.com/2026-07-25/102468018.html) ⭐️ 8.0/10
 
-Gold prices have corrected 25% from their January 2026 highs to around $4,000/oz, and macro strategist Xu Xiaoqing argues that the bull market is not over, citing potential catalysts from tech stock declines weakening the USD and rising rate cut expectations. This analysis offers actionable insights for gold investors, suggesting that the recent correction may be a temporary setback in a longer-term uptrend, with implications for portfolio allocation and hedging strategies amid shifting macro conditions. Gold experienced four rallies between 2020 and 2024, each lasting 6-12 months with gains of 20%-50%, followed by half-year corrections that typically retraced more than 50% of gains; during the 2022 Fed hiking cycle, gold gave back all gains from 2021-2022.
+On July 24, 2026, the Central Commission for Discipline Inspection announced that Fang Xinghai, former vice chairman of the China Securities Regulatory Commission \(CSRC\), is under investigation for serious disciplinary violations. He is the fourth high-ranking CSRC official to be probed in the past two years. This investigation highlights ongoing anti-corruption efforts within China&\#x27;s top financial regulator, potentially affecting market confidence and signaling further policy shifts. As a former vice chairman overseeing international and issuance departments, Fang&\#x27;s case may expose systemic issues in China&\#x27;s capital market regulation. Fang retired in July 2024, exactly two years before the investigation. He was known for his direct, outspoken style and had long been in charge of key departments including international business and securities issuance.
 
-rss · 财新网 · Jul 26, 08:39
+rss · 财新网 · Jul 26, 09:01
 
-**Background**: The article&\#x27;s author is a macro strategist at a Chinese asset management firm. Gold is a traditional safe-haven asset that often benefits from US dollar weakness and lower interest rates. The recent 25% correction is the largest since the COVID-19 pandemic, but historical patterns show such pullbacks are common within bull markets.
+**Background**: The China Securities Regulatory Commission \(CSRC\) is the primary regulator of China&\#x27;s securities and futures markets. In recent years, several former high-ranking CSRC officials have been investigated for corruption, reflecting a broader anti-corruption campaign in China&\#x27;s financial sector. Fang is the fourth such official to be probed since 2025, following former disciplinary chief Wang Huimin, former vice chairman Wang Jianjun, and former chairman Yi Huiman.
 
-**Tags**: `#gold`, `#precious metals`, `#macro`, `#monetary policy`, `#technical analysis`
+**Tags**: `#regulatory`, `#policy`, `#China`, `#corruption`
 
 ---
 
 <a id="item-13"></a>
-## [Samsung Chairman Meets OpenAI CEO on AI and Chip Cooperation](https://36kr.com/newsflashes/3912076178789766?f=rss) ⭐️ 8.0/10
+## [Musk Warns on SpaceX Short Sellers as Tesla Misses Earnings](https://36kr.com/newsflashes/3912221918107015?f=rss) ⭐️ 8.0/10
 
-Samsung Electronics Chairman Lee Jae-yong met OpenAI CEO Sam Altman at OpenAI&\#x27;s San Francisco headquarters on January 25 to discuss cooperation in AI and semiconductors, including high-bandwidth memory \(HBM\), DRAM, and advanced foundry services. This meeting signals a potential deepening of ties between a leading AI company and a dominant memory/ foundry player, which could strengthen the AI chip supply chain and bolster Samsung&\#x27;s position in the generative AI era. OpenAI did not disclose the exact topics, but observers expect negotiations around HBM, DRAM, and advanced foundry for AI infrastructure, as well as Samsung&\#x27;s enterprise-wide adoption of generative AI tools like ChatGPT and Codex.
+Tesla&\#x27;s stock plunged 14.5% after missing Q2 earnings, wiping out $214.5 billion in market cap. Meanwhile, SpaceX&\#x27;s short interest has risen to 32% of float, prompting Elon Musk to warn that short sellers face a very low survival probability. This highlights growing investor skepticism toward Musk&\#x27;s companies, with Tesla&\#x27;s earnings miss and SpaceX&\#x27;s high short interest signaling potential trouble. The unresolved merger speculation between Tesla and SpaceX adds further uncertainty for investors in both space tech and electric vehicles. SpaceX&\#x27;s stock has fallen below its IPO price since going public over a month ago, and short interest now stands at about 32%. Musk neither confirmed nor denied a potential merger between Tesla and SpaceX, stating only that business overlap is increasing.
 
-rss · 36氪 · Jul 26, 06:09
+rss · 36氪 · Jul 26, 08:37
 
-**Background**: High-bandwidth memory \(HBM\) is a 3D-stacked DRAM technology that delivers massive data throughput required for AI and high-performance computing. Samsung is a major supplier of HBM and operates advanced foundry services. OpenAI develops AI models like GPT-4 and tools like Codex, and has granted Samsung enterprise-wide access to ChatGPT and Codex for its employees.
+**Background**: Short selling involves betting on a stock&\#x27;s decline, and high short interest can indicate bearish sentiment. SpaceX is a private space exploration company led by Musk, while Tesla is a public electric vehicle maker. The two companies have been speculated to merge due to synergies in battery and manufacturing technology.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.geekpark.net/news/367779">苹果将推「iPhone 月租」计划； SpaceX ...</a></li>
+<li><a href="https://www.spacex.com/careers/jobs">SpaceX</a></li>
+<li><a href="https://x.com/spacex">x .com/ spacex</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#semiconductors`, `#partnership`, `#Samsung`, `#OpenAI`
+**Tags**: `#earnings`, `#short interest`, `#merger`, `#space tech`, `#electric vehicles`
 
 ---
 
 <a id="item-14"></a>
-## [South Korea&\#x27;s pension fund turns net buyer of KOSPI stocks in July](https://36kr.com/newsflashes/3911979618849920?f=rss) ⭐️ 8.0/10
+## [Shanghai Firms&\#x27; Buyback Plans Surge to 158 Billion Yuan in Week](https://36kr.com/newsflashes/3912147209983368?f=rss) ⭐️ 8.0/10
 
-South Korea&\#x27;s National Pension Service \(NPS\) and other pension funds became net buyers of KOSPI stocks in July 2024 for the first time this year, with net purchases of 684 billion won \($46.8 million\) from July 1 to 24. This reversal ends six consecutive months of net selling by the country&\#x27;s largest institutional investor, signaling a potential shift in market sentiment and providing support for Korean equities. Top buys included SK Hynix \(425.8 billion won\), SK Innovation \(224.7 billion won\), and S-Oil \(174.4 billion won\), while top sells were SK Square \(575.7 billion won\), Samsung Electro-Mechanics \(313.6 billion won\), and Samsung Life Insurance \(123.8 billion won\).
+In the week from July 20 to July 26, 2025, Shanghai-listed companies announced 42 new buyback plans with an upper limit of 83.86 billion yuan and 17 new shareholding increase plans with an upper limit of 74.57 billion yuan, totaling up to 158.43 billion yuan. This surge in buyback and shareholding increase plans signals strong corporate confidence and may support stock prices amid market volatility. Year-to-date combined amounts have reached 776 billion yuan, indicating a sustained trend of capital returning to the market. The buyback plans are intended for purposes including equity incentives, employee stock ownership, and market value maintenance. Since the beginning of the year, Shanghai-listed companies have disclosed 190 buyback plans with a total upper limit of 555 billion yuan and 155 shareholding increase plans with a total upper limit of 221 billion yuan.
 
-rss · 36氪 · Jul 26, 04:31
+rss · 36氪 · Jul 26, 07:21
 
-**Background**: The National Pension Service \(NPS\) is South Korea&\#x27;s largest pension fund and a major institutional investor in the domestic stock market. Its trading activity is closely watched as an indicator of institutional sentiment. The fund had been net selling KOSPI stocks for six consecutive months before July.
+**Background**: Stock buybacks and shareholding increases are common ways for listed companies to return value to shareholders and signal confidence. Buybacks reduce outstanding shares, potentially boosting earnings per share, while shareholding increases by major shareholders or insiders can indicate undervaluation. Such actions are closely watched by investors as a sign of corporate health.
 
-**Tags**: `#institutional flows`, `#Korea market`, `#pension fund`, `#equity`
+**Tags**: `#buybacks`, `#market sentiment`, `#China markets`, `#corporate action`
 
 ---
 
 <a id="item-15"></a>
-## [Tesla Loses Pure EV Sales Crown, Seeks Comeback](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 8.0/10
+## [Samsung Chairman Meets OpenAI CEO on AI, Chip Collaboration](https://36kr.com/newsflashes/3912076178789766?f=rss) ⭐️ 8.0/10
 
-Tesla has lost its position as the top seller of pure electric vehicles, likely surpassed by BYD in the fourth quarter of 2023, raising questions about Tesla&\#x27;s strategy to regain market share. This marks a significant shift in the EV landscape, indicating intensifying competition from Chinese automakers like BYD and highlighting Tesla&\#x27;s need to adapt its pricing, product lineup, and production capacity to maintain dominance. The exact sales figures are not specified, but Tesla&\#x27;s loss of the top spot underscores its challenges in a market where competitors are rapidly expanding and introducing more affordable models.
+Samsung Electronics chairman Lee Jae-yong met OpenAI CEO Sam Altman at OpenAI&\#x27;s San Francisco headquarters to discuss potential cooperation in AI and semiconductors, including high-bandwidth memory \(HBM\), DRAM, and advanced foundry services. This meeting signals deepening ties between a top memory chipmaker and a leading AI company, potentially impacting the supply of critical AI infrastructure components like HBM and advanced logic chips. OpenAI did not disclose specific topics, but industry observers expect discussions on HBM, DRAM, and advanced foundry collaboration. Samsung is a top enterprise customer for OpenAI, having authorized ChatGPT and Codex for all employees.
 
-google\_news · 手机新浪网 · Jul 26, 01:15
+rss · 36氪 · Jul 26, 06:09
 
-**Background**: Tesla was the dominant player in the pure EV market for years, but BYD, with a broader range of models and aggressive pricing, has been catching up. The shift reflects broader trends of Chinese automakers gaining global market share in electric vehicles.
+**Background**: High-bandwidth memory \(HBM\) is a 3D-stacked DRAM technology crucial for AI accelerators. The semiconductor industry is currently experiencing a memory shortage driven by AI demand, with HBM supply constraints expected to last through 2027. A semiconductor foundry is a factory that manufactures integrated circuits for other companies; Samsung is a major player in both memory and foundry.
 
-**Tags**: `#Tesla`, `#electric vehicles`, `#competition`, `#market share`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_foundry">Semiconductor foundry</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#semiconductors`, `#Samsung`, `#OpenAI`, `#partnership`
 
 ---
 
 <a id="item-16"></a>
-## [Investors use crypto perpetual futures to bypass China AI stock controls](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [AI Deployment Accelerates in China, 351 Products Launch at WAIC 2026](https://weekly.caixin.com/2026-07-25/102467939.html) ⭐️ 7.0/10
 
-Investors are using perpetual futures on cryptocurrency exchanges to circumvent Chinese capital controls that restrict foreign access to Chinese AI stocks. This method allows exposure to Chinese tech equities without directly buying onshore shares. This regulatory arbitrage could increase demand for crypto derivatives and complicate Chinese authorities&\#x27; efforts to control capital flows into sensitive sectors like AI. It also highlights the growing convergence between traditional finance and crypto markets. Perpetual futures are derivatives with no expiry date, using a funding rate mechanism to track the underlying asset&\#x27;s spot price. Investors can gain leveraged exposure to Chinese AI stock performance through synthetic tokens or contracts that mirror those stocks.
+At the 2026 World AI Conference \(WAIC\) in Shanghai, 351 products were globally debuted, including Moonshot AI&\#x27;s Kimi K3, a 2.8 trillion parameter open-source multimodal reasoning model. The event saw 1,117 exhibitors, 4,486 exhibits, and 40 million visitors over four days. This marks a significant acceleration of AI commercialization in China, spanning chips, large models, and intelligent hardware. The large number of premieres and the record-breaking scale indicate that China&\#x27;s AI ecosystem is rapidly maturing and competing globally. Moonshot AI&\#x27;s Kimi K3 is the first open model to reach 2.8 trillion parameters, ranking \#4 out of 200 models on BenchLM with an overall score of 80.96/100. The model is open-weight and supports multimodal reasoning, continuing Moonshot&\#x27;s trend of setting upper bounds in open-model sizes.
 
-rss · FT Markets · Jul 26, 04:00
+rss · 财新网 · Jul 26, 10:11
 
-**Background**: China imposes strict capital controls that limit foreign ownership of domestic stocks, including in the AI sector. Crypto perpetual futures, offered by offshore exchanges, enable investors to bet on price movements of Chinese tech stocks without owning the underlying shares, effectively bypassing these restrictions.
+**Background**: WAIC is China&\#x27;s premier AI conference, held annually since 2018, showcasing the latest in AI technology and applications. China has been pushing for rapid AI adoption across industries, with a focus on domestic innovation in chips, large language models, and intelligent hardware to reduce reliance on foreign technology. The 2026 event&\#x27;s record-setting product launches reflect this push.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.axi.com/int/blog/education/cryptocurrencies/perpetual-futures-contracts">What Are Perps? Perpetual Futures &amp; Swaps Explained / Axi</a></li>
-<li><a href="https://www.coinbase.com/learn/perpetual-futures/what-are-perpetual-futures">What are Perpetual Futures ? | Coinbase</a></li>
+<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#crypto`, `#China`, `#AI stocks`, `#regulatory arbitrage`, `#perpetual futures`
+**Tags**: `#AI`, `#large language models`, `#technology conference`, `#China`, `#sector growth`
 
 ---
 
 <a id="item-17"></a>
-## [China Issues Safety Rules for Puzzle Bead Toys](https://photos.caixin.com/2026-07-24/102467585.html) ⭐️ 7.0/10
+## [Yitian Intelligent Subsidiary to Spend Up to 2 Billion RMB on Servers for AI Computing Services](https://36kr.com/newsflashes/3912181723518084?f=rss) ⭐️ 7.0/10
 
-On July 17, 2026, China&\#x27;s State Administration for Market Regulation issued a safety announcement specifically for puzzle bead toys, mandating safety requirements for electric iron heating components and establishing standards for products intended for children under 14. Puzzle bead toys have become a massive trend in China, with over 460 billion views on Douyin, and this regulation directly impacts manufacturers and retailers, ensuring child safety and product quality. It also sets a precedent for regulating novel DIY toys that combine electrical appliances. The announcement highlights that many puzzle bead irons on the market have voltage exceeding national standards \(should not exceed 24V\) and lack temperature control, with many being &\#x27;three-no&\#x27; products \(no name, no address, no certification\). The new rules require compliance with toy safety standards for children under 14.
+Yitian Intelligent announced that its wholly-owned subsidiary Gansu Yisuan plans to purchase servers and supporting equipment from multiple suppliers, with a total contract amount not exceeding 2 billion RMB, to provide computing power services to clients. This major investment signals a strategic pivot for a kitchen appliance manufacturer into the AI computing power market, highlighting the growing demand for computing resources amid the AI boom. It also underscores the trend of non-tech companies entering the high-performance computing sector. The purchase does not constitute a major asset restructuring or related-party transaction. Yitian Intelligent cautioned that its computing power business is still in the early stages and its main business remains kitchen appliances like integrated stoves, with no fundamental change in overall operations.
 
-rss · 财新网 · Jul 26, 10:08
+rss · 36氪 · Jul 26, 07:57
 
-**Background**: Puzzle bead toys involve placing small plastic beads on a pegboard to form patterns, which are then fused using a household iron or specialized mini iron. The trend exploded in China in 2025-2026, with offline stores, competitions, and massive online engagement. However, safety concerns arose due to poorly manufactured irons that could overheat or cause electric shocks.
+**Background**: Computing power services involve providing clients with access to high-performance computing resources, often through servers equipped with GPUs or other accelerators, for tasks like AI training and inference. Companies like CoreWeave and various cloud providers offer such services. The expansion of AI has led to a surge in demand for computing power, prompting both tech and non-tech firms to invest in building computing infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.msn.com/zh-cn/news/other/%E5%AE%88%E7%89%A2%E6%8B%BC%E8%B1%86%E5%AE%89%E5%85%A8%E5%BA%95%E7%BA%BF/ar-AA21gaKi">守牢 拼 豆 安 全 底线</a></li>
-<li><a href="https://health.gmw.cn/2026-04/28/content_38736612.htm">风靡DIY圈的 拼 豆 安 全 吗？ 中消协发布重要 安 全 提示 _光明网</a></li>
+<li><a href="https://www.engineering.org.cn/sscae/CN/PDF/10.15302/J-SSCAE-2023.06.006">我国 算 力 服 务 体系构建及路径研究</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002eIllChF7zx2GphULlEecTFyM4MrFGLBbFu6roKpprrI__?vivoBusiness=hiboardnews">AI观察｜ 算 力 饥渴与泡沫</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#regulatory`, `#consumer safety`, `#toys`, `#manufacturing`
+**Tags**: `#战略转型`, `#AI算力`, `#HPC`, `#跨界`, `#厨房电器`
 
 ---
 
 <a id="item-18"></a>
-## [Robot IPOs Surge Despite Lack of Commercial Viability](https://weekly.caixin.com/2026-07-25/102468134.html) ⭐️ 7.0/10
+## [Ford Recalls Over 565,000 Vehicles for Fire Risk](https://36kr.com/newsflashes/3912077033886854?f=rss) ⭐️ 7.0/10
 
-Nearly 50 embodied intelligence companies in China have entered the IPO process on the Hong Kong or A-share markets as of July 2026, with valuations doubling from 100 billion to 200 billion yuan within months, despite no proven commercial viability. This IPO rush signals a potential sector bubble, as investors pour capital into unprofitable robotics firms while global humanoid robot shipments remain at only 20,000 units. If the bubble bursts, it could disrupt China&\#x27;s robotics ecosystem and dampen investor confidence in AI hardware. Unitree Robotics, a leading robotics startup, is expected to achieve a listing valuation of 40 billion yuan on the STAR Market, with some expecting it to exceed 100 billion yuan. However, industry insiders note that no robotics company has yet demonstrated effective operation in real-world production scenarios.
+Ford Motor Company announced the recall of 565,691 Bronco and Bronco Raptor vehicles from the 2021-2026 model years due to an engine bay wiring harness defect that can cause a short circuit and increase the risk of fire. This large-scale recall affects a significant number of vehicles and highlights a serious safety issue that could lead to fires. It may result in substantial repair costs for Ford and potential reputational damage, impacting consumer trust and the company&\#x27;s stock. Ford estimates that approximately 1% of the recalled vehicles have the defect. No accidents or injuries related to this issue have been reported so far.
 
-rss · 财新网 · Jul 26, 09:46
+rss · 36氪 · Jul 26, 06:10
 
-**Background**: Embodied intelligence \(具身智能\) refers to AI systems that can perceive, reason, and interact with the physical world, such as humanoid robots. The STAR Market \(科创板\) is China&\#x27;s Nasdaq-style board for tech startups, launched in 2019. The global humanoid robotics industry is still in its infancy, with mass production and deployment far from mature.
+**Background**: The engine bay wiring harness acts as the vehicle&\#x27;s electrical &\#x27;neural network,&\#x27; connecting the engine, sensors, actuators, and control units. A short circuit in the harness can cause excessive current flow, leading to overheating and potentially igniting nearby flammable materials, which is a common cause of vehicle fires.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zhuanlan.zhihu.com/p/620342675">具身智能 (Embodied AI)概述 - 知乎</a></li>
-<li><a href="https://hellochinatech.com/p/moore-threads-ipo-china-gpu-nvidia">Moore Threads IPO : China &#x27;s $1.1B Bet Against NVIDIA</a></li>
-<li><a href="https://agewellservice.com/2026/04/07/supply-chain-redundancy-national-security-why-efficiency-became-a-strategic-liability/">Supply Chain Redundancy National Security: Why Efficiency ...</a></li>
+<li><a href="https://www.bsqipei.com/part/1189">发 动 机 舱 线 束 -帮手汽配网(好优汽配)</a></li>
+<li><a href="http://dynetec.cn/news/463.html">一例 线 束 短 路 引发的 车 辆 起 火 事故分析</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#robotics`, `#IPO`, `#healthcare`, `#regulatory`, `#sector`
+**Tags**: `#召回`, `#福特`, `#汽车`, `#安全`
 
 ---
 
 <a id="item-19"></a>
-## [Embodied AI Startup Motion Brain Raises Nearly 100M Yuan Pre-A+](https://36kr.com/p/3911162147640456?f=rss) ⭐️ 7.0/10
+## [South Korea&\#x27;s pension fund turns net buyer of KOSPI stocks in July for first time in 2024](https://36kr.com/newsflashes/3911979618849920?f=rss) ⭐️ 7.0/10
 
-Chinese embodied AI startup 眸深智能 \(Motion Brain\) announced a nearly 100 million yuan Pre-A+ funding round led by CITIC-affiliated Jinyue Investment and others, with its valuation growing over 10x in six months. The company also has a nearly 500 million yuan Pre-A+ round closing, following a 300 million yuan Pre-A round in May 2026. This rapid funding and valuation surge signal strong investor confidence in embodied AI, particularly in specialized &\#x27;brain&\#x27; companies that focus on motion intelligence rather than general-purpose models. Motion Brain&\#x27;s technology could significantly reduce robot training data costs and enable cheaper, more capable robots across industries like manufacturing, property management, and retail. Motion Brain&\#x27;s technical approach centers on a &\#x27;World Motion Model&\#x27; that reduces real robot data requirements by 90% by using 80% internet video plus motion capture data. The company has published MLD \(Motion Latent Diffusion\) and MotionGPT, which tokenizes human actions into ~3000 primitives, enabling zero-shot generalization. Its model compression reduces inference cost from 200ms to 10ms and hardware cost from 200,000 yuan to 10,000 yuan.
+South Korea&\#x27;s National Pension Service \(NPS\) and other pension funds became net buyers of KOSPI stocks in July 2024, purchasing 684 billion won \($468 million\) from July 1 to 24, after six consecutive months of net selling. This marks the first net buying month this year. This shift in institutional flow signals a potential change in market sentiment, as the NPS is one of the largest institutional investors in South Korea with over $875 billion in assets. Continued buying could support the KOSPI index and influence retail investor behavior. Top purchases include SK Hynix \(425.8 billion won\) and SK Innovation \(224.7 billion won\), while major sales include SK Square \(575.7 billion won\) and Samsung Electro-Mechanics \(313.6 billion won\). The buying streak has continued for 11 out of 17 trading days in July, and analysts expect the full month to remain net positive.
 
-rss · 36氪 · Jul 26, 01:00
+rss · 36氪 · Jul 26, 04:31
 
-**Background**: Embodied AI refers to AI systems that learn from interacting with the physical world using sensors and machine learning. Unlike traditional AI that only processes data, embodied AI produces actions in the real world. Motion Brain&\#x27;s key innovation is in motion modeling: instead of treating actions as discrete labels, they use latent space diffusion and action tokens, similar to how large language models tokenize words. This approach allows robots to learn physical commonsense from video data rather than expensive real-robot trials.
+**Background**: KOSPI \(Korea Composite Stock Price Index\) is the major stock market index of South Korea, launched in 1983 with a base value of 100. The National Pension Service \(NPS\) is South Korea&\#x27;s largest public pension fund, managing assets of about $875 billion as of September 2024, making its trading activity closely watched by market participants.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/ChenFengYe/motion-latent-diffusion">GitHub - ChenFengYe/motion-latent-diffusion: [CVPR 2023 ...</a></li>
-<li><a href="https://arxiv.org/pdf/2212.04048">motion-latent-diffusion arXiv:2212.04048v3 [cs.CV] 19 May 2023</a></li>
-<li><a href="https://www.techtarget.com/searchenterpriseai/definition/embodied-AI">What Is Embodied AI ? How It Powers Autonomous... | TechTarget</a></li>
+<li><a href="https://www.moneycontrol.com/live-index/kospi?symbol=kr;KSPI">KOSPI - Asian Market - KOSPI Index - KOSPI Market - KOSPI Stocks</a></li>
+<li><a href="https://www.investopedia.com/terms/k/kospi.asp">investopedia.com/terms/k/ kospi .asp</a></li>
+<li><a href="https://investingintheweb.com/blog/largest-public-pension-funds/">Largest Public Pension Funds ranked by Total Assets in 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#funding`, `#AI`, `#robotics`, `#startup`, `#China`
+**Tags**: `#Korea`, `#pension fund`, `#KOSPI`, `#institutional flows`, `#market sentiment`
 
 ---
 
 <a id="item-20"></a>
-## [Musk Warns on SpaceX Short Interest as Tesla Plunges](https://36kr.com/newsflashes/3912221918107015?f=rss) ⭐️ 7.0/10
+## [Tesla Loses Pure EV Sales Crown, Faces Comeback Challenge](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 7.0/10
 
-Tesla&\#x27;s stock plunged 14.5% after a disappointing second-quarter earnings report, wiping out about $214.5 billion in market value. Meanwhile, SpaceX&\#x27;s short interest has risen to 32% of its floated shares since its IPO, prompting Elon Musk to warn that institutional short sellers face a &\#x27;very low probability of survival.&\#x27; This news underscores significant investor risk in both Tesla and SpaceX, with short sellers heavily betting against the latter. The potential merger between the two companies adds further uncertainty and could reshape the electric vehicle and aerospace industries. Tesla&\#x27;s market cap loss of $214.5 billion followed a single-day 14.5% drop after earnings. SpaceX&\#x27;s short interest of 32% means nearly one-third of its freely traded shares are sold short, a very high level. Musk neither confirmed nor denied merger rumors, only stating that business overlap between Tesla and SpaceX is increasing.
+Tesla is no longer the top-selling pure electric vehicle manufacturer, having been surpassed by competitors in recent quarters. The company now faces the challenge of regaining its market leadership. This loss of the sales crown signals intensifying competition in the EV market, especially from Chinese automakers like BYD. Tesla&\#x27;s ability to innovate and adapt will be crucial for its future growth. The article does not specify which competitor took the lead or provide exact sales figures. However, it focuses on Tesla&\#x27;s strategy to bounce back, including potential product updates or price adjustments.
 
-rss · 36氪 · Jul 26, 08:37
+google\_news · 手机新浪网 · Jul 26, 01:15
 
-**Background**: Short selling involves betting that a stock&\#x27;s price will fall. A high short interest can indicate bearish sentiment but also risks a short squeeze if the price rises. Tesla&\#x27;s earnings miss reflects lower-than-expected profit or revenue. SpaceX&\#x27;s recent IPO allows public trading of its shares, making it vulnerable to market sentiment.
+**Background**: Pure electric vehicles \(BEVs\) run solely on battery power, unlike hybrids. Tesla had been the global leader in BEV sales for years, but BYD overtook Tesla in Q4 2023 by delivering more BEVs. The EV market is rapidly evolving with new entrants and technological advances.
 
-**Tags**: `#Tesla`, `#SpaceX`, `#short selling`, `#earnings`, `#market watch`
+**Tags**: `#Tesla`, `#EVs`, `#competition`, `#sales`
 
 ---
