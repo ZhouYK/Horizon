@@ -403,7 +403,7 @@ class HorizonOrchestrator:
             return self.config.sources
 
         try:
-            presets = load_presets()
+            presets = load_presets(prefer_api=False)
         except FileNotFoundError:
             self.console.print("[yellow]⚠️  presets.json not found, skipping preset_domains expansion.[/yellow]")
             return self.config.sources
