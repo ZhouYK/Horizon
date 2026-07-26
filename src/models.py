@@ -20,6 +20,7 @@ class SourceType(str, Enum):
     OSSINSIGHT = "ossinsight"
     GDELT = "gdelt"
     GOOGLE_NEWS = "google_news"
+    AIBASE = "aibase"
 
 
 class SourceDefinition(NamedTuple):
@@ -41,6 +42,7 @@ SOURCE_REGISTRY = {
     SourceType.OSSINSIGHT.value: SourceDefinition("ossinsight"),
     SourceType.GDELT.value: SourceDefinition("gdelt"),
     SourceType.GOOGLE_NEWS.value: SourceDefinition("google_news"),
+    SourceType.AIBASE.value: SourceDefinition("aibase"),
 }
 
 
@@ -371,6 +373,19 @@ class GoogleNewsConfig(BaseModel):
     category: Optional[str] = None
 
 
+class AibaseConfig(BaseModel):
+    """AIbase (aibase.com) news scraper configuration.
+
+    Scrapes the AIbase news list page, which covers AI tools, models, and
+    industry news. No API key is required; the site is publicly accessible.
+    """
+
+    enabled: bool = False
+    max_items: int = 20
+    language: str = "en"  # "en" for English, "zh" for Chinese (aibase.com/zh/news)
+    category: Optional[str] = "ai-news"
+
+
 class SourcesConfig(BaseModel):
     """All sources configuration."""
 
@@ -384,6 +399,7 @@ class SourcesConfig(BaseModel):
     ossinsight: OSSInsightConfig = Field(default_factory=OSSInsightConfig)
     gdelt: Optional[GDELTConfig] = None
     google_news: Optional[GoogleNewsConfig] = None
+    aibase: Optional[AibaseConfig] = None
 
 
 class WebhookConfig(BaseModel):

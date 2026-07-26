@@ -44,7 +44,7 @@
       {
         "name": "LWN.net (subscriber full-text)",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": false,
+        "enabled": true,
         "category": "linux"
       }
     ],
@@ -71,7 +71,7 @@
       "fetch_comments": 5
     },
     "twitter": {
-      "enabled": false,
+      "enabled": true,
       "users": ["karpathy", "ylecun"],
       "fetch_limit": 10,
       "fetch_reply_text": false,
@@ -80,7 +80,7 @@
       "reply_min_likes": 5
     },
     "openbb": {
-      "enabled": false,
+      "enabled": true,
       "fetch_filings": false,
       "filings_provider": "sec",
       "watchlists": [
@@ -95,7 +95,7 @@
       ]
     },
     "ossinsight": {
-      "enabled": false,
+      "enabled": true,
       "period": "past_24_hours",
       "languages": ["All", "Python", "TypeScript"],
       "keywords": [],
@@ -103,7 +103,7 @@
       "max_items": 30
     },
     "gdelt": {
-      "enabled": false,
+      "enabled": true,
       "query": "artificial intelligence",
       "mode": "ArtList",
       "max_records": 75,
@@ -113,13 +113,19 @@
       "category": "news"
     },
     "google_news": {
-      "enabled": false,
+      "enabled": true,
       "query": "artificial intelligence",
       "language": "en",
       "country": "US",
       "ceid": null,
       "max_results": 100,
       "category": "news"
+    },
+    "aibase": {
+      "enabled": true,
+      "max_items": 20,
+      "language": "en",
+      "category": "ai-news"
     },
     "telegram": {
       "enabled": true,

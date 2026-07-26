@@ -24,6 +24,7 @@ from .scrapers.openbb import OpenBBScraper
 from .scrapers.ossinsight import OSSInsightScraper
 from .scrapers.gdelt import GDELTScraper
 from .scrapers.google_news import GoogleNewsScraper
+from .scrapers.aibase import AibaseScraper
 from .ai.client import create_ai_client
 from .ai.analyzer import ContentAnalyzer
 from .ai.summarizer import DailySummarizer
@@ -425,6 +426,11 @@ class HorizonOrchestrator:
             if self.config.sources.google_news and self.config.sources.google_news.enabled:
                 gn_scraper = GoogleNewsScraper(self.config.sources.google_news, client)
                 tasks.append(self._fetch_with_progress("Google News", gn_scraper, since))
+
+            # AIbase news (aibase.com)
+            if self.config.sources.aibase and self.config.sources.aibase.enabled:
+                aibase_scraper = AibaseScraper(self.config.sources.aibase, client)
+                tasks.append(self._fetch_with_progress("AIbase", aibase_scraper, since))
 
             # Fetch all concurrently
             outcomes = await asyncio.gather(*tasks)
