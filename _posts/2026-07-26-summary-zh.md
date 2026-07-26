@@ -5,104 +5,112 @@ date: 2026-07-26
 lang: zh
 ---
 
-> 从 27 条内容中筛选出 4 条重要资讯。
+> 从 136 条内容中筛选出 5 条重要资讯。
 
 ---
 
-1. [vLLM v0.26.0 发布，新增 Inkling 模型家族和性能提升](#item-1) ⭐️ 8.0/10
-2. [开放权重 AI 迎来 Kubernetes 时刻：成熟与采用挑战](#item-2) ⭐️ 8.0/10
-3. [Android 或限制设备端 ADB，引发争议](#item-3) ⭐️ 8.0/10
-4. [苹果游说特朗普采用中国存储芯片，遭美光阻挠](#item-4) ⭐️ 8.0/10
+1. [AMD 确认 Zen 7 服务器 CPU 于 2028 年推出，Zen 8 于 2030 年推出](#item-1) ⭐️ 7.0/10
+2. [DeepSeek 因创始人不满泄密暂停融资](#item-2) ⭐️ 7.0/10
+3. [携程公布 19 项整改措施应对反垄断处罚](#item-3) ⭐️ 6.0/10
+4. [微软将用 TPM 芯片封堵盗版 Windows 激活](#item-4) ⭐️ 6.0/10
+5. [上海交大医学院成立工作组调查科研不端](#item-5) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [vLLM v0.26.0 发布，新增 Inkling 模型家族和性能提升](https://github.com/vllm-project/vllm/releases/tag/v0.26.0) ⭐️ 8.0/10
+## [AMD 确认 Zen 7 服务器 CPU 于 2028 年推出，Zen 8 于 2030 年推出](https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html) ⭐️ 7.0/10
 
-vLLM v0.26.0 引入了对 Thinking Machines Lab 新的 Inkling 模型家族（975B 参数 MoE 模型）的支持，以及 DeepSeek-V4 的显著性能优化和灵活的注意力后端。 此版本通过支持 Inkling 等前沿模型并为 DeepSeek-V4 带来显著性能提升，巩固了 vLLM 作为领先开源 LLM 推理引擎的地位，使研究人员和生产用户均受益。 该版本包含来自 212 位贡献者的 411 次提交，具有通过 head\_dtype 实现的 fp32 lm\_head 支持、每 KV 缓存组的注意力后端选择、KV 卸载改进以及支持多模态视频和音频的 Rust 前端。
+AMD 已正式确认，Zen 7 架构将于 2028 年首次应用于第七代 EPYC &\#x27;Florence&\#x27; 服务器处理器，而 Zen 8 则于 2030 年随第八代 EPYC &\#x27;Ravenna&\#x27; 登场。 这一长期路线图展示了 AMD 对服务器处理器持续创新的承诺，为数据中心和 AI 工作负载提供了至本十年末的清晰性能与效率升级路径。 Zen 7 EPYC &\#x27;Florence&\#x27; 将支持新型 MRDIMM 和 LPDDR 内存以及 AI 计算扩展，并作为 AMD 下一代 &\#x27;Ferrara&\#x27; AI 机架系统的主机 CPU，搭载于 SP7 和 SP8 平台。Zen 8 &\#x27;Ravenna&\#x27; 的制程、核心数量和内存规格等细节尚未公布。
 
-github · khluu · 7月25日 10:38
+telegram · zaihuapd · 7月25日 14:05
 
-**背景**: vLLM 是一个开源的高吞吐量 LLM 推理引擎。新的 Inkling 模型是一个混合专家（MoE）Transformer，总参数 975B，活跃参数 41B，支持高达 1M token 的上下文窗口，并在 45 万亿 token 上进行了训练。分段 CUDA 图和 FlashAttention 4 相对注意力是优化推理性能的技术。
+**背景**: EPYC 是 AMD 的服务器处理器产品线，与 Intel Xeon 竞争。Zen 7 和 Zen 8 是继当前 Zen 5 之后的未来微架构。MRDIMM（多路复用 Rank DIMM）是一种面向 AI 和高性能计算工作负载的高带宽内存技术。AMD SP7 和 SP8 插槽是高端 EPYC 处理器的平台，其中 SP7 已用于 EPYC 9006 系列。&\#x27;Ferrara&\#x27; AI 机架系统是 AMD 面向人工智能基础设施的下一代解决方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our Open-Weights Model - Thinking Machines Lab</a></li>
-<li><a href="https://docs.sglang.io/docs/advanced_features/piecewise_cuda_graph">Piecewise CUDA Graph - SGLang Documentation</a></li>
-<li><a href="https://docs.vllm.ai/en/latest/design/cuda_graphs/">CUDA Graphs - vLLM</a></li>
+<li><a href="https://wccftech.com/amd-zen-7-2028-zen-8-2030-cpu-architectures-confirmed/">AMD Zen 7 &quot;2028&quot; and Zen 8 &quot;2030&quot; CPU Architectures Confirme...</a></li>
+<li><a href="https://www.micron.com/products/memory/dram-modules/mrdimm">MRDIMM | Micron Technology Inc.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#vLLM`, `#LLM inference`, `#performance optimization`, `#model support`, `#open-source`
+**标签**: `#AMD`, `#Zen 7`, `#Zen 8`, `#EPYC`, `#server processors`, `#roadmap`
 
 ---
 
 <a id="item-2"></a>
-## [开放权重 AI 迎来 Kubernetes 时刻：成熟与采用挑战](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) ⭐️ 8.0/10
+## [DeepSeek 因创始人不满泄密暂停融资](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts) ⭐️ 7.0/10
 
-一篇分析文章指出，开放权重 AI 正在成熟，并面临与 Kubernetes 类似的采用挑战，围绕监管、定价和协作开发的辩论日益激烈。文章将 Kubernetes 生态系统与开放权重模型的当前状态进行了类比。 这一视角突显了 AI 开发中潜在的范式转变，开放权重模型可能成为 AI 的标准基础设施，就像 Kubernetes 在云原生应用中的地位一样。这影响到在开放权重领域探索的初创公司、企业和监管机构。 作者建议美国实验室需要以宽松许可证发布前沿级的开放权重模型。社区评论指出按来源禁止模型的挑战以及专有模型定价（代币经济学）的不可预测性。
+DeepSeek 已口头通知部分第二轮投资者暂停签署投资协议，部分原因是创始人梁文锋对网上流传的内部讨论内容感到不满。 这表明中国领先的 AI 初创企业 DeepSeek 可能存在内部治理问题，可能推迟其扩张计划和 IPO 时间表，影响更广泛的 AI 融资格局。 该公司于 2026 年 6 月完成首轮融资，筹集 70 亿美元；暂停的融资轮原计划募资至少 100 亿元人民币（约 14 亿美元），投前估值不低于 4800 亿元人民币（约 670 亿美元）。DeepSeek 已开始筹备 IPO，最快可能在 2026 年内提交申请。
 
-hackernews · tknaup · 7月25日 14:49 · [社区讨论](https://news.ycombinator.com/item?id=49048034)
+telegram · zaihuapd · 7月26日 01:17
 
-**背景**: 开放权重 AI 模型的训练参数（权重）可公开下载和使用，但如果训练数据或代码未公开，它们可能并非完全开源。Kubernetes 是一个开源容器编排平台，在经历了最初的碎片化和商业化挑战后，成为了行业标准。
+**背景**: DeepSeek 是一家中国人工智能公司，由梁文锋于 2023 年 7 月创立，梁文锋同时也是对冲基金 High-Flyer 的首席执行官。该公司于 2025 年初凭借其开源权重模型 DeepSeek-R1 引起全球关注，该模型以极低的训练成本与 GPT-4 相媲美。公司采用混合专家等技术，并在美国芯片出口限制下运营。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://opensource.org/ai/open-weights">Open Weights: not quite what you’ve been told</a></li>
-<li><a href="https://allthings.how/what-is-an-open-weight-ai-model-and-how-to-use-one/">What is an Open Weight AI Model and How to Use One</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek_%28Company%29">DeepSeek (Company)</a></li>
+<li><a href="https://www.bbc.com/news/articles/c5yv5976z9po">What is DeepSeek - and why is everyone talking about it?</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者讨论了按来源禁止模型的可行性（ozgung 认为这在技术上不可行），质疑了专有 AI 定价的波动性（firasd），并建议类似 Linux/Kubernetes 的协作模型开发可以稳定成本（pianopatrick）。一些人还希望像 OpenAI 这样的主要实验室能更频繁地更新模型（drnick1）。
-
-**标签**: `#open-weight AI`, `#Kubernetes`, `#AI regulation`, `#open source`, `#AI economics`
+**标签**: `#DeepSeek`, `#AI funding`, `#generative AI`, `#business news`
 
 ---
 
 <a id="item-3"></a>
-## [Android 或限制设备端 ADB，引发争议](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) ⭐️ 8.0/10
+## [携程公布 19 项整改措施应对反垄断处罚](https://mp.weixin.qq.com/s/6pfOO4iorcdUFb2zLNhFSw) ⭐️ 6.0/10
 
-谷歌正在考虑更改 Android，以限制设备端 Android 调试桥（ADB）的访问，要求启用开发者选项和远程 ADB，作为安全改进的一部分。 此举可能严重影响依赖 ADB 进行调试、测试和侧载应用的开发者，可能会降低灵活性并增加 Android 开发工作流程中的摩擦。 该提案专门针对设备端 ADB（例如无线或基于网络的 ADB），而非 USB ADB，并需要通过开发者设置和启用远程 ADB 获得用户同意；一个限制较少的替代方案是限制对特定接口或 IP 地址的访问。
+2026 年 7 月 25 日，国家市场监督管理总局对携程作出行政处罚并责令整改。携程当日公布 19 项措施，包括停止独家合作和不合理的“全网最低价”要求。 这标志着对大型在线旅游平台的重要反垄断执法，可能重塑中国在线旅游市场的竞争格局，保护商家权益。其他平台也可能面临类似审查。 关键措施包括下线“一级委托分销（特牌）”合作模式、取消“智选特惠”促销活动，并建立新的流量分配机制。携程还将加强反垄断合规体系建设。
 
-hackernews · shscs911 · 7月25日 06:57 · [社区讨论](https://news.ycombinator.com/item?id=49045159)
+telegram · zaihuapd · 7月25日 11:56
 
-**背景**: Android 调试桥（ADB）是一个命令行工具，允许开发者与 Android 设备通信，用于调试、安装应用和运行 shell 命令。它通过 USB 或 TCP 运行，广泛用于开发和定制。拟议的限制旨在关闭潜在的安全漏洞，但批评者认为这破坏了 Android 的开放性，可能将用户推向受限制的生态系统。
+**背景**: 携程是中国最大的在线旅游服务商，在酒店和机票预订领域占据主导地位。独家合作和价格一致性条款（如“在我们平台最低价”）在业内常见，但可能抑制竞争并损害商家利益。近年来，中国反垄断监管机构加强了对大型科技平台的审查。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Android_Debug_Bridge">Android Debug Bridge - Wikipedia</a></li>
-<li><a href="https://developer.android.com/tools/adb">Android Debug Bridge (adb) | Android Studio | Android Developers</a></li>
-<li><a href="https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/">How to Install and Use ADB, the Android Debug Bridge Utility</a></li>
+<li><a href="https://www.163.com/dy/article/L2MNPNAN0550LJ66.html">刚刚 | 携程公布十九项整改措施！| 分 销 |经营|反垄断_网易订阅</a></li>
+<li><a href="https://k.sina.com.cn/article_7879995939_1d5af322301901fdie.html?from=news">刚刚，携程公布19... | 新浪网</a></li>
+<li><a href="https://news.ifeng.com/c/8v35qLWztEm">停止、下线、取消、退还……被重罚后携程宣布整改_凤凰网</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论大多持批评态度：一些人认为攻击向量最小（需要同时启用开发者选项和远程 ADB），而另一些人则认为这是 Google 锁定 Android 的更广泛趋势的一部分，并将其与 iOS 相比。几位评论者对 Google 的动机表示不信任，暗示未来的限制可能需要身份验证或收费。
-
-**标签**: `#Android`, `#ADB`, `#security`, `#developer experience`, `#Google`
+**标签**: `#antitrust`, `#regulation`, `#Ctrip`, `#online travel`, `#platform economy`
 
 ---
 
 <a id="item-4"></a>
-## [苹果游说特朗普采用中国存储芯片，遭美光阻挠](https://www.wsj.com/tech/trump-apple-micron-china-chips-784bbd3d) ⭐️ 8.0/10
+## [微软将用 TPM 芯片封堵盗版 Windows 激活](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html) ⭐️ 6.0/10
 
-苹果正游说特朗普政府，允许在美国以外销售的产品中使用中国长鑫存储（CXMT）和长江存储（YMTC）的存储芯片，以降低生产成本。其主要供应商美光科技对此表示反对。 这一冲突凸显了全球科技巨头在成本压力与美国对华贸易限制之间的两难。结果可能重塑半导体供应链，影响苹果的定价、美光的市场份额以及芯片制造的更广泛地缘政治格局。 苹果正寻求获批使用长鑫存储的 DRAM 芯片和长江存储的 NAND 闪存芯片。游说活动包括 CEO 蒂姆·库克及其他高管直接向特朗普总统、商务部长和财政部长推销。据报道，美光正在施加反压力以保护其业务。
+微软宣布为 KMS 批量激活加入基于 TPM 的硬件认证，要求先验证 KMS 服务器的硬件身份是否经微软认证且未被篡改，然后才允许处理激活请求。该功能将在下一版 Windows Server 中成为强制要求，并从 2026 年 8 月起在 Windows Server 2025 中推送准备提示。 此举可能封堵大量依赖伪造 KMS 服务器的盗版工具，影响大量非法 Windows 激活。不过，猫鼠游戏仍在继续，新方法如 TSforge 很快就被发布以绕过此机制。 TPM 证明机制会验证 KMS 主机的 TPM 身份是否与微软认证一致。微软此前已封死 KMS38 漏洞，TPM 强制措施威胁到 Online KMS 方法，但 Massgrave 的 TSforge 号称能绕过整个 DRM 激活架构。
 
-telegram · zaihuapd · 7月25日 04:02
+telegram · zaihuapd · 7月25日 15:55
 
-**背景**: 长鑫存储是一家成立于 2016 年的中国 DRAM 制造商，总部位于合肥，专注于动态随机存取存储芯片。长江存储是一家中国 NAND 闪存生产商，以其 Xtacking 架构闻名。美光科技是美国主要的存储芯片制造商，也是苹果的关键供应商。美国出口管制目前限制在美国销售的产品中使用某些中国公司的芯片，但对于在其他地区销售的产品规则尚不明确，这为苹果的请求创造了空间。
+**背景**: KMS（密钥管理服务）是企业用于批量激活 Windows 和 Office 的方法，无需连接微软服务器。盗版者长期利用搭建伪造 KMS 服务器来激活未经授权的副本。TPM（可信平台模块）是一种硬件安全芯片，可提供硬件绑定的身份认证，更难被伪造。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8">长鑫存储 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://www.cxmt.com/">长鑫存储</a></li>
-<li><a href="http://chip.com.cn/ymtc.html">长 江 存 储 ( YMTC ) - Glochip.com</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys">Key Management Services ( KMS ) client activation ... | Microsoft Learn</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/tpm-key-attestation">TPM Key Attestation | Microsoft Learn</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#semiconductors`, `#Apple`, `#Micron`, `#trade war`
+**标签**: `#Windows`, `#Security`, `#DRM`, `#TPM`, `#Piracy`
+
+---
+
+<a id="item-5"></a>
+## [上海交大医学院成立工作组调查科研不端](https://www.shsmu.edu.cn/news/info/1023/30895.htm) ⭐️ 6.0/10
+
+2026 年 7 月 26 日，上海交通大学医学院宣布成立专项工作组，调查涉及研究人员仇某的研究论文和新华医院的一项临床研究的相关指控。 此举凸显了中国医疗机构对科研诚信日益重视，表明其维护生物医学研究伦理标准及公众信任的决心。 调查范围涵盖已发表的研究论文及在附属新华医院开展的一项特定临床研究，院方承诺将严肃处理任何违规行为。
+
+telegram · zaihuapd · 7月26日 06:01
+
+**背景**: 科研诚信指在开展和报告研究时遵守伦理原则和专业标准。近年来，中国多起学术不端案例促使高校建立正式调查程序以重建公信力。
+
+**标签**: `#research integrity`, `#investigation`, `#medical research`, `#Shanghai Jiao Tong University`, `#academic misconduct`
 
 ---

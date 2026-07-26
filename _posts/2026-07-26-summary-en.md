@@ -5,104 +5,112 @@ date: 2026-07-26
 lang: en
 ---
 
-> From 27 items, 4 important content pieces were selected
+> From 136 items, 5 important content pieces were selected
 
 ---
 
-1. [vLLM v0.26.0 Released with Inkling Model Family and Performance Boosts](#item-1) ⭐️ 8.0/10
-2. [Open-weight AI&\#x27;s Kubernetes Moment: Maturation and Adoption Challenges](#item-2) ⭐️ 8.0/10
-3. [Android May Restrict On-Device ADB, Stirring Debate](#item-3) ⭐️ 8.0/10
-4. [Apple Lobbies Trump to Use Chinese Memory Chips, Micron Objects](#item-4) ⭐️ 8.0/10
+1. [AMD Confirms Zen 7 EPYC &\#x27;Florence&\#x27; for 2028, Zen 8 for 2030](#item-1) ⭐️ 7.0/10
+2. [DeepSeek pauses funding after leak angers founder](#item-2) ⭐️ 7.0/10
+3. [Ctrip Announces 19 Corrective Measures After Antitrust Penalty](#item-3) ⭐️ 6.0/10
+4. [Microsoft to Use TPM Chips to Block Pirated Windows Activation](#item-4) ⭐️ 6.0/10
+5. [Shanghai Jiao Tong University School of Medicine Investigates Research Papers](#item-5) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [vLLM v0.26.0 Released with Inkling Model Family and Performance Boosts](https://github.com/vllm-project/vllm/releases/tag/v0.26.0) ⭐️ 8.0/10
+## [AMD Confirms Zen 7 EPYC &\#x27;Florence&\#x27; for 2028, Zen 8 for 2030](https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html) ⭐️ 7.0/10
 
-vLLM v0.26.0 introduces support for the new Inkling model family, a 975B-parameter MoE model from Thinking Machines Lab, along with significant DeepSeek-V4 performance optimizations and flexible attention backends. This release strengthens vLLM&\#x27;s position as a leading open-source LLM inference engine by supporting cutting-edge models like Inkling and delivering substantial performance gains for DeepSeek-V4, benefiting both researchers and production users. The release includes 411 commits from 212 contributors, features fp32 lm\_head support via head\_dtype, per-KV-cache-group attention backend selection, KV offloading improvements, and a Rust frontend with multimodal video and audio support.
+AMD has confirmed the Zen 7-based seventh-generation EPYC processor &\#x27;Florence&\#x27; for a 2028 launch, with both Zen 7 and Zen 7c core variants, and previewed the Zen 8 architecture with the eighth-generation EPYC &\#x27;Ravenna&\#x27; planned for 2030. This roadmap gives enterprise and cloud customers long-term visibility into AMD&\#x27;s server processor plans, signaling continued architectural innovation and competition with Intel in the data center. The support for new memory technologies like MRDIMM and AI compute expansion highlights AMD&\#x27;s focus on AI workloads. Florence will support both SP7 and SP8 platforms and is designed for the next-generation &\#x27;Ferrara&\#x27; AI rack system. The chip will introduce support for MRDIMM memory and LPDDR memory, along with AI compute expansion.
 
-github · khluu · Jul 25, 10:38
+telegram · zaihuapd · Jul 25, 14:05
 
-**Background**: vLLM is an open-source high-throughput LLM inference engine. The new Inkling model is a Mixture-of-Experts transformer with 975B total parameters, 41B active, supporting up to 1M token context window and trained on 45 trillion tokens. Piecewise CUDA graphs and FlashAttention 4 relative attention are techniques to optimize inference performance.
+**Background**: AMD&\#x27;s EPYC server processors use the Zen microarchitecture, with each generation bringing performance and efficiency improvements. The &\#x27;c&\#x27; variants \(e.g., Zen 7c\) are optimized for high-density computing with more cores per socket. MRDIMM \(Multiplexed Rank DIMM\) is a new memory technology that increases bandwidth by interleaving data across multiple ranks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/introducing-inkling/">Inkling: Our Open-Weights Model - Thinking Machines Lab</a></li>
-<li><a href="https://docs.sglang.io/docs/advanced_features/piecewise_cuda_graph">Piecewise CUDA Graph - SGLang Documentation</a></li>
-<li><a href="https://docs.vllm.ai/en/latest/design/cuda_graphs/">CUDA Graphs - vLLM</a></li>
+<li><a href="https://www.allaboutcircuits.com/news/what-are-mrdimms-the-memory-tech-server-designers-are-talking-about/">What Are MRDIMMs ? The Memory Tech Server Designers Are...</a></li>
+<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD &quot; Zen &quot; Core Architecture</a></li>
+<li><a href="https://wccftech.com/amd-ryzen-zen-7-could-be-last-zen-family-for-am5-as-zen-8-likely-moving-to-am6/">AMD Ryzen With Zen 7 Cores Could Be The Last &quot;Zen&quot; Family For...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#vLLM`, `#LLM inference`, `#performance optimization`, `#model support`, `#open-source`
+**Tags**: `#AMD`, `#Zen 7`, `#Zen 8`, `#EPYC`, `#server processors`, `#roadmap`
 
 ---
 
 <a id="item-2"></a>
-## [Open-weight AI&\#x27;s Kubernetes Moment: Maturation and Adoption Challenges](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) ⭐️ 8.0/10
+## [DeepSeek pauses funding after leak angers founder](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts) ⭐️ 7.0/10
 
-An analysis argues that open-weight AI is maturing and facing adoption challenges similar to Kubernetes, with debates on regulation, pricing, and collaborative development. The article draws parallels between the Kubernetes ecosystem and the current state of open-weight models. This perspective highlights a potential paradigm shift in AI development, where open-weight models could become the standard infrastructure for AI, much like Kubernetes for cloud-native applications. It affects startups, enterprises, and regulators navigating the open-weight landscape. The author suggests that American labs need to release frontier-grade open-weight models under permissive licenses. Community comments point out challenges in banning models by origin and the unpredictable pricing \(tokenomics\) of proprietary models.
+DeepSeek has orally notified some investors of a pause in its second-round fundraising, partly due to founder Liang Wenfeng&\#x27;s displeasure over leaked internal meeting remarks. This signals potential internal governance issues at a major Chinese AI company, which could slow its growth and affect investor confidence in the competitive AI fundraising landscape. The second round was aiming to raise at least 10 billion RMB at a pre-money valuation of no less than 480 billion RMB, following a $7 billion first round in June 2026 that included Tencent, CATL, and a national AI fund.
 
-hackernews · tknaup · Jul 25, 14:49 · [Discussion](https://news.ycombinator.com/item?id=49048034)
+telegram · zaihuapd · Jul 26, 01:17
 
-**Background**: Open-weight AI models have their trained parameters \(weights\) publicly available for download and use, but they may not be fully open-source if training data or code is withheld. Kubernetes is an open-source container orchestration platform that became the industry standard after initial fragmentation and commercialization challenges.
+**Background**: DeepSeek is a Chinese generative AI company that recently raised a massive $7 billion first round. The pause comes as the company also prepares for an IPO, possibly within 2026. The founder&\#x27;s reaction to leaked remarks highlights challenges in managing internal communication and investor relations amid rapid growth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://opensource.org/ai/open-weights">Open Weights: not quite what you’ve been told</a></li>
-<li><a href="https://allthings.how/what-is-an-open-weight-ai-model-and-how-to-use-one/">What is an Open Weight AI Model and How to Use One</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek_%28Company%29">DeepSeek (Company)</a></li>
+<li><a href="https://www.bbc.com/news/articles/c5yv5976z9po">What is DeepSeek - and why is everyone talking about it?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters debated the feasibility of banning models by origin \(ozgung called it technically impossible\), questioned the volatility of proprietary AI pricing \(firasd\), and suggested that collaborative model development akin to Linux/Kubernetes could stabilize costs \(pianopatrick\). Some also wished for more frequent updates from major labs like OpenAI \(drnick1\).
-
-**Tags**: `#open-weight AI`, `#Kubernetes`, `#AI regulation`, `#open source`, `#AI economics`
+**Tags**: `#DeepSeek`, `#AI funding`, `#generative AI`, `#business news`
 
 ---
 
 <a id="item-3"></a>
-## [Android May Restrict On-Device ADB, Stirring Debate](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) ⭐️ 8.0/10
+## [Ctrip Announces 19 Corrective Measures After Antitrust Penalty](https://mp.weixin.qq.com/s/6pfOO4iorcdUFb2zLNhFSw) ⭐️ 6.0/10
 
-Google is considering a change to Android that would restrict on-device Android Debug Bridge \(ADB\) access, requiring developer options and remote ADB to be enabled, as part of a security improvement. This move could significantly impact developers who rely on ADB for debugging, testing, and sideloading apps, potentially reducing flexibility and increasing friction in Android development workflows. The proposal specifically targets on-device ADB \(e.g., wireless or network-based ADB\), not USB ADB, and requires user consent via developer settings and enabling remote ADB; a less restrictive alternative is to restrict access to certain interfaces or IP addresses.
+On July 25, 2026, Ctrip announced 19 corrective measures following a penalty from the State Administration for Market Regulation, including ending exclusive partnerships and removing &\#x27;lowest price&\#x27; requirements. This marks significant regulatory enforcement in China&\#x27;s online travel market, signaling tighter antitrust scrutiny on platform economy giants and promoting fair competition. The measures include fully discontinuing the first-level authorized distribution \(branded\) model, ending mandatory exclusive deals, removing &\#x27;Smart Selection&\#x27; promotions, and establishing a new traffic allocation mechanism.
 
-hackernews · shscs911 · Jul 25, 06:57 · [Discussion](https://news.ycombinator.com/item?id=49045159)
+telegram · zaihuapd · Jul 25, 11:56
 
-**Background**: Android Debug Bridge \(ADB\) is a command-line tool that allows developers to communicate with Android devices for debugging, installing apps, and running shell commands. It operates via USB or TCP and is widely used in development and customization. The proposed restriction aims to close potential security vulnerabilities, but critics argue it undermines the open nature of Android and may push users toward restricted ecosystems.
+**Background**: Ctrip is China&\#x27;s largest online travel agency, commanding a dominant market share. The regulatory action stems from concerns over anti-competitive practices, such as forcing hotels into exclusive contracts and imposing price parity clauses that stifle competition.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Android_Debug_Bridge">Android Debug Bridge - Wikipedia</a></li>
-<li><a href="https://developer.android.com/tools/adb">Android Debug Bridge (adb) | Android Studio | Android Developers</a></li>
-<li><a href="https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/">How to Install and Use ADB, the Android Debug Bridge Utility</a></li>
+<li><a href="https://news.ifeng.com/c/8v35qLWztEm">停止、下线、取消、退还……被重罚后携程宣布整改_凤凰网</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments are largely critical: some argue the attack vector is minimal \(requires enabling both developer options and remote ADB\), while others see it as part of a broader trend where Google locks down Android, comparing it to iOS. Several commenters express distrust toward Google&\#x27;s motives, suggesting future restrictions may require identity verification or fees.
-
-**Tags**: `#Android`, `#ADB`, `#security`, `#developer experience`, `#Google`
+**Tags**: `#antitrust`, `#regulation`, `#Ctrip`, `#online travel`, `#platform economy`
 
 ---
 
 <a id="item-4"></a>
-## [Apple Lobbies Trump to Use Chinese Memory Chips, Micron Objects](https://www.wsj.com/tech/trump-apple-micron-china-chips-784bbd3d) ⭐️ 8.0/10
+## [Microsoft to Use TPM Chips to Block Pirated Windows Activation](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html) ⭐️ 6.0/10
 
-Apple is lobbying the Trump administration to allow the use of memory chips from Chinese manufacturers ChangXin Memory Technologies \(CXMT\) and Yangtze Memory Technologies \(YMTC\) in products sold outside the U.S., in order to reduce costs. Micron Technology, a key Apple supplier, is opposing the move. This clash highlights the tension between cost-cutting pressures on global tech giants and U.S.-China trade restrictions. The outcome could reshape semiconductor supply chains, affecting Apple&\#x27;s pricing, Micron&\#x27;s market share, and the broader geopolitics of chip manufacturing. Apple is specifically seeking approval to use CXMT&\#x27;s DRAM chips and YMTC&\#x27;s NAND flash chips. The lobbying involves CEO Tim Cook and other executives directly pitching to President Trump, Commerce Secretary, and Treasury Secretary. Micron is reportedly exerting counter-pressure to protect its business.
+Microsoft announced a new TPM-based attestation feature for KMS activation that verifies the hardware identity of KMS servers before allowing volume activation, starting with the next Windows Server release and with a preparatory prompt in Windows Server 2025 from August 2026. This move could shut down widely used KMS-based piracy tools like Online KMS, but the cat-and-mouse game continues as new exploits like TSforge emerge. It represents a significant hardening of Windows activation security that may affect enterprise and consumer piracy alike. The TPM attestation will become mandatory in the next Windows Server version, and starting August 2026, Windows Server 2025 will display preparation warnings. The feature targets KMS exploits that have been used for years, though the Massgrave group&\#x27;s TSforge claims to bypass the entire DRM activation architecture.
 
-telegram · zaihuapd · Jul 25, 04:02
+telegram · zaihuapd · Jul 25, 15:55
 
-**Background**: Long鑫存储 \(CXMT\) is a Chinese DRAM manufacturer founded in 2016 and headquartered in Hefei, focusing on dynamic random-access memory chips. Yangtze Memory Technologies \(YMTC\) is a Chinese NAND flash producer known for its Xtacking architecture. Micron Technology is a major U.S.-based memory chipmaker and a key supplier to Apple. U.S. export controls currently restrict the use of chips from certain Chinese companies in products sold in the U.S., but the rules for products sold elsewhere are less clear, creating an opening for Apple&\#x27;s request.
+**Background**: A Trusted Platform Module \(TPM\) is a hardware security chip that provides tamper-resistant cryptographic functions, such as verifying system integrity and storing encryption keys. KMS \(Key Management Service\) is a volume activation method used by enterprises to activate multiple Windows/Office installations with a local server. Pirated activation tools have long exploited KMS by setting up fake KMS servers to bypass Microsoft&\#x27;s licensing checks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8">长鑫存储 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://www.cxmt.com/">长鑫存储</a></li>
-<li><a href="http://chip.com.cn/ymtc.html">长 江 存 储 ( YMTC ) - Glochip.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Trusted_Platform_Module">Trusted Platform Module - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys">Key Management Services ( KMS ) client activation ... | Microsoft Learn</a></li>
+<li><a href="https://github.com/massgravel/TSforge">GitHub - massgravel/ TSforge : A collection of activation/evaluation...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#geopolitics`, `#semiconductors`, `#Apple`, `#Micron`, `#trade war`
+**Tags**: `#Windows`, `#Security`, `#DRM`, `#TPM`, `#Piracy`
+
+---
+
+<a id="item-5"></a>
+## [Shanghai Jiao Tong University School of Medicine Investigates Research Papers](https://www.shsmu.edu.cn/news/info/1023/30895.htm) ⭐️ 6.0/10
+
+On July 26, 2026, Shanghai Jiao Tong University School of Medicine announced the formation of a dedicated working group to investigate questioned research papers and a clinical study involving researcher Qiu at Xinhua Hospital. This case highlights ongoing concerns about research integrity in Chinese medical institutions and could set a precedent for how universities handle allegations of academic misconduct. The investigation covers both published research papers and a clinical trial conducted at Xinhua Hospital, and the school pledges to take strict action based on findings.
+
+telegram · zaihuapd · Jul 26, 06:01
+
+**Background**: Research integrity refers to adherence to ethical principles and professional standards in conducting and reporting research. In recent years, several high-profile cases of academic misconduct in China have prompted universities to establish formal investigation procedures to restore credibility.
+
+**Tags**: `#research integrity`, `#investigation`, `#medical research`, `#Shanghai Jiao Tong University`, `#academic misconduct`
 
 ---
