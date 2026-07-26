@@ -1,12 +1,25 @@
 services:
+  rsshub:
+    image: diygod/rsshub:latest
+    container_name: rsshub
+    restart: unless-stopped
+    ports:
+      - "1200:1200"
+    environment:
+      - NODE_ENV=production
+      - CACHE_TYPE=memory
+
   horizon:
     build: .
     container_name: horizon
+    depends_on:
+      - rsshub
     volumes:
       - ./data:/app/data
       - ./.env:/app/.env:ro
     environment:
       - TZ=UTC
+      - RSSHUB_BASE_URL=http://rsshub:1200
     restart: "no"
     # Run daily at 8:00 AM UTC (adjust as needed)
     # For one-time run, use: docker compose run --rm horizon

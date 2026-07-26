@@ -13,6 +13,15 @@ jobs:
     permissions:
       contents: write  # Needed to commit changes
 
+    services:
+      rsshub:
+        image: diygod/rsshub:latest
+        ports:
+          - 1200:1200
+        env:
+          NODE_ENV: production
+          CACHE_TYPE: memory
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
@@ -33,6 +42,9 @@ jobs:
       - name: Prepare GitHub Actions config
         run: cp data/config.github.json data/config.json
 
+      - name: Wait for RSSHub to be ready
+        run: sleep 5
+
       - name: Run Horizon
         env:
           # Map secrets to environment variables expected by config.json
@@ -43,6 +55,7 @@ jobs:
           LWN_KEY: ${{ secrets.LWN_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           HORIZON_WEBHOOK_URL: ${{ secrets.HORIZON_WEBHOOK_URL }}
+          RSSHUB_BASE_URL: http://localhost:1200
         run: uv run horizon --hours 24
 
       - name: Set current date as environment variable

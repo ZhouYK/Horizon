@@ -186,7 +186,8 @@
         "categories": ["finance-cn"],
         "report": "stock",
         "preset_domains": ["finance"],
-        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"]
+        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "stock_limit": 5
       }
     },
     "default_group": "other",

@@ -1,6 +1,7 @@
 """Main orchestrator coordinating the entire workflow."""
 
 import asyncio
+import os
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
@@ -418,6 +419,8 @@ class HorizonOrchestrator:
             for s in sources.github
         }
 
+        rsshub_base = os.environ.get("RSSHUB_BASE_URL", "").rstrip("/")
+
         for domain_id, group in all_preset_domains:
             domain = domain_map.get(domain_id)
             if not domain:
@@ -432,6 +435,9 @@ class HorizonOrchestrator:
                 if src_type == "rss":
                     url_template = cfg.get("url_template", "")
                     url = cfg.get("url", "")
+                    if rsshub_base:
+                        url_template = url_template.replace("https://rsshub.app", rsshub_base)
+                        url = url.replace("https://rsshub.app", rsshub_base)
                     name = cfg.get("name", "")
                     category = cfg.get("category")
 
@@ -940,6 +946,7 @@ class HorizonOrchestrator:
 
         selected: List[tuple[ContentItem, str]] = []
         group_counts: Dict[str, int] = defaultdict(int)
+        stock_counts: Dict[str, Dict[str, int]] = defaultdict(lambda: defaultdict(int))
         default_group = filtering.default_group
 
         for item in sorted_items:
@@ -957,6 +964,19 @@ class HorizonOrchestrator:
 
             if limit is not None and group_counts[group_key] >= limit:
                 continue
+
+            # Per-stock limit: cap items per stock within groups that configure stock_limit
+            if group_key in groups:
+                group = groups[group_key]
+                if group.stock_limit is not None and group.stocks:
+                    feed_name = item.metadata.get("feed_name", "")
+                    matched_stock = next(
+                        (s for s in group.stocks if s in feed_name), None
+                    )
+                    if matched_stock is not None:
+                        if stock_counts[group_key][matched_stock] >= group.stock_limit:
+                            continue
+                        stock_counts[group_key][matched_stock] += 1
 
             selected.append((item, group_key))
             group_counts[group_key] += 1

@@ -106,7 +106,6 @@
       {
         "enabled": true,
         "query": "artificial intelligence",
-        "stocks": [],
         "mode": "ArtList",
         "max_records": 75,
         "timespan": null,
@@ -129,7 +128,6 @@
       {
         "enabled": true,
         "query": "artificial intelligence",
-        "stocks": [],
         "language": "en",
         "country": "US",
         "ceid": null,
@@ -177,10 +175,11 @@
       "stocks": {
         "name": "股票资讯",
         "limit": 20,
-        "categories": ["finance-cn"],
+        "categories": ["finance-cn", "finance", "stocks", "investing"],
         "report": "stock",
         "preset_domains": ["finance"],
-        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"]
+        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "stock_limit": 5
       }
     },
     "default_group": "other",
