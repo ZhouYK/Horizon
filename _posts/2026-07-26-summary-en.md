@@ -10,126 +10,66 @@ report: default
 
 ---
 
-1. [Google, AMD, Cloudflare sign open letter on open-weight AI](#item-1) ⭐️ 8.0/10
-2. [AMD confirms Zen 7 EPYC in 2028, Zen 8 in 2030](#item-2) ⭐️ 7.0/10
-3. [Microsoft to use TPM chips to block pirated Windows activation](#item-3) ⭐️ 7.0/10
-4. [DeepSeek pauses funding round after leaked internal talks](#item-4) ⭐️ 7.0/10
-5. [Shanghai Jiao Tong University Probes Research Misconduct](#item-5) ⭐️ 7.0/10
-6. [CXMT to Debut on Shanghai Stock Exchange, Could Become Top A-Share Company by Market Cap](#item-6) ⭐️ 7.0/10
-7. [Next iPad Mini to Be Apple&\#x27;s First Water-Resistant iPad](#item-7) ⭐️ 6.0/10
+1. [DeepSeek Pauses Funding After Founder&\#x27;s Leak Dispute](#item-1) ⭐️ 8.0/10
+2. [Microsoft to use TPM chips to block pirated Windows activation](#item-2) ⭐️ 7.0/10
+3. [CXMT Debuts on Shanghai Stock Exchange, May Top A-Share Market Cap](#item-3) ⭐️ 7.0/10
+4. [Ctrip Announces 19 Corrective Measures After Antitrust Penalty](#item-4) ⭐️ 6.0/10
+5. [AMD confirms Zen 7 EPYC in 2028, Zen 8 in 2030](#item-5) ⭐️ 6.0/10
+6. [Google, AMD, Cloudflare Sign Open Letter Supporting Open-Weight AI](#item-6) ⭐️ 6.0/10
+7. [Shanghai Jiao Tong Medical School Investigates Research Misconduct Allegations](#item-7) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Google, AMD, Cloudflare sign open letter on open-weight AI](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/) ⭐️ 8.0/10
+## [DeepSeek Pauses Funding After Founder&\#x27;s Leak Dispute](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts) ⭐️ 8.0/10
 
-Google, AMD, and Cloudflare have formally signed an open letter endorsing open-weight AI and U.S. AI leadership, joining earlier signatories like Microsoft, Meta, Nvidia, IBM, and OpenAI. This broad industry alignment signals strong corporate consensus around open-weight AI as a strategic priority for U.S. competitiveness, potentially influencing future regulation and investment. The open letter, hosted on Microsoft&\#x27;s corporate responsibility page, includes prominent AI developers and cloud infrastructure providers, but does not specify concrete policy commitments or model release plans.
+DeepSeek has paused its new funding round, originally targeting at least 10 billion yuan, after founder Liang Wenfeng expressed dissatisfaction with leaked internal discussions. This move signals potential internal governance challenges at a leading Chinese AI company, affecting its IPO timeline and investor confidence. DeepSeek had just completed a $7 billion Series A in June 2026 and was preparing for an IPO as early as 2026, with investors including Tencent and CATL.
 
-telegram · zaihuapd · Jul 26, 02:00
+telegram · zaihuapd · Jul 26, 01:17
 
-**Background**: Open-weight AI refers to models whose trained parameters are publicly released, allowing customization and deployment by anyone. Unlike fully open-source AI, open-weight models often withhold training data and code, sparking debate over true openness. The letter advocates for policies that encourage open-weight development to maintain U.S. leadership in AI.
+**Background**: DeepSeek is a prominent Chinese AI startup known for its large language models. The company recently raised significant funds and was preparing for an IPO. The pause in funding follows leaked internal discussions that angered the founder, leading to a reassessment of disclosure processes.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Open-weight_artificial_intelligence">Open-weight artificial intelligence</a></li>
-<li><a href="https://opensource.org/ai/open-weights">Open Weights: not quite what you’ve been told</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#open-weight`, `#policy`, `#industry`
+**Tags**: `#DeepSeek`, `#AI`, `#funding`, `#business`, `#China`
 
 ---
 
 <a id="item-2"></a>
-## [AMD confirms Zen 7 EPYC in 2028, Zen 8 in 2030](https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html) ⭐️ 7.0/10
+## [Microsoft to use TPM chips to block pirated Windows activation](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html) ⭐️ 7.0/10
 
-AMD confirmed that its Zen 7-based EPYC &\#x27;Florence&\#x27; server processors will launch in 2028, and Zen 8-based &\#x27;Ravenna&\#x27; follow in 2030. This long-term roadmap demonstrates AMD&\#x27;s commitment to server innovation, providing enterprises and cloud providers with a clear upgrade path through the end of the decade. Zen 7 &\#x27;Florence&\#x27; will support new MRDIMM and LPDDR memory, include AI acceleration features, and be available on SP7 and SP8 platforms. Detailed specifications for Zen 8 &\#x27;Ravenna&\#x27; have not yet been disclosed.
+Microsoft announced it will require TPM-based hardware attestation for KMS activation in the next Windows Server version, starting from the next version. This new &\#x27;TPM proof&\#x27; mechanism will verify the KMS server&\#x27;s hardware identity before allowing it to process activation requests. This move significantly strengthens enterprise activation security and could render many existing pirated activation tools useless, as they rely on fake KMS servers. It represents a major escalation in Microsoft&\#x27;s ongoing anti-piracy efforts. The TPM attestation will become mandatory from the next version of Windows Server, with a preparatory prompt pushed to Windows Server 2025 starting August 2026. The Massgrave group&\#x27;s Online KMS method, which required semi-annual reconnections, may be completely blocked, though their new TSforge tool claims to bypass the entire DRM architecture.
 
-telegram · zaihuapd · Jul 25, 14:05
+telegram · zaihuapd · Jul 25, 15:55
 
-**Background**: AMD&\#x27;s Zen microarchitecture powers its EPYC server processors, with each generation bringing performance and efficiency improvements. MRDIMM \(Multiplexed Rank DIMM\) is a high-bandwidth memory technology that increases memory throughput. The SP7 socket is AMD&\#x27;s latest server platform, used by current EPYC 9006 series CPUs.
+**Background**: KMS \(Key Management Service\) is a volume activation method used by enterprises to activate Windows clients on their local network. Pirates have long abused fake KMS servers to activate unauthorized copies. TPM \(Trusted Platform Module\) is a dedicated hardware chip that provides identity attestation and is commonly used for security features like BitLocker.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/MRDIMM">MRDIMM</a></li>
-<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD &quot; Zen &quot; Core Architecture</a></li>
-<li><a href="https://www.amd.com/en/products/processors/server/epyc/9006-series.html">AMD EPYC™ 9006 Server CPUs for AI-First Data Centers</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys">Key Management Services (KMS) client activation and product keys | Microsoft Learn</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-activation-planning">Key Management Services (KMS) activation planning for Windows Server | Microsoft Learn</a></li>
+<li><a href="https://massgrave.dev/blog/tsforge">TSforge | MAS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#CPU`, `#Zen`, `#server`, `#roadmap`
+**Discussion**: No community comments were provided for this news item.
+
+**Tags**: `#Windows`, `#TPM`, `#DRM`, `#KMS`, `#piracy`
 
 ---
 
 <a id="item-3"></a>
-## [Microsoft to use TPM chips to block pirated Windows activation](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html) ⭐️ 7.0/10
+## [CXMT Debuts on Shanghai Stock Exchange, May Top A-Share Market Cap](https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut?srnd=phx-technology) ⭐️ 7.0/10
 
-Microsoft announced it will add TPM-based hardware attestation to KMS activation, requiring KMS servers to prove their identity via TPM before processing activation requests. This will be mandatory in the next Windows Server release and will come to Windows Server 2025 with a preparatory notification starting August 2026. This measure could shut down many KMS-based piracy tools that have long relied on emulating KMS servers without hardware validation, affecting enterprise volume activation security and the broader Windows piracy ecosystem. The TPM attestation will be enforced starting from the next Windows Server release, and a preparatory notification will be pushed to Windows Server 2025 from August 2026. Microsoft already blocked the KMS38 exploit in November 2025, and the Massgrave group recently released TSforge, which claims to bypass the entire DRM activation architecture.
-
-telegram · zaihuapd · Jul 25, 15:55
-
-**Background**: TPM \(Trusted Platform Module\) is a hardware security chip that provides cryptographic functions and secure key storage. KMS \(Key Management Service\) is a volume activation method used by enterprises to activate multiple Windows devices with a single key. Pirated activators have long exploited KMS by running fake KMS servers; TPM proof adds hardware identity verification to prevent such spoofing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://assistouest.fr/blog/windows/microsoft-bloque-enfin-kms38-qui-permettait-de-cracker-windows/">Microsoft bloque KMS38 qui permettait d&#x27;activer Windows sans payer</a></li>
-<li><a href="https://github.com/massgravel/TSforge">GitHub - massgravel/ TSforge : A collection of activation /evaluation...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Windows`, `#TPM`, `#DRM`, `#KMS`, `#反盗版`
-
----
-
-<a id="item-4"></a>
-## [DeepSeek pauses funding round after leaked internal talks](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts) ⭐️ 7.0/10
-
-DeepSeek has orally notified some potential second-round investors to pause signing investment agreements, partly due to founder Liang Wenfeng&\#x27;s dissatisfaction with leaked meeting contents. The company had just completed its first funding round in June 2026, raising $7 billion, and this round was planned to raise at least 100 billion yuan with a pre-money valuation of no less than 480 billion yuan. This pause signals the critical importance of data security and internal communication controls for high-profile AI companies, potentially affecting DeepSeek&\#x27;s growth trajectory and the broader Chinese AI funding landscape. It also highlights founder concerns about information leakage impacting investor confidence. DeepSeek may resume funding negotiations later and is also preparing for an IPO, possibly filing an application within 2026. Its first funding round included investors such as Tencent, CATL, and the National Artificial Intelligence Industry Investment Fund.
-
-telegram · zaihuapd · Jul 26, 01:17
-
-**Background**: DeepSeek is a leading Chinese AI company that develops large language models and other AI technologies. The company recently completed a massive first funding round of $7 billion, attracting major institutional investors. This second round was expected to be even larger, aiming to raise at least 100 billion yuan. The pause reflects internal tensions over information security and investor relations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
-<li><a href="https://internetquadrant.com/industry-news/deepseek-7b-funding-ai-model">DeepSeek完成70亿美元首轮巨额融 资 _腾讯宁德时代重 金 入局_AI...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#DeepSeek`, `#AI funding`, `#data security`, `#Chinese AI`, `#business news`
-
----
-
-<a id="item-5"></a>
-## [Shanghai Jiao Tong University Probes Research Misconduct](https://www.shsmu.edu.cn/news/info/1023/30895.htm) ⭐️ 7.0/10
-
-On July 26, 2026, Shanghai Jiao Tong University School of Medicine announced it has formed a working group to investigate allegations of misconduct in a research paper by researcher Qiu Moumou and a clinical trial at Xinhua Hospital. This investigation underscores the institution&\#x27;s commitment to research integrity and could lead to stricter oversight of medical research practices in China, affecting how future studies are conducted and published. The working group was established on the same day the statement was released, and the university promised to handle the matter seriously based on the investigation results. No specific details about the alleged misconduct have been disclosed yet.
-
-telegram · zaihuapd · Jul 26, 06:01
-
-**Background**: Research misconduct, including fabrication, falsification, and plagiarism, undermines scientific integrity and public trust. Universities worldwide have protocols to investigate such allegations, and this case follows growing concerns about research ethics in China.
-
-**Tags**: `#research integrity`, `#investigation`, `#medical research`, `#Shanghai Jiao Tong University`
-
----
-
-<a id="item-6"></a>
-## [CXMT to Debut on Shanghai Stock Exchange, Could Become Top A-Share Company by Market Cap](https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut?srnd=phx-technology) ⭐️ 7.0/10
-
-CXMT, China&\#x27;s leading DRAM manufacturer, completed a record 66.6 billion yuan IPO and will list on the Shanghai Stock Exchange. Its initial market cap is about 580 billion yuan, with retail subscription oversubscribed 212 times. This IPO highlights China&\#x27;s strategic push for self-sufficiency in memory chips. If CXMT&\#x27;s market cap surpasses Industrial and Commercial Bank of China, it would become the most valuable A-share company, signaling investor confidence in domestic semiconductor champions. The IPO price is 8.66 yuan per share with an initial valuation about 56% lower than global DRAM peers and 77% lower than domestic chip peers. Huaxi Securities projects CXMT&\#x27;s market cap could reach 5 trillion yuan by 2028.
+ChangXin Memory Technologies \(CXMT\), China&\#x27;s largest DRAM manufacturer, will list on the Shanghai Stock Exchange on July 27, 2026, after completing a record 66.6 billion yuan IPO, the largest on A-shares since 2010. CXMT&\#x27;s listing could make it the highest market cap company on the A-share market, underscoring China&\#x27;s push for semiconductor self-sufficiency and reshaping the global memory supply chain dynamics. The IPO price was set at 8.66 yuan per share, giving an initial market cap of about 580 billion yuan; retail subscription was oversubscribed 212 times, freezing 7.07 trillion yuan in funds. Analysts expect a 330% surge in the first week to surpass ICBC&\#x27;s market cap.
 
 telegram · zaihuapd · Jul 26, 07:31
 
-**Background**: DRAM \(Dynamic Random Access Memory\) is a type of semiconductor memory widely used in computers and servers. CXMT is China&\#x27;s only fully integrated DRAM IDM \(Integrated Device Manufacturer\), meaning it designs and manufactures its own chips. The company was founded in 2016 and operates three 12-inch wafer fabs.
+**Background**: DRAM \(Dynamic Random Access Memory\) is a type of semiconductor memory used in computers and mobile devices. An IDM \(Integrated Device Manufacturer\) designs, manufactures, and sells its own chips, unlike fabless companies that rely on third-party foundries. CXMT is China&\#x27;s leading DRAM IDM, competing with global giants like Samsung, SK hynix, and Micron.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ashareinsights.com/changxin-technologys-giant-ipo-a-catalyst-for-global-dram-and-hbm-realignment/">CXMT&#x27;s $8B IPO: Inside China&#x27;s Biggest DRAM Listing of 2026</a></li>
+<li><a href="https://semiconductorx.com/fabs-dram.php">DRAM Fabs: Samsung, SK hynix, Micron, CXMT - SemiconductorX</a></li>
+<li><a href="https://semiconductor.samsung.com/support/tools-resources/dictionary/semiconductor-glossary-integrated-device-manufacturer-idm/">IDM (Integrated Device Manufacturer) | Samsung Semiconductor Global</a></li>
 
 </ul>
 </details>
@@ -138,23 +78,80 @@ telegram · zaihuapd · Jul 26, 07:31
 
 ---
 
-<a id="item-7"></a>
-## [Next iPad Mini to Be Apple&\#x27;s First Water-Resistant iPad](https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/) ⭐️ 6.0/10
+<a id="item-4"></a>
+## [Ctrip Announces 19 Corrective Measures After Antitrust Penalty](https://mp.weixin.qq.com/s/6pfOO4iorcdUFb2zLNhFSw) ⭐️ 6.0/10
 
-A rumor claims the next iPad mini, expected before October 2026, will be Apple&\#x27;s first water-resistant iPad, featuring a vibrating speaker system that eliminates speaker grilles and an 8.4-inch OLED display. This would mark a significant design shift for iPads, bringing water resistance comparable to iPhones, which could expand use cases in wet environments. The OLED upgrade also promises better display quality for a compact tablet. The vibrating speaker technology is based on a 2014 Apple patent, and the IP rating is not yet disclosed. The OLED panel is 8.4 inches at 60 Hz, supplied by Samsung Display, and the chip may be A19 Pro or A20 Pro. The price could be $100 higher than the current $599 model.
+On July 25, 2026, China&\#x27;s State Administration for Market Regulation fined Ctrip for antitrust violations. Ctrip responded by announcing 19 corrective measures, including ending exclusive partnerships and removing unreasonable &\#x27;lowest price&\#x27; requirements. This marks a significant step in China&\#x27;s platform economy antitrust enforcement, signaling stricter regulations for online travel agencies. The measures aim to restore fair competition and protect hotel merchants from coercive practices. Key measures include discontinuing the &\#x27;special brand&\#x27; delegated distribution model, canceling promotional categories like &\#x27;Smart Choice Special Offer,&\#x27; and refunding 122 million yuan in deposits. Ctrip also pledged to overhaul its traffic allocation mechanism and strengthen antitrust compliance.
 
-telegram · zaihuapd · Jul 26, 06:46
+telegram · zaihuapd · Jul 25, 11:56
 
-**Background**: Currently, no iPad model has an official IP rating for water resistance, unlike iPhones which have been water-resistant since the iPhone 7. The speaker grilles and openings are major entry points for water, so vibrating speaker technology could seal those openings. OLED displays offer deeper blacks and better contrast compared to LCDs used in current iPad minis.
+**Background**: Ctrip is a dominant online travel agency in China, controlling a large share of hotel booking market. In 2026, the antitrust authority found that Ctrip abused its market power by forcing hotels into exclusive agreements and mandating the lowest prices across platforms, which harmed competition and merchant autonomy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.chesona.com/blogs/buy-guides/is-ipad-waterproof">Is iPad Waterproof? The Truth About Apple&#x27;s Water Resistance</a></li>
-<li><a href="https://www.xda-developers.com/is-ipad-pro-waterproof/">Is the iPad Pro 2021 Waterproof? How do I protect it from water ?</a></li>
+<li><a href="https://www.163.com/dy/article/L2MNPNAN0550LJ66.html">刚刚 | 携程公布十九项整改措施！| 分 销 |经营|反垄断_网易订阅</a></li>
+<li><a href="https://news.qq.com/rain/a/20260726A050HM00">携程因反垄断被罚没51.79亿元，回应称将全面整改_腾讯新闻</a></li>
+<li><a href="https://www.samr.gov.cn:7280/xw/mtjj/art/2026/art_8132bae590874c9b9c729479595a8537.html">市场监管总局对携程实施垄断行为依法作出 行政处罚</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#iPad`, `#Apple`, `#rumor`, `#water resistance`, `#OLED`
+**Tags**: `#反垄断`, `#携程`, `#平台经济`, `#合规`
+
+---
+
+<a id="item-5"></a>
+## [AMD confirms Zen 7 EPYC in 2028, Zen 8 in 2030](https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html) ⭐️ 6.0/10
+
+AMD has confirmed that its Zen 7-based EPYC &\#x27;Florence&\#x27; processors will launch in 2028, and Zen 8-based EPYC &\#x27;Ravenna&\#x27; is planned for 2030. The company also previewed Zen 7c cores and support for MRDIMM and LPDDR memory, as well as AI compute extensions, with Florence serving as the host CPU for the next-gen &\#x27;Ferrara&\#x27; AI rack system. This roadmap extends AMD&\#x27;s server CPU trajectory five years into the future, signaling sustained competition with Intel and NVIDIA in enterprise and AI workloads. The planned support for next-generation memory and AI acceleration positions AMD to address growing demands in high-performance computing and large-scale AI deployments. Zen 7 EPYC Florence will offer both standard Zen 7 and compute-optimized Zen 7c cores, and will be the first EPYC family to support MRDIMM and LPDDR memory standards. The processors are compatible with existing SP7 and SP8 platforms, and will be used in AMD&\#x27;s next-gen &\#x27;Ferrara&\#x27; AI rack system, which also includes a &\#x27;Fidenza&\#x27; sandbox for large-scale AI deployments.
+
+telegram · zaihuapd · Jul 25, 14:05
+
+**Background**: AMD&\#x27;s EPYC server processors are based on the Zen microarchitecture, which uses a chiplet design to scale core counts. MRDIMM \(Multiplexed Rank DIMM\) is an evolution of DDR5 memory that doubles data rate per pin to address bandwidth constraints in servers. Zen 7c is a compute-optimized variant of the Zen 7 core, similar to previous &\#x27;c&\#x27; variants for high-density computing. The &\#x27;Ferrara&\#x27; AI rack system is AMD&\#x27;s upcoming platform to compete with NVIDIA&\#x27;s AI infrastructure, following the earlier &\#x27;Helios&\#x27; system.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://wccftech.com/amd-zen-7-2028-zen-8-2030-cpu-architectures-confirmed/">AMD Zen 7 &quot;2028&quot; and Zen 8 &quot;2030&quot; CPU Architectures Confirmed - EPYC Florence &quot;Zen 7&quot; To Feature Next-Gen Node, &amp; ACE Extensions</a></li>
+<li><a href="https://lenovopress.lenovo.com/lp2028-introduction-to-mrdimm-memory-technology">Introduction to MRDIMM Memory Technology &gt; Lenovo Press</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zen_%28microarchitecture%29">Zen (microarchitecture) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AMD`, `#Zen`, `#EPYC`, `#server processors`, `#roadmap`
+
+---
+
+<a id="item-6"></a>
+## [Google, AMD, Cloudflare Sign Open Letter Supporting Open-Weight AI](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/) ⭐️ 6.0/10
+
+Google, AMD, Cloudflare, and other major technology companies have formally signed an open letter advocating for open-weight artificial intelligence models and affirming U.S. leadership in AI development. This broad industry endorsement signals growing consensus around open-weight AI, which could influence policy and promote transparency and accessibility in AI. It also strengthens the position of open-weight models against proprietary systems. The open letter was previously signed by companies including OpenAI, and now expands to include Google, AMD, and Cloudflare. The letter emphasizes the importance of open-weight models for innovation, security, and democratic access to AI capabilities.
+
+telegram · zaihuapd · Jul 26, 02:00
+
+**Background**: Open-weight AI models are machine learning models whose trained parameters \(weights\) are publicly released, allowing developers to fine-tune, self-host, and customize them. This approach contrasts with closed models where only API access is provided. Supporters argue open-weight models foster innovation and enable local deployment, especially where data privacy is critical.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/global-affairs/open-weights-and-ai-for-all/">Open weights and AI for all | OpenAI</a></li>
+<li><a href="https://openai.com/open-models/">Open models by OpenAI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Open Source`, `#Industry`, `#Open Weight Models`, `#Policy`
+
+---
+
+<a id="item-7"></a>
+## [Shanghai Jiao Tong Medical School Investigates Research Misconduct Allegations](https://www.shsmu.edu.cn/news/info/1023/30895.htm) ⭐️ 6.0/10
+
+On July 26, 2026, Shanghai Jiao Tong University School of Medicine announced it has formed a special working group to investigate allegations of research misconduct against a researcher and a clinical study at its affiliated Xinhua Hospital. This investigation underscores the importance of research integrity in Chinese medical institutions and may set a precedent for handling similar allegations. It highlights the growing public scrutiny of academic ethics. The allegations involve both published research papers and a clinical study. The school stated it will conduct a thorough investigation and handle the matter seriously, reaffirming its commitment to research ethics.
+
+telegram · zaihuapd · Jul 26, 06:01
+
+**Background**: Research misconduct includes fabrication, falsification, and plagiarism. Chinese universities have faced pressure to improve research integrity after several high-profile cases. Shanghai Jiao Tong University School of Medicine is a leading medical institution in China.
+
+**Tags**: `#research misconduct`, `#medical ethics`, `#investigation`, `#academic integrity`
 
 ---

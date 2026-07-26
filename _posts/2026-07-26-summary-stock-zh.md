@@ -10,376 +10,391 @@ report: stock
 
 ---
 
-1. [比亚迪 10 款车型将搭载 5 分钟快充技术](#item-1) ⭐️ 9.0/10
-2. [比亚迪进军日本车市，壁垒松动](#item-2) ⭐️ 8.0/10
-3. [特斯拉失去纯电销冠，竞争加剧](#item-3) ⭐️ 8.0/10
-4. [比亚迪大汉官宣续航 1008 公里，颠覆 D 级车市场](#item-4) ⭐️ 8.0/10
-5. [比亚迪发布 11 款新车，1000 公里续航纯电上市](#item-5) ⭐️ 7.0/10
-6. [比亚迪宣布 5 月 1 日起车辆涨价](#item-6) ⭐️ 7.0/10
-7. [比亚迪将推出大电池超快充新车，改写 13 万以上标准](#item-7) ⭐️ 7.0/10
-8. [比亚迪在关键海外市场超越特斯拉](#item-8) ⭐️ 7.0/10
-9. [比亚迪二代电池引爆 2026 年价格战](#item-9) ⭐️ 7.0/10
-10. [比亚迪 2026 新车规划泄露，多款车型曝光](#item-10) ⭐️ 6.0/10
-11. [比亚迪被呼吁遏制后市场“外挂”装置虚标纯电续航](#item-11) ⭐️ 6.0/10
-12. [比亚迪发布三款网约车新车型](#item-12) ⭐️ 6.0/10
-13. [中国中免跌近 3%，受上半年收入压力拖累](#item-13) ⭐️ 6.0/10
-14. [比亚迪在澳超越起亚，海狮 07 销量超 Model Y](#item-14) ⭐️ 6.0/10
-15. [比亚迪海狮 08 前瞻：纯电插混双选择，起售价 24.88 万元](#item-15) ⭐️ 6.0/10
-16. [中国 L2 辅助驾驶新国标落地，比亚迪天神之眼超标准](#item-16) ⭐️ 6.0/10
-17. [电池拆解揭示特斯拉 Model 3 与比亚迪汉之间 5 万元成本差距](#item-17) ⭐️ 6.0/10
-18. [比亚迪宋 Ultra EV 实测 5 分钟充至 70%](#item-18) ⭐️ 6.0/10
-19. [比亚迪与宁德时代竞逐超快充技术](#item-19) ⭐️ 6.0/10
-20. [比亚迪发布新款 B 级轿跑，售价约 10 万元](#item-20) ⭐️ 6.0/10
+1. [印度对比亚迪开出 6.3 亿罚单，引发争议](#item-1) ⭐️ 8.0/10
+2. [比亚迪发布第二代刀片电池和闪充技术，首搭 10 款新车](#item-2) ⭐️ 8.0/10
+3. [比亚迪发布 11 款新车，包括续航超 1000 公里的纯电车](#item-3) ⭐️ 8.0/10
+4. [比亚迪进军电驴市场，售价 3000 元](#item-4) ⭐️ 8.0/10
+5. [比亚迪进军日本汽车市场，贸易壁垒松动](#item-5) ⭐️ 7.0/10
+6. [特斯拉失去纯电销冠，如何翻盘？](#item-6) ⭐️ 7.0/10
+7. [中国中免跌近 3%，因上半年收入预期承压](#item-7) ⭐️ 7.0/10
+8. [比亚迪宋 PLUS DM-i 荣耀版上市，降价 2 万元](#item-8) ⭐️ 7.0/10
+9. [比亚迪谍照暗示 1000kW 闪充和 1000 公里续航](#item-9) ⭐️ 7.0/10
+10. [比亚迪在迪空间预热人形机器人，八月初亮相](#item-10) ⭐️ 6.0/10
+11. [工信部点赞比亚迪第二代刀片电池与闪充技术](#item-11) ⭐️ 6.0/10
+12. [比亚迪插混续航作弊器引发监管担忧](#item-12) ⭐️ 6.0/10
+13. [比亚迪领汇品牌首发三车，瞄准网约车三大赛道](#item-13) ⭐️ 6.0/10
+14. [比亚迪宣布 5 月 1 日起涨价](#item-14) ⭐️ 6.0/10
+15. [比亚迪在澳洲超越起亚，海狮 07 销量超 Model Y](#item-15) ⭐️ 6.0/10
+16. [中国 L2 驾驶新标准确立比亚迪领先地位](#item-16) ⭐️ 6.0/10
+17. [比亚迪在法国推出 ATTO 2 电动 SUV，售价 28990 欧元](#item-17) ⭐️ 6.0/10
+18. [比亚迪 3-4 月新车矩阵：大电池+超快充，改写 13 万以上市场标准](#item-18) ⭐️ 6.0/10
+19. [特斯拉 Model 3 与比亚迪汉电池拆解：5 万元成本差距](#item-19) ⭐️ 6.0/10
+20. [比亚迪宋 Ultra EV 实测 5 分钟闪充至 70%](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [比亚迪 10 款车型将搭载 5 分钟快充技术](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WE1jc1Ywa1R0Y2YwZGJ2YzFxVlpucHFZQXYwYWVTVlBya3c3VjNWOUNVU0RPZUV1NWl2WmdST3F3UmdoRjBaeURDdmdHeWlFTFMxTVU5a2x1cW8?oc=5) ⭐️ 9.0/10
+## [印度对比亚迪开出 6.3 亿罚单，引发争议](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaUJPbnFpanpycFA5aXA4MHRmYkdKXzBLU0RVaThWakh3T2hXUVZRVzdaT0tlcWgzQ05LMmJITncyRk5rQUlrR1lIaUtfQU1aSTZpS2dpY2cydTA?oc=5) ⭐️ 8.0/10
 
-比亚迪发布了第二代刀片电池和闪充技术，可实现 10%至 70%电量约 5 分钟充电，并率先搭载于 10 款车型。 这一突破大幅缩短了充电时间，解决了电动汽车普及的关键障碍，增强了比亚迪相对于特斯拉和蔚来等竞争对手的竞争力。 第二代刀片电池采用 LMFP 正极、硅碳负极和闪流电解液，实现快速充电和高能量密度，容量衰减较第一代降低 2.5%。
+印度以涉嫌逃税为由，对比亚迪处以 6.3 亿卢比（约合 760 万美元）的罚款。 这项罚款可能扰乱比亚迪在印度这一关键新兴市场的扩张计划，并进一步加剧印中之间的贸易紧张关系。 据报道，这笔罚款是因为比亚迪少缴了运往印度的零部件的进口税；比亚迪否认有任何不当行为，并计划提出申诉。
 
-google\_news · 汽车之家 · 7月26日 01:20
+google\_news · 风闻 · 7月26日 00:32
 
-**背景**: 刀片电池是比亚迪开发的锂离子电池技术，以其安全性和空间效率著称。闪充是一种专有超快充电技术，需要兼容的硬件，有别于更通用的标准快充。
+**背景**: 比亚迪是一家重要的中国电动汽车制造商，正在全球扩张。在边境紧张局势和贸易争端的背景下，印度加强了对中国企业的审查。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://insideevs.com/news/789094/byd-second-generation-blade-battery/">BYD’s Second-Generation Blade Battery Makes Western EV Tech Look Ancient</a></li>
-<li><a href="https://www.zonsanpower.com/blog/fast-charging-vs-flash-charging-what-s-the-difference-and-why-it-matters-for-your-devices.html">Fast charging vs flash charging: What’s the difference？</a></li>
-
-</ul>
-</details>
-
-**标签**: `#BYD`, `#EV`, `#technology`, `#automotive`
+**标签**: `#regulatory`, `#automotive`, `#emerging markets`, `#trade tensions`, `#fine`
 
 ---
 
 <a id="item-2"></a>
-## [比亚迪进军日本车市，壁垒松动](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk9iVkgwRTl4WG1SZGEzRkQweFNrRXJNZDc2Z3N1SlFxQzEwOTNTNE51NEJYMDQ1UTJ5RjhNWWdzdDFBODQ3M3o3T1FUd3NRaUQ4ZDlfQ05wX2dpVW9TSXAzdDJGSWdTRmZyeHZXR0VVX2NQMk8wT0NOLXhkNnc2aEJpblBsWUdhbWtrUlBSclB1UHRmQXRiLQ?oc=5) ⭐️ 8.0/10
+## [比亚迪发布第二代刀片电池和闪充技术，首搭 10 款新车](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54OTRRTWZVOXh0Uko5d084UjJfZWRneHFjZ1JGU2hQY01hQnNjbXZiTjBhOGFTWTNMUUpWSlNhaENUa0JvaDJ2RTFlXzg3bVI3c2lGdUpSMTUxc1c0S1E?oc=5) ⭐️ 8.0/10
 
-中国领先的电动汽车制造商比亚迪，在日本汽车贸易壁垒出现松动迹象之际，开始进军该国车市。 这一扩张可能显著提升比亚迪的全球市场份额和收入，同时在本土市场加剧对日本传统车企的竞争。 该消息发布之际，日本此前封闭的汽车市场正在开放，比亚迪正利用其电动汽车技术立足。
+比亚迪于 2026 年 3 月 5 日发布了第二代刀片电池和闪充技术，将率先搭载于 10 款新车型。该技术可实现 5 分钟充电至 70%，续航里程超过 1000 公里（CLTC 工况）。 这项创新解决了电动汽车普及的两大障碍：充电慢和续航焦虑。比亚迪的突破可能加剧电动汽车市场竞争，并加速全球向电动出行转型。 第二代刀片电池采用磷酸铁锂（LFP）化学体系，能量密度达 210 Wh/kg。闪充技术支持 1500 kW 峰值功率，5 分钟充电至 70%，9 分钟充满，同时电池在超过 300°C 温度下仍保持热安全。
 
-google\_news · finance.sina.com.cn · 7月26日 06:21
+google\_news · 汽车之家 · 7月26日 01:16
 
-**背景**: 由于严格的法规和强大的品牌忠诚度，日本汽车市场长期以来被认为对外国车企难以进入。比亚迪是一家主要的中国电动汽车制造商，一直在向全球扩张，包括欧洲和东南亚。此次进入日本市场，是其向一个关键发达市场发起的战略推进。
+**背景**: 比亚迪第一代刀片电池于 2020 年推出，以安全性和长寿命著称。闪充技术基于比亚迪的 1000V 高压平台（2025 年超级 e 平台），实现了兆瓦级充电速度。新款电池包集成了电池和充电系统的改进，达到了创纪录的性能。
 
-**标签**: `#BYD`, `#Japan auto market`, `#electric vehicles`, `#market expansion`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD’s new Blade EV Battery 2.0 unlocks 1,000+ km pure ...</a></li>
+<li><a href="https://www.byd.com/mea/news-list/BYD+Unveils+2nd+Generation+Blade+Battery+and+FLASH+Charging+Technology">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
+<li><a href="https://evseekers.com/byd-fast-charging-explained/">BYD Fast Charging Explained: How Flash Charging Works</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#EV`, `#battery technology`, `#product launch`, `#sector`
 
 ---
 
 <a id="item-3"></a>
-## [特斯拉失去纯电销冠，竞争加剧](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 8.0/10
+## [比亚迪发布 11 款新车，包括续航超 1000 公里的纯电车](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
 
-特斯拉失去了全球纯电动汽车销量冠军的位置，被中国电动汽车制造商比亚迪超越。 这一转变标志着电动汽车市场格局的重大变化，凸显了中国汽车制造商的迅速崛起以及特斯拉面临日益激烈的竞争。 该新闻指的是纯电动汽车（BEV），不包括插电式混合动力车，反映了特斯拉自现代电动汽车时代开始以来首次失去销量领先地位。
+比亚迪在一次大型产品攻势中发布了 11 款新车，其中包括一款搭载第二代刀片电池、CLTC 续航超过 1000 公里的纯电动车型。 新款刀片电池 2.0 采用 LMFP 化学体系，支持 10C 快充，可实现 10 分钟充电。e 平台 3.0 集成了电池、驱动系统和热泵，提升了效率。
+
+google\_news · 汽车之家 · 7月25日 20:30
+
+**背景**: 比亚迪是中国领先的汽车制造商，以其安全性和能量密度高的刀片电池闻名。第二代刀片电池（2.0）采用 LMFP（磷酸锰铁锂）化学体系，提升了续航和充电速度。e 平台 3.0 是比亚迪先进的电动汽车架构，集成了关键部件以实现更优性能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD Blade Battery 2.0 delivers 1,000+ km of EV range</a></li>
+<li><a href="https://bydcarchina.com/byd-blade-battery-2-0-explained-the-chemistry-behind-1000-km-range-and-9-minute-charging/">BYD Blade Battery 2.0: 10C Charging &amp; 1000km Range</a></li>
+<li><a href="https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/">BYD Seal 08 debuts with Blade Battery 2.0: 1,000 km range, 5 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#EV`, `#product launch`, `#China`, `#auto industry`
+
+---
+
+<a id="item-4"></a>
+## [比亚迪进军电驴市场，售价 3000 元](https://news.google.com/rss/articles/CBMia0FVX3lxTE5DZ0dZZ2pUSGhQS2NDS0xUVWZhRHByMmJlaFBENXFoZk5BTkotOHRFaURRd0YxbEF2UzJsb1VoTXJHVWdmYnJnS1JzMGxtckR2VjVmNmhSNjRFcEhLSHJ3NGNVSEhGOVdidHlv?oc=5) ⭐️ 8.0/10
+
+比亚迪，一家主要的电动汽车制造商，宣布以 3000 元的价格进入电动滑板车市场。 此举可能利用比亚迪的电池技术和规模优势颠覆电动滑板车市场，迫使竞争对手降价并创新。 3000 元的售价远低于许多现有电动滑板车，比亚迪的品牌知名度可能加速产品普及。
+
+google\_news · 汽车之家 · 7月26日 02:43
+
+**背景**: 电动滑板车在中国常被称为“电驴”，是一种受欢迎且价格实惠的交通工具。比亚迪以其电动汽车和电池闻名，此次扩张是其主导电动出行领域更广泛战略的一部分。
+
+**标签**: `#expansion`, `#electric-vehicles`, `#consumer-market`, `#competition`
+
+---
+
+<a id="item-5"></a>
+## [比亚迪进军日本汽车市场，贸易壁垒松动](https://news.google.com/rss/articles/CBMixARBVV95cUxOeG1hQ0tWXzJ2NFIwM0VPS3YyaUppRUUxblhtQU5sd1ZBTy1xaWdEaXNxRXJwN0FwWkN6WkxnMktEeG1kTHp4NDZDMUkySlFjNUdjUXBwWmU1UTZoM2pidHBFem1pUGExZC1PUDNXZzM5cC1ON3ZZcWtDVUZwcHdZdVotOG5kWWhqQUR6bWVMSm9HZHliR1J2RFZYeEdqUHlRelpTN3JJTEJENEVuOXhaeXJVYjdkVkMyQmlRN0poUzhhNWRkRGxhLVRWQ0ZqVnJQQ2hoX2hFckZYa1BYY0VQV29tU1lMc0w4N2pxX2tJbkRpX3VzRlVfdldJM1hLY0YzV0ozc1NETjl5bVJxMjZYb09INC11aERtWjZRTTItdzdTcW43YzJlS1B2YzdwVFMyMUR6OEZUY2JjaWlMTENETG5seUtYSVFEajY0SGxZdnl1MDJBcGlMU2lYWWNrU2RrbFdiU3pkTklmR3VpVnVSV0ZsZ3N5TjJKbG5Wd0lJSzh6ck5UWFpWcGpORnVTN2lWYmlIM3RHYV84Nlp6VmpFMkh4cHdIaVBrLXRTRXFMYm1DOTNHeWxTcDYxWFZPSXBJMFpGQkJsV29rWV8yd3hON3BUanhxSGFnTE5kdG9ELWNIVGJCOUNnTUI5amEyYm1vOGpldmJpTGtCaEFrcGN4eThPZThWN0x0cVBHc3JDVXFuVDhIVExSemxBRHViTzM2REpZZ2JUZDRKUVFuWFhkOGVBMmNEQjFmMGlxcDNOVGxnd2ZK?oc=5) ⭐️ 7.0/10
+
+中国领先的电动汽车制造商比亚迪正准备进入历史上保护性极强的日本汽车市场，因为贸易壁垒开始松动。这标志着比亚迪向一个由丰田、本田等本土巨头主导的市场进行重大扩张。 比亚迪进入日本可能扰乱当地汽车行业，并加速电动汽车在日本的普及，而日本在电动汽车普及方面一直较为缓慢。这也标志着比亚迪战略转变，加强其在全球（超越中国和欧洲）的存在。 新闻中未提供具体的财务数字或日期。不过，日本行业团体对比亚迪进入微型车市场表示欢迎，显示出潜在的合作机会。
+
+google\_news · finance.sina.com.cn · 7月26日 02:32
+
+**背景**: 由于严格的监管、强大的本土品牌和消费者忠诚度，日本汽车市场长期以来一直被认为对外国汽车制造商难以进入。比亚迪作为中国电动汽车制造商，一直在全球扩张，进入了欧洲和东南亚等市场。日本贸易壁垒的松动可能带来新的机遇。
+
+**标签**: `#BYD`, `#Japan`, `#auto industry`, `#EV`, `#market entry`
+
+---
+
+<a id="item-6"></a>
+## [特斯拉失去纯电销冠，如何翻盘？](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 7.0/10
+
+特斯拉已失去纯电动车销量冠军的位置，显示出市场领导地位的转变。该公司现在面临重获竞争优势的挑战。 这一发展突显了电动汽车市场竞争的加剧，尤其是来自比亚迪等中国车企的竞争。它影响投资者信心和特斯拉的战略方向。 文章未明确说明具体销量数据和超越特斯拉的竞争对手，但比亚迪很可能是候选者。该消息对特斯拉的定价、产品更新和扩张计划提出了疑问。
 
 google\_news · 新浪网 · 7月26日 01:15
 
-**背景**: 特斯拉多年来一直是纯电动汽车品牌的主导者，但比亚迪等中国竞争对手凭借价格实惠的车型和国内大力支持迅速扩张。如今电动汽车市场更加分散，多家厂商争夺市场份额。
+**背景**: 特斯拉多年来一直是纯电动车领域的领导者，以其创新技术和品牌吸引力著称。然而，比亚迪等中国电动车制造商迅速扩大市场份额，以更低的价格提供有竞争力的车型。这一转变反映了全球汽车行业向电动化转型和激烈竞争的更广泛趋势。
 
 **标签**: `#Tesla`, `#EV`, `#market share`, `#competition`, `#China`
 
 ---
 
-<a id="item-4"></a>
-## [比亚迪大汉官宣续航 1008 公里，颠覆 D 级车市场](https://news.google.com/rss/articles/CBMif0FVX3lxTE8ycFF1emJPMUk3Ri0yekZNbHo1Z0FxTW80dFJtTEhROGt4YUdpRUdVNnR4UHlwcnloME9meEVkeUlkYlZ4U0E5SE9fMlR1dGVLdUVjWTYzN24tdGlWcjBLN2xLSmowT1NZbzRFYUNpSm8ybVJGaHhqNmUyWHhFMUk?oc=5) ⭐️ 8.0/10
-
-比亚迪正式发布了汉系列新车型，在 CLTC 标准下续航里程达到 1008 公里，并配备了 570kW 的四驱动力系统。 这一宣布标志着电动汽车行业的一个重要里程碑，以有竞争力的价格提供超过 1000 公里的续航，可能会重塑消费者预期，并加剧 D 级（D-segment）豪华车市场的竞争。 续航数据基于中国的 CLTC 测试循环，该标准通常比 WLTP 或 EPA 更为乐观。该车型还配备了 570kW 的四驱系统，暗示其高性能定位。
-
-google\_news · 新浪网 · 7月25日 12:50
-
-**背景**: D 级车（D-segment）指中型或行政级轿车，比紧凑型车更大。在中国，CLTC 测试循环是一种本地标准，由于平均车速较低且频繁启停，通常会得出更高的续航估值。比亚迪汉是其旗舰轿车，与特斯拉 Model S 和蔚来 ET7 等车型竞争。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Car_classification">Car classification - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/CLTC_driving_cycle">CLTC driving cycle</a></li>
-
-</ul>
-</details>
-
-**标签**: `#EV`, `#BYD`, `#automotive`, `#market disruption`
-
----
-
-<a id="item-5"></a>
-## [比亚迪发布 11 款新车，1000 公里续航纯电上市](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 7.0/10
-
-比亚迪同时发布了 11 款新车，其中包括一款续航超过 1000 公里的纯电动汽车，这标志着电池技术的重大突破。 这一成就使比亚迪处于电动汽车行业的前沿，解决了里程焦虑问题，可能促进消费者接受度。这将加剧汽车制造商开发更长续航电动车的竞争。 这款续航 1000 公里的纯电动车可能采用了比亚迪的刀片电池技术和先进的能量管理系统。公告中未透露具体车型名称和定价细节。
-
-google\_news · 汽车之家 · 7月25日 20:30
-
-**背景**: 电动汽车的续航里程一直是普及的关键障碍，大多数大众市场电动车提供 300-500 公里。达到单次充电 1000 公里是一个重要里程碑，堪比甚至超越许多燃油车。比亚迪是中国领先的汽车制造商，以电池技术著称。
-
-**标签**: `#BYD`, `#EV`, `#product launch`, `#China auto`, `#battery range`
-
----
-
-<a id="item-6"></a>
-## [比亚迪宣布 5 月 1 日起车辆涨价](https://news.google.com/rss/articles/CBMickFVX3lxTE1lLWlMLVlLczdIWUJtcl9EVlVqVDhGZTF2cWdfdmE4R0xoY292d3MxcmFDNnppUGt5LXlJcUF5VGdVVmc0YlVHMHc5M3Rxc2ZhY2FsbmtzSFRCek5xLU5sLW43d1NDWk5DaVRnNktxR0xrQQ?oc=5) ⭐️ 7.0/10
-
-比亚迪宣布自 2023 年 5 月 1 日起对其车辆进行涨价，但未透露具体涨幅或金额。 作为中国最大的电动汽车制造商，比亚迪的涨价可能表明电动汽车行业成本压力上升，并可能影响其销量和市场份额。 公告未指明受影响的车型和具体涨价幅度，有待进一步说明。
-
-google\_news · 新浪网 · 7月25日 17:17
-
-**背景**: 比亚迪（BYD）是中国领先的电动汽车和电池制造商。2023 年初，电动汽车行业面临电池原材料成本上涨，多家车企调整价格。比亚迪此举顺应了这一趋势。
-
-**标签**: `#EV`, `#BYD`, `#price increase`, `#auto`, `#China`
-
----
-
 <a id="item-7"></a>
-## [比亚迪将推出大电池超快充新车，改写 13 万以上标准](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SmlvQW51T1J2M2syc19fWXdPMmRHZk5mekFLV01VZFBWLVd3bEQzZllDeDNBZWVyay1BRTE3eHZlMi1GZG94ZVlmNlZfWXN6bktXcWNrb1NlMmo5R1E?oc=5) ⭐️ 7.0/10
+## [中国中免跌近 3%，因上半年收入预期承压](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tdWlsWmRpRURWUTVHSkF0VDFRdFhTemRBSnRfbmJyWm9xMXN6d0VjMzJYbTJCVm1hN2JZelJFTm5ObGk4T0dWbg?oc=5) ⭐️ 7.0/10
 
-比亚迪计划在 2025 年 3-4 月推出搭载大电池和超快充技术的新车型，旨在为 13 万元以上车型设定新技术标准。 此举可能颠覆电动车市场，使先进的电池和充电技术在热门价格区间更易获取，从而给竞争对手带来压力并提振比亚迪的销量。 新车型预计将采用比亚迪第二代 Blade Battery 和 Flash Charging 技术，可在 9 分钟内充电至 97%。但具体车型名称和确切售价尚未公布。
+中国中免（01880.HK）股价下跌近 3%，因机构预测其上半年收入将受到机场免税店和线上销售渠道压力的拖累。 这一预测表明中国最大免税零售商面临短期逆风，可能打击投资者情绪，并反映出旅游零售行业的整体挑战。 该机构特别指出“机场免税”和“中免日上”线上平台为阶段性压力源。该股票在香港联交所上市，代码为 01880.HK。
 
-google\_news · 汽车之家 · 7月26日 01:04
+google\_news · 凤凰网 · 7月26日 01:18
 
-**背景**: 比亚迪是中国领先的电动汽车制造商，以其 Blade Battery 闻名，这是一种磷酸铁锂（LFP）电池，具有更高的安全性和能量密度。该公司最近在中国推出了第二代 Blade Battery 和 Flash Charging 站，支持超快充电。
+**背景**: 中国中免（CDFG）是中国领先的免税运营商，业务高度依赖机场门店和线上销售。其上半年业绩被视为中国消费者支出和旅游复苏的重要风向标。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
-<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
-<li><a href="https://gagadget.com/en/700388-byd-unveils-game-changing-flash-charging-in-europe-97-charge-in-just-9-minutes/">BYD Ultra - Fast Charging : Flash Charging Technology Premiere in...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#BYD`, `#EV`, `#product launch`, `#China auto`, `#technology`
+**标签**: `#earnings`, `#analyst downgrade`, `#retail`, `#China`, `#consumer`
 
 ---
 
 <a id="item-8"></a>
-## [比亚迪在关键海外市场超越特斯拉](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWUtISXM1Nk52aFpFekpIc0ZUX2xqQVFxdzQwWU1vVEs3RHdWRG0xQi1weUl4eHM0cDNQcmVJdDliakZLN29vQU9qWEVEdk1fMWt4eVJ5NlpQcFk?oc=5) ⭐️ 7.0/10
+## [比亚迪宋 PLUS DM-i 荣耀版上市，降价 2 万元](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cE5NQ3ZSc3NyNHhSY0NhODYxRnVEQUZkQXNKZVlSaXY5czR3UmxWdUNrdUV6VXFaZUJ6bllBekZEOEJka2tUbklSREJZajFJMlNXMFZBVkR1NlE?oc=5) ⭐️ 7.0/10
 
-中国汽车制造商比亚迪在多个关键国际市场的销量上超越了特斯拉，表明全球电动汽车领导地位正在发生转变。 这一发展挑战了特斯拉的主导地位，凸显了比亚迪的快速扩张和竞争性定价策略，可能重塑全球电动汽车格局。 来自汽车之家的报道指出比亚迪在东南亚和拉丁美洲等市场取得成功，但未提供具体销量数据和市场名称。
+比亚迪推出了宋 PLUS DM-i 荣耀版，价格下调 2 万元，现售价 12.98 万至 16.98 万元。 这一激进的降价措施使一款热门插电混动车型更具性价比，可能促进销量并加剧中国电动汽车市场的竞争。 宋 PLUS DM-i 是一款紧凑型 SUV，搭载比亚迪 DM-i 混动系统，以电驱为主且燃油经济性高。荣耀版保持相同动力总成，但价格更低。
 
-google\_news · 汽车之家 · 7月26日 00:33
+google\_news · 汽车之家 · 7月26日 01:05
 
-**背景**: 比亚迪是中国领先的电动汽车和电池制造商，而特斯拉是全球电动汽车的先驱。两家公司都是向电动出行转型的关键参与者。比亚迪的增长得益于其平价车型和垂直整合。
+**背景**: 比亚迪的 DM-i（双模智能）插电混动系统将汽油发动机与电动机结合，提供类似电动车的驾驶体验且无续航焦虑。该系统是比亚迪市场成功的关键因素，直接与传统混动和纯电车型竞争。
 
-**标签**: `#EV`, `#BYD`, `#Tesla`, `#competition`, `#automotive`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sinoautogo.com/blog/what-is-byd-dm-i/">BYD DM-i Explained: The 2025 Hybrid Guide - SinoAutoGo</a></li>
+<li><a href="https://bydcarchina.com/understanding-byds-dm-i-hybrid-system-high-efficiency-for-a-new-energy-era/">Understanding BYD’s DM-i Hybrid Technology</a></li>
+<li><a href="https://www.byd.com/eu/technology/byd-super-dm-plug-in-hybrid-technology">BYD Super DM Plug-in Hybrid Technology | BYD Europe</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EV`, `#pricing`, `#BYD`, `#competitive strategy`
 
 ---
 
 <a id="item-9"></a>
-## [比亚迪二代电池引爆 2026 年价格战](https://news.google.com/rss/articles/CBMickFVX3lxTFAxeXJNYzMxb20yZXZLUU5yZEVjNkhxa1B1MDZPWl9xbXdlWGV2d3V5cDNPYlRRdl9MYzA1ekJUX1JhT2N6X3JlamhyWEpHQm0wUlFxUjdnd1dubXlZTG4yM2pRa0FCei1ZY09nY0xuSm1XQQ?oc=5) ⭐️ 7.0/10
+## [比亚迪谍照暗示 1000kW 闪充和 1000 公里续航](https://news.google.com/rss/articles/CBMickFVX3lxTE9QYzM5Wm1oTVNKSjVjV2I0Sjd1VjJsNXVQdE5KbG03c0dHWkV6eUpuM0NhSFJNRWZzQnVPSmJBQ2dxVlROMWpFdlUzbHR4a2YyU29GdUx3cmVBMENIejVlNHFCOWlOa190aTZJbjFmRUZTQQ?oc=5) ⭐️ 7.0/10
 
-比亚迪预计将在 2026 年推出其第二代刀片电池，通过先进制造和内部生产大幅降低成本，可能引发电动汽车市场新一轮价格竞争。 这一进展可能降低整个行业的电动汽车价格，迫使竞争对手要么降价要么加快创新，最终惠及消费者并加速全球向电动汽车的转型。 第二代刀片电池提供超快充电（5 分钟充满）和高达 1000 公里的续航，而比亚迪的垂直整合和基于人力的制造保持了低成本。
+网上出现了比亚迪高端新车型（代号“大汉”）的谍照，暗示该车将支持 1000kW 闪充和 1000 公里续航。 若属实，这将是比亚迪在超快充技术领域领先特斯拉等对手的关键一步，并增强其在高端电动车市场的竞争力。 基于比亚迪此前发布的超级 e 平台，1000kW 充电速度可在 5 分钟内补充 400 公里续航。但谍照未经官方确认，来源为二手信息。
 
-google\_news · 新浪网 · 7月25日 12:57
+google\_news · 新浪网 · 7月25日 15:35
 
-**背景**: 比亚迪的刀片电池是一种磷酸铁锂（LFP）电池，以其安全性和能量密度著称。比亚迪长期依靠关键零部件内部生产以及劳动密集型制造流程，与日本竞争对手相比成本降低高达五到六倍。第二代版本提高了充电速度和续航里程，进一步强化了比亚迪的成本优势。
+**背景**: 比亚迪已推出超级 e 平台，采用 1000V 架构，支持兆瓦级闪充，充电速度达每秒 2 公里。公司计划到 2026 年在中国建设 2 万个闪充站。该平台已用于仰望、腾势等高端车型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/amosxin_byd-second-generation-flash-charging-launch-activity-7435340944901693441-1Kdk">BYD Unveils Second - Generation Flash Charging Technology</a></li>
-<li><a href="https://zecar.com/reviews/byd-blade-battery-2-flash-charging-2026">BYD Launches Ultra Fast Charging Blade Battery 2 .0 and 1.5MW...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Company">BYD Company - Wikipedia</a></li>
+<li><a href="https://electrek.co/2025/03/17/byd-confirms-1000v-super-e-platform-fast-charging-400km-5-minutes/">BYD &#x27;s 1,000V Super E-Platform offers charging 400km in 5 minutes</a></li>
+<li><a href="https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed">Chinese EV maker BYD says fast - charging system... | The Guardian</a></li>
+<li><a href="https://www.byd.com/en/news-list/BYD-Unveils-Super-e-Platform-Megawatt-Flash-Charging-Electric-Vehicles-Matching-Refueling-Speeds.html">BYD Unveils Super e-Platform with Megawatt Flash Charging for Electric Vehicles, Matching Refueling Speeds</a></li>
 
 </ul>
 </details>
 
-**标签**: `#BYD`, `#electric vehicles`, `#battery technology`, `#price war`, `#China`
+**标签**: `#BYD`, `#EV`, `#product news`, `#China auto`, `#battery technology`
 
 ---
 
 <a id="item-10"></a>
-## [比亚迪 2026 新车规划泄露，多款车型曝光](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBady1zMm9NNGdMcHp0TVpQSWx2b3h5Z3VrNFBqRmhlQWZ2bVpXWHFxbEhVaWpadkVqRUJqdmE4SnZfSFcyY3NsamFwb2Vzbzk1UFBubUxJbnM3NC10alE?oc=5) ⭐️ 6.0/10
+## [比亚迪在迪空间预热人形机器人，八月初亮相](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkJmYnhoRmlMMjA0MGZ4ZkUxbDkwbWxHM3ZzZUg5OUdyaWM0SE9GUDFRSGtHNHNNd3lfYWdDdjBUWW54dWcwclpxUHJ4aS1NSExBVzFfcmdxalZHSUR5czhXbjY4NmpCLVEtRnlwVTVzVFRkUkxIVUV1TnZiSlNYVDVyQVFPRlJnWUpfd2k3cHFibFF5SFhCejh2aTFvMFRBYVN3UmMtRQ?oc=5) ⭐️ 6.0/10
 
-据汽车之家泄露的报告，比亚迪 2026 年产品规划曝光，将有多款全新车型陆续登场。 此次泄露提前揭示了比亚迪的未来产品战略，可能会影响电动汽车市场的竞争格局，并改变投资者预期。 报告提及多款新车，但未明确具体车型名称、动力类型或 2026 年内的发布时间；该信息基于未经验证的泄露，应视为猜测。
+比亚迪在其迪空间科技馆预热了一款人形机器人，计划于 2025 年 8 月初正式亮相。 这标志着比亚迪从电动汽车领域拓展至人形机器人领域，有望利用其电池和制造技术优势，在日益增长的 AI 机器人市场中占据一席之地。 该机器人正在位于郑州的比亚迪迪空间新能源汽车科技馆展出；具体功能和售价尚未公布。
 
-google\_news · 汽车之家 · 7月25日 23:48
+google\_news · finance.sina.com.cn · 7月26日 03:03
 
-**背景**: 作为全球最大的新能源汽车制造商，比亚迪通过秦、汉、海豚等车型积极扩充产品线。2026 年规划表明比亚迪将继续投资新平台和技术，以保持竞争优势。
+**背景**: 比亚迪是中国领先的新能源汽车制造商，产品包括纯电动车和插电式混合动力车。迪空间是比亚迪打造的沉浸式科技馆，用于展示其技术。人形机器人是一个快速发展的领域，特斯拉、波士顿动力等公司也在开发类似产品。
 
-**标签**: `#BYD`, `#EV`, `#product plan`, `#auto`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZsH_le7Aliw">BYD DiSPACE NEW ENERGY SCIENCE MUSEUM (Walkaround Tour) - YouTube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#humanoid robot`, `#product launch`, `#AI`, `#sector`
 
 ---
 
 <a id="item-11"></a>
-## [比亚迪被呼吁遏制后市场“外挂”装置虚标纯电续航](https://news.google.com/rss/articles/CBMickFVX3lxTE5mUlZXTTA5RmpjVmdSM2tjcTlRdTZfVmlmcjdTal9DQzQxQXdvZ0dOdmRCM0U1RzZ6T2Z1b19uTEVTS2FPOEZSSTJ1TjFlaExBNE1ELTdUZ01lSHVQOUxVQS1DWjYtNXJxZGxUa2ptcC1wdw?oc=5) ⭐️ 6.0/10
+## [工信部点赞比亚迪第二代刀片电池与闪充技术](https://news.google.com/rss/articles/CBMif0FVX3lxTE9rM05qd29RbndjeGZZeU5kWS0tOGZVbE44Q2NPMVNQNmZlbzVvcTZheDZWZDBEMnFJajdSdnlhclA5N0g5d1I0b1hta0FfQlp2OTJCdW9xNTFZV0xYd25vZ0VmRU40N3BBT2JqVXBieDhUb2JySnVRcUJPUjFnaE0?oc=5) ⭐️ 6.0/10
 
-报道称，未经授权的后市场设备正被销售给比亚迪插电混动车型，使其虚假报告纯电续航里程从实际 55 公里变为 220 公里。 这种做法可能损害比亚迪在可靠性和安全方面的声誉，可能导致监管审查或罚款，并削弱整个行业对插电式混合动力汽车续航宣传的信任。 这些设备通常插入 OBD-II 接口或电池管理系统，改变仪表盘数据而物理续航不变，比亚迪尚未正式回应。
+中国工业和信息化部公开称赞比亚迪的第二代刀片电池和闪充技术，认定其为全球领先的创新。 来自中国最高监管机构的认可增强了对比亚迪电池技术的信心，可能加速其超快充电解决方案的采用，解决电动汽车续航和充电时间的关键焦虑。 第二代刀片电池可在 9 分钟内从 10%充电至 97%，而闪充系统支持高达 1500 千瓦的功率输入，实现 5 分钟充电以恢复可观续航。
 
-google\_news · 新浪网 · 7月26日 02:23
+google\_news · 新浪网 · 7月26日 03:34
 
-**背景**: 插电式混合动力汽车（如比亚迪 DM-i 系列）同时使用内燃机和电动机，电池比纯电动车小。纯电续航是经过认证的关键卖点，改变续航读数的后市场改装可能违反许多地区的车辆型式批准法规。
+**背景**: 刀片电池是比亚迪开发的磷酸铁锂（LFP）电池技术，以其安全性和空间效率著称。第一代于 2020 年推出。第二代于 2026 年 3 月发布，显著提升了充电速度和能量密度。闪充是配套的高功率充电系统，旨在利用新电池的性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Song_Plus">BYD Song Plus - Wikipedia</a></li>
-<li><a href="https://www.byd.com/eu/hybrid-cars/seal-u-dm-i">BYD SEAL U DM - i : An All-New Plug-In Hybrid SUV | BYD Europe</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
+<li><a href="https://insideevs.com/news/789094/byd-second-generation-blade-battery/">BYD’s Second-Generation Blade Battery Makes Western EV Tech Look Ancient</a></li>
+<li><a href="https://scuto.co.id/news/byd-flash-charging-5-minute-ev-power-up-is-here">BYD Flash Charging : 5-Minute EV Power-Up is Here | Scuto Indonesia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#BYD`, `#auto industry`, `#regulatory risk`, `#product quality`, `#China`
+**标签**: `#BYD`, `#battery technology`, `#EV`, `#innovation`
 
 ---
 
 <a id="item-12"></a>
-## [比亚迪发布三款网约车新车型](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KVG1xdThLZjlXTGNfX2k0UVBqS18zUml3Snk3M0pIb3pBZ3FRRG5sN0l6bGdzVktYamZFRWZqRTlwWjNsZW5BSFNnam85VVZ0YWdZZW9ycjBFNnpjYUE?oc=5) ⭐️ 6.0/10
+## [比亚迪插混续航作弊器引发监管担忧](https://news.google.com/rss/articles/CBMickFVX3lxTE5mUlZXTTA5RmpjVmdSM2tjcTlRdTZfVmlmcjdTal9DQzQxQXdvZ0dOdmRCM0U1RzZ6T2Z1b19uTEVTS2FPOEZSSTJ1TjFlaExBNE1ELTdUZ01lSHVQOUxVQS1DWjYtNXJxZGxUa2ptcC1wdw?oc=5) ⭐️ 6.0/10
 
-比亚迪在其新成立的‘领汇’品牌下发布了三款电动新车型，精准瞄准网约车市场的三个关键细分领域。 此举使比亚迪能够抢占快速增长的网约车市场的重大份额，该市场是电动汽车的高容量、高使用率领域。它可能加速商用车队向电动化的转型。 这三款车型针对不同的网约车层级设计：经济型、高端型以及机场接送等专项服务。定价、续航和上市日期等细节尚未公布。
+商家正在销售外挂设备，将比亚迪插电混动汽车的显示纯电续航从 55 公里虚假提升至 220 公里，引发安全和质量担忧。 这种未经授权的改装误导消费者，损害比亚迪的品牌声誉，并可能导致对电动汽车续航宣传和售后改装更严格的监管审查。 该设备可能连接 OBD-II 端口或篡改电池管理系统以显示虚假续航。实际电池容量未变，真实纯电续航仍在 55 公里左右，若驾驶员相信虚高读数则存在安全隐患。
 
-google\_news · 汽车之家 · 7月26日 00:56
+google\_news · 新浪网 · 7月26日 02:23
 
-**背景**: 中国的网约车市场是全球最大的市场之一，每天有数百万辆车辆在运营。作为已经是领先的电动汽车制造商，比亚迪正在利用其规模为该细分市场提供定制化产品，该市场对耐用性、低运营成本和高效率有要求。
+**背景**: 插电式混合动力汽车（PHEV）结合内燃机和可外部充电的电池。一些比亚迪车型的纯电续航通常有限，例如 55 公里。改变车辆参数的售后设备可能导致保修失效，并违反排放和安全法规。
 
-**标签**: `#product launch`, `#BYD`, `#ride-hailing`, `#EV`
+**标签**: `#BYD`, `#auto industry`, `#product issue`, `#EV`, `#consumer complaint`
 
 ---
 
 <a id="item-13"></a>
-## [中国中免跌近 3%，受上半年收入压力拖累](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tdWlsWmRpRURWUTVHSkF0VDFRdFhTemRBSnRfbmJyWm9xMXN6d0VjMzJYbTJCVm1hN2JZelJFTm5ObGk4T0dWbg?oc=5) ⭐️ 6.0/10
+## [比亚迪领汇品牌首发三车，瞄准网约车三大赛道](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KVG1xdThLZjlXTGNfX2k0UVBqS18zUml3Snk3M0pIb3pBZ3FRRG5sN0l6bGdzVktYamZFRWZqRTlwWjNsZW5BSFNnam85VVZ0YWdZZW9ycjBFNnpjYUE?oc=5) ⭐️ 6.0/10
 
-中国中免（01880）股价下跌近 3%，原因是分析机构预计公司上半年收入将受到机场免税业务及旗下“中免日上”线上平台销售阶段性压力的拖累。 此次下跌表明投资者对中国最大免税运营商近期盈利的担忧，从而影响尚未完全从疫情冲击中恢复的旅游零售板块。 压力来自机场免税客流量恢复滞后以及线上竞争，其中“中免日上”平台面临阶段性放缓。该股在香港交易所收盘下跌近 3%。
+比亚迪在其新设立的领汇子品牌下推出了三款新车型，精准定位网约车市场的三大细分赛道。 这一战略举措有助于比亚迪抢占高销量的网约车市场更大份额，提升销量，并巩固其在中国电动车和出行领域的领先地位。 领汇品牌于 2026 年初推出，是比亚迪第五个品牌，专注于商业车队和网约车运营。这三款车型很可能是现有比亚迪车型的换标版本，针对车队使用和成本效益进行了优化。
 
-google\_news · 凤凰网 · 7月26日 01:18
+google\_news · 汽车之家 · 7月26日 00:56
 
-**背景**: 中国中免是中国领先的免税零售商，经营机场及市内免税店，以及线上平台“中免日上”。该公司的业绩与国际旅行复苏及国内消费趋势密切相关。
+**背景**: 比亚迪是中国领先的电动汽车和电池制造商，旗下拥有比亚迪、腾势、方程豹、仰望以及新推出的领汇等多个品牌。中国网约车市场增长迅速，由滴滴等平台主导，对价格实惠、耐用且适合车队运营的电动车需求巨大。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://adtchina.cn/jrggArticles/19172.html">专访 中 免 日 上 ：冠名《再见爱人4》，热搜后的营销思考 | 今 日 广告</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Linghui">Linghui - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-01-09/byd-creates-new-linghui-sub-brand-aimed-at-ride-hailing-market">BYD creates New Sub-Brand Called Linghui Aimed at Ride-Hailing Market - Bloomberg</a></li>
 
 </ul>
 </details>
 
-**标签**: `#stock`, `#China`, `#retail`, `#earnings`
+**标签**: `#BYD`, `#electric vehicles`, `#product launch`, `#ride-hailing`, `#China market`
 
 ---
 
 <a id="item-14"></a>
-## [比亚迪在澳超越起亚，海狮 07 销量超 Model Y](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYXF6a1JPNU43Zk1SY1hJd2NWWi1GWVAzMnU3SnpsdzZ1NF9VR1g2YmUxWUdJeXl5eGhaUzcwUTFpejNwSW9HZE4wQTFvTW1iSHFWSGlfQ1ZGRjJqMmc?oc=5) ⭐️ 6.0/10
+## [比亚迪宣布 5 月 1 日起涨价](https://news.google.com/rss/articles/CBMickFVX3lxTE1lLWlMLVlLczdIWUJtcl9EVlVqVDhGZTF2cWdfdmE4R0xoY292d3MxcmFDNnppUGt5LXlJcUF5VGdVVmc0YlVHMHc5M3Rxc2ZhY2FsbmtzSFRCek5xLU5sLW43d1NDWk5DaVRnNktxR0xrQQ?oc=5) ⭐️ 6.0/10
 
-4 月份，比亚迪在澳大利亚汽车销量中升至第二位，超越起亚，其海狮 07 电动 SUV 销量超过特斯拉 Model Y。 这标志着比亚迪在关键右舵市场的持续扩张，并挑战特斯拉在电动车领域的主导地位，显示消费者偏好的转变。 销售数据涵盖 2025 年 4 月整月；海狮 07 是一款中型电动 SUV，支持 CCS2 充电，最大充电功率达 230 千瓦。
+中国领先的电动车制造商比亚迪宣布，从 5 月 1 日起上调车辆价格。具体涨幅和受影响的车型尚未公布。 此举表明电动车供应链存在成本压力，可能影响比亚迪热门车型的需求，也可能影响其他中国电动车制造商的定价策略。 公告缺乏涨价幅度或受影响车型的具体细节，给消费者和投资者带来不确定性。比亚迪未说明原因，但很可能归因于原材料成本上涨。
+
+google\_news · 新浪网 · 7月25日 17:17
+
+**背景**: 比亚迪是中国销量最大的电动车制造商。中国电动车市场竞争激烈，常出现降价，因此此次涨价是一个显著的逆转。锂等电池材料成本上涨，压缩了整个行业的利润率。
+
+**标签**: `#pricing`, `#EV`, `#BYD`, `#auto sector`, `#market move`
+
+---
+
+<a id="item-15"></a>
+## [比亚迪在澳洲超越起亚，海狮 07 销量超 Model Y](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYXF6a1JPNU43Zk1SY1hJd2NWWi1GWVAzMnU3SnpsdzZ1NF9VR1g2YmUxWUdJeXl5eGhaUzcwUTFpejNwSW9HZE4wQTFvTW1iSHFWSGlfQ1ZGRjJqMmc?oc=5) ⭐️ 6.0/10
+
+2025 年 4 月，比亚迪在澳大利亚超越起亚成为第二大畅销汽车制造商，其海狮 07 车型销量超过特斯拉 Model Y，标志着电动汽车市场的重大变化。 这表明比亚迪正在快速全球扩张，并在电动汽车领域日益占据主导地位，挑战起亚、特斯拉等老牌车企。澳大利亚消费者有了更具竞争力的电动汽车选择，可能加速电动车普及。 海狮 07 是一款基于比亚迪 e 平台 3.0 Evo 的纯电动中型跨界 SUV，支持最高 230 kW 的直流快充。比亚迪的整体销量激增得益于 Atto 3、海豚和海狮 07 等车型。
 
 google\_news · 汽车之家 · 7月26日 00:43
 
-**背景**: 澳大利亚汽车市场传统上由日韩品牌主导。比亚迪从新晋者迅速升至第二位，反映了其激进定价和电动车接受度的提升。海狮 07 直接与特斯拉 Model Y 在热门中型 SUV 细分市场竞争。
+**背景**: 比亚迪是中国汽车制造商，已成为全球最大的插电式电动汽车制造商。海狮 07（也称 Sealion 7）于 2024 年推出，属于比亚迪海洋系列。澳大利亚汽车市场传统上由丰田、马自达和起亚主导，但电动汽车品牌正在崛起。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/BYD_Sealion_7">BYD Sealion 7</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Sealion_7">BYD Sealion 7</a></li>
 <li><a href="https://www.byd.com/eu/electric-cars/sealion-7">BYD SEALION 7 Electric SUV | BYD Europe</a></li>
 
 </ul>
 </details>
 
-**标签**: `#BYD`, `#Tesla`, `#EV sales`, `#Australia`, `#market share`
-
----
-
-<a id="item-15"></a>
-## [比亚迪海狮 08 前瞻：纯电插混双选择，起售价 24.88 万元](https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aUk0WlFfRU5kYkxTTGVEZU1sRDJrejFLc2ZBM04xXzNxTVg5bGhWdk93b281OC10U0hkdVNZRC1PSU83U3BGbklNS0JDME1vaUxtT2MtWVh2NXJCc0E?oc=5) ⭐️ 6.0/10
-
-比亚迪预告了海狮 08 新车，提供纯电动（EV）和插电式混合动力（PHEV）两种动力选择，预计起售价为 24.88 万元人民币。 此次发布扩大了比亚迪在中型 SUV 细分市场的产品线，有望提升销量，并挑战特斯拉及其他中国车企的竞争对手。 海狮 08 的纯电版将基于比亚迪 e 平台 3.0，插混版可能采用 DM-i 混动系统，为消费者提供灵活选择。
-
-google\_news · 汽车之家 · 7月25日 20:22
-
-**背景**: 比亚迪是中国领先的新能源汽车制造商。海狮系列是比亚迪的中大型 SUV 产品线，海狮 08 定位低于海狮 07。同时提供纯电和插混版本，使比亚迪能够满足不同客户需求并适应各地区法规。
-
-**标签**: `#product launch`, `#BYD`, `#EV`, `#PHEV`, `#China auto`
+**标签**: `#EV`, `#sales`, `#market share`, `#automotive`
 
 ---
 
 <a id="item-16"></a>
-## [中国 L2 辅助驾驶新国标落地，比亚迪天神之眼超标准](https://news.google.com/rss/articles/CBMickFVX3lxTE5GekJGZ3puZE1DQlFnTm0yRGZFVzhVcFVTSnJLeVFBb2NjRHFvTUZUVV9iSDBtZVZMLWhXaVZGWW12ejR6d05NTjJUaTc3ZGk5UUFOakRZQjBYdHlYN2drY2xkcndkT3cyR2ZhWTZlaVJ5Zw?oc=5) ⭐️ 6.0/10
+## [中国 L2 驾驶新标准确立比亚迪领先地位](https://news.google.com/rss/articles/CBMickFVX3lxTE5GekJGZ3puZE1DQlFnTm0yRGZFVzhVcFVTSnJLeVFBb2NjRHFvTUZUVV9iSDBtZVZMLWhXaVZGWW12ejR6d05NTjJUaTc3ZGk5UUFOakRZQjBYdHlYN2drY2xkcndkT3cyR2ZhWTZlaVJ5Zw?oc=5) ⭐️ 6.0/10
 
-中国已实施新的 L2 级辅助驾驶国家标准，比亚迪全系车型搭载的“天神之眼”（DiPilot）系统据称全面优于标准中的所有要求。 该标准提高了中国 L2 系统的安全与性能门槛，比亚迪的达标表现凸显其技术领先地位，可能迫使竞争对手升级其系统。 国家标准（大概率是 GB/T 40429-2021）将 L2 定义为部分自动化，驾驶员仍为责任主体；比亚迪天神之眼 C（DiPilot 100）采用三目视觉系统；新标准可能包含脱手提示和禁用限制等要求。
+中国首个针对 L2 辅助驾驶的强制性国家标准发布，比亚迪的‘天神之眼’系统所有三个版本均全面优于标准要求，使该公司在 ADAS 技术领域位居领先地位。 该标准为安全与性能设定了基准，而比亚迪的全面达标为其带来了竞争优势，有望在中国快速发展的智能驾驶市场中扩大份额。 该标准编号 GB 47955—2026，自 2027 年 1 月 1 日起实施，由华为、小米、比亚迪、特斯拉等企业联合起草。比亚迪的‘天神之眼’系统分为 A、B、C 三个版本，目前已有超过 120 万辆车上路，每日生成超过 7200 万公里的辅助驾驶数据。
 
 google\_news · 新浪网 · 7月25日 18:27
 
-**背景**: L2 级辅助驾驶指车辆能同时控制转向和加减速，但驾驶员必须监控道路并随时准备接管。中国的 GB/T 40429-2021 标准将自动化等级划分为 0 到 5 级。此次新国标实施可能强制要求 L2 系统具备特定安全功能，以统一各车企的性能标准。
+**背景**: L2 辅助驾驶（部分自动化）可同时控制转向和加减速，但要求驾驶员持续监控。中国新的强制性标准旨在规范 L2 系统的安全要求，涵盖性能、运行设计域（ODD）和失效安全措施。比亚迪作为中国领先的电动车制造商，开发了自有的 ADAS 套件‘天神之眼’，与特斯拉 Autopilot 和华为 ADS 竞争。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://m.nbd.com.cn/articles/2026-02-14/4263321.html">m.nbd.com.cn/articles/2026-02-14/4263321.html</a></li>
-<li><a href="https://k.sina.com.cn/article_7857141524_1d452771401902qwou.html">k.sina.com.cn/article_7857141524_1d452771401902qwou.html</a></li>
+<li><a href="https://www.ithome.com/0/971/447.htm">国内首个针对 L2 级辅助驾驶的强制性国家标准正式发布，华为引望、小...</a></li>
+<li><a href="https://www.toutiao.com/article/7629875019690033706/">定了！L2级辅助驾驶强制国标来了，2027年1月起，这些车将不能卖</a></li>
+<li><a href="https://www.163.com/dy/article/K7J5FKTE0531HMNW.html">163.com/dy/article/K7J5FKTE0531HMNW.html</a></li>
 
 </ul>
 </details>
 
-**标签**: `#policy`, `#autonomous driving`, `#BYD`, `#auto industry`, `#regulation`
+**标签**: `#policy`, `#autonomous driving`, `#BYD`, `#China`, `#ADAS`
 
 ---
 
 <a id="item-17"></a>
-## [电池拆解揭示特斯拉 Model 3 与比亚迪汉之间 5 万元成本差距](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHRnMVdxVkF4OTJXTGRKOHNqZUZBRmJiaGdFY1ZTTWFLSERkMjBEaDVBQzU2c3N1QjcwNVViNi1tbzFLdnhlbXZucTA2YjBGWHpJMUNKdHFPajVvb2RRSXRGYTRDMVJZN0ZGbDFkd2dsYnR0ZHltOHNIZnBUWmo2cHZ2dVU?oc=5) ⭐️ 6.0/10
+## [比亚迪在法国推出 ATTO 2 电动 SUV，售价 28990 欧元](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rYVQwSUs3VEluY29zM0UwQXNkVmZYS1pLSGFZc2FiNDNQOGRlMlNqeHMtbTdYOWtJSTc3QWhqcUdqSUQ5WkV1MnBNNlRUOG5LSWRUdDNER0NnVHR3TGc?oc=5) ⭐️ 6.0/10
 
-对特斯拉 Model 3 和比亚迪汉电池的详细拆解分析显示，两者制造成本相差约 5 万元人民币（约合 7000 美元），突出了特斯拉 4680 电芯与比亚迪刀片电池之间的技术和设计差异。 这一成本差距直接影响中大型轿车细分市场电动汽车的竞争力，尤其是在价格敏感的中国市场。它突显了电池技术选择——特斯拉注重能量密度，而比亚迪强调成本与安全——如何影响整车定价和普及率。 拆解重点在于特斯拉 Model 3（新版可能使用 4680 圆柱电芯）和比亚迪汉（使用棱柱形 LFP 刀片电芯）的电池包。5 万元成本差异包括材料、制造以及电芯到电池包集成效率等多个方面。
+比亚迪在法国市场推出了电动紧凑型 SUV ATTO 2（在中国称为元 UP），起售价为 28990 欧元。此次发布标志着比亚迪在欧洲扩张的又一步。 此次发布增强了比亚迪在欧洲的存在感，提供了一款定价具有竞争力的电动 SUV，可能挑战传统汽车制造商。这也表明比亚迪致力于满足欧洲对平价电动汽车的需求。 ATTO 2 基于比亚迪 e 平台 3.0，并搭载刀片电池技术。28990 欧元的价格使其成为紧凑型电动车领域中一个经济实惠的选择，但此次公告未提供具体的续航里程和规格参数。
 
-google\_news · finance.sina.com.cn · 7月26日 05:24
+google\_news · 汽车之家 · 7月26日 01:19
 
-**背景**: 比亚迪刀片电池是一种锂铁磷酸（LFP）电池，采用独特的刀片状电芯设计，提高了空间利用率和安全性。相比之下，特斯拉的 4680 电池是更大的圆柱形电芯，减少了所需电芯数量并简化了制造，提供了更高的能量密度。两者代表了高产量电动汽车的不同工程理念：比亚迪优先考虑成本和安全性，而特斯拉追求性能和续航。
+**背景**: 比亚迪是一家专注于电动汽车和电池的中国领先汽车制造商。该公司一直在积极拓展国际市场，特别是欧洲，推出了 ATTO 3 和海豚等车型。ATTO 2（元 UP）最初于 2024 年初在中国上市，现作为比亚迪全球战略的一部分进入法国。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
-<li><a href="https://www.evlithium.com/Blog/4680-battery-power-innovation.html">Everything You Need to Know About the 4680 Battery</a></li>
-<li><a href="https://www.linkedin.com/pulse/tesla-4680-battery-vs-byd-blade-study-reveals-different-85jyc">Tesla 4680 Battery VS. BYD Blade Battery : Study Reveals Different...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#electric vehicles`, `#batteries`, `#Tesla`, `#BYD`, `#cost analysis`
+**标签**: `#product launch`, `#EV`, `#BYD`, `#international expansion`, `#automotive`
 
 ---
 
 <a id="item-18"></a>
-## [比亚迪宋 Ultra EV 实测 5 分钟充至 70%](https://news.google.com/rss/articles/CBMickFVX3lxTFBiUEhKejAxZ3B5NVhrMDlmazRIb0stWEl2MGtla3JzX0NBNXozMlNMRzRQVG9xTTBfOElyQWg0NGxweXNrOGpKNWlDNDFzaTVYN1NPWTBZdmEtRkdpWkRocndsT2V4ZEtzX1FHMTZEUG51Zw?oc=5) ⭐️ 6.0/10
+## [比亚迪 3-4 月新车矩阵：大电池+超快充，改写 13 万以上市场标准](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SmlvQW51T1J2M2syc19fWXdPMmRHZk5mekFLV01VZFBWLVd3bEQzZllDeDNBZWVyay1BRTE3eHZlMi1GZG94ZVlmNlZfWXN6bktXcWNrb1NlMmo5R1E?oc=5) ⭐️ 6.0/10
 
-比亚迪宋 Ultra EV 的路测显示，使用比亚迪的兆瓦级闪充技术，仅需 5 分钟即可将电量从低充至 70%。 如果这一快充能力得到验证，将使电动车在补能时间上更具竞争力，可能加速 15 万元级别市场的电动车普及。 该测试由新闻媒体完成，并非比亚迪官方发布。宋 Ultra EV 是一款中型跨界 SUV，CLTC 续航里程可达 710 公里，属于比亚迪王朝系列。
+比亚迪计划在 2026 年 3 月至 4 月期间推出一系列新车，配备大容量电池和超快充技术，旨在重新定义 13 万元人民币以上车型的技术标准。 这一举措可能通过将先进的快充和长续航能力普及到更亲民的价格区间，从而颠覆中国中高端电动汽车市场，给竞争对手带来压力，并有可能提升比亚迪的市场份额。 新车预计将采用比亚迪超级 e 平台（支持兆瓦级充电，最高 1,000 千瓦）和第二代刀片电池（刀片电池 2.0），可实现 1,000 公里以上续航和 10 分钟充电。
 
-google\_news · 新浪网 · 7月25日 19:19
+google\_news · 汽车之家 · 7月26日 01:04
 
-**背景**: 比亚迪是中国最大的电动汽车制造商，最近宣布了闪充系统，可在 5-8 分钟内充满电，与加油时间相当。宋 Ultra 提供纯电和插电混动两种版本。
+**背景**: 比亚迪刀片电池是一种锂铁磷酸（LFP）电池，采用独特的刀片形电芯设计，提高了安全性、能量密度和结构完整性。超级 e 平台于 2025 年 3 月发布，通过 30,000 转电机和碳化硅功率芯片实现 1,000 千瓦的充电功率。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Song_Ultra">BYD Song Ultra</a></li>
-<li><a href="https://www.aol.com/chinas-byd-launches-ev-charging-083103941.html">China&#x27;s BYD launches EV charging system it says works nearly... - AOL</a></li>
+<li><a href="https://www.byd.com/en/news-list/BYD-Unveils-Super-e-Platform-Megawatt-Flash-Charging-Electric-Vehicles-Matching-Refueling-Speeds.html">BYD Unveils Super e-Platform with Megawatt Flash Charging for Electric Vehicles, Matching Refueling Speeds</a></li>
+<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD’s new Blade EV Battery 2.0 unlocks 1,000+ km pure ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
 
 </ul>
 </details>
 
-**标签**: `#BYD`, `#EV`, `#fast-charging`, `#technology`
+**标签**: `#product launch`, `#EV`, `#BYD`, `#technology`, `#sector`
 
 ---
 
 <a id="item-19"></a>
-## [比亚迪与宁德时代竞逐超快充技术](https://news.google.com/rss/articles/CBMickFVX3lxTFBkMkVQZEFtVGFyRnRWTEtMT3ZIMVNKbmpLOG5fVzcwMFFyQTZVellJUWFuX0x1VXVFOVBMZERpZ29HM2FzNFBEdFJhVGdXT29YcnQxcWhMLWR4dFl4UmJNVzc4bGdUS1BwdmhlbTdWZlM5UQ?oc=5) ⭐️ 6.0/10
+## [特斯拉 Model 3 与比亚迪汉电池拆解：5 万元成本差距](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHRnMVdxVkF4OTJXTGRKOHNqZUZBRmJiaGdFY1ZTTWFLSERkMjBEaDVBQzU2c3N1QjcwNVViNi1tbzFLdnhlbXZucTA2YjBGWHpJMUNKdHFPajVvb2RRSXRGYTRDMVJZN0ZGbDFkd2dsYnR0ZHltOHNIZnBUWmo2cHZ2dVU?oc=5) ⭐️ 6.0/10
 
-比亚迪和宁德时代正激烈竞争，开发能在数分钟内为电动汽车充满电的超快充电池，使其充电速度接近加油。 实现堪比加油的充电速度，有望消除电动汽车普及的一大障碍，从而加速全球向电动出行的转型。 比亚迪的刀片电池采用 LFP 化学体系，通过长条形电芯设计提升安全性和空间利用率；而宁德时代的麒麟电池支持 5C 快充，可在 12 分钟内补充 500 公里续航。
+一项详细的拆解对比显示，特斯拉 Model 3 与比亚迪汉的电池成本相差约 5 万元人民币，凸显了不同的技术路线。 这一成本差距可能改变电动汽车市场的竞争格局，因为电池成本直接影响车辆定价和盈利能力。同时也凸显了选择圆柱电池（特斯拉）与刀片电池（比亚迪）的战略意义。 特斯拉 Model 3 使用松下 2170 圆柱电芯，而比亚迪汉采用自研的刀片电池（磷酸铁锂化学体系）。成本差异源于电芯形态、制造规模及供应链整合程度。
 
-google\_news · 新浪网 · 7月25日 12:52
+google\_news · finance.sina.com.cn · 7月26日 05:24
 
-**背景**: 超快充技术需要在电池化学和热管理方面取得突破，以承受大电流而不过热。磷酸铁锂电池更安全、成本更低，但通常能量密度较低；宁德时代的麒麟电池采用高镍 NCM 化学体系，能量密度更高且支持快充。两种方案都旨在解决阻碍电动汽车普及的“里程焦虑”和充电时间过长问题。
+**背景**: 特斯拉的 2170 电池是与松下开发的圆柱电芯（直径 21mm，高度 70mm），能量密度高且生产工艺成熟。比亚迪的刀片电池是一种形状像刀片的方形电芯，采用磷酸铁锂化学体系，通过 CTP（无模组）技术优先考虑安全性和成本效率。这两种技术代表了电动汽车电池设计的两种不同策略。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
-<li><a href="https://www.catl.com/en/news/958.html">CATL launches CTP 3.0 battery “ Qilin ,” achieves the highest...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/666521979">比亚迪刀片电池技术 - 知乎专栏 比亚迪 比亚迪 第二代刀片电池与固态技术：真实技术突破与行业影响202... 比亚迪第二代刀片电池 - 百度百科 全球唯一！比亚迪第二代刀片电池+兆瓦闪充落地，彻底打破瓶颈 比亚迪第二代刀片电池及闪充技术获重大创新成果-经济参考网 _ 新华社...</a></li>
+<li><a href="https://www.byd.com/cn/detail617">电动化上半场完美收官：比亚迪发布第二代刀片电池及闪充技术</a></li>
+<li><a href="https://www.autohome.com.cn/tech/201702/898242.html">【图】这货更粗更大，能不能让 特 斯 拉 更持久？_ 汽车之家</a></li>
 
 </ul>
 </details>
 
-**标签**: `#EV`, `#battery technology`, `#charging infrastructure`, `#sector trend`
+**标签**: `#EV`, `#battery technology`, `#Tesla`, `#BYD`, `#cost comparison`
 
 ---
 
 <a id="item-20"></a>
-## [比亚迪发布新款 B 级轿跑，售价约 10 万元](https://news.google.com/rss/articles/CBMickFVX3lxTE1IS0NxYmNMcVh1cWVGZjZfTUVxdi05VlA0bDZza19OOXVZMk9Gc0lxQzdzOXpvZUg3dTgwUUFPREpuRV82VS1rQlVqbzNzUjJsN29xODZGdFJtQmpzaHNzY3M0dzhtbFdiWU5MODlXRFB0QQ?oc=5) ⭐️ 6.0/10
+## [比亚迪宋 Ultra EV 实测 5 分钟闪充至 70%](https://news.google.com/rss/articles/CBMickFVX3lxTFBiUEhKejAxZ3B5NVhrMDlmazRIb0stWEl2MGtla3JzX0NBNXozMlNMRzRQVG9xTTBfOElyQWg0NGxweXNrOGpKNWlDNDFzaTVYN1NPWTBZdmEtRkdpWkRocndsT2V4ZEtzX1FHMTZEUG51Zw?oc=5) ⭐️ 6.0/10
 
-比亚迪正式官宣一款全新 B 级轿跑，售价约 10 万元人民币（约合 1.5 万美元），瞄准平价电动汽车市场。 此次发布可能有助于比亚迪在中国竞争激烈的平价电动汽车市场中巩固地位，从而提升销量和市场份额。 该车型属于 B 级（中型）轿跑，外观运动时尚，定价亲民，但具体的性能或续航信息尚未公布。
+比亚迪宋 Ultra EV 在实测中实现了 5 分钟充电至 70%的闪充速度，展示了 15 万级 B 级纯电 SUV 在充电性能上的重大突破。 这一快速充电能力有望缓解里程焦虑，使电动车与燃油车更具竞争力，可能提升比亚迪在竞争激烈的 15 万级 SUV 市场的销量，并加速电动汽车普及。 宋 Ultra EV 售价 15.19 万至 17.99 万元（置换价 13.57 万元起），其闪充性能依赖比亚迪专属的 1500kW 闪充桩。比亚迪计划年底前在全国建设 20000 座闪充站。
 
-google\_news · 新浪网 · 7月25日 13:51
+google\_news · 新浪网 · 7月25日 19:19
 
-**背景**: B 级车在中国市场分类中属于中型车，尺寸介于紧凑型 A 级车和行政级 C 级车之间。比亚迪是中国最大的电动汽车制造商，这款新轿跑旨在吸引追求平价时尚的年轻消费者。
+**背景**: 比亚迪于 2026 年 3 月发布了第二代刀片电池和闪充技术，旨在解决“充电慢”和“低温充电难”的问题。宋 Ultra EV 是搭载该技术的 11 款新车之一，宣称充电速度堪比加油。然而，超快充电速度目前需要专属的高功率充电桩，第三方充电桩的兼容性有限。
 
-**标签**: `#BYD`, `#product launch`, `#EV`, `#auto industry`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://k.sina.com.cn/article_7880068282_1d5b04cba06801j6qk.html">充 电 快的车怎么选？ 10万到50万全覆盖，这8款闭眼入|小米su7 ultra ...</a></li>
+<li><a href="https://chejiahao.m.autohome.com.cn/info/25179988">5分钟 充 好，9分钟 充 饱， 比 亚 迪 宋 Ultra EV ... | 汽车之家</a></li>
+<li><a href="https://www.itheat.com/view/60226.html">售15.19万-17.99万元， 比 亚 迪 宋 Ultra EV 开启B级SUV... - ITheat.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EV`, `#BYD`, `#product`, `#charging technology`, `#automotive`
 
 ---
