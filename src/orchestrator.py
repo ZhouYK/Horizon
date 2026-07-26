@@ -302,6 +302,7 @@ class HorizonOrchestrator:
                             f"title: \"Horizon Summary: {today} ({lang.upper()})\"\n"
                             f"date: {today}\n"
                             f"lang: {lang}\n"
+                            f"report: {report_id}\n"
                             "---\n\n"
                         )
 
@@ -369,6 +370,26 @@ class HorizonOrchestrator:
 
             raise
 
+    @staticmethod
+    def _apply_stock_transform(stock: str, transform: str) -> Optional[str]:
+        """Return a transformed stock identifier for use in URL templates.
+
+        Returns None when the stock cannot be used with this transform
+        (e.g. a Chinese name passed to cn_exchange_prefix).
+        """
+        if transform == "cn_exchange_prefix":
+            if not stock.isdigit():
+                return None  # Chinese names have no exchange code mapping
+            first = stock[0]
+            if first in ("0", "2", "3"):
+                return f"SZ{stock}"
+            elif first == "6":
+                return f"SH{stock}"
+            elif first in ("4", "8"):
+                return f"BJ{stock}"
+            return None
+        return stock
+
     def _expand_preset_sources(self) -> SourcesConfig:
         """Return a copy of SourcesConfig with preset_domains from category_groups merged in."""
         groups = self.config.filtering.category_groups
@@ -409,13 +430,34 @@ class HorizonOrchestrator:
                 src_type = src.get("type", "")
 
                 if src_type == "rss":
+                    url_template = cfg.get("url_template", "")
                     url = cfg.get("url", "")
-                    if url and url not in existing_rss_urls:
+                    name = cfg.get("name", "")
+                    category = cfg.get("category")
+
+                    if url_template and group.stocks:
+                        # Expand one RSS feed per stock using the template
+                        stock_transform = cfg.get("stock_transform", "none")
+                        for stock in group.stocks:
+                            transformed = self._apply_stock_transform(stock, stock_transform)
+                            if transformed is None:
+                                continue  # stock can't be used with this source's transform
+                            expanded_url = url_template.format(stock=transformed)
+                            if expanded_url not in existing_rss_urls:
+                                sources.rss.append(RSSSourceConfig(
+                                    name=f"{name}/{stock}" if name else stock,
+                                    url=expanded_url,
+                                    enabled=True,
+                                    category=category,
+                                ))
+                                existing_rss_urls.add(expanded_url)
+                    elif url and url not in existing_rss_urls:
+                        # No template or no stocks configured: use the plain url
                         sources.rss.append(RSSSourceConfig(
-                            name=cfg.get("name", ""),
+                            name=name,
                             url=url,
                             enabled=True,
-                            category=cfg.get("category"),
+                            category=category,
                         ))
                         existing_rss_urls.add(url)
 

@@ -291,28 +291,28 @@
           "description": "Caixin (财新网) — high-quality Chinese financial journalism via RSSHub",
           "description_zh": "财新网 — 高质量财经新闻（通过 RSSHub 订阅）",
           "tags": ["finance", "news", "chinese"],
-          "config": { "name": "财新网", "url": "https://rsshub.app/caixin/article", "category": "finance-cn" }
+          "config": { "name": "财新网", "url_template": "https://rsshub.app/caixin/search/{stock}", "url": "https://rsshub.app/caixin/article", "category": "finance-cn" }
         },
         {
           "type": "rss",
           "description": "36Kr (36氪) — Chinese tech and business news",
           "description_zh": "36氪 — 科技与商业资讯",
           "tags": ["finance", "business", "chinese"],
-          "config": { "name": "36氪", "url": "https://36kr.com/feed", "category": "finance-cn" }
+          "config": { "name": "36氪", "url_template": "https://rsshub.app/36kr/search/{stock}", "url": "https://36kr.com/feed", "category": "finance-cn" }
         },
         {
           "type": "rss",
           "description": "Xueqiu (雪球) hot topics — Chinese investment community discussions",
           "description_zh": "雪球今日话题 — 中文投资社区热点讨论",
           "tags": ["investing", "community", "chinese"],
-          "config": { "name": "雪球今日话题", "url": "https://xueqiu.com/hots/topic/rss", "category": "finance-cn" }
+          "config": { "name": "雪球", "url_template": "https://rsshub.app/xueqiu/stock_detail/{stock}", "url": "https://xueqiu.com/hots/topic/rss", "stock_transform": "cn_exchange_prefix", "category": "finance-cn" }
         },
         {
           "type": "rss",
           "description": "East Money (东方财富) stock market news via RSSHub search",
           "description_zh": "东方财富 — A 股财经新闻（通过 RSSHub 订阅）",
           "tags": ["stocks", "market", "chinese"],
-          "config": { "name": "东方财富", "url": "https://rsshub.app/eastmoney/search/A股", "category": "finance-cn" }
+          "config": { "name": "东方财富", "url_template": "https://rsshub.app/eastmoney/search/{stock}", "url": "https://rsshub.app/eastmoney/search/A股", "category": "finance-cn" }
         }
       ]
     },

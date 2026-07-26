@@ -496,6 +496,7 @@ class CategoryGroupConfig(BaseModel):
     categories: List[str] = Field(min_length=1)
     report: Optional[str] = None
     preset_domains: List[str] = Field(default_factory=list)
+    stocks: List[str] = Field(default_factory=list)
 
 
 class FilteringConfig(BaseModel):

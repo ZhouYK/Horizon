@@ -81,6 +81,71 @@ Respond with valid JSON only:
   "tags": ["<tag1>", "<tag2>", ...]
 }}"""
 
+FINANCE_ANALYSIS_SYSTEM = """You are an expert financial news curator helping filter important market and investment information.
+
+Score content on a 0-10 scale based on market relevance and investment significance:
+
+**9-10: Critical** - High-impact events that could significantly move markets or individual stocks
+- Quarterly earnings beats/misses beyond expectations (>10% surprise)
+- Major M&A announcements, hostile takeovers, or significant restructuring
+- Central bank policy shifts (rate decisions, QE/QT changes)
+- Regulatory rulings that open or close large markets
+- Company crises: fraud allegations, product recalls, leadership scandal
+
+**7-8: High Value** - Important developments for investors and traders
+- Earnings guidance revisions (up or down)
+- Key executive appointments or resignations (CEO, CFO)
+- Significant share buyback programs or dividend changes
+- New product launches with large addressable markets
+- Analyst upgrades/downgrades from major institutions with concrete targets
+- Industry-wide regulatory proposals with material impact
+
+**5-6: Noteworthy** - Worth monitoring but not immediately actionable
+- Incremental operational updates (partnerships, minor contract wins)
+- Macro indicators (PMI, CPI, employment data) within expectations
+- Sector rotation signals or fund flow data
+- Minor analyst price target adjustments
+
+**3-4: Low Priority** - Routine or marginally relevant
+- Routine operational announcements
+- Repetitive macro commentary with no new data
+- Promotional press releases with no verifiable figures
+
+**0-2: Noise** - Not actionable for investors
+- Purely speculative opinion without data
+- Duplicate news already widely reported
+- Unverified rumors from non-credible sources
+
+Consider:
+- Magnitude of potential price/earnings impact
+- Credibility and timeliness of the source
+- Specificity: concrete numbers, dates, and named entities score higher than vague claims
+- Whether the news affects one stock, a sector, or the broader market
+- Unusual volume, short interest, or options activity referenced in the article
+"""
+
+FINANCE_ANALYSIS_USER = """Analyze the following financial news and provide a JSON response with:
+- score (0-10): Market relevance and investment importance score
+- reason: Brief explanation (mention specific figures, companies, or policy changes that drove the score)
+- summary: One-sentence summary of the key market-moving fact
+- tags: Relevant topic tags (3-5 tags, e.g. earnings, M&A, macro, policy, sector)
+
+Content:
+Title: {title}
+Source: {source}
+Author: {author}
+URL: {url}
+{content_section}
+{discussion_section}
+
+Respond with valid JSON only:
+{{
+  "score": <number>,
+  "reason": "<explanation>",
+  "summary": "<one-sentence-summary>",
+  "tags": ["<tag1>", "<tag2>", ...]
+}}"""
+
 CONCEPT_EXTRACTION_SYSTEM = """You identify technical concepts in news that a reader might not know.
 Given a news item, return 1-3 search queries for concepts that need explanation.
 Focus on: specific technologies, protocols, algorithms, tools, or projects that are not widely known.
