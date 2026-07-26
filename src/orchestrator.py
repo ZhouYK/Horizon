@@ -9,7 +9,12 @@ from urllib.parse import unquote_plus, urlsplit
 import httpx
 from rich.console import Console
 
-from .models import Config, ContentItem
+from .models import (
+    Config, ContentItem, SourcesConfig,
+    RSSSourceConfig, GitHubSourceConfig,
+    RedditSubredditConfig, RedditUserConfig,
+)
+from .setup.presets import load_presets
 from .storage.manager import StorageManager, safe_output_path
 from .services.email import EmailManager
 from .services.webhook import WebhookNotifier
@@ -206,6 +211,11 @@ class HorizonOrchestrator:
             since = self._determine_time_window(force_hours)
             self.console.print(f"📅 Fetching content since: {since.strftime('%Y-%m-%d %H:%M:%S')}\n")
 
+            # 1.5 Expand preset_domains into concrete source configs for this run
+            self.config = self.config.model_copy(
+                update={"sources": self._expand_preset_sources()}
+            )
+
             # 2. Fetch content from all sources
             all_items = await self.fetch_all_sources(since)
             self.console.print(f"📥 Fetched {len(all_items)} items from all sources\n")
@@ -251,66 +261,80 @@ class HorizonOrchestrator:
                 self.console.print(f"      • {source_key}: {count}")
             self.console.print("")
 
-            # 6. Search related stories + enrich with background knowledge (2nd AI pass)
-            await self._enrich_important_items(important_items)
+            # 6. Split items into named reports based on category_groups[].report
+            report_groups = self._split_items_by_report(important_items)
 
-            # 7. Generate and save daily summaries for each configured language
+            # 7. Generate and save daily summaries for each report and language
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
-                summarizer = DailySummarizer()
-                summary = await summarizer.generate_summary(important_items, today, len(all_items), language=lang)
+                lang_summaries: List[tuple[str, str, List[ContentItem]]] = []
 
-                # Save to data/summaries/
-                summary_path = self.storage.save_daily_summary(today, summary, language=lang)
-                self.console.print(f"💾 Saved {lang.upper()} summary to: {summary_path}\n")
+                for report_id, (report_label, report_items) in report_groups.items():
+                    # 2nd AI pass: enrich per-report items
+                    await self._enrich_important_items(report_items)
 
-                # Copy to docs/ for GitHub Pages
-                try:
-                    from pathlib import Path
-
-                    post_filename = f"{today}-summary-{lang}.md"
-                    posts_dir = Path("docs/_posts")
-                    posts_dir.mkdir(parents=True, exist_ok=True)
-
-                    dest_path = safe_output_path(posts_dir, post_filename)
-
-                    # Add Jekyll front matter
-                    front_matter = (
-                        "---\n"
-                        "layout: default\n"
-                        f"title: \"Horizon Summary: {today} ({lang.upper()})\"\n"
-                        f"date: {today}\n"
-                        f"lang: {lang}\n"
-                        "---\n\n"
+                    summarizer = DailySummarizer()
+                    summary = await summarizer.generate_summary(
+                        report_items, today, len(all_items), language=lang
                     )
+                    lang_summaries.append((report_label, summary, report_items))
 
-                    # Strip leading H1 header to avoid duplication with Jekyll title
-                    summary_content = summary
-                    first_line = summary_content.strip().split("\n")[0]
-                    if first_line.startswith("# "):
-                        parts = summary_content.split("\n", 1)
-                        if len(parts) > 1:
-                            summary_content = parts[1].strip()
+                    # Save to data/summaries/
+                    summary_path = self.storage.save_daily_summary(
+                        today, summary, language=lang, report_id=report_id
+                    )
+                    self.console.print(f"💾 Saved [{report_label}] {lang.upper()} summary to: {summary_path}\n")
 
-                    with open(dest_path, "w", encoding="utf-8") as f:
-                        f.write(front_matter + summary_content)
+                    # Copy to docs/ for GitHub Pages
+                    try:
+                        from pathlib import Path
 
-                    self.console.print(f"📄 Copied {lang.upper()} summary to GitHub Pages: {dest_path}\n")
-                except Exception as e:
-                    self.console.print(f"[yellow]⚠️  Failed to copy {lang.upper()} summary to docs/: {e}[/yellow]\n")
+                        report_suffix = f"-{report_id}" if report_id != "default" else ""
+                        post_filename = f"{today}-summary{report_suffix}-{lang}.md"
+                        posts_dir = Path("docs/_posts")
+                        posts_dir.mkdir(parents=True, exist_ok=True)
 
-                # Send email if configured
+                        dest_path = safe_output_path(posts_dir, post_filename)
+
+                        front_matter = (
+                            "---\n"
+                            "layout: default\n"
+                            f"title: \"Horizon Summary: {today} ({lang.upper()})\"\n"
+                            f"date: {today}\n"
+                            f"lang: {lang}\n"
+                            "---\n\n"
+                        )
+
+                        summary_content = summary
+                        first_line = summary_content.strip().split("\n")[0]
+                        if first_line.startswith("# "):
+                            parts = summary_content.split("\n", 1)
+                            if len(parts) > 1:
+                                summary_content = parts[1].strip()
+
+                        with open(dest_path, "w", encoding="utf-8") as f:
+                            f.write(front_matter + summary_content)
+
+                        self.console.print(f"📄 Copied [{report_label}] {lang.upper()} summary to GitHub Pages: {dest_path}\n")
+                    except Exception as e:
+                        self.console.print(f"[yellow]⚠️  Failed to copy [{report_label}] {lang.upper()} summary to docs/: {e}[/yellow]\n")
+
+                # Send email (combined, first report only for now)
                 if self.email_manager and self.config.email and self.config.email.enabled:
+                    combined_summary = self._join_summaries(lang_summaries)
                     self.console.print(f"📧 Sending {lang.upper()} email summary...")
                     subscribers = self.storage.load_subscribers()
                     subject = f"Horizon Summary ({lang.upper()}) - {today}"
-                    self.email_manager.send_daily_summary(summary, subject, subscribers)
+                    self.email_manager.send_daily_summary(combined_summary, subject, subscribers)
 
-                # Send webhook notification if configured
+                # Send ONE webhook with all reports separated by titles
                 if self.webhook_notifier:
+                    all_items_flat = [item for _, _, items in lang_summaries for item in items]
+                    combined_summary = self._join_summaries(lang_summaries)
+                    summarizer = DailySummarizer()
                     await self.webhook_notifier.send_daily_summary(
-                        summary=summary,
-                        important_items=important_items,
+                        summary=combined_summary,
+                        important_items=all_items_flat,
                         all_items_count=len(all_items),
                         date=today,
                         lang=lang,
@@ -344,6 +368,95 @@ class HorizonOrchestrator:
                 )
 
             raise
+
+    def _expand_preset_sources(self) -> SourcesConfig:
+        """Return a copy of SourcesConfig with preset_domains from category_groups merged in."""
+        groups = self.config.filtering.category_groups
+        all_preset_domains = [
+            (domain_id, group)
+            for group in groups.values()
+            for domain_id in group.preset_domains
+        ]
+        if not all_preset_domains:
+            return self.config.sources
+
+        try:
+            presets = load_presets()
+        except FileNotFoundError:
+            self.console.print("[yellow]⚠️  presets.json not found, skipping preset_domains expansion.[/yellow]")
+            return self.config.sources
+
+        domain_map = {d["id"]: d for d in presets.get("domains", [])}
+        sources = self.config.sources.model_copy(deep=True)
+
+        existing_rss_urls = {s.url for s in sources.rss}
+        existing_subreddits = {s.subreddit for s in sources.reddit.subreddits}
+        existing_reddit_users = {s.username for s in sources.reddit.users}
+        existing_gh_keys = {
+            f"{s.type}:{s.username or ''}/{s.owner or ''}/{s.repo or ''}"
+            for s in sources.github
+        }
+
+        for domain_id, group in all_preset_domains:
+            domain = domain_map.get(domain_id)
+            if not domain:
+                self.console.print(f"[yellow]⚠️  preset domain '{domain_id}' not found in presets.json[/yellow]")
+                continue
+
+            self.console.print(f"📦 Expanding preset domain: {domain.get('name_zh') or domain_id} → {group.name or domain_id}")
+            for src in domain.get("sources", []):
+                cfg = src.get("config", {})
+                src_type = src.get("type", "")
+
+                if src_type == "rss":
+                    url = cfg.get("url", "")
+                    if url and url not in existing_rss_urls:
+                        sources.rss.append(RSSSourceConfig(
+                            name=cfg.get("name", ""),
+                            url=url,
+                            enabled=True,
+                            category=cfg.get("category"),
+                        ))
+                        existing_rss_urls.add(url)
+
+                elif src_type == "reddit_subreddit":
+                    sub = cfg.get("subreddit", "")
+                    if sub and sub not in existing_subreddits:
+                        sources.reddit.subreddits.append(RedditSubredditConfig(
+                            subreddit=sub,
+                            sort=cfg.get("sort", "hot"),
+                            fetch_limit=cfg.get("fetch_limit", 15),
+                            min_score=cfg.get("min_score", 50),
+                        ))
+                        sources.reddit.enabled = True
+                        existing_subreddits.add(sub)
+
+                elif src_type == "reddit_user":
+                    username = cfg.get("username", "")
+                    if username and username not in existing_reddit_users:
+                        sources.reddit.users.append(RedditUserConfig(username=username))
+                        sources.reddit.enabled = True
+                        existing_reddit_users.add(username)
+
+                elif src_type == "github_user":
+                    username = cfg.get("username", "")
+                    key = f"user_events:{username}///"
+                    if username and key not in existing_gh_keys:
+                        sources.github.append(GitHubSourceConfig(
+                            type="user_events", username=username, enabled=True,
+                        ))
+                        existing_gh_keys.add(key)
+
+                elif src_type == "github_repo":
+                    owner, repo = cfg.get("owner", ""), cfg.get("repo", "")
+                    key = f"repo_releases:/{owner}/{repo}"
+                    if owner and repo and key not in existing_gh_keys:
+                        sources.github.append(GitHubSourceConfig(
+                            type="repo_releases", owner=owner, repo=repo, enabled=True,
+                        ))
+                        existing_gh_keys.add(key)
+
+        return sources
 
     def _determine_time_window(self, force_hours: int = None) -> datetime:
         if force_hours:
@@ -418,12 +531,12 @@ class HorizonOrchestrator:
                 tasks.append(self._fetch_with_progress("OSS Insight", oss_scraper, since))
 
             # GDELT 2.0 DOC API (key-less global news)
-            if self.config.sources.gdelt and self.config.sources.gdelt.enabled:
+            if self.config.sources.gdelt:
                 gdelt_scraper = GDELTScraper(self.config.sources.gdelt, client)
                 tasks.append(self._fetch_with_progress("GDELT", gdelt_scraper, since))
 
             # Google News RSS (key-less news search)
-            if self.config.sources.google_news and self.config.sources.google_news.enabled:
+            if self.config.sources.google_news:
                 gn_scraper = GoogleNewsScraper(self.config.sources.google_news, client)
                 tasks.append(self._fetch_with_progress("Google News", gn_scraper, since))
 
@@ -688,6 +801,57 @@ class HorizonOrchestrator:
             topic_dedup_removed=topic_dedup_removed,
             balanced_digest=balanced_digest,
         )
+
+    def _split_items_by_report(
+        self,
+        items: List[ContentItem],
+    ) -> Dict[str, tuple[str, List[ContentItem]]]:
+        """Split items into named report buckets based on category_groups[].report.
+
+        Returns:
+            Ordered dict mapping report_id → (label, items). Items whose
+            category maps to no report end up in the "default" bucket.
+        """
+        groups = self.config.filtering.category_groups
+
+        # Build category → report_id mapping
+        category_to_report: Dict[str, str] = {}
+        for group in groups.values():
+            if group.report:
+                for cat in group.categories:
+                    category_to_report.setdefault(cat, group.report)
+
+        # Build report_id → label mapping (use group name if available)
+        report_labels: Dict[str, str] = {}
+        for group in groups.values():
+            if group.report and group.report not in report_labels:
+                report_labels[group.report] = group.name or group.report
+
+        buckets: Dict[str, List[ContentItem]] = defaultdict(list)
+        for item in items:
+            cat = item.metadata.get("category")
+            report_id = category_to_report.get(cat, "default") if isinstance(cat, str) else "default"
+            buckets[report_id].append(item)
+
+        # Return with "default" last so named reports are processed first
+        result: Dict[str, tuple[str, List[ContentItem]]] = {}
+        for report_id, report_items in buckets.items():
+            if report_id != "default":
+                result[report_id] = (report_labels.get(report_id, report_id), report_items)
+        if "default" in buckets:
+            result["default"] = ("Daily Summary", buckets["default"])
+
+        return result
+
+    @staticmethod
+    def _join_summaries(summaries: List[tuple[str, str, List[ContentItem]]]) -> str:
+        """Concatenate multiple report summaries with separator titles."""
+        if len(summaries) == 1:
+            return summaries[0][1]
+        parts = []
+        for label, summary, _ in summaries:
+            parts.append(f"# {label}\n\n{summary}")
+        return "\n\n---\n\n".join(parts)
 
     def apply_balanced_digest(
         self,

@@ -39,50 +39,43 @@ class GDELTScraper(BaseScraper):
     SOURCE_TYPE = SourceType.GDELT
     BASE_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
 
-    def __init__(self, config: GDELTConfig, http_client: httpx.AsyncClient):
-        """Initialize the scraper.
-
-        Args:
-            config: GDELT source configuration.
-            http_client: Shared async HTTP client.
-        """
-        super().__init__({"gdelt": config}, http_client)
-        self.gdelt_config = config
+    def __init__(self, configs: List[GDELTConfig], http_client: httpx.AsyncClient):
+        super().__init__({"gdelt": configs}, http_client)
+        self.configs = configs
 
     async def fetch(self, since: datetime) -> List[ContentItem]:
-        """Fetch articles from the GDELT DOC API.
+        items: List[ContentItem] = []
+        for cfg in self.configs:
+            items.extend(await self._fetch_one(cfg, since))
+        return items
 
-        Args:
-            since: Only fetch items published after this time (used to derive
-                the GDELT ``startdatetime`` unless ``timespan`` is set).
-
-        Returns:
-            List[ContentItem]: Fetched content items.
-        """
-        if not self.gdelt_config.enabled:
+    async def _fetch_one(self, cfg: GDELTConfig, since: datetime) -> List[ContentItem]:
+        """Fetch articles for a single GDELTConfig entry."""
+        if not cfg.enabled:
             return []
 
-        query = (self.gdelt_config.query or "").strip()
+        if cfg.stocks:
+            query = " OR ".join(f'"{s}"' for s in cfg.stocks)
+        else:
+            query = (cfg.query or "").strip()
         if not query:
             return []
 
-        # GDELT expresses language/country as query operators.
-        if self.gdelt_config.language:
-            query = f"{query} sourcelang:{self.gdelt_config.language}"
-        if self.gdelt_config.country:
-            query = f"{query} sourcecountry:{self.gdelt_config.country}"
+        if cfg.language:
+            query = f"{query} sourcelang:{cfg.language}"
+        if cfg.country:
+            query = f"{query} sourcecountry:{cfg.country}"
 
         params: dict[str, Any] = {
             "query": query,
-            "mode": self.gdelt_config.mode,
+            "mode": cfg.mode,
             "format": "json",
-            "maxrecords": self.gdelt_config.max_records,
+            "maxrecords": cfg.max_records,
             "sort": "datedesc",
         }
 
-        # timespan takes precedence over an explicit start/end window.
-        if self.gdelt_config.timespan:
-            params["timespan"] = self.gdelt_config.timespan
+        if cfg.timespan:
+            params["timespan"] = cfg.timespan
         else:
             since_utc = self._ensure_utc(since)
             now_utc = datetime.now(timezone.utc)
@@ -94,27 +87,22 @@ class GDELTScraper(BaseScraper):
                 self.BASE_URL, params=params, follow_redirects=True
             )
             response.raise_for_status()
-
             try:
                 payload = response.json()
             except Exception as exc:
                 logger.warning("GDELT returned a non-JSON body: %s", exc)
                 return []
-
             if not isinstance(payload, dict):
                 return []
-
             articles = payload.get("articles")
             if not articles:
                 return []
-
             items: List[ContentItem] = []
             for raw in articles:
-                item = self._raw_to_item(raw)
+                item = self._raw_to_item(raw, cfg)
                 if item is not None:
                     items.append(item)
             return items
-
         except httpx.HTTPError as exc:
             logger.warning("Error fetching GDELT articles: %s", exc)
             return []
@@ -122,7 +110,7 @@ class GDELTScraper(BaseScraper):
             logger.warning("Error parsing GDELT response: %s", exc)
             return []
 
-    def _raw_to_item(self, raw: Any) -> Optional[ContentItem]:
+    def _raw_to_item(self, raw: Any, cfg: GDELTConfig) -> Optional[ContentItem]:
         """Map one GDELT article record into a ContentItem.
 
         Returns None when the record has no URL/title or an unparseable
@@ -147,8 +135,8 @@ class GDELTScraper(BaseScraper):
             "domain": raw.get("domain"),
             "sourcecountry": raw.get("sourcecountry"),
             "language": raw.get("language"),
-            "query": self.gdelt_config.query,
-            "category": self.gdelt_config.category,
+            "query": cfg.query,
+            "category": cfg.category,
         }
 
         try:

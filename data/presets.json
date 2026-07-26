@@ -246,6 +246,77 @@
       ]
     },
     {
+      "id": "finance",
+      "name": "Finance / Market",
+      "name_zh": "财经 / 市场",
+      "keywords": ["finance", "财经", "stock", "股票", "market", "市场", "investing", "投资", "crypto", "加密货币", "cryptocurrency", "economic", "经济", "trading", "交易", "ipo", "earnings", "财报", "fund", "基金", "bonds", "债券", "venture capital", "风险投资", "fintech", "金融科技"],
+      "sources": [
+        {
+          "type": "reddit_subreddit",
+          "description": "Finance — personal finance, economics, investing",
+          "description_zh": "Finance — 个人理财、经济学与投资讨论",
+          "tags": ["finance", "economics"],
+          "config": { "subreddit": "finance", "sort": "hot", "fetch_limit": 15, "min_score": 80 }
+        },
+        {
+          "type": "reddit_subreddit",
+          "description": "Investing — investment strategies and market analysis",
+          "description_zh": "Investing — 投资策略与市场分析",
+          "tags": ["investing", "stocks"],
+          "config": { "subreddit": "investing", "sort": "hot", "fetch_limit": 15, "min_score": 60 }
+        },
+        {
+          "type": "reddit_subreddit",
+          "description": "Stocks — stock market news and discussions",
+          "description_zh": "Stocks — 股票市场新闻与讨论",
+          "tags": ["stocks", "market"],
+          "config": { "subreddit": "stocks", "sort": "hot", "fetch_limit": 15, "min_score": 60 }
+        },
+        {
+          "type": "rss",
+          "description": "The Economist Finance & Economics — in-depth financial analysis",
+          "description_zh": "经济学人财经版 — 深度财经分析",
+          "tags": ["economics", "analysis"],
+          "config": { "name": "The Economist Finance", "url": "https://www.economist.com/finance-and-economics/rss.xml", "category": "finance" }
+        },
+        {
+          "type": "rss",
+          "description": "FT Markets — Financial Times market news",
+          "description_zh": "FT Markets — 金融时报市场新闻",
+          "tags": ["market", "news"],
+          "config": { "name": "FT Markets", "url": "https://www.ft.com/markets?format=rss", "category": "finance" }
+        },
+        {
+          "type": "rss",
+          "description": "Caixin (财新网) — high-quality Chinese financial journalism via RSSHub",
+          "description_zh": "财新网 — 高质量财经新闻（通过 RSSHub 订阅）",
+          "tags": ["finance", "news", "chinese"],
+          "config": { "name": "财新网", "url": "https://rsshub.app/caixin/article", "category": "finance-cn" }
+        },
+        {
+          "type": "rss",
+          "description": "36Kr (36氪) — Chinese tech and business news",
+          "description_zh": "36氪 — 科技与商业资讯",
+          "tags": ["finance", "business", "chinese"],
+          "config": { "name": "36氪", "url": "https://36kr.com/feed", "category": "finance-cn" }
+        },
+        {
+          "type": "rss",
+          "description": "Xueqiu (雪球) hot topics — Chinese investment community discussions",
+          "description_zh": "雪球今日话题 — 中文投资社区热点讨论",
+          "tags": ["investing", "community", "chinese"],
+          "config": { "name": "雪球今日话题", "url": "https://xueqiu.com/hots/topic/rss", "category": "finance-cn" }
+        },
+        {
+          "type": "rss",
+          "description": "East Money (东方财富) stock market news via RSSHub search",
+          "description_zh": "东方财富 — A 股财经新闻（通过 RSSHub 订阅）",
+          "tags": ["stocks", "market", "chinese"],
+          "config": { "name": "东方财富", "url": "https://rsshub.app/eastmoney/search/A股", "category": "finance-cn" }
+        }
+      ]
+    },
+    {
       "id": "science",
       "name": "Science / Research",
       "name_zh": "科学 / 学术研究",

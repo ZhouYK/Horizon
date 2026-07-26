@@ -26,17 +26,17 @@
       {
         "type": "user_events",
         "username": "torvalds",
-        "enabled": true
+        "enabled": false
       },
       {
         "type": "repo_releases",
         "owner": "astral-sh",
         "repo": "uv",
-        "enabled": true
+        "enabled": false
       }
     ],
     "hackernews": {
-      "enabled": true,
+      "enabled": false,
       "fetch_top_stories": 20,
       "min_score": 100
     },
@@ -50,16 +50,16 @@
       {
         "name": "LWN.net (subscriber full-text)",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
+        "enabled": false,
         "category": "linux"
       }
     ],
     "reddit": {
-      "enabled": true,
+      "enabled": false,
       "subreddits": [
         {
           "subreddit": "MachineLearning",
-          "enabled": true,
+          "enabled": false,
           "sort": "hot",
           "time_filter": "day",
           "fetch_limit": 15,
@@ -69,7 +69,7 @@
       "users": [
         {
           "username": "iamthatis",
-          "enabled": true,
+          "enabled": false,
           "sort": "new",
           "fetch_limit": 10
         }
@@ -77,7 +77,7 @@
       "fetch_comments": 5
     },
     "twitter": {
-      "enabled": true,
+      "enabled": false,
       "users": ["karpathy", "ylecun"],
       "fetch_limit": 10,
       "fetch_reply_text": false,
@@ -95,38 +95,63 @@
           "enabled": true,
           "provider": "yfinance",
           "fetch_limit": 20,
-          "category": "equities",
-          "symbols": ["AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META", "TSLA"]
+          "category": "finance-cn",
+          "symbols": ["AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META", "TSLA", "比亚迪", "BYD"]
         }
       ]
     },
     "ossinsight": {
-      "enabled": true,
+      "enabled": false,
       "period": "past_24_hours",
       "languages": ["All", "Python", "TypeScript"],
       "keywords": [],
       "min_stars": 10,
       "max_items": 30
     },
-    "gdelt": {
-      "enabled": true,
-      "query": "artificial intelligence",
-      "mode": "ArtList",
-      "max_records": 75,
-      "timespan": null,
-      "language": null,
-      "country": null,
-      "category": "news"
-    },
-    "google_news": {
-      "enabled": true,
-      "query": "artificial intelligence",
-      "language": "en",
-      "country": "US",
-      "ceid": null,
-      "max_results": 100,
-      "category": "news"
-    },
+    "gdelt": [
+      {
+        "enabled": true,
+        "query": "artificial intelligence",
+        "stocks": [],
+        "mode": "ArtList",
+        "max_records": 75,
+        "timespan": null,
+        "language": null,
+        "country": null,
+        "category": "ai-news"
+      },
+      {
+        "enabled": false,
+        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "mode": "ArtList",
+        "max_records": 75,
+        "timespan": null,
+        "language": null,
+        "country": null,
+        "category": "finance-cn"
+      }
+    ],
+    "google_news": [
+      {
+        "enabled": true,
+        "query": "artificial intelligence",
+        "stocks": [],
+        "language": "en",
+        "country": "US",
+        "ceid": null,
+        "max_results": 100,
+        "category": "ai-news"
+      },
+      {
+        "enabled": false,
+        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "language": "zh-CN",
+        "country": "CN",
+        "ceid": null,
+        "max_results": 100,
+        "category": "finance-cn"
+      }
+    ],
     "aibase": {
       "enabled": true,
       "max_items": 20,
@@ -148,7 +173,21 @@
     "ai_score_threshold": 6.0,
     "time_window_hours": 24,
     "max_items": null,
-    "category_groups": {},
+    "category_groups": {
+      "ai": {
+        "name": "AI 资讯",
+        "limit": 8,
+        "categories": ["ai-news", "ai-tools", "news"],
+        "report": "ai"
+      },
+      "stocks": {
+        "name": "股票资讯",
+        "limit": 10,
+        "categories": ["finance-cn"],
+        "report": "stock",
+        "preset_domains": ["finance"]
+      }
+    },
     "default_group": "other",
     "default_group_limit": null
   },

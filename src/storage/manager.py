@@ -119,8 +119,9 @@ class StorageManager:
 
         return self.config_path
 
-    def save_daily_summary(self, date: str, markdown: str, language: str = "en") -> Path:
-        filename = f"horizon-{date}-{language}.md"
+    def save_daily_summary(self, date: str, markdown: str, language: str = "en", report_id: str = "default") -> Path:
+        report_suffix = f"-{report_id}" if report_id != "default" else ""
+        filename = f"horizon-{date}{report_suffix}-{language}.md"
         filepath = safe_output_path(self.summaries_dir, filename)
 
         _atomic_write_text(filepath, markdown)

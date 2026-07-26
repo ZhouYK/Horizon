@@ -348,6 +348,7 @@ class GDELTConfig(BaseModel):
 
     enabled: bool = False
     query: str = "artificial intelligence"
+    stocks: List[str] = Field(default_factory=list)
     mode: str = "ArtList"
     max_records: int = 75  # GDELT DOC API caps at 250; keep modest
     timespan: Optional[str] = None  # e.g. "24h"; overrides since-derived window
@@ -366,6 +367,7 @@ class GoogleNewsConfig(BaseModel):
 
     enabled: bool = False
     query: str = "artificial intelligence"
+    stocks: List[str] = Field(default_factory=list)
     language: str = "en"  # hl
     country: str = "US"  # gl
     ceid: Optional[str] = None  # when None scraper derives it as "{country}:{language}"
@@ -397,8 +399,8 @@ class SourcesConfig(BaseModel):
     twitter: Optional[TwitterConfig] = None
     openbb: Optional[OpenBBConfig] = None
     ossinsight: OSSInsightConfig = Field(default_factory=OSSInsightConfig)
-    gdelt: Optional[GDELTConfig] = None
-    google_news: Optional[GoogleNewsConfig] = None
+    gdelt: List[GDELTConfig] = Field(default_factory=list)
+    google_news: List[GoogleNewsConfig] = Field(default_factory=list)
     aibase: Optional[AibaseConfig] = None
 
 
@@ -492,6 +494,8 @@ class CategoryGroupConfig(BaseModel):
     name: Optional[str] = None
     limit: int = Field(gt=0)
     categories: List[str] = Field(min_length=1)
+    report: Optional[str] = None
+    preset_domains: List[str] = Field(default_factory=list)
 
 
 class FilteringConfig(BaseModel):
