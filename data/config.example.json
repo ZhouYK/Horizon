@@ -86,7 +86,7 @@
       "reply_min_likes": 5
     },
     "openbb": {
-      "enabled": true,
+      "enabled": false,
       "fetch_filings": false,
       "filings_provider": "sec",
       "watchlists": [
