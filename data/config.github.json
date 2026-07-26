@@ -114,7 +114,7 @@
         "category": "ai-news"
       },
       {
-        "enabled": true,
+        "enabled": false,
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
         "mode": "ArtList",
         "max_records": 75,
@@ -135,7 +135,7 @@
         "category": "ai-news"
       },
       {
-        "enabled": true,
+        "enabled": false,
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
         "language": "zh-CN",
         "country": "CN",

@@ -968,6 +968,14 @@ class HorizonOrchestrator:
             # Per-stock limit: cap items per stock within groups that configure stock_limit
             if group_key in groups:
                 group = groups[group_key]
+
+                # Title-based stock filter: when stocks are configured, only keep items
+                # whose title contains at least one stock name or code.
+                if group.stocks:
+                    title = item.title or ""
+                    if not any(s in title for s in group.stocks):
+                        continue
+
                 if group.stock_limit is not None and group.stocks:
                     feed_name = item.metadata.get("feed_name", "")
                     matched_stock = next(
