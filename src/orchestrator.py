@@ -271,6 +271,10 @@ class HorizonOrchestrator:
                 lang_summaries: List[tuple[str, str, List[ContentItem]]] = []
 
                 for report_id, (report_label, report_items) in report_groups.items():
+                    if not report_items:
+                        lang_summaries.append((report_label, "", report_items))
+                        continue
+
                     # 2nd AI pass: enrich per-report items
                     await self._enrich_important_items(report_items)
 
@@ -876,6 +880,10 @@ class HorizonOrchestrator:
                 report_labels[group.report] = group.name or group.report
 
         buckets: Dict[str, List[ContentItem]] = defaultdict(list)
+        # Pre-populate all configured report buckets so empty reports still generate files
+        for group in groups.values():
+            if group.report:
+                buckets.setdefault(group.report, [])
         for item in items:
             cat = item.metadata.get("category")
             report_id = category_to_report.get(cat, "default") if isinstance(cat, str) else "default"
@@ -947,6 +955,7 @@ class HorizonOrchestrator:
         selected: List[tuple[ContentItem, str]] = []
         group_counts: Dict[str, int] = defaultdict(int)
         stock_counts: Dict[str, Dict[str, int]] = defaultdict(lambda: defaultdict(int))
+        stock_filter_fallback: Dict[str, List[ContentItem]] = defaultdict(list)
         default_group = filtering.default_group
 
         for item in sorted_items:
@@ -971,9 +980,11 @@ class HorizonOrchestrator:
 
                 # Title-based stock filter: when stocks are configured, only keep items
                 # whose title contains at least one stock name or code.
+                # Items that don't pass are kept as fallback to fill up the group if needed.
                 if group.stocks:
                     title = item.title or ""
                     if not any(s in title for s in group.stocks):
+                        stock_filter_fallback[group_key].append(item)
                         continue
 
                 if group.stock_limit is not None and group.stocks:
@@ -995,6 +1006,17 @@ class HorizonOrchestrator:
 
             selected.append((item, group_key))
             group_counts[group_key] += 1
+
+        # Fill groups with stocks below their limit using general finance fallback items
+        for group_key, fallback_items in stock_filter_fallback.items():
+            if group_key not in groups:
+                continue
+            limit = groups[group_key].limit
+            for item in fallback_items:
+                if limit is not None and group_counts[group_key] >= limit:
+                    break
+                selected.append((item, group_key))
+                group_counts[group_key] += 1
 
         if max_items is not None:
             selected = selected[:max_items]
