@@ -108,15 +108,15 @@
       "mode": "ArtList",
       "max_records": 75,
       "timespan": null,
-      "language": null,
+      "language": "Chinese",
       "country": null,
       "category": "news"
     },
     "google_news": {
       "enabled": true,
       "query": "artificial intelligence",
-      "language": "en",
-      "country": "US",
+      "language": "zh-CN",
+      "country": "CN",
       "ceid": null,
       "max_results": 100,
       "category": "news"
@@ -124,7 +124,7 @@
     "aibase": {
       "enabled": true,
       "max_items": 20,
-      "language": "en",
+      "language": "zh",
       "category": "ai-news"
     },
     "telegram": {
