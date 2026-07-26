@@ -112,7 +112,6 @@
       {
         "enabled": true,
         "query": "artificial intelligence",
-        "stocks": [],
         "mode": "ArtList",
         "max_records": 75,
         "timespan": null,
@@ -121,7 +120,7 @@
         "category": "ai-news"
       },
       {
-        "enabled": true,
+        "enabled": false,
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
         "mode": "ArtList",
         "max_records": 75,
@@ -135,7 +134,6 @@
       {
         "enabled": true,
         "query": "artificial intelligence",
-        "stocks": [],
         "language": "en",
         "country": "US",
         "ceid": null,
@@ -143,7 +141,7 @@
         "category": "ai-news"
       },
       {
-        "enabled": true,
+        "enabled": false,
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
         "language": "zh-CN",
         "country": "CN",
@@ -183,7 +181,7 @@
       "stocks": {
         "name": "股票资讯",
         "limit": 20,
-        "categories": ["finance-cn"],
+        "categories": ["finance-cn", "finance", "stocks", "investing"],
         "report": "stock",
         "preset_domains": ["finance"],
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
