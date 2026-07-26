@@ -981,6 +981,13 @@ class HorizonOrchestrator:
                     matched_stock = next(
                         (s for s in group.stocks if s in feed_name), None
                     )
+                    if matched_stock is None:
+                        # feed_name doesn't contain a stock name (e.g. 财新网, 36氪);
+                        # fall back to title matching, which the filter above already passed.
+                        title = item.title or ""
+                        matched_stock = next(
+                            (s for s in group.stocks if s in title), None
+                        )
                     if matched_stock is not None:
                         if stock_counts[group_key][matched_stock] >= group.stock_limit:
                             continue
