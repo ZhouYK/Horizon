@@ -62,6 +62,41 @@
 
 ---
 
+## 4. 内容筛选与分组流程
+
+完整的 pipeline 在 `src/orchestrator.py` 中按以下顺序执行：
+
+### 4.1 全局分数阈值
+
+`filter_items`（`src/orchestrator.py:806`）对所有来源的 item 统一过滤，只保留 `ai_score >= ai_score_threshold`（当前配置 6.0）的条目，并按分数降序排列。
+
+### 4.2 话题去重
+
+对高分 item 做跨来源的话题级去重（`merge_topic_duplicates`），合并报道同一事件的重复内容。
+
+### 4.3 分组配额（apply_balanced_digest）
+
+`apply_balanced_digest`（`src/orchestrator.py:904`）对去重后的 item 按 `category_groups` 配置独立分配配额，各组互不干扰：
+
+| 组 | limit | 说明 |
+|----|-------|------|
+| AI 资讯 | 10 | category 为 ai-news / ai-tools / news |
+| 股票资讯 | 20 | category 为 finance-cn / finance / stocks / investing |
+| other | 不限 | 其余 category |
+
+**股票资讯组的特殊逻辑**（按优先级依次执行）：
+
+1. **标题过滤（优先）**：只保留标题中含有配置股票名称或代码的文章；不符合的暂存为兜底候选
+2. **per-stock 限额**：匹配到具体股票的文章每只股票最多 `stock_limit`（当前 5）条，通过 `feed_name` 或标题识别所属股票
+3. **兜底补全**：若股票过滤后条数不足 `limit`（20），从兜底候选（通用财经文章）中按分数降序补入
+4. **最终排序**：所有选中条目（含兜底）按 `ai_score` 降序重新排列
+
+### 4.4 按 report 拆分
+
+`_split_items_by_report`（`src/orchestrator.py:853`）将选中 item 按 `category_groups[].report` 字段拆入各自的报告桶。配置了 `report` 的分组即使 0 条也会生成空文件，避免旧文件残留。
+
+---
+
 ## 关键设计特点
 
 1. **纯 AI 打分**：没有硬编码的规则权重，全靠 prompt 引导模型判断
