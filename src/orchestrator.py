@@ -1018,6 +1018,8 @@ class HorizonOrchestrator:
                 selected.append((item, group_key))
                 group_counts[group_key] += 1
 
+        selected.sort(key=lambda x: x[0].ai_score or 0, reverse=True)
+
         if max_items is not None:
             selected = selected[:max_items]
 
