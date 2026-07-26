@@ -141,7 +141,7 @@
         "category": "ai-news"
       },
       {
-        "enabled": false,
+        "enabled": true,
         "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
         "language": "zh-CN",
         "country": "CN",
