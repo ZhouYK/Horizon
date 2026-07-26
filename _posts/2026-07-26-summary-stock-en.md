@@ -6,399 +6,335 @@ lang: en
 report: stock
 ---
 
-> From 237 items, 20 important content pieces were selected
+> From 178 items, 18 important content pieces were selected
 
 ---
 
-1. [India fines BYD $630 million, potential market impact](#item-1) ⭐️ 8.0/10
-2. [BYD Unveils 2nd-Gen Blade Battery &amp; Flash Charging for 10 New Models](#item-2) ⭐️ 8.0/10
-3. [BYD Launches 11 New Cars, Including 1000+ km Range EV](#item-3) ⭐️ 8.0/10
-4. [BYD enters e-scooter market with 3000 RMB product](#item-4) ⭐️ 8.0/10
-5. [BYD to Enter Japan&\#x27;s Auto Market as Barriers Ease](#item-5) ⭐️ 7.0/10
-6. [Tesla Loses Pure EV Crown, How to Bounce Back?](#item-6) ⭐️ 7.0/10
-7. [China Tourism Group Duty Free drops 3% on H1 revenue worry](#item-7) ⭐️ 7.0/10
-8. [BYD Cuts Song PLUS DM-i Price by 20,000 RMB for Glory Edition](#item-8) ⭐️ 7.0/10
-9. [BYD Da Han spy photos hint at 1000kW charging, 1000km range](#item-9) ⭐️ 7.0/10
-10. [BYD previews humanoid robot at DiSpace, launching in August](#item-10) ⭐️ 6.0/10
-11. [BYD&\#x27;s Second-Gen Blade Battery and Flash Charging Praised by MIIT](#item-11) ⭐️ 6.0/10
-12. [BYD urged to act as merchants boost PHEV range with external devices](#item-12) ⭐️ 6.0/10
-13. [BYD Linghui Brand Debuts Three Models for Ride-Hailing Market](#item-13) ⭐️ 6.0/10
-14. [BYD Announces Price Hike Starting May 1](#item-14) ⭐️ 6.0/10
-15. [BYD Overtakes Kia for Second in Australian Sales; Sea Lion 07 Beats Model Y](#item-15) ⭐️ 6.0/10
-16. [China L2 Standard Boosts BYD God&\#x27;s Eye Lead](#item-16) ⭐️ 6.0/10
-17. [BYD Launches ATTO 2 Electric SUV in France at €28,990](#item-17) ⭐️ 6.0/10
-18. [BYD to Launch Large-Battery, Ultra-Fast Charging EVs Above 130k RMB](#item-18) ⭐️ 6.0/10
-19. [Tesla Model 3 vs BYD Han Battery Teardown: 50K RMB Gap](#item-19) ⭐️ 6.0/10
-20. [BYD Song Ultra EV Flash Charges to 70% in 5 Minutes](#item-20) ⭐️ 6.0/10
+1. [Former CSRC Vice Chairman Fang Xinghai Investigated for Violations](#item-1) ⭐️ 9.0/10
+2. [US-Iran Ceasefire Collapses, War Reignites in Gulf](#item-2) ⭐️ 9.0/10
+3. [Musk Warns on SpaceX Short Interest, Merger Rumors Swirl](#item-3) ⭐️ 9.0/10
+4. [Chile Storm Disrupts Copper Mines, Threatens AI Supply](#item-4) ⭐️ 8.0/10
+5. [Saudi Arabia strikes Houthis after energy site attacks](#item-5) ⭐️ 8.0/10
+6. [Ford recalls over 565,000 Broncos due to fire risk](#item-6) ⭐️ 8.0/10
+7. [Samsung Chairman Meets OpenAI CEO to Discuss AI Semiconductor Cooperation](#item-7) ⭐️ 8.0/10
+8. [Investors bypass China AI stock curbs via crypto perpetual futures](#item-8) ⭐️ 7.0/10
+9. [Chinese Embodied Intelligence Firms Rush to IPO Despite No Profits](#item-9) ⭐️ 7.0/10
+10. [Gold Seen Resuming Uptrend on USD Weakness, Rate Cut Hopes](#item-10) ⭐️ 7.0/10
+11. [Baili Tianheng&\#x27;s T-Bren Phase III Trial Enrolls First Patient for Biliary Tract Cancer](#item-11) ⭐️ 7.0/10
+12. [ST Yuandao Faces Delisting Risk as Market Cap Falls Below 3B Yuan](#item-12) ⭐️ 7.0/10
+13. [Yitian Intelligent plans 2B yuan server purchase for AI compute](#item-13) ⭐️ 7.0/10
+14. [2026 China Summer Box Office Breaks 55 Billion Yuan](#item-14) ⭐️ 7.0/10
+15. [Shanghai exchange sees 15.8B yuan in new buyback/boost plans in a week](#item-15) ⭐️ 7.0/10
+16. [Korean Pension Fund Turns Net Buyer of KOSPI Stocks in July](#item-16) ⭐️ 7.0/10
+17. [Embodied AI Startup Motion Brain Raises Nearly 100M Yuan in Pre-A+ Round](#item-17) ⭐️ 6.0/10
+18. [Southbound funds flow: Huahong Hongli tops buying, Tencent and Alibaba sold](#item-18) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [India fines BYD $630 million, potential market impact](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaUJPbnFpanpycFA5aXA4MHRmYkdKXzBLU0RVaThWakh3T2hXUVZRVzdaT0tlcWgzQ05LMmJITncyRk5rQUlrR1lIaUtfQU1aSTZpS2dpY2cydTA?oc=5) ⭐️ 8.0/10
+## [Former CSRC Vice Chairman Fang Xinghai Investigated for Violations](https://finance.caixin.com/2026-07-24/102467861.html) ⭐️ 9.0/10
 
-India has imposed a fine of 630 million rupees \(approximately $7.6 million\) on Chinese electric vehicle maker BYD for alleged tax and regulatory violations. This fine could disrupt BYD&\#x27;s expansion plans in India, a key emerging market, and may exacerbate trade tensions between India and China, affecting investor sentiment towards Chinese EV makers operating abroad. The fine is reportedly related to underpayment of import duties and other tax irregularities, though specific details remain unclear. BYD has not yet publicly responded to the penalty.
+On July 24, 2026, China&\#x27;s Central Commission for Discipline Inspection announced that Fang Xinghai, former vice chairman of the China Securities Regulatory Commission \(CSRC\), is under investigation for serious disciplinary violations, exactly two years after his retirement in July 2024. Fang is the second CSRC vice chairman investigated in two years, following Wang Jianjun&\#x27;s indictment, reflecting an ongoing anti-corruption campaign targeting senior financial regulators, which may impact market confidence and the regulatory landscape. Fang had long overseen key departments such as international and issuance, known for his straightforward and outspoken style. He is the fourth senior CSRC official investigated recently, after Wang Huimin, Wang Jianjun, and Yi Huiman.
 
-google\_news · 风闻 · Jul 26, 00:32
+rss · 财新网 · Jul 26, 09:01
 
-**Background**: India has been increasingly scrutinizing Chinese companies operating in the country amid geopolitical tensions. BYD entered the Indian market in 2007 and has been expanding its electric vehicle and battery production presence. The fine adds to a series of regulatory challenges faced by Chinese firms in India, including bans on certain apps and increased tariff barriers.
+**Background**: The CSRC is China&\#x27;s top securities regulator. In recent years, multiple former and current senior officials have been investigated as part of a broader anti-corruption drive in the financial sector. Fang&\#x27;s case highlights ongoing scrutiny of regulatory integrity.
 
-**Tags**: `#regulatory`, `#automotive`, `#emerging markets`, `#trade tensions`, `#fine`
+**Tags**: `#regulation`, `#anti-corruption`, `#China`, `#CSRC`, `#market sentiment`
 
 ---
 
 <a id="item-2"></a>
-## [BYD Unveils 2nd-Gen Blade Battery &amp; Flash Charging for 10 New Models](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54OTRRTWZVOXh0Uko5d084UjJfZWRneHFjZ1JGU2hQY01hQnNjbXZiTjBhOGFTWTNMUUpWSlNhaENUa0JvaDJ2RTFlXzg3bVI3c2lGdUpSMTUxc1c0S1E?oc=5) ⭐️ 8.0/10
+## [US-Iran Ceasefire Collapses, War Reignites in Gulf](https://weekly.caixin.com/2026-07-25/102467950.html) ⭐️ 9.0/10
 
-BYD has officially unveiled its second-generation Blade Battery and Flash Charging technology, which will be first deployed in 10 new vehicle models. The new battery can charge from 10% to 70% in 5 minutes and from 10% to 97% in 9 minutes. This breakthrough in charging speed and energy density could significantly narrow the gap between EVs and refueling times, potentially accelerating EV adoption. BYD&\#x27;s leadership in battery technology reinforces its competitive position in the global EV market. The second-generation Blade Battery uses LFP chemistry with an energy density of 210 Wh/kg, enabling a range of over 1,000 km. The Flash Charging system is based on BYD&\#x27;s Super e-Platform with megawatt charging power and 30,000 RPM motor.
+The US-Iran ceasefire collapsed within a month, with Iran attacking commercial vessels including an LNG tanker in the Strait of Hormuz on July 7, 2026, reigniting major military conflict. This renewed conflict directly threatens global oil supply and key shipping lanes, potentially causing oil price spikes and market volatility. The stability of the Middle East and global energy security are at stake. On June 14, 2026, a memorandum of understanding was signed with conditions including US lifting of naval blockade within 30 days and Iran ensuring safe passage. However, on July 7, Iran attacked an LNG tanker and two other vessels, claiming the ships ignored IRGC warnings.
 
-google\_news · 汽车之家 · Jul 26, 01:16
+rss · 财新网 · Jul 26, 04:13
 
-**Background**: BYD&\#x27;s Blade Battery, first introduced in 2020, is known for its safety and structural efficiency. The second generation improves energy density and charging speed while maintaining safety characteristics. Flash Charging is part of BYD&\#x27;s Super e-Platform announced in March 2025, which includes silicon carbide power chips and a 1 MW charging capacity.
+**Background**: The US and Iran have a long history of tensions, with recent military operations beginning in late February 2026. The Strait of Hormuz is a strategic chokepoint for global oil shipments. The ceasefire was fragile as sensitive issues like Iran&\#x27;s nuclear program were deferred to later negotiations, leaving underlying conflicts unresolved.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
-<li><a href="https://carnewschina.com/2026/03/05/byd-unveils-blade-battery-2-0-10-70-in-5-mins-10-97-in-9-mins-and-20000-flash-charging-stations-in-2026/">BYD unveils Blade Battery 2.0: 10-70% in 5 mins, 10-97% in 9 ...</a></li>
-<li><a href="https://www.byd.com/za/news-list/byd-unveils-2nd-generation-blade-battery-and-flash-charging-technologyw">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#EV`, `#battery technology`, `#product launch`, `#sector`
+**Tags**: `#macro`, `#geopolitical`, `#energy`, `#shipping`, `#policy`
 
 ---
 
 <a id="item-3"></a>
-## [BYD Launches 11 New Cars, Including 1000+ km Range EV](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
+## [Musk Warns on SpaceX Short Interest, Merger Rumors Swirl](https://36kr.com/newsflashes/3912221918107015?f=rss) ⭐️ 9.0/10
 
-BYD launched 11 new vehicles, including the Seal 08 flagship sedan with a pure electric range exceeding 1,000 km \(CLTC\) and ultra-fast 10-minute charging using the second-generation Blade Battery. This product offensive strengthens BYD&\#x27;s leadership in the EV market and sets a new benchmark for range and charging speed, potentially accelerating the adoption of electric vehicles and pressuring competitors. The Seal 08 is built on an 800V platform and can replenish 400 km of range in just 5 minutes. The second-generation Blade Battery uses LFP chemistry for enhanced safety and energy density.
+Tesla shares fell 14.5% after missing Q2 earnings, wiping out about $214.5 billion in market cap, while SpaceX&\#x27;s short interest has risen to 32% of float, prompting Elon Musk to warn that institutions maintaining large short positions have a very low survival probability. Musk also declined to deny merger speculation between Tesla and SpaceX, noting increasing business overlap. This news signals heightened market volatility and risk for both Tesla and SpaceX, with potential for a short squeeze in SpaceX and merger implications that could reshape the space and EV industries. The high short interest and Musk&\#x27;s warnings may trigger significant price movements and regulatory scrutiny. SpaceX&\#x27;s short interest of 32% is unusually high, indicating strong bearish sentiment; the stock has fallen below its IPO price since its debut over a month ago. Tesla&\#x27;s 14.5% drop followed a Q2 earnings miss, with a $214.5 billion market cap loss. Analysts are increasingly betting on a Tesla-SpaceX merger, which Musk neither confirmed nor denied.
 
-google\_news · 汽车之家 · Jul 25, 20:30
+rss · 36氪 · Jul 26, 08:37
 
-**Background**: The BYD Blade Battery is a lithium iron phosphate \(LFP\) battery introduced in 2020, known for its slim, blade-shaped cells that improve space utilization and safety. The new Blade Battery 2.0 achieves over 1,000 km range and ultra-fast charging, addressing two major EV adoption barriers: range anxiety and charging time.
+**Background**: Short interest represents the number of shares sold short but not yet covered, often used as a sentiment indicator. High short interest can lead to a short squeeze if the price rises, forcing short sellers to buy back shares. Tesla and SpaceX are both led by Elon Musk, and their potential merger has been discussed due to synergies in technology and manufacturing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD&#x27;s new EV battery unlocks 1,000+ km range, 10 min charging</a></li>
-<li><a href="https://electrek.co/2026/03/02/byd-reveals-worlds-longest-range-ev-that-can-drive-1036-km/">BYD reveals the &#x27;world&#x27;s longest-range EV&#x27; that can drive ...</a></li>
-<li><a href="https://carnewschina.com/2026/03/06/byd-unveils-seal-08-flagship-sedan-with-1000km-range-target-and-blade-battery-2-0/">BYD unveils Seal 08 flagship sedan with 1000km range target ...</a></li>
+<li><a href="https://www.investopedia.com/articles/01/082201.asp">Understanding Short Interest: Predicting Stock Movements</a></li>
+<li><a href="https://www.fool.com/terms/s/short-interest/">What Is Short Interest and Why Does It Matter to Investors? Short Interest: What is It, How to Short a Stock &amp; More Short Interest Ratio Explained: Define, Calculate, and ... Short Interest Ratio: What Is It, Calculation, Importance &amp; More What Is Short Interest? - Charles Schwab Short Interest | Definition, Significance, Factors, Pros &amp; Cons</a></li>
+<li><a href="https://funds.hexun.com/2024-11-05/215345956.html">空头仓位是什么意思？空头仓位如何影响市场走势？</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#BYD`, `#EV`, `#product launch`, `#China`, `#auto industry`
+**Tags**: `#earnings`, `#short interest`, `#merger speculation`, `#Tesla`, `#SpaceX`
 
 ---
 
 <a id="item-4"></a>
-## [BYD enters e-scooter market with 3000 RMB product](https://news.google.com/rss/articles/CBMia0FVX3lxTE5DZ0dZZ2pUSGhQS2NDS0xUVWZhRHByMmJlaFBENXFoZk5BTkotOHRFaURRd0YxbEF2UzJsb1VoTXJHVWdmYnJnS1JzMGxtckR2VjVmNmhSNjRFcEhLSHJ3NGNVSEhGOVdidHlv?oc=5) ⭐️ 8.0/10
+## [Chile Storm Disrupts Copper Mines, Threatens AI Supply](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-BYD, the electric vehicle giant, is reportedly entering the electric scooter \(e-moped\) market with a product priced at around 3000 RMB, as reported by Autohome in a video. This move could disrupt the Chinese electric scooter segment, which is currently dominated by companies like Yadea and Niu, and open a massive new revenue stream for BYD due to its scale and brand power. The exact product specifications and launch date have not been disclosed, but the 3000 RMB price point is significantly lower than most electric scooters from established brands, which typically start around 2000-5000 RMB.
+A deadly storm in Chile has disrupted operations at several high-altitude copper mines, raising concerns about the supply of copper critical for AI infrastructure and the broader metals boom. Copper is essential for AI data centers, renewable energy systems, and electric vehicles, and this disruption highlights the vulnerability of supply chains to extreme weather events. The mines affected are located at high altitudes and are already in decline, making them particularly susceptible to weather volatility, which could exacerbate supply shortages.
 
-google\_news · 汽车之家 · Jul 26, 02:43
+rss · FT Markets · Jul 26, 09:46
 
-**Background**: Electric scooters, often called &\#x27;electric donkeys&\#x27; \(diànlǘ\) in China, are a popular and cheap mode of transport for short distances. BYD is one of the world&\#x27;s largest electric vehicle manufacturers, known for cars and batteries. Entering the two-wheeler market leverages BYD&\#x27;s expertise in battery technology and cost control.
+**Background**: Chile is the world&\#x27;s largest copper producer, and much of its copper comes from high-altitude mines in the Andes. These mines face challenges such as declining ore grades, water scarcity, and increasing weather volatility. Copper is a key component in electrical wiring and is seeing surging demand from the AI and clean energy sectors.
 
-**Tags**: `#expansion`, `#electric-vehicles`, `#consumer-market`, `#competition`
+**Tags**: `#copper`, `#supply chain`, `#commodities`, `#weather risk`, `#AI`
 
 ---
 
 <a id="item-5"></a>
-## [BYD to Enter Japan&\#x27;s Auto Market as Barriers Ease](https://news.google.com/rss/articles/CBMixARBVV95cUxOeG1hQ0tWXzJ2NFIwM0VPS3YyaUppRUUxblhtQU5sd1ZBTy1xaWdEaXNxRXJwN0FwWkN6WkxnMktEeG1kTHp4NDZDMUkySlFjNUdjUXBwWmU1UTZoM2pidHBFem1pUGExZC1PUDNXZzM5cC1ON3ZZcWtDVUZwcHdZdVotOG5kWWhqQUR6bWVMSm9HZHliR1J2RFZYeEdqUHlRelpTN3JJTEJENEVuOXhaeXJVYjdkVkMyQmlRN0poUzhhNWRkRGxhLVRWQ0ZqVnJQQ2hoX2hFckZYa1BYY0VQV29tU1lMc0w4N2pxX2tJbkRpX3VzRlVfdldJM1hLY0YzV0ozc1NETjl5bVJxMjZYb09INC11aERtWjZRTTItdzdTcW43YzJlS1B2YzdwVFMyMUR6OEZUY2JjaWlMTENETG5seUtYSVFEajY0SGxZdnl1MDJBcGlMU2lYWWNrU2RrbFdiU3pkTklmR3VpVnVSV0ZsZ3N5TjJKbG5Wd0lJSzh6ck5UWFpWcGpORnVTN2lWYmlIM3RHYV84Nlp6VmpFMkh4cHdIaVBrLXRTRXFMYm1DOTNHeWxTcDYxWFZPSXBJMFpGQkJsV29rWV8yd3hON3BUanhxSGFnTE5kdG9ELWNIVGJCOUNnTUI5amEyYm1vOGpldmJpTGtCaEFrcGN4eThPZThWN0x0cVBHc3JDVXFuVDhIVExSemxBRHViTzM2REpZZ2JUZDRKUVFuWFhkOGVBMmNEQjFmMGlxcDNOVGxnd2ZK?oc=5) ⭐️ 7.0/10
+## [Saudi Arabia strikes Houthis after energy site attacks](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-Chinese EV maker BYD is preparing to enter Japan&\#x27;s historically protective auto market, signaling a major expansion. Industry groups in Japan have expressed welcome, particularly for BYD&\#x27;s entry into the micro-car segment. This move challenges the dominance of Japanese automakers and could accelerate EV adoption in a market that has been slow to embrace electric vehicles. It also demonstrates BYD&\#x27;s global ambitions and the shifting dynamics of the global auto industry. BYD&\#x27;s entry into Japan comes as trade barriers begin to loosen, and the company is reportedly targeting the micro-car segment, which is popular in Japan. The exact timeline and models for launch have not been disclosed.
+Saudi Arabia launched retaliatory strikes against Houthi targets in Yemen following Houthi attacks on Saudi energy sites, escalating tit-for-tat violence. These strikes risk expanding the regional conflict in the Middle East, potentially disrupting global oil supplies and affecting energy markets worldwide. The Houthi attacks targeted Saudi energy infrastructure, prompting a direct military response from Riyadh amid ongoing tensions in the region.
 
-google\_news · finance.sina.com.cn · Jul 26, 02:32
+rss · FT Markets · Jul 25, 13:02
 
-**Background**: Japan&\#x27;s auto market has long been considered difficult for foreign automakers to penetrate due to strict regulations, dealer networks, and consumer loyalty to domestic brands. BYD is a leading Chinese EV maker with a strong global expansion strategy, already present in markets like Europe and Southeast Asia.
+**Background**: The Houthi movement, backed by Iran, has been engaged in a years-long conflict with a Saudi-led coalition in Yemen. Attacks on energy sites have been a recurring tactic to pressure Saudi Arabia.
 
-**Tags**: `#BYD`, `#Japan`, `#auto industry`, `#EV`, `#market entry`
+**Tags**: `#geopolitics`, `#oil`, `#energy`, `#Middle East`, `#conflict`
 
 ---
 
 <a id="item-6"></a>
-## [Tesla Loses Pure EV Crown, How to Bounce Back?](https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWZfczR0NG5yZTVPZGtDUnB6RFFNdmRwQkRCdk1Hc1k5VnIzWll6cTRPQmM3cHFVNzNJTUtBaktyeTMzZjZqa2xVLTJlZjI3YzdiX24zLU5yX0x6VnY1bzdJQWZiYWVyMUpUbE90R0IzUQ?oc=5) ⭐️ 7.0/10
+## [Ford recalls over 565,000 Broncos due to fire risk](https://36kr.com/newsflashes/3912077033886854?f=rss) ⭐️ 8.0/10
 
-Tesla has lost its position as the top pure electric vehicle seller, ceding the crown to Chinese competitors like BYD. This development underscores the fierce competition in the EV market and challenges Tesla&\#x27;s long-held dominance, potentially affecting its market share and investor confidence. The news reports that Tesla lost its pure EV sales crown, raising questions about its strategy to regain leadership amid rising competition from Chinese makers.
+Ford is recalling 565,691 Bronco and Bronco Raptor vehicles from model years 2021 to 2026 due to a wiring defect in the engine compartment that can cause a short circuit and potential fire. This recall affects a large number of vehicles and could harm Ford&\#x27;s reputation and finances, although no incidents have been reported yet. It highlights ongoing reliability challenges in the automotive industry. Ford estimates that about 1% of the recalled vehicles actually have the defect. The company has not received any reports of accidents or injuries related to this issue.
 
-google\_news · 新浪网 · Jul 26, 01:15
+rss · 36氪 · Jul 26, 06:10
 
-**Background**: Tesla had been the global leader in pure electric vehicle sales for years, but Chinese EV makers like BYD have rapidly expanded their market share with affordable models and government support. The shift reflects the changing dynamics of the EV industry, where price competition and local production advantages play a crucial role.
+**Background**: The Ford Bronco is a popular off-road SUV, and the Bronco Raptor is a high-performance variant. Wiring harness defects can cause electrical shorts, leading to fires. Recalls are common in the auto industry to address safety issues before accidents occur.
 
-**Tags**: `#Tesla`, `#EV`, `#market share`, `#competition`, `#China`
+**Tags**: `#recall`, `#automotive`, `#Ford`, `#safety`
 
 ---
 
 <a id="item-7"></a>
-## [China Tourism Group Duty Free drops 3% on H1 revenue worry](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tdWlsWmRpRURWUTVHSkF0VDFRdFhTemRBSnRfbmJyWm9xMXN6d0VjMzJYbTJCVm1hN2JZelJFTm5ObGk4T0dWbg?oc=5) ⭐️ 7.0/10
+## [Samsung Chairman Meets OpenAI CEO to Discuss AI Semiconductor Cooperation](https://36kr.com/newsflashes/3912076178789766?f=rss) ⭐️ 8.0/10
 
-Shares of China Tourism Group Duty Free \(01880.HK\) fell nearly 3% after a research institution predicted that the company&\#x27;s first-half revenue would be pressured by headwinds from airport duty-free and its online duty-free sales channel. This decline signals investor concern over the near-term performance of China&\#x27;s largest duty-free operator, which may reflect broader consumption weakness in travel retail and e-commerce facing domestic brands. The institution specifically cited &\#x27;phased pressure&\#x27; from airport duty-free and the &\#x27;CDFG Rishang&\#x27; online channel as drags on H1 revenue, though the exact institution name was not disclosed in the article.
+Lee Jae-yong, chairman of Samsung Electronics, met with OpenAI CEO Sam Altman at OpenAI headquarters in San Francisco to discuss cooperation in artificial intelligence and semiconductor sectors. This high-level meeting signals a potential strategic partnership that could impact the AI chip supply chain, especially for high-bandwidth memory \(HBM\) and advanced foundry services, which are critical for AI model training and inference. The specific topics were not disclosed, but industry observers believe the discussions focused on deepening cooperation in HBM, DRAM, and advanced foundry for AI infrastructure, as well as Samsung&\#x27;s enterprise-wide adoption of generative AI.
 
-google\_news · 凤凰网 · Jul 26, 01:18
+rss · 36氪 · Jul 26, 06:09
 
-**Background**: China Tourism Group Duty Free \(CDFG\) is the dominant player in China&\#x27;s duty-free market, with significant operations at airports and through online platforms. Revenue headwinds can arise from slower international travel recovery or increased competition in duty-free retail. Investors closely track analyst forecasts for such bellwether consumer stocks.
+**Background**: HBM \(High Bandwidth Memory\) is a 3D-stacked DRAM that provides high bandwidth and low power consumption, essential for AI accelerators like GPUs. Advanced foundry refers to state-of-the-art chip manufacturing services offered by companies like TSMC and Samsung. Samsung is a top enterprise customer of OpenAI, having granted all employees access to ChatGPT and Codex.
 
-**Tags**: `#earnings`, `#analyst downgrade`, `#retail`, `#China`, `#consumer`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/1923513639094195664">万亿算力背后的“内存心脏”：HBM技术全面拆解 2025 版 - 知乎</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#semiconductors`, `#partnership`, `#Samsung`, `#OpenAI`
 
 ---
 
 <a id="item-8"></a>
-## [BYD Cuts Song PLUS DM-i Price by 20,000 RMB for Glory Edition](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cE5NQ3ZSc3NyNHhSY0NhODYxRnVEQUZkQXNKZVlSaXY5czR3UmxWdUNrdUV6VXFaZUJ6bllBekZEOEJka2tUbklSREJZajFJMlNXMFZBVkR1NlE?oc=5) ⭐️ 7.0/10
+## [Investors bypass China AI stock curbs via crypto perpetual futures](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-BYD launched the Song PLUS DM-i Glory Edition with a price reduction of 20,000 RMB, now priced between 129,800 and 169,800 RMB. This aggressive pricing move could boost BYD&\#x27;s sales volume and intensify competition in the plug-in hybrid SUV segment, potentially forcing rivals to follow suit. The Glory Edition retains the same DM-i hybrid powertrain and features as previous models, with the price cut likely aimed at capturing more market share ahead of new regulations and rivals.
+Investors are using perpetual futures on cryptocurrency exchanges to gain exposure to Chinese AI stocks, bypassing China&\#x27;s capital controls that restrict foreign access to its equity market. This development opens a new channel for global investors to bet on China&\#x27;s AI sector, which is otherwise tightly controlled, potentially increasing foreign capital flow into Chinese tech companies despite regulatory barriers. Perpetual futures are derivative contracts that track the underlying asset&\#x27;s price without an expiration date, often traded with leverage. They are offered by crypto exchanges like Binance and Bybit, allowing investors to synthetically hold positions on Chinese AI stocks not listed overseas.
 
-google\_news · 汽车之家 · Jul 26, 01:05
+rss · FT Markets · Jul 26, 04:00
 
-**Background**: BYD&\#x27;s DM-i \(Dual Motor Intelligence\) is a plug-in hybrid technology that prioritizes electric driving, with the petrol engine acting as a range extender. It offers over 1200 km combined range. The Song PLUS is one of BYD&\#x27;s best-selling models, and this price reduction reflects BYD&\#x27;s strategy to scale production and undercut competitors.
+**Background**: Perpetual futures are a type of derivative contract commonly used in cryptocurrency trading that mimics the price of an asset indefinitely without settlement. China has imposed strict capital controls limiting foreign investment in its domestic stock markets, and recently considered blocking overseas access to its advanced AI models. This regulatory environment has led investors to seek alternative routes like crypto-based synthetic instruments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sinoautogo.com/blog/what-is-byd-dm-i/">BYD DM-i Explained: The 2025 Hybrid Guide - SinoAutoGo</a></li>
-<li><a href="https://bydautoindia.com/dmitechnology">BYD DM-i Technology — The Next Era of Efficiency</a></li>
-<li><a href="https://www.byd.com/eu/technology/byd-super-dm-plug-in-hybrid-technology">BYD Super DM Plug-in Hybrid Technology | BYD Europe</a></li>
+<li><a href="https://b2broker.com/news/what-are-the-perpetual-futures-how-do-they-work/">What Are the Perpetual Futures &amp; How do They Work?</a></li>
+<li><a href="https://clashreport.com/world/articles/beijing-weighs-blocking-foreign-access-to-advanced-chinese-ai-models-xh18150yzfl">Beijing Weighs Blocking Foreign Access to Advanced Chinese AI ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EV`, `#pricing`, `#BYD`, `#competitive strategy`
+**Tags**: `#regulation`, `#crypto`, `#China`, `#AI stocks`, `#derivatives`
 
 ---
 
 <a id="item-9"></a>
-## [BYD Da Han spy photos hint at 1000kW charging, 1000km range](https://news.google.com/rss/articles/CBMickFVX3lxTE9QYzM5Wm1oTVNKSjVjV2I0Sjd1VjJsNXVQdE5KbG03c0dHWkV6eUpuM0NhSFJNRWZzQnVPSmJBQ2dxVlROMWpFdlUzbHR4a2YyU29GdUx3cmVBMENIejVlNHFCOWlOa190aTZJbjFmRUZTQQ?oc=5) ⭐️ 7.0/10
+## [Chinese Embodied Intelligence Firms Rush to IPO Despite No Profits](https://weekly.caixin.com/2026-07-25/102468134.html) ⭐️ 7.0/10
 
-Spy photos suggest BYD&\#x27;s upcoming high-end model, the Da Han, will feature a 1000kW ultra-fast charging system and a 1000km range. This aligns with BYD&\#x27;s recently announced Super e-Platform with megawatt flash charging. If confirmed, this would position BYD as a leader in ultra-fast charging and long-range EVs, directly challenging luxury competitors. It could accelerate EV adoption by nearly eliminating charging time anxiety. The 1000kW charging can add 400km of range in 5 minutes, as per BYD&\#x27;s official demonstration. However, these are unconfirmed spy photos from a secondary source, and the Da Han model has not been officially announced.
+Nearly 50 Chinese embodied intelligence companies have entered IPO processes on the Hong Kong or A-share markets by July 2026, with valuations doubling from 10 billion to 20 billion yuan in just two to four months. Yushu Technology, preparing for a STAR Market listing, could reach a market cap of 400 billion yuan. This IPO rush indicates speculative market behavior in the embodied intelligence sector, as no company has yet proven commercial viability in real-world production scenarios. Investors face high risk if these companies fail to deliver on promised productivity gains. Despite the IPO frenzy, global robot mass production shipments in 2025 were only 20,000 units, and industry insiders note that no robot company truly operates effectively in productivity scenarios. The article questions why companies are rushing to list without commercial validation.
 
-google\_news · 新浪网 · Jul 25, 15:35
+rss · 财新网 · Jul 26, 09:46
 
-**Background**: BYD is a leading Chinese EV manufacturer known for its Blade Battery technology. It recently launched the Super e-Platform, enabling 1MW charging, which is significantly faster than current ultra-fast chargers \(typically up to 350kW\). Achieving 1000km range and 1000kW charging would require advanced battery chemistry and high-power infrastructure.
+**Background**: Embodied intelligence refers to AI systems that interact with the physical world through robotic bodies, such as humanoid robots. Over the past two years, nearly 370 such startups emerged in China. The IPO surge reflects investor enthusiasm for the sector, but the gap between hype and actual deployment remains wide.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.byd.com/mea/news-list/byd-unveils-super-e-platform-with-megawatt-flash-charging">BYD Unveils Super e-Platform with Megawatt Flash Charging for ...</a></li>
-<li><a href="https://www.aol.com/lifestyle/byd-flash-charging-ev-charge-170000845.html">BYD ’s ‘ Flash Charging ’ EV Can Charge in Just 5 Minutes - AOL</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Embodied_intelligence">Embodied intelligence</a></li>
+<li><a href="https://ei.csail.mit.edu/">Home - Embodied Intelligence</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#BYD`, `#EV`, `#product news`, `#China auto`, `#battery technology`
+**Tags**: `#IPO`, `#robotics`, `#valuation`, `#commercialization`, `#market speculation`
 
 ---
 
 <a id="item-10"></a>
-## [BYD previews humanoid robot at DiSpace, launching in August](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkJmYnhoRmlMMjA0MGZ4ZkUxbDkwbWxHM3ZzZUg5OUdyaWM0SE9GUDFRSGtHNHNNd3lfYWdDdjBUWW54dWcwclpxUHJ4aS1NSExBVzFfcmdxalZHSUR5czhXbjY4NmpCLVEtRnlwVTVzVFRkUkxIVUV1TnZiSlNYVDVyQVFPRlJnWUpfd2k3cHFibFF5SFhCejh2aTFvMFRBYVN3UmMtRQ?oc=5) ⭐️ 6.0/10
+## [Gold Seen Resuming Uptrend on USD Weakness, Rate Cut Hopes](https://weekly.caixin.com/2026-07-25/102467947.html) ⭐️ 7.0/10
 
-BYD has teased a humanoid robot at its DiSpace museum in Zhengzhou, with an official debut scheduled for early August. This marks BYD&\#x27;s entry into the humanoid robotics space. This move signals BYD&\#x27;s expansion from automotive into AI and robotics, potentially positioning it as a player in the growing humanoid robot market. It could attract tech investors and industry watchers. The robot is being showcased at BYD&\#x27;s DiSpace museum in Zhengzhou, a four-floor immersive educational space focused on new energy vehicle technology. No technical specifications or pricing have been revealed yet.
+According to macro strategist Xu Xiaoqing, gold prices may resume their uptrend after a 25% correction from their 2026 peak, driven by tech stock weakness weakening the USD and increasing expectations of interest rate cuts. This analysis is significant for gold investors as it identifies catalysts—USD weakness and rate cut expectations—that could reverse gold&\#x27;s recent correction, potentially restarting the long-term bull market. Gold has experienced a maximum drawdown of 25% after hitting an all-time high in January 2026, currently trading around $4,000/oz, the largest post-pandemic correction. Xu notes that similar corrections of 50% or more occurred during previous bull runs, yet gold resumed its uptrend each time.
 
-google\_news · finance.sina.com.cn · Jul 26, 03:03
+rss · 财新网 · Jul 26, 08:39
 
-**Background**: BYD is a leading Chinese electric vehicle manufacturer. DiSpace is a public science museum created by BYD to educate visitors about new energy vehicle technology and innovation. The museum features interactive exhibits and showcases of BYD&\#x27;s latest technologies. The humanoid robot preview aligns with BYD&\#x27;s interest in automation and AI.
+**Background**: Gold has been in a multi-year bull market since 2020, with four major rallies each lasting 6-12 months and gains of 20%-50%, followed by corrections of about six months that typically retraced over half of the prior gains. The current correction is the largest since the pandemic. Xu argues that the macro environment—tech stock weakness dragging the USD lower and rising rate cut expectations—provides fresh catalysts for gold to resume its uptrend.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trip.com/travel-guide/attraction/zhengzhou/byd-dispace-zhengzhou-pavilion-146186386/">BYD DiSpace | Zhengzhou Pavilion Tickets [2026] - Promos ...</a></li>
-<li><a href="https://www.lifestyleasia.com/kl/tech/auto/inside-the-byd-di-space-museum-in-zhengzhou-china/">A look inside the BYD Di-Space Museum in Zhengzhou, China</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#humanoid robot`, `#product launch`, `#AI`, `#sector`
+**Tags**: `#gold`, `#macro`, `#USD`, `#rate cuts`, `#commodities`
 
 ---
 
 <a id="item-11"></a>
-## [BYD&\#x27;s Second-Gen Blade Battery and Flash Charging Praised by MIIT](https://news.google.com/rss/articles/CBMif0FVX3lxTE9rM05qd29RbndjeGZZeU5kWS0tOGZVbE44Q2NPMVNQNmZlbzVvcTZheDZWZDBEMnFJajdSdnlhclA5N0g5d1I0b1hta0FfQlp2OTJCdW9xNTFZV0xYd25vZ0VmRU40N3BBT2JqVXBieDhUb2JySnVRcUJPUjFnaE0?oc=5) ⭐️ 6.0/10
+## [Baili Tianheng&\#x27;s T-Bren Phase III Trial Enrolls First Patient for Biliary Tract Cancer](https://36kr.com/newsflashes/3912220595017093?f=rss) ⭐️ 7.0/10
 
-China&\#x27;s Ministry of Industry and Information Technology \(MIIT\) publicly praised BYD&\#x27;s second-generation blade battery and flash charging technology, highlighting their global leadership in EV innovation. This endorsement from a key Chinese regulator signals strong governmental support for BYD&\#x27;s battery technology, potentially accelerating adoption and investment in ultra-fast charging infrastructure. The second-generation blade battery supports charging from 10% to 97% in nine minutes with peak power up to 1,500 kW, addressing slow charging and cold-weather performance.
+Baili Tianheng announced that its HER2-directed antibody-drug conjugate \(ADC\) T-Bren has completed first patient enrollment in a Phase III randomized controlled trial for HER2-expressing locally advanced or metastatic biliary tract cancer that failed platinum-containing chemotherapy. This milestone marks a critical step in T-Bren&\#x27;s clinical development for a difficult-to-treat cancer, potentially offering a new targeted therapy option for biliary tract cancer patients with unmet medical needs. T-Bren is an ADC combining an anti-HER2 antibody with a cathepsin B-cleavable linker and a topoisomerase I inhibitor payload Ed-04; it is currently being evaluated in 19 clinical trials across multiple indications including breast, gastric, lung, and other cancers.
 
-google\_news · 新浪网 · Jul 26, 03:34
+rss · 36氪 · Jul 26, 08:36
 
-**Background**: The blade battery is a lithium iron phosphate \(LFP\) battery design by BYD that prioritizes safety and space efficiency. The first generation was introduced in 2020. The second generation improves energy density and charging speed. Flash charging technology enables megawatt-level charging rates, reducing range anxiety.
+**Background**: Antibody-drug conjugates \(ADCs\) are a class of targeted cancer therapies that deliver a cytotoxic drug directly to cancer cells via a monoclonal antibody, minimizing damage to healthy cells. HER2 is a protein overexpressed in some cancers, making it a common target for ADCs like T-Bren. Biliary tract cancers are aggressive malignancies with limited treatment options, emphasizing the significance of new therapies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://insideevs.com/news/789094/byd-second-generation-blade-battery/">BYD’s Second-Generation Blade Battery Makes Western EV Tech Look Ancient</a></li>
-<li><a href="https://www.byd.com/mea/news-list/BYD+Unveils+2nd+Generation+Blade+Battery+and+FLASH+Charging+Technology">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Antibody%E2%80%93drug_conjugate">Antibody–drug conjugate - Wikipedia</a></li>
+<li><a href="https://oncodaily.com/oncolibrary/breast-oncology/t-bren">T-Bren Shows Early Activity Across HER2-Positive and HER2-Low ...</a></li>
+<li><a href="https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.1049">Phase II study of T-Bren (BL-M07D1) monotherapy or in ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#BYD`, `#battery technology`, `#EV`, `#innovation`
+**Tags**: `#biotech`, `#clinical trial`, `#oncology`, `#HER2`, `#ADC`
 
 ---
 
 <a id="item-12"></a>
-## [BYD urged to act as merchants boost PHEV range with external devices](https://news.google.com/rss/articles/CBMickFVX3lxTE5mUlZXTTA5RmpjVmdSM2tjcTlRdTZfVmlmcjdTal9DQzQxQXdvZ0dOdmRCM0U1RzZ6T2Z1b19uTEVTS2FPOEZSSTJ1TjFlaExBNE1ELTdUZ01lSHVQOUxVQS1DWjYtNXJxZGxUa2ptcC1wdw?oc=5) ⭐️ 6.0/10
+## [ST Yuandao Faces Delisting Risk as Market Cap Falls Below 3B Yuan](https://36kr.com/newsflashes/3912183328347269?f=rss) ⭐️ 7.0/10
 
-Merchants are offering external modification devices for BYD plug-in hybrids that falsely claim to increase electric range from 55 km to 220 km, raising quality and safety concerns. This unauthorized modification could damage BYD&\#x27;s brand reputation and customer trust, and may attract regulatory scrutiny given BYD&\#x27;s leading position in the EV market. The external device reportedly plugs into the vehicle&\#x27;s diagnostic port and manipulates battery management system data to show inflated range. It is claimed to be undetectable by dealers, but it compromises safety and warranty.
+On July 26, \*ST Yuan Dao \(301139.SZ\) announced that its closing market cap fell below 3 billion yuan for the first time, triggering a potential delisting if the condition persists for 20 consecutive trading days. This event highlights the strict delisting rules in China&\#x27;s A-share market, where small-cap stocks face heightened risk of involuntary termination. It also serves as a warning to investors about the volatility and liquidity risks of micro-cap stocks. The company&\#x27;s closing price on July 24 was 2.39 yuan per share, yielding a market capitalization of 291 million yuan. According to exchange rules, if the market cap stays below 3 billion yuan for 20 consecutive trading days, the stock will be delisted.
 
-google\_news · 新浪网 · Jul 26, 02:23
+rss · 36氪 · Jul 26, 07:58
 
-**Background**: Plug-in hybrid electric vehicles \(PHEVs\) combine an internal combustion engine with a battery-powered electric motor, offering a limited electric-only range. Some aftermarket devices claim to extend this range by altering the car&\#x27;s software, but such modifications are illegal in many regions and void warranties.
+**Background**: In China&\#x27;s stock market, stocks prefixed with \*ST indicate that the company has faced special treatment due to financial irregularities or other risks. The Shenzhen Stock Exchange has a market-cap-based delisting rule: if a stock&\#x27;s closing market cap remains below 3 billion yuan for 20 consecutive trading days, it will be delisted. This rule aims to maintain market quality and protect investors.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Plug-in_hybrid">Plug-in hybrid - Wikipedia</a></li>
-<li><a href="https://tunemyelectriccar.com/product/phev-box/">Mitsubishi Outlander PHEV Range Extender and Regenerative Force Improvement - Tune My Electric Car</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#auto industry`, `#product issue`, `#EV`, `#consumer complaint`
+**Tags**: `#delisting`, `#equity risk`, `#small-cap`, `#market cap rule`
 
 ---
 
 <a id="item-13"></a>
-## [BYD Linghui Brand Debuts Three Models for Ride-Hailing Market](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KVG1xdThLZjlXTGNfX2k0UVBqS18zUml3Snk3M0pIb3pBZ3FRRG5sN0l6bGdzVktYamZFRWZqRTlwWjNsZW5BSFNnam85VVZ0YWdZZW9ycjBFNnpjYUE?oc=5) ⭐️ 6.0/10
+## [Yitian Intelligent plans 2B yuan server purchase for AI compute](https://36kr.com/newsflashes/3912181723518084?f=rss) ⭐️ 7.0/10
 
-BYD has launched three new electric vehicle models under its newly created Linghui brand, specifically designed for China&\#x27;s ride-hailing market. This move allows BYD to capture a larger share of the high-volume ride-hailing segment, where cost efficiency and durability are critical, potentially boosting its EV sales and market dominance. The Linghui brand is BYD&\#x27;s fifth brand and focuses on fleet operations, re-badging some existing models for commercial use. The three new models are expected to cover different ride-hailing categories such as economy, comfort, and premium.
+On July 26, Yitian Intelligent announced that its wholly-owned subsidiary Gansu Yisuan plans to purchase servers and supporting equipment from multiple suppliers, with a total contract value not exceeding 2 billion yuan, to provide AI compute services to customers. This significant capital allocation into AI infrastructure by a kitchen appliance company signals a strategic diversification into the high-demand compute services market, potentially impacting the competitive landscape and demonstrating how traditional manufacturers are pivoting to capitalize on the AI boom. The purchase does not constitute a major asset restructuring or related-party transaction, and Yitian Intelligent emphasized that its AI compute business is still in early stages and its core business remains kitchen appliances like integrated stoves.
 
-google\_news · 汽车之家 · Jul 26, 00:56
+rss · 36氪 · Jul 26, 07:57
 
-**Background**: BYD is China&\#x27;s largest EV manufacturer, with brands including BYD, Denza, Fangchengbao, and Yangwang. The ride-hailing market in China is growing rapidly, with e-hailing holding over 70% market share in 2025. Linghui was created to specifically target this commercial segment.
+**Background**: AI compute refers to the GPU and accelerator infrastructure needed for training and running AI models, which is increasingly leased as a service. The computing power leasing market is growing rapidly as companies seek scalable, cost-effective alternatives to building their own data centers. Yitian Intelligent&\#x27;s move reflects this trend, as even non-tech firms enter the space to monetize AI infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Linghui">Linghui - Wikipedia</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-01-09/byd-creates-new-linghui-sub-brand-aimed-at-ride-hailing-market">BYD creates New Sub-Brand Called Linghui Aimed at Ride-Hailing Market - Bloomberg</a></li>
+<li><a href="https://www.clrn.org/what-is-compute-in-ai/">What is compute in AI? - California Learning Resource Network</a></li>
+<li><a href="https://eu.36kr.com/en/p/3827354342167168">Computing power leasing: A lucrative track for leading players</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#BYD`, `#electric vehicles`, `#product launch`, `#ride-hailing`, `#China market`
+**Tags**: `#AI infrastructure`, `#capital expenditure`, `#business diversification`, `#computing services`
 
 ---
 
 <a id="item-14"></a>
-## [BYD Announces Price Hike Starting May 1](https://news.google.com/rss/articles/CBMickFVX3lxTE1lLWlMLVlLczdIWUJtcl9EVlVqVDhGZTF2cWdfdmE4R0xoY292d3MxcmFDNnppUGt5LXlJcUF5VGdVVmc0YlVHMHc5M3Rxc2ZhY2FsbmtzSFRCek5xLU5sLW43d1NDWk5DaVRnNktxR0xrQQ?oc=5) ⭐️ 6.0/10
+## [2026 China Summer Box Office Breaks 55 Billion Yuan](https://36kr.com/newsflashes/3912149968409736?f=rss) ⭐️ 7.0/10
 
-BYD, a leading Chinese EV manufacturer, announced a price increase for its vehicles effective May 1, 2025, though specific percentages and models were not disclosed. This price hike could signal shifting cost pressures in the EV industry and may impact BYD&\#x27;s sales volume and profit margins, as well as influence competitors&\#x27; pricing strategies. The announcement lacks specifics such as the exact percentage increase and which models are affected, leaving uncertainty about the scope of the price adjustment.
+As of July 26, 2026, China&\#x27;s summer box office total \(including presales\) has exceeded 55 billion yuan, surpassing last year&\#x27;s figure by 10 billion yuan. This record indicates strong consumer spending and recovery in China&\#x27;s entertainment sector, positively impacting related stocks and signaling economic resilience. The comedy animation &\#x27;Eight Immortals\!&\#x27; earned over 600 million yuan in just 8 days, while sports comedy &\#x27;Kung Fu Women&\#x27;s Football&\#x27; surpassed 1.88 billion yuan, ranking third in annual box office.
 
-google\_news · 新浪网 · Jul 25, 17:17
+rss · 36氪 · Jul 26, 07:24
 
-**Background**: BYD is one of the world&\#x27;s largest electric vehicle manufacturers, known for its vertically integrated supply chain and competitive pricing. The EV market has faced rising raw material costs and supply chain challenges, which can force automakers to adjust prices.
+**Background**: The summer box office season in China typically runs from June to August and is a key indicator of consumer spending. The previous record for the same period was 45 billion yuan in 2025.
 
-**Tags**: `#pricing`, `#EV`, `#BYD`, `#auto sector`, `#market move`
+**Tags**: `#box office`, `#entertainment`, `#consumer spending`, `#China market`
 
 ---
 
 <a id="item-15"></a>
-## [BYD Overtakes Kia for Second in Australian Sales; Sea Lion 07 Beats Model Y](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYXF6a1JPNU43Zk1SY1hJd2NWWi1GWVAzMnU3SnpsdzZ1NF9VR1g2YmUxWUdJeXl5eGhaUzcwUTFpejNwSW9HZE4wQTFvTW1iSHFWSGlfQ1ZGRjJqMmc?oc=5) ⭐️ 6.0/10
+## [Shanghai exchange sees 15.8B yuan in new buyback/boost plans in a week](https://36kr.com/newsflashes/3912147209983368?f=rss) ⭐️ 7.0/10
 
-In April 2025, BYD surpassed Kia to become the second-best-selling automotive brand in Australia, and its Sea Lion 07 electric SUV outsold the Tesla Model Y. This marks a significant shift in the Australian automotive market, highlighting BYD&\#x27;s rapid growth and the increasing consumer preference for electric vehicles over traditional brands. The BYD Sea Lion 07 is a battery-electric mid-size crossover SUV that supports CCS2 fast charging in Australia, with maximum charging speeds up to 230 kW in some configurations.
+During the week of July 20-26, 2025, Shanghai-listed companies announced 42 new buyback plans \(upper limit 8.386 billion yuan\) and 17 new share increase plans \(upper limit 7.457 billion yuan\), totaling up to 15.8 billion yuan. For 2025 so far, cumulative buyback and increase plans have reached 77.6 billion yuan. This wave of buyback and increase plans signals strong confidence from industrial capital in the market, potentially boosting investor sentiment and stabilizing stock prices. The buyback purposes include equity incentives, employee stock ownership plans, and market value maintenance. The data covers only Shanghai-listed companies.
 
-google\_news · 汽车之家 · Jul 26, 00:43
+rss · 36氪 · Jul 26, 07:21
 
-**Background**: BYD is a Chinese automaker that has rapidly expanded globally, particularly in the electric vehicle segment. The Sea Lion 07 was launched in 2024 as the first SUV in BYD&\#x27;s Ocean Series lineup. Australia&\#x27;s automotive market is relatively small but competitive, with Toyota holding the top spot, Kia and others vying for positions. This milestone reflects BYD&\#x27;s pricing strategy and strong product appeal in the region.
+**Background**: Share buybacks occur when a company purchases its own shares from the market, reducing outstanding shares and potentially increasing earnings per share. Share increase \(增持\) refers to major shareholders or insiders buying more shares, signaling confidence. These actions are common tools for companies to support their stock price and show commitment to shareholders.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Sealion_7">BYD Sealion 7</a></li>
-<li><a href="https://grokipedia.com/page/BYD_Sealion_7">BYD Sealion 7</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EV`, `#sales`, `#market share`, `#automotive`
+**Tags**: `#回购`, `#增持`, `#产业资本`, `#沪市`
 
 ---
 
 <a id="item-16"></a>
-## [China L2 Standard Boosts BYD God&\#x27;s Eye Lead](https://news.google.com/rss/articles/CBMickFVX3lxTE5GekJGZ3puZE1DQlFnTm0yRGZFVzhVcFVTSnJLeVFBb2NjRHFvTUZUVV9iSDBtZVZMLWhXaVZGWW12ejR6d05NTjJUaTc3ZGk5UUFOakRZQjBYdHlYN2drY2xkcndkT3cyR2ZhWTZlaVJ5Zw?oc=5) ⭐️ 6.0/10
+## [Korean Pension Fund Turns Net Buyer of KOSPI Stocks in July](https://36kr.com/newsflashes/3911979618849920?f=rss) ⭐️ 7.0/10
 
-China&\#x27;s new mandatory national standard for L2 driver assistance systems takes effect January 1, 2027, and BYD&\#x27;s God&\#x27;s Eye system exceeds all requirements across its lineup. This standard positions BYD as an industry leader in ADAS, potentially increasing its market share and setting a benchmark for competitors in China&\#x27;s rapidly evolving autonomous driving market. The standard, drafted by Huawei, BYD, Tesla, and others, defines three L2 categories with strict safety metrics. BYD&\#x27;s God&\#x27;s Eye system is available across its entire lineup, from the Seagull to high-end Yangwang models.
+In July 2024, the National Pension Service of Korea became a net buyer of KOSPI stocks for the first time in the year, with net purchases of 68.4 billion won \(approximately $46.8 million\) from July 1 to 24, ending six consecutive months of net selling. This shift by one of South Korea&\#x27;s largest institutional investors signals renewed confidence in the domestic equity market, particularly in semiconductor and energy sectors, and could influence other institutional flows. SK Hynix was the top stock bought, with net purchases of 425.8 billion won, followed by SK Innovation \(224.7 billion won\) and S-Oil \(174.4 billion won\). On the selling side, the fund reduced holdings in SK Square \(575.7 billion won\), Samsung Electro-Mechanics \(313.6 billion won\), and Samsung Life Insurance \(123.8 billion won\).
 
-google\_news · 新浪网 · Jul 25, 18:27
+rss · 36氪 · Jul 26, 04:31
 
-**Background**: Level 2 \(L2\) driver assistance systems combine adaptive cruise control and lane-keeping but require driver supervision. China&\#x27;s new mandatory standard aims to fill regulatory gaps and ensure product safety for the booming intelligent connected vehicle market.
+**Background**: The KOSPI \(Korea Composite Stock Price Index\) is the main stock market index of South Korea, analogous to the S&amp;P 500 in the United States, representing all common stocks traded on the Korea Exchange. The National Pension Service \(NPS\) is one of the largest public pension funds globally, with total assets of approximately $875 billion as of September 2024. Its trading activity is closely watched by market participants for directional clues.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://carnewschina.com/2025/09/17/china-introduces-mandatory-safety-standards-for-l2-driver-assistance-systems/">China introduces mandatory safety standards for L2 driver ...</a></li>
-<li><a href="https://chinaevhome.com/2026/07/02/huawei-byd-tesla-backed-china-l2-ads-standard-takes-effect/">Huawei, BYD, Tesla-Backed China L2 ADS Standard Takes Effect</a></li>
-<li><a href="https://bydtoday.com/byd-gods-eye-evolves-1000-line-lidar-and-l4-highway-autonomy-coming-2026/">BYD God&#x27;s Eye LiDAR Upgrade: L4 Highway Autonomy Coming 2026</a></li>
+<li><a href="https://en.wikipedia.org/wiki/KOSPI">KOSPI - Wikipedia</a></li>
+<li><a href="https://investingintheweb.com/blog/largest-public-pension-funds/">Largest Public Pension Funds ranked by Total Assets in 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#autonomous driving`, `#BYD`, `#China`, `#ADAS`
+**Tags**: `#institutional flows`, `#Korea`, `#pension fund`, `#KOSPI`, `#SK Hynix`
 
 ---
 
 <a id="item-17"></a>
-## [BYD Launches ATTO 2 Electric SUV in France at €28,990](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rYVQwSUs3VEluY29zM0UwQXNkVmZYS1pLSGFZc2FiNDNQOGRlMlNqeHMtbTdYOWtJSTc3QWhqcUdqSUQ5WkV1MnBNNlRUOG5LSWRUdDNER0NnVHR3TGc?oc=5) ⭐️ 6.0/10
+## [Embodied AI Startup Motion Brain Raises Nearly 100M Yuan in Pre-A+ Round](https://36kr.com/p/3911162147640456?f=rss) ⭐️ 6.0/10
 
-BYD has launched its compact electric SUV ATTO 2 \(also known as Yuan UP\) in France at a starting price of €28,990, expanding its European product lineup. This launch strengthens BYD&\#x27;s competitive position in the European EV market, offering a compact SUV at a competitive price point that could challenge local automakers and accelerate EV adoption. The ATTO 2 is positioned as a compact electric SUV; no detailed specifications such as battery range or motor power have been disclosed in this announcement.
+Motion Brain, an embodied AI startup focused on an &\#x27;action-first&\#x27; approach, raised nearly 100 million yuan in a Pre-A+ round led by property service firms, with valuation growing over 10x since early 2025. This rapid financing and valuation growth highlights strong investor interest in embodied AI, especially in China, as companies race to develop general-purpose brains for robots that can learn from internet videos rather than expensive real-world data. Motion Brain&\#x27;s technology reduces real robot data requirements by 90% using a training mix of 80% internet video, 10% motion capture, and 10% real data, achieving 99% action accuracy. The model can be deployed on edge devices with inference latency as low as 10ms and cost reduced from 200,000 to 10,000 yuan.
 
-google\_news · 汽车之家 · Jul 26, 01:19
+rss · 36氪 · Jul 26, 01:00
 
-**Background**: BYD is a leading Chinese electric vehicle manufacturer that has been aggressively expanding into European markets. The ATTO 2 is the export version of the Yuan UP, a compact SUV popular in China. France is a key automotive market in Europe, and the price of €28,990 places the ATTO 2 in a competitive segment against models like the Peugeot e-2008.
+**Background**: Embodied AI refers to AI systems that learn from interacting with the physical world. Motion Brain differentiates itself by focusing on &\#x27;world action models&\#x27; that treat actions as tokens, similar to how LLMs handle text, enabling zero-shot generalization. The company&\#x27;s approach, including latent space diffusion models \(MLD\) and motion tokenization \(MotionGPT\), has been cited by NVIDIA&\#x27;s DAIR lab.
 
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#international expansion`, `#automotive`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.techtarget.com/searchenterpriseai/definition/embodied-AI">What Is Embodied AI ? How It Powers Autonomous... | TechTarget</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Latent_diffusion_model">Latent diffusion model - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#robotics`, `#venture capital`, `#China tech`
 
 ---
 
 <a id="item-18"></a>
-## [BYD to Launch Large-Battery, Ultra-Fast Charging EVs Above 130k RMB](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SmlvQW51T1J2M2syc19fWXdPMmRHZk5mekFLV01VZFBWLVd3bEQzZllDeDNBZWVyay1BRTE3eHZlMi1GZG94ZVlmNlZfWXN6bktXcWNrb1NlMmo5R1E?oc=5) ⭐️ 6.0/10
+## [Southbound funds flow: Huahong Hongli tops buying, Tencent and Alibaba sold](https://36kr.com/newsflashes/3912144908555649?f=rss) ⭐️ 6.0/10
 
-BYD plans to release new vehicles in March-April featuring large batteries and ultra-fast charging, aiming to redefine technology standards for the price segment above 130,000 RMB. This move could raise the competitive bar in China&\#x27;s EV market, forcing rivals to accelerate battery and charging innovations in the mid-to-high price range. The new vehicles are expected to utilize an improved Blade battery \(potentially Blade 2.0\) and support ultra-fast charging that can add hundreds of kilometers of range in minutes, though exact models and specifications remain unconfirmed.
+This week \(July 20-24\), southbound funds net bought HK$2.978 billion, with Huahong Hongli \(Hua Hong Semiconductor\) leading net purchases at HK$3.318 billion, while Tencent and Alibaba saw net sales of HK$6.408 billion and HK$5.186 billion respectively. Southbound capital flows reflect mainland investor sentiment toward Hong Kong-listed stocks, and the divergence between semiconductors \(favored\) and internet giants \(sold\) highlights shifting investment preferences amid regulatory and market dynamics. A total of 14 stocks appeared on the active trading list this week, with Tencent recording the highest total turnover of HK$43.64 billion through the Stock Connect, followed by Zhipu with HK$39.754 billion.
 
-google\_news · 汽车之家 · Jul 26, 01:04
+rss · 36氪 · Jul 26, 07:19
 
-**Background**: BYD&\#x27;s Blade battery, introduced in 2020, is known for its safety and energy density advantages. Ultra-fast charging requires specialized infrastructure; BYD has announced plans to deploy about 4,000 ultra-fast chargers across China to support the technology.
+**Background**: Southbound funds refer to capital flowing from mainland Chinese investors into the Hong Kong stock market via the Shanghai-Hong Kong and Shenzhen-Hong Kong Stock Connect programs. These programs allow mainland investors to trade eligible Hong Kong-listed stocks directly using their existing A-share accounts, subject to certain eligibility requirements such as a minimum account balance of RMB 500,000.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://www.eetimes.com/byd-ignites-ev-race-with-ultra-fast-charging/">BYD Ignites EV Race With Ultra - Fast Charging</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%B8%AF%E8%82%A1%E9%80%9A/13611865">港股通（内地与香港股票市场交易互联互通机制）_百度百科 港股通是什么？开通条件与流程全解析（2026年最新版） - 财金股 一文读懂：大热的“港股通”是什么（附ETF图谱） 什么是“港股通”？ 港股... 港股通是什么？2026最新版开通条件、交易规则完整全解析 - 财金股 港股通全攻略 (2026版)：50萬開戶門檻、交易規則、股票名單與手續費總...</a></li>
+<li><a href="https://www.caijingu.com/news/news-kkjpmxbg.html">港股通是什么？开通条件与流程全解析（2026年最新版） - 财金股</a></li>
+<li><a href="https://zhidao.baidu.com/question/1716513503291566700.html">南向资金是什么意思？ - 百度知道</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#technology`, `#sector`
-
----
-
-<a id="item-19"></a>
-## [Tesla Model 3 vs BYD Han Battery Teardown: 50K RMB Gap](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHRnMVdxVkF4OTJXTGRKOHNqZUZBRmJiaGdFY1ZTTWFLSERkMjBEaDVBQzU2c3N1QjcwNVViNi1tbzFLdnhlbXZucTA2YjBGWHpJMUNKdHFPajVvb2RRSXRGYTRDMVJZN0ZGbDFkd2dsYnR0ZHltOHNIZnBUWmo2cHZ2dVU?oc=5) ⭐️ 6.0/10
-
-A detailed teardown analysis reveals a 50,000 RMB cost difference between the batteries of the Tesla Model 3 and BYD Han, highlighting divergent technology approaches. This cost disparity could influence EV market competition, as battery cost is a major factor in vehicle pricing and consumer choice. The analysis indicates that the BYD Han uses its in-house blade battery \(LFP\), while the Tesla Model 3 employs a different battery pack design, contributing to the cost gap.
-
-google\_news · finance.sina.com.cn · Jul 26, 05:24
-
-**Background**: Battery cost is a critical component in electric vehicles, often accounting for 30-40% of the vehicle price. The BYD blade battery is a lithium iron phosphate \(LFP\) cell with a unique long, flat shape that improves safety and space efficiency. Tesla has also adopted LFP batteries in some Model 3 variants since 2021, primarily sourced from CATL.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery</a></li>
-<li><a href="https://www.findmyelectric.com/blog/what-kind-of-battery-does-my-tesla-have/">Tesla Batteries: What Kind of Battery Does My Tesla Have?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EV`, `#battery technology`, `#Tesla`, `#BYD`, `#cost comparison`
-
----
-
-<a id="item-20"></a>
-## [BYD Song Ultra EV Flash Charges to 70% in 5 Minutes](https://news.google.com/rss/articles/CBMickFVX3lxTFBiUEhKejAxZ3B5NVhrMDlmazRIb0stWEl2MGtla3JzX0NBNXozMlNMRzRQVG9xTTBfOElyQWg0NGxweXNrOGpKNWlDNDFzaTVYN1NPWTBZdmEtRkdpWkRocndsT2V4ZEtzX1FHMTZEUG51Zw?oc=5) ⭐️ 6.0/10
-
-A real-world test of the BYD Song Ultra EV shows it can charge from 10% to 70% state of charge in just 5 minutes using BYD&\#x27;s second-generation Blade Battery and flash charging technology. This charging speed, achieved in a B-class SUV priced around 150,000 RMB, significantly reduces range anxiety and could accelerate EV adoption in China&\#x27;s mass market segment. The test demonstrates charging from 10% to 97% in 9 minutes at room temperature, and the vehicle is based on BYD&\#x27;s e-Platform 3.0 architecture designed for pure electric vehicles.
-
-google\_news · 新浪网 · Jul 25, 19:19
-
-**Background**: BYD&\#x27;s second-generation Blade Battery, unveiled in March 2026, set a world record for charging speed with its flash charging technology. The e-Platform 3.0 integrates the battery into the vehicle structure and supports high-voltage fast charging up to 1,000 kW. B-class SUVs like the Song Ultra EV are a popular segment in China, offering a balance of size and affordability.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.byd.com/za/news-list/byd-unveils-2nd-generation-blade-battery-and-flash-charging-technologyw">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
-<li><a href="https://insideevs.com/news/797182/byd-denza-z9gt-deep-freeze-fast-charging/">Frozen To -22 Degrees, BYD&#x27;s New EV Just Charged To 97% In Only 12 ...</a></li>
-<li><a href="https://carnewschina.com/2021/09/11/all-you-need-to-know-about-the-new-e-platform-3-0-from-byd/">All you need to know about the new e - platform 3 . 0 from BYD !</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EV`, `#BYD`, `#product`, `#charging technology`, `#automotive`
+**Tags**: `#资金流向`, `#港股通`, `#南向资金`, `#互联网巨头`, `#半导体`
 
 ---
