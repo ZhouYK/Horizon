@@ -6,213 +6,210 @@ lang: en
 report: ai
 ---
 
-> From 262 items, 10 important content pieces were selected
+> From 306 items, 10 important content pieces were selected
 
 ---
 
-1. [Investigation Exposes Underground Market for Discounted LLM Tokens](#item-1) ⭐️ 8.0/10
-2. [Open-source 3D-printed portable MRI built for under $70,000](#item-2) ⭐️ 8.0/10
-3. [Meta Permits AI-Generated Fake Doctor Ads for Quack Cures](#item-3) ⭐️ 8.0/10
-4. [Meta, Microsoft, Nvidia, IBM back open-weight AI](#item-4) ⭐️ 8.0/10
-5. [Chinese AI models gain ground in US market](#item-5) ⭐️ 7.0/10
-6. [Nobel laureate Simon Johnson warns on AI race and over-automation](#item-6) ⭐️ 7.0/10
-7. [Nvidia and Microsoft urge US government to protect open AI models](#item-7) ⭐️ 7.0/10
-8. [Tech Titans Cut 140K Jobs as AI Spending Rises](#item-8) ⭐️ 7.0/10
-9. [Israeli AI and tech companies face mounting layoffs](#item-9) ⭐️ 7.0/10
-10. [Mitsui Fudosan to build physical AI hub near TSMC&\#x27;s Kumamoto plant](#item-10) ⭐️ 7.0/10
+1. [AI Weather Forecasting Goes Operational](#item-1) ⭐️ 9.0/10
+2. [Meituan Launches CatPaw AI Agent Platform with Open-Source 1.6T Model](#item-2) ⭐️ 9.0/10
+3. [NPR Investigates AI Chatbots in Mental Health Crises](#item-3) ⭐️ 8.0/10
+4. [Claude AI Shared Links Leak Private Chats via Search Engines](#item-4) ⭐️ 8.0/10
+5. [Over 30 Companies Form Open-Source AI Alliance](#item-5) ⭐️ 7.0/10
+6. [NIST unveils new AI evaluation platform](#item-6) ⭐️ 7.0/10
+7. [AI Capability Outpaces Business Value Realization](#item-7) ⭐️ 7.0/10
+8. [Why Banning Open-Source AI Is a Bad Idea](#item-8) ⭐️ 7.0/10
+9. [AWS Proposes Task-Aware Knowledge Compression Beyond RAG](#item-9) ⭐️ 7.0/10
+10. [Examining LLM Temporal Knowledge Limits](#item-10) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Investigation Exposes Underground Market for Discounted LLM Tokens](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) ⭐️ 8.0/10
+## [AI Weather Forecasting Goes Operational](https://news.google.com/rss/articles/CBMidEFVX3lxTE5BQ190T0E4emdaanN2TGlYWi1YM01qZU5LMGZkWDFTdkZVTkd4ckhWTThMbGx1UHdEQ2Zud0hqMDRHc2pDbVRYQXF5YlBaQnF5a2NoX1gxdjFHUnFwUmRoYlVUb2FZaU81RXRwdmRmbmVtVTUw?oc=5) ⭐️ 9.0/10
 
-Matt Lenhard&\#x27;s investigation reveals a thriving underground market where resellers offer discounted LLM API tokens by abusing free trials, stolen credentials, and chargeback attacks, enabled by open-source proxy tools like one-api and new-api. This highlights significant security and economic vulnerabilities in the LLM ecosystem, affecting vendors, legitimate users, and developers who risk large token bills from abuse. It underscores the urgent need for better API key caps and fraud detection. The investigation primarily focuses on the Chinese market, where resellers use proxies to bypass geo-restrictions and offer steep discounts. The tools one-api and new-api are legitimate API proxies that can load-balance across a pool of credentials, but are being misused.
+AI weather forecasting models have transitioned from experimental research into routine operational use at major centers like ECMWF and NOAA, with ECMWF running its Artificial Intelligence Forecasting System \(AIFS\) operationally and NOAA deploying a new generation of AI-driven global weather models in December 2025. This marks a paradigm shift in meteorology, offering faster, more accurate, and computationally efficient forecasts that can improve severe weather prediction and broaden access to high-quality weather information worldwide. ECMWF&\#x27;s AIFS runs alongside its conventional system, while models like Google DeepMind&\#x27;s GraphCast can produce 10-day global forecasts at 0.25° resolution in under one minute, using significantly fewer computing resources than traditional numerical weather prediction.
 
-rss · Simon Willison · Jul 26, 19:30
+google\_news · Communications of the ACM · Jul 27, 19:41
 
-**Background**: LLM API tokens are credentials that allow access to language model services like GPT-4, typically sold by vendors per token or per request. One-api and new-api are open-source API proxy tools originally designed to manage and balance requests across multiple API keys, often used in multi-tenant environments. The relay market exploits these tools to pool stolen or trial keys and offer discounted access, generating profit from fraud.
+**Background**: Traditional weather forecasting relies on numerical weather prediction \(NWP\), which uses physics-based equations and supercomputers to simulate the atmosphere. AI models like GraphCast are trained on decades of reanalysis data to learn atmospheric patterns directly, enabling forecasts that are often more accurate and orders of magnitude faster. The operational deployment of such models represents a culmination of years of research by institutions like DeepMind, ECMWF, and NOAA.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://oai.kunkunji.com/apps?url=https://github.com/Calcium-Ion/new-api">LLM gateway, fork of One API</a></li>
-<li><a href="https://github.com/Tsuki-wz/new-api_fork">GitHub - Tsuki-wz/ new - api _ fork : A unified AI model hub for...</a></li>
+<li><a href="https://cacm.acm.org/news/ai-weather-forecasting-goes-operational/">AI Weather Forecasting Goes Operational – Communications of ...</a></li>
+<li><a href="https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models">NOAA deploys new generation of AI-driven global weather models</a></li>
+<li><a href="https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/">GraphCast: AI model for faster and more accurate global ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#API fraud`, `#token reselling`, `#cybersecurity`, `#AI market`
+**Tags**: `#AI`, `#weather forecasting`, `#operational AI`, `#machine learning`, `#meteorology`
 
 ---
 
 <a id="item-2"></a>
-## [Open-source 3D-printed portable MRI built for under $70,000](https://news.google.com/rss/articles/CBMi4AJBVV95cUxPVFVmeFlqU1MxUWR0QUtZVDdhUGc3V3Mtc0tmZk0yN2RVbEk3RkYzVVUxaU9WX2N6XzhTLVhSa2E0cFBVOTlrMTBsbWNfQmFXSE9mYWstUnFBVy1wdThid3FHWmxLbC0yQnZLWktIWDRlUEJURHF4bmw1RHNCbGtTNGhmWlNNUDNkdGNLN2o5dlRiMnVjZ0JDY3Rma05GUzhHcWtBTV9IU3I3QlJmUnIzeTBEZUplZ1RhbC1uMG12ajY4aU96Z2FmWjRhT2JSWngzQUpGNENieVFuMFBubjBuM3dHMWwyWlY0cEtCUkFfanVqS1FXRURXOUxpN3lpMFNreTJBNXJnRnYwSVE5QUxyN2RrbjMzbmRPVGZKVko1ZEFzUjFBMk94eFFKNUFkb2JaTnhhcjZYZTdkcXdkWk95cEZCM0FaZ1Fnc01GcHlyeVhVSGYxaUZZNnI4enlaZTB2?oc=5) ⭐️ 8.0/10
+## [Meituan Launches CatPaw AI Agent Platform with Open-Source 1.6T Model](https://www.aibase.com/news/29913) ⭐️ 9.0/10
 
-A team has developed an open-source, 3D-printed portable MRI machine that costs under $70,000 to build. This is less than 7% of the $1.1 million starting price of a full-sized conventional MRI machine. This breakthrough dramatically reduces the cost of MRI technology, potentially making diagnostic imaging accessible to low-resource settings and developing countries. It could democratize medical imaging and improve healthcare outcomes worldwide. The machine operates at a low magnetic field strength \(likely &lt;0.1 Tesla\) compared to clinical 1.5-3T scanners, resulting in lower image resolution. However, the design is fully open-source, allowing further refinement and customization by the community.
+On July 27, Meituan launched CatPaw, a full-scenario AI Agent platform powered by its open-source trillion-parameter model LongCat 2.0, which has 1.6 trillion parameters and natively supports 1 million token context. The model was trained entirely on 50,000 domestic computing cards. This marks a major milestone in China&\#x27;s domestic AI development, demonstrating that a trillion-parameter model can be trained on homegrown hardware. The open-source release and enterprise platform signal Meituan&\#x27;s shift from research to industrial deployment, potentially accelerating AI adoption across local lifestyle services. LongCat 2.0 uses LongCat Sparse Attention and has about 48 billion activated parameters per token. CatPaw provides an enterprise-grade workspace and no-code Agent development capabilities, already serving 90,000 Meituan employees with over 30,000 agents built.
 
-google\_news · Tom&\#x27;s Hardware · Jul 26, 14:36
+aibase · AIbase · Jul 27, 17:13
 
-**Background**: Traditional MRI machines use powerful superconducting magnets that require cryogenic cooling, making them expensive \(millions of dollars\) and immobile. Low-field MRI uses weaker permanent magnets or electromagnets, reducing cost and size but sacrificing image quality. Recent advances in portable MRI have shown feasibility for brain imaging at a fraction of the cost.
+**Background**: AI Agent platforms enable users to build and deploy autonomous AI assistants that can perform complex tasks. Trillion-parameter models are among the largest language models, capable of sophisticated reasoning and long-context understanding. Training such models on domestic chips is a strategic priority for China to reduce reliance on foreign hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price">Open - source 3 D - printed portable MRI machine... | Tom&#x27;s Hardware</a></li>
-<li><a href="https://medicalxpress.com/news/2021-12-portable-prototype-mri-machine.html">A low cost , portable prototype MRI machine</a></li>
-<li><a href="https://www.popsci.com/technology/article/2010-10/diy-mri-shows-how-we-really-breathe/">Affordable DIY MRI Shows How We Really Breathe</a></li>
+<li><a href="https://www.tabbit.ai/blog/2026-06-30-tabbit-longcat-2-0">Tabbit Browser Adds the LongCat - 2 . 0 Model - Blog - Tabbit</a></li>
+<li><a href="https://catpaw.meituan.com/">CatPaw - 全场景 AI Agent 平台 | words create worlds</a></li>
+<li><a href="https://news.aibase.com/news/29913">Meituan Launches Full-Scenario AI Agent Platform CatPaw with...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#3D-printing`, `#medical-devices`, `#healthcare`, `#DIY-hardware`
+**Tags**: `#AI Agents`, `#Large Language Models`, `#Open Source`, `#Meituan`, `#Trillion Parameter Model`
 
 ---
 
 <a id="item-3"></a>
-## [Meta Permits AI-Generated Fake Doctor Ads for Quack Cures](https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVFJKdTZGSWhqU3hHVGl2UjZUNTVCTWxJTVFoU1RRMkNHOS1kV3NUX2xHc1FJSEIyX2JFcjN2U0NnSFo5ZlV0ZERwNVlnaFoyY19TdjEyS0hZX0loY3g4V0g0dnpaM0hhN0p0NkhhbjZGQ2EtQi1hamtrVTI?oc=5) ⭐️ 8.0/10
+## [NPR Investigates AI Chatbots in Mental Health Crises](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNxSWxHZmxfM1dmLTE0eV9NMGd6TUxxbEw2Tm1lUkhXbFlxbFNwTTFXSUVEUlNxSk1qVmJvdFdUamp2MDVBWWFKNnpLNFRwa3lna0VrOEtka1VkRVhPR2RRLTBoUk54djBpSUU3b0t4UTQ4RjlvLXNXdzJLNHR6S2NodTF2NWRNRnBLRWtET2E1RElSOUFMU0hPR19wLWl4SFN2c19qRQ?oc=5) ⭐️ 8.0/10
 
-According to a Futurism report, Meta is allowing AI-generated fake doctor profiles to advertise unverified medical products on its platforms like Facebook and Instagram. These advertisements use fabricated images and credentials to promote so-called &\#x27;quack cures.&\#x27; This practice poses serious risks to public health by misleading consumers into buying ineffective or harmful treatments, and undermines trust in legitimate medical advice. It also highlights significant gaps in Meta&\#x27;s content moderation policies regarding AI-generated deceptive content. The fake advertisements often use deepfake technology to create realistic-looking doctor profiles with fabricated credentials and testimonials. Meta&\#x27;s automated moderation systems have reportedly failed to detect these AI-generated scams, allowing them to reach millions of users.
+NPR published an investigative article examining the risks of AI chatbots being used to handle mental health crises, highlighting cases where chatbots provided harmful or inadequate responses during emergencies. As AI chatbots become more common in mental health support roles, this issue matters because inadequate or harmful responses could worsen crises or lead to tragic outcomes, raising urgent ethical and safety concerns. The article likely draws on expert interviews and real-world incidents, noting that many chatbots lack proper training to recognize and respond to severe mental health emergencies, and that safety guardrails have been shown to fail up to 80% of the time in testing.
 
-google\_news · Futurism · Jul 26, 17:01
+google\_news · NPR · Jul 27, 21:05
 
-**Background**: Deepfakes are AI-generated media that convincingly depict people saying or doing things they never did, and they are increasingly used in malicious contexts like health scams. Social media platforms face challenges in moderating such content because traditional verification methods struggle to identify synthetic media. Consumers often lack the tools to verify the authenticity of online doctor profiles, making them vulnerable to deception.
+**Background**: Large language models \(LLMs\) are AI systems trained on vast text data to generate human-like responses, forming the basis of modern chatbots. However, biased or outdated training data can lead to unreliable outputs. Recent studies have found that safety protocols in AI chatbots often fail, especially in prolonged conversations, triggering legal scrutiny.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://factually.co/fact-checks/health/detect-deepfakes-in-health-advertising-3c6d03">How Can Consumers Detect Deepfakes in Health Advertisi</a></li>
-<li><a href="https://www.meegle.com/en_us/topics/deepfake-detection/deepfake-detection-for-advertisements">Deepfake Detection For Advertisements</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model</a></li>
+<li><a href="https://www.remio.ai/post/80-failure-in-ai-chatbot-safety-guardrails-triggers-state-warnings">80% Failure in AI Chatbot Safety Guardrails Triggers State Warnings</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI ethics`, `#misinformation`, `#social media`, `#healthcare`, `#platform moderation`
+**Tags**: `#AI`, `#mental health`, `#ethics`, `#chatbots`
 
 ---
 
 <a id="item-4"></a>
-## [Meta, Microsoft, Nvidia, IBM back open-weight AI](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5) ⭐️ 8.0/10
+## [Claude AI Shared Links Leak Private Chats via Search Engines](https://www.aibase.com/news/29917) ⭐️ 8.0/10
 
-Major tech companies including Meta, Microsoft, Nvidia, and IBM have publicly endorsed open-weight AI, signaling a unified industry push towards more accessible AI models. This collective backing by industry giants could accelerate the adoption of open-weight models, fostering innovation and competition in AI development while challenging proprietary approaches. Open-weight AI refers to models where the trained parameters are released, but not necessarily the training data or code, striking a balance between openness and proprietary protection.
+Anthropic&\#x27;s Claude AI failed to include noindex meta tags on shared conversation links, causing private chats to be indexed by Google and Bing search engines. This is a significant privacy vulnerability for a major AI platform, potentially exposing sensitive user data and company secrets to anyone performing a search. The leak occurred because shared links lacked a noindex identifier, not due to a backend hack. Users mistakenly believed shared links remained private.
 
-google\_news · AI News · Jul 26, 07:27
+aibase · AIbase · Jul 27, 18:13
 
-**Background**: Open-weight AI is a subset of open-source AI where the model weights are publicly available, but other components like training data and code may not be fully open. This approach allows researchers and developers to use and fine-tune models while keeping some proprietary elements. The debate over openness in AI has intensified as companies release models under various licenses, leading to concerns about &\#x27;openwashing&\#x27; where models are labeled open but lack full transparency.
+**Background**: Noindex is an HTML meta tag that instructs search engine crawlers not to index a page. When a website like Claude creates public shareable links for conversations, those links should include noindex to prevent indexing. Without it, search engines will crawl and index the pages, making them discoverable via search queries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Open-weight_artificial_intelligence">Open-weight artificial intelligence</a></li>
+<li><a href="https://explainx.ai/blog/claude-shared-chats-artifacts-google-indexed-privacy-2026">Claude Shared Chats Indexed by Google — Fix It | explainx.ai</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Noindex">noindex - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#open-source`, `#industry-news`, `#machine-learning`, `#big-tech`
+**Discussion**: Comments from security researchers highlighted that this was a preventable oversight and criticized Anthropic for not following basic security practices. Some users expressed concern over the exposure of proprietary information.
+
+**Tags**: `#security`, `#privacy`, `#AI`, `#Claude`, `#data leak`
 
 ---
 
 <a id="item-5"></a>
-## [Chinese AI models gain ground in US market](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG9xZXdnSm5sYXJDbHMxZDZ1SWJVWTdMLVNmVDNnbW96VHhvaUd6TGl4T1lFSGk3WUFlMGhlNmxIdG5PRUQ4SVVqQTBRYkRNRUJzSFhCUnVxU3NXczlvbHB0SGJ2V2h0emJiOFdnb2hHb0pLQXlSaWlFUzFrQzBPa1hFeW9IZUdrQWhfYUxHS19nOFh3aVhNUlhPdG95eG1iNzAxWUVyZWY5bmRtT3UwZjBMT1ZNM0xWS0picUM0Q2ZBSHl0dWk1SXFsM21xWVVhREE?oc=5) ⭐️ 7.0/10
+## [Over 30 Companies Form Open-Source AI Alliance](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJtUHJlRFExbEh0M25QSXI3ZGwzNXYtSEJUT1MwclVrTDZDWTNlalhfQkQxeC1Yd2E5MlpDS2J5WEdUMzAzM3BvT3BmZzFJV1BDb1lTT01BQU02Qk8tMjNfYm04UDZpS0RYRlpUeGFMZ1FISHk1a0JEWEI1ZE85N3plMVM4RHAyWjVFbUEyVnN4NzVmcjBOWEhrb29iUXhOeDhBVzFTWWl0ckIzdV80?oc=5) ⭐️ 7.0/10
 
-Chinese AI models are gaining traction in the US market due to lower costs and open-source availability, as reported by the Los Angeles Times. This trend indicates a shift in global AI competition, potentially challenging US dominance in AI development and deployment. The article highlights that Chinese models are not only cheaper but also open-source, allowing broader access and customization for developers worldwide.
+More than 30 companies, including major technology firms, have formed an alliance to promote open-source artificial intelligence initiatives, signaling a collective push towards collaborative AI development. This alliance could accelerate AI innovation by pooling resources and expertise, potentially challenging proprietary AI models and fostering more accessible, transparent AI technologies. It may also influence industry standards and regulatory policies around AI. The alliance&\#x27;s exact membership and scope have not been fully disclosed, but it is expected to include companies from various sectors like cloud computing, software, and hardware. The formation comes amid growing calls for open-source AI to counterbalance dominant proprietary systems.
 
-google\_news · Los Angeles Times · Jul 26, 15:14
+google\_news · Nextgov/FCW · Jul 27, 18:22
 
-**Background**: Chinese AI models, such as those from Baidu and Alibaba, have traditionally been less prominent in the US. However, recent advances in efficiency and cost reduction have made them competitive, especially as open-source models gain popularity.
+**Background**: Open-source AI refers to artificial intelligence models, tools, and frameworks that are publicly accessible for use, modification, and distribution. This contrasts with proprietary AI, where the underlying code and data are kept private. The open-source movement in AI has gained momentum to promote transparency, reduce costs, and facilitate collaboration across organizations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
-<li><a href="https://build.nvidia.com/deepseek-ai">AI Models by DeepSeek AI | Try NVIDIA NIM APIs</a></li>
-<li><a href="https://openmodelmap.com/task/text-generation">Text Generation Models - OpenModelMap | OpenModelMap</a></li>
+<li><a href="https://www.nextgov.com/artificial-intelligence/2026/07/over-30-companies-form-open-source-ai-alliance/415028/?oref=ng-homepage-river">Over 30 companies form open-source AI alliance - Nextgov/FCW</a></li>
+<li><a href="https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html">Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety - The New York Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Chinese AI`, `#machine learning`, `#technology competition`
+**Tags**: `#AI`, `#open-source`, `#industry alliance`, `#collaboration`
 
 ---
 
 <a id="item-6"></a>
-## [Nobel laureate Simon Johnson warns on AI race and over-automation](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTZKeVZrZ3VpOGd2V29ZdW94RGl0VTF1TlZadzdGckVTeEVhZW5qSkpFcGFoMjhEQXpubXFjdUpCNHNOX2JTVnNtRmVTc1c3Zlc4YVpMcllCQmRGX1lTanBkNjJxbFUxTGNBdmpaNDlwZGZsZnNZVTFnd09jWV82TnN0Ylk4blJIQjg3b3JVQzlxejZ1cFV6UjZCa05SWDhaT3NXYnRiSDRia1FTMHAwN3JSV3pGclJCaFEwMVZPZDVXQks1N0d6Y0pn0gHKAUFVX3lxTE02R3JuYnVmcmdVcVdKZ0lqMnlDcGJRODUwbkRFazNkWGVtSkxiWFllNE9nVDRqU1pLY1FRWTYyMmFva0RGNzJVa1hlTXYzcF9kZThlZjV3MmlPNXo2ODNzZjk1WTBZM1B3TVdwNjB5azNQRHJYdXQ3eTdZUk1sRTJFbWJ5REF1cExPek1IRGxheEFabGVTRjZNYzJvRldwUHozSkFWR29aRC1lY2ZfMnNJclpaeUdMbG1ZdEFrVkg2ZDNNODBJNEl3elE?oc=5) ⭐️ 7.0/10
+## [NIST unveils new AI evaluation platform](https://news.google.com/rss/articles/CBMipgFBVV95cUxORk51UlB1TF8ySnVUdWszZ2FoT0Y2Wmk0TjROdlRkMC1tLW5GbXVGMENURERlWkxrcHR1Y0o0aFZwLXhPeVh1Vkh2cjUwWlV0cmlEUTRLMUNvQndhbnhMbUpEeFFFaWpjODhBZ0ZmYUk2RmNxc2VHT2NpXzJtRWJyNEd0LUtoNHJrOG95aUhCSmdLbmZTV1hZcG1JbE1kSWgyaVNUdkZ3?oc=5) ⭐️ 7.0/10
 
-In an exclusive interview with the South China Morning Post, Nobel laureate Simon Johnson discusses the global AI race and highlights the risk of &\#x27;over-automation&\#x27; in China, where replacing human labor too quickly could harm economic stability. Johnson&\#x27;s insights are significant as China accelerates AI adoption; his warning about over-automation could influence policy decisions and corporate strategies in the world&\#x27;s second-largest economy. Johnson specifically cautions against automating jobs that are better left to humans for social stability, and emphasizes that the AI race should focus on augmentation, not just replacement.
+The U.S. National Institute of Standards and Technology \(NIST\) has announced a new platform for evaluating artificial intelligence systems, though specific details about its features and capabilities have not been disclosed. As a key standards body, NIST&\#x27;s AI evaluation platform could help establish benchmarks and trust in AI systems, influencing both industry practices and government policy. This move underscores the growing importance of standardized AI assessment. The platform was announced by NIST but no technical specifications, release date, or supported AI domains have been shared yet. Further information is expected to follow in subsequent announcements.
 
-google\_news · South China Morning Post · Jul 26, 22:00
+google\_news · Nextgov/FCW · Jul 27, 20:56
 
-**Background**: Over-automation refers to the excessive implementation of automated systems that may lead to job displacement and economic disruption. The AI race, led by the US and China, involves rapid advancements in generative AI and other technologies, raising concerns about labor markets and inequality.
+**Background**: NIST \(National Institute of Standards and Technology\) is a U.S. government agency that develops measurement standards and technology. An AI evaluation platform would provide a standardized way to test and compare AI systems&\#x27; performance, safety, and reliability, which is critical as AI adoption grows across sectors.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/OLE_Automation">OLE Automation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#automation`, `#economics`, `#China`, `#Nobel laureate`
+**Tags**: `#NIST`, `#AI evaluation`, `#standards`, `#government`
 
 ---
 
 <a id="item-7"></a>
-## [Nvidia and Microsoft urge US government to protect open AI models](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrN0E0NHI5bk4xb1ZLTHUxcGdDVjA3bXJuZ2VPRGFDU3hxQkpadmhxbTdGc1BEaUhyTFRNeXEtQUJvTmtGUjdHcFR3YkFqNExZTlRyZFJ3cHdLZENoNkN5blpkbUNkOElX?oc=5) ⭐️ 7.0/10
+## [AI Capability Outpaces Business Value Realization](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUE1Xd1Rfc3JRR205d25CSmhveEJhZHhmWnBWc2d4bU12UkJCRlNuVHR6eHRFb0N1a09iT1UtT1BKNkJ5NFFJTEl6Zm9oQzF1RHZUMDlxMlJmZXhaVWhPVFdvNXJtYzZzM0ZSQzZmMWx5cHpQWDZhd3ZqektlZ1YtSUJkRC0xZw?oc=5) ⭐️ 7.0/10
 
-Nvidia and Microsoft are lobbying the U.S. government to enact policies that shield open AI models from overly restrictive regulations. This lobbying effort represents a united front from two major tech companies to influence AI policy, potentially preserving the benefits of open-source AI for innovation and competition. The article does not specify the exact policies being proposed, but the push aligns with ongoing debates about regulating open-source AI models due to potential risks and benefits.
+A new analysis from the American Enterprise Institute argues that AI technical capabilities are advancing faster than businesses can translate them into tangible value, creating a widening gap between potential and practical payoff. This gap poses a critical challenge for enterprises investing heavily in AI: without bridging the value realization gap, many may fail to see return on investment, potentially slowing overall AI adoption and innovation. The AEI report likely highlights that while AI models achieve impressive benchmarks, many organizations lack the data infrastructure, process redesign, and strategic alignment needed to capture business value.
 
-google\_news · calcalistech.com · Jul 26, 18:03
+google\_news · American Enterprise Institute - AEI · Jul 27, 22:10
 
-**Background**: Open AI models are systems whose source code, training data, and model weights are publicly available, allowing anyone to use, modify, and redistribute them. The U.S. government is considering regulations that could restrict the release of such models due to concerns about misuse, while proponents argue that openness fosters innovation and safety research.
+**Background**: The concept of a &\#x27;productivity paradox&\#x27; has been observed with previous technologies, where rapid technical progress does not immediately translate into economic gains. AI today faces a similar challenge: cutting-edge capabilities such as large language models and generative AI require significant organizational and cultural changes to deliver value.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.weforum.org/stories/emerging-technologies/ai-regulation-open-source/">Why open - source is crucial for responsible AI development</a></li>
-<li><a href="https://spectrum.ieee.org/open-source-ai-2666932122">Open - Source AI Is Uniquely Dangerous - IEEE Spectrum</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI regulation`, `#open source`, `#Nvidia`, `#Microsoft`, `#AI policy`
+**Tags**: `#AI`, `#business strategy`, `#technology adoption`, `#value realization`
 
 ---
 
 <a id="item-8"></a>
-## [Tech Titans Cut 140K Jobs as AI Spending Rises](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbk5INXdaVl9jTWVsRnZoa1puR1UwTF9zNFZ6R0luOFBsd0ZGc2Y2RmRfSkVCUDYzTUVWOEtZNlgxZGFaWkJxcDN0ZUZrOEE0QTNsX1ZlcFB1a3piUmQxSWJuRnVqdFV3Mzk3V0N1b1pnc29BQ0U3M2ZUZ1MyQl9vUWlOYkVnMHpOV3VaYTJUaw?oc=5) ⭐️ 7.0/10
+## [Why Banning Open-Source AI Is a Bad Idea](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0NabjBlZHFsRFM0a1dPX2t0ZWh5OVUycnZGNUFORnByZkE1aHB0ckNSVnlsVXZJODEtckkxM0VCMVRreW1SNENpY3VOQkNXYUsyMkVjZUJhYVRpTjQxd2R5ZDY1Z0tKNGNqcEtqUEk3UGtQaFZYSUdTM25zcmJnWW1sSTJwYzV0SV8xenVhY09EdEFFZ3JmQw?oc=5) ⭐️ 7.0/10
 
-Major technology companies have collectively laid off 140,000 employees while simultaneously increasing their investments in artificial intelligence, according to a report from PYMNTS.com. This trend signals a fundamental shift in the tech industry&\#x27;s workforce and investment priorities, with companies reallocating resources from human labor to AI automation, potentially impacting job security and the future of work. The job cuts span a wide range of roles, and AI spending includes both internal R&amp;D and acquisitions of AI startups. The report highlights the paradox of job losses amid booming AI investment.
+The Atlantic Council has published an argument stating that banning open-source artificial intelligence models would be detrimental to innovation and security. This matters because it contributes to the ongoing policy debate about regulating open-source AI, highlighting the risks of overly restrictive measures that could stifle technological progress and undermine security. The article likely addresses concerns about misuse of open-source AI, such as generating disinformation or malicious code, but argues that the benefits of transparency and community oversight outweigh the risks.
 
-google\_news · PYMNTS.com · Jul 26, 23:10
+google\_news · Atlantic Council · Jul 27, 16:39
 
-**Background**: In recent years, tech companies have been aggressively investing in AI technologies like large language models and generative AI, which can automate tasks previously done by humans. This has led to restructuring where roles deemed redundant are cut, while new AI-related positions are created, but not at the same scale. The 140,000 figure represents a significant acceleration of this trend.
+**Background**: Open-source AI refers to models whose source code and weights are publicly available for anyone to use, modify, and distribute. Some policymakers have called for restrictions to prevent harm, while advocates argue that open development fosters innovation and allows for broader scrutiny.
 
-**Tags**: `#AI`, `#job market`, `#tech industry`, `#layoffs`, `#spending`
+**Tags**: `#open source`, `#AI`, `#policy`, `#regulation`
 
 ---
 
 <a id="item-9"></a>
-## [Israeli AI and tech companies face mounting layoffs](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeDBuUWxkU3g1eWpoZmhlN1JqZ2dIMXhsQ3BoSkZLX2NZRERnTlljaHMwX1MyZnVONVpZNUd1X25wdkJBOXlER0drQXRBNlZzRjdlN05kUXYtcVhsakxlT3ZMOWVsLW5rYmtIVQ?oc=5) ⭐️ 7.0/10
+## [AWS Proposes Task-Aware Knowledge Compression Beyond RAG](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDlwT08wNm5iOF9pbE1QTTVKUk1ERHF3enZVcDRDaXRYMmtQSlN5UzNOR01Oc0NHNnRFdTlBNjUzdTR2RXRqX0dSR3A2LUxOb1ZuOGQxdUZvMS0xUUFaUHkzSmdQZ3JadENwWGpzTkFRX3hLbW5jTzEzeFVoTXRHTHI4SjB0N3Q5eS05dmhla2VMd0I5di1fZHNRdDlMY3BvdjdDMzU5NVlRT3BXaEdlbUdvb1pRdw?oc=5) ⭐️ 7.0/10
 
-A wave of layoffs is sweeping through AI and software companies in Israel, as part of a broader downturn in the sector. The Jerusalem Post reports that this &\#x27;bloodbath&\#x27; is affecting many firms across the Israeli tech landscape. This trend signals potential challenges in the global tech labor market, especially in AI, and may indicate wider economic pressures. It also highlights the vulnerability of even high-growth sectors to market corrections. The layoffs are described as a &\#x27;bloodbath&\#x27; in the software sector, with AI companies not spared. The article does not specify exact numbers or companies, but it underscores the severity of the downturn in Israeli tech.
+AWS has introduced task-aware knowledge compression \(TAKC\) as an advancement over traditional retrieval-augmented generation \(RAG\) for enterprise AI. The approach pre-compresses documents by task type to preserve only relevant details, improving efficiency and accuracy in cross-document tasks like financial due diligence. TAKC addresses key limitations of RAG in handling complex, cross-document enterprise tasks by reducing computational overhead and improving response relevance. This approach could significantly enhance AI-powered due diligence, legal analysis, and other knowledge-intensive workflows in enterprises. The open-source implementation supports multiple compression rates \(8×, 16×, 32×, 64×\) and efficient query processing with compressed KV caches. TAKC is designed for AWS deployments, with a sample repository on GitHub \(sample-bedrock-takc-compression\).
 
-google\_news · The Jerusalem Post · Jul 26, 11:21
+google\_news · Amazon Web Services \(AWS\) · Jul 27, 16:11
 
-**Background**: Israel&\#x27;s tech sector is a major part of its economy, often called the &\#x27;Startup Nation,&\#x27; with a strong focus on AI, cybersecurity, and software. However, global economic headwinds, rising interest rates, and reduced venture capital funding have led to layoffs across the industry since late 2022.
-
-**Tags**: `#AI`, `#layoffs`, `#Israeli tech`, `#software sector`
-
----
-
-<a id="item-10"></a>
-## [Mitsui Fudosan to build physical AI hub near TSMC&\#x27;s Kumamoto plant](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGtDbGpIcGJ0bi0zQlQyX2lFVzNKNEQtMTdEWFJwN2dZQURaQVU0b0lCLXkxMEZEX3NZUEl4Mmg0RWpkVmlqemszcjJlaDgwNVRuZHZrLWx0ZEFKaW5xblA0T3FSUVFHR2dpdFFUOEdfM2ZTeTNoaFU2bkxMYUxkU3RCa250ZEVNSm52NUdpdmFaVWg2TzhVWFZmcFpnM243elI1NkNwZjJIOG1pczdpQVpZcHVUSUJBMU91elFkTEZqUGpsanR1YXdhVExxUQ?oc=5) ⭐️ 7.0/10
-
-Mitsui Fudosan, a major Japanese real estate developer, announced plans to build a physical AI hub near TSMC&\#x27;s semiconductor plant in Kumamoto, Japan. The hub will support development of AI systems that interact with the physical world, such as robotics and autonomous vehicles. This development highlights the growing convergence of real estate and semiconductor/AI industries, as companies invest in specialized infrastructure to accelerate AI innovation. It also strengthens Japan&\#x27;s position in the global AI and semiconductor supply chains, leveraging TSMC&\#x27;s advanced chip manufacturing. The hub will focus on &\#x27;physical AI,&\#x27; which encompasses AI systems that perceive and act in the physical world, including computer vision and robotic control. Its proximity to TSMC&\#x27;s Kumamoto fab—a key facility for advanced semiconductor production—is expected to foster collaboration between chipmakers and AI developers.
-
-google\_news · Nikkei Asia · Jul 26, 19:44
-
-**Background**: Physical AI refers to AI systems that go beyond language understanding to interact with the physical world, such as autonomous vehicles and industrial robots. Mitsui Fudosan is one of Japan&\#x27;s largest real estate developers, part of the Mitsui Group. TSMC&\#x27;s Kumamoto plant is a major semiconductor fabrication facility in Japan, part of the global chip shortage response and Japan&\#x27;s push to revive domestic chip production.
+**Background**: Retrieval-Augmented Generation \(RAG\) is a technique that allows large language models to retrieve relevant information from external knowledge bases before generating responses, reducing hallucinations and improving accuracy. However, traditional RAG struggles with cross-document tasks that require synthesizing information from multiple sources, as it retrieves entire documents without considering task-specific relevance. Task-aware knowledge compression addresses this by pre-processing documents according to the specific task, compressing them to retain only pertinent information.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mitsui_Fudosan">Mitsui Fudosan - Wikipedia</a></li>
-<li><a href="https://blog.pebblous.ai/project/PhysicalAI/en/">Physical AI Hub : Data-Centric Physical AI Strategy | Pebblous</a></li>
+<li><a href="https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/">Beyond RAG: Task - aware knowledge compression for enterprise AI...</a></li>
+<li><a href="https://github.com/aws-samples/sample-bedrock-takc-compression">aws-samples/sample-bedrock-takc- compression : Task - Aware ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#infrastructure`, `#TSMC`, `#Japan`, `#semiconductor`
+**Tags**: `#RAG`, `#AWS`, `#enterprise AI`, `#knowledge compression`
+
+---
+
+<a id="item-10"></a>
+## [Examining LLM Temporal Knowledge Limits](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUlZFdEVkcDVnV25aNzkzSkJGOHJuX2JndXRGT3VGNkRfQTNjaW1UQV9XLTRySlUtMXY3TTFKYU1vUWpwV1BPWWt2SHVIUjk3eThJa2hpbVhYRktuVUpSLQ?oc=5) ⭐️ 7.0/10
+
+An article published by Communications of the ACM questions whether large language models are fundamentally limited by their training data cutoff dates and inability to understand real-time events. As LLMs become increasingly integrated into applications, their reliance on static knowledge cutoffs raises concerns about accuracy for time-sensitive queries, affecting fields like journalism, finance, and legal research. The article explores the concept of knowledge cutoff, the point after which a model has no training data, and discusses whether retrieval-augmented generation or other techniques can overcome this inherent limitation.
+
+google\_news · Communications of the ACM · Jul 27, 15:48
+
+**Background**: Large language models are pretrained on vast text corpora up to a specific date, known as the knowledge cutoff. After that date, the model&\#x27;s knowledge is frozen unless updated via fine-tuning or real-time data access. This temporal blindness means LLMs cannot know about events or discoveries after their cutoff date without external assistance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Knowledge_cutoff">Knowledge cutoff - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2403.12958">Dated Data: Tracing Knowledge Cutoffs in Large Language Models LLM Knowledge Cutoff Dates: Every Major AI Model’s Training ... Dated Data: Tracing Knowledge Cutoffs in Large Language Models Ep 153: Knowledge Cutoff - What it is and why it matters for ... A comprehensive list of Large Language Model knowledge cut ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLMs`, `#AI limitations`, `#temporal reasoning`, `#knowledge cutoff`
 
 ---

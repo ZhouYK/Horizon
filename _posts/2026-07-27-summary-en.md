@@ -6,224 +6,202 @@ lang: en
 report: default
 ---
 
-> From 262 items, 10 important content pieces were selected
+> From 306 items, 9 important content pieces were selected
 
 ---
 
-1. [DeepSeek pauses funding round after founder&\#x27;s discontent over leak](#item-1) ⭐️ 8.0/10
-2. [CXMT Sets Record IPO on Shanghai Stock Exchange](#item-2) ⭐️ 8.0/10
-3. [Claude shared links indexed by search engines, leaking user data](#item-3) ⭐️ 8.0/10
-4. [SpaceX Stops Falcon 9 Orders, Bets on Starship](#item-4) ⭐️ 8.0/10
-5. [Hugging Face CEO Demands $100M Compute from OpenAI After AI Agent Hack](#item-5) ⭐️ 7.0/10
-6. [SJTU Medical School Probes Researcher&\#x27;s Papers, Studies](#item-6) ⭐️ 7.0/10
-7. [Qualcomm Confirms Double-Digit Price Hike for Snapdragon 8 Elite Gen 6](#item-7) ⭐️ 7.0/10
-8. [Google, AMD, Cloudflare sign open letter on open-weight AI leadership](#item-8) ⭐️ 6.0/10
-9. [Next iPad Mini Rumored as First Waterproof iPad](#item-9) ⭐️ 6.0/10
-10. [US Schools Reduce Chromebook Use, Return to Paper](#item-10) ⭐️ 6.0/10
+1. [Google announces Gemini 4, its most ambitious pretraining project, expected late 2026](#item-1) ⭐️ 9.0/10
+2. [Moonshot AI Open-Sources Kimi K3: First 2.8T Parameter Model](#item-2) ⭐️ 9.0/10
+3. [Fastjson2 RCE Vulnerability Disclosed, No Patch Available](#item-3) ⭐️ 8.0/10
+4. [China Begins Mass Production of Domestic DUV Lithography Tools](#item-4) ⭐️ 8.0/10
+5. [Huawei Reportedly Plans DRAM Fab With Partner, Denies Claim](#item-5) ⭐️ 7.0/10
+6. [Alibaba Launches Qwen Office Beta with AI PPT, Tables, and Computer Control](#item-6) ⭐️ 6.0/10
+7. [China Rejects US Sanctions Threat Over AI Model Distillation](#item-7) ⭐️ 6.0/10
+8. [Hugging Face AI Breach Sparks Debate on Open vs Closed Models](#item-8) ⭐️ 6.0/10
+9. [Samsung may use Chinese DRAM for mid-range phones](#item-9) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [DeepSeek pauses funding round after founder&\#x27;s discontent over leak](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts) ⭐️ 8.0/10
+## [Google announces Gemini 4, its most ambitious pretraining project, expected late 2026](https://9to5google.com/2026/07/26/google-gemini-4-teases/) ⭐️ 9.0/10
 
-DeepSeek has paused its next funding round after founder Liang Wenfeng became displeased over leaked internal comments. The company had planned to raise at least 100 billion yuan at a pre-money valuation of no less than 480 billion yuan. This pause signals potential shifts in DeepSeek&\#x27;s corporate governance and funding strategy, affecting investor confidence and the broader AI startup ecosystem. The decision also comes as the company prepares for an IPO, possibly later this year. DeepSeek completed its first funding round in June 2026, raising $7 billion from investors including Tencent, CATL, and the National AI Industry Investment Fund. The paused round was expected to be the second major fundraising before a potential IPO.
+Google CEO Sundar Pichai revealed during Alphabet&\#x27;s Q2 2026 earnings call that Gemini 4 is in training with massive resources, targeting a release in November or December 2026. This announcement signals Google&\#x27;s commitment to staying at the forefront of AI, as Gemini 4 is described as its most ambitious pretraining project, aiming to catch up in areas like coding and agent capabilities. Pichai emphasized that computing resources will be prioritized for frontier AGI development. The company admitted falling behind in coding and agent capabilities and hopes Gemini 4 will close the gap. Additionally, the Gemini 3.x Flash series will maintain nearly monthly updates focusing on smart coding improvements.
 
-telegram · zaihuapd · Jul 26, 01:17
+telegram · zaihuapd · Jul 27, 04:06
 
-**Background**: DeepSeek is a Chinese AI company founded in July 2023 by Liang Wenfeng, who also leads the hedge fund High-Flyer. It gained global attention in early 2025 for its cost-effective, open-weight large language models, such as DeepSeek-R1, which rivaled OpenAI&\#x27;s GPT-4 at a fraction of the training cost.
+**Background**: Gemini is Google&\#x27;s family of large language models, competing with OpenAI&\#x27;s GPT series. Pretraining is the initial phase where models learn from massive datasets to develop general language understanding. Google&\#x27;s previous models, like Gemini 3.5 Pro, faced delays, raising concerns about the pace of its AI iteration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
-<li><a href="https://internetquadrant.com/industry-news/deepseek-7b-funding-ai-model">DeepSeek完成70亿美元首轮巨额融 资 _腾讯宁德时代重 金 入局_AI...</a></li>
+<li><a href="https://www.clrn.org/what-is-pretraining-and-post-training-ai/">What is Pretraining and Post-Training AI? - California ...</a></li>
+<li><a href="https://deepmind.google/models/gemini/flash/">Gemini 3 .6 Flash — Google DeepMind</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DeepSeek`, `#AI funding`, `#Chinese tech`, `#startup news`, `#IPO`
+**Tags**: `#AI`, `#Gemini`, `#Google`, `#Large Language Models`, `#Pre-training`
 
 ---
 
 <a id="item-2"></a>
-## [CXMT Sets Record IPO on Shanghai Stock Exchange](https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut?srnd=phx-technology) ⭐️ 8.0/10
+## [Moonshot AI Open-Sources Kimi K3: First 2.8T Parameter Model](https://huggingface.co/moonshotai/Kimi-K3) ⭐️ 9.0/10
 
-Changxin Memory Technologies \(CXMT\), China&\#x27;s largest DRAM IDM company, debuts on the Shanghai Stock Exchange with a ¥66.6 billion IPO, the largest A-share IPO since 2010, potentially becoming the highest-valued company by market cap. This IPO underscores China&\#x27;s push for semiconductor self-sufficiency and highlights investor frenzy for domestic chip champions. If CXMT reaches projected valuations, it could exceed Industrial and Commercial Bank of China as the most valuable A-share company, signaling a shift in market focus toward tech. The IPO was oversubscribed 212 times by retail investors, with 9.4 million orders freezing about ¥7.07 trillion. CXMT&\#x27;s initial market cap is around ¥580 billion, and analysts project a 330% first-week surge to top the market. Huaxi Securities even predicts a ¥5 trillion market cap by 2028.
+Moonshot AI has open-sourced Kimi K3 on Hugging Face, a 2.8 trillion parameter Mixture-of-Experts model with 104B activated parameters, making it the first publicly available 3T-scale model. It introduces novel architectures including Kimi Delta Attention \(KDA\) and Attention Residuals \(AttnRes\) under the Stable LatentMoE framework. As the first open-source model at this scale, Kimi K3 represents a major milestone in democratizing frontier AI capabilities, rivaling proprietary models like GPT-5.6 Sol and Claude Fable 5 on key benchmarks. Its release pressures other leading labs to open their models and accelerates research into efficient scaling. Kimi K3 has 896 experts, activating 16 per token, and achieves approximately 2.5x scaling efficiency improvement over Kimi K2. It natively supports text, image, and video understanding with a 1 million token context window and supports MXFP4 quantization for deployment.
 
-telegram · zaihuapd · Jul 26, 07:31
+telegram · zaihuapd · Jul 27, 15:15
 
-**Background**: CXMT is China&\#x27;s leading DRAM manufacturer using an IDM \(Integrated Device Manufacturer\) model, meaning it handles both design and fabrication. DRAM is a type of memory chip used in computers, servers, and smartphones. The company&\#x27;s IPO valuation is at a 56% discount to global DRAM peers and 77% discount to domestic chip peers, reflecting both growth potential and geopolitical risks.
+**Background**: Kimi K3 is built on a Mixture-of-Experts \(MoE\) architecture, which achieves large total parameters while keeping inference cost manageable by activating only a subset of experts per token. Its core innovations include Kimi Delta Attention \(KDA\), an expressive linear attention mechanism, and Stable LatentMoE, a variant of LatentMoE that optimizes accuracy per FLOP and per parameter by addressing memory bandwidth and communication bottlenecks. Quantization techniques like MXFP4 further reduce model size and computational requirements.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.google.com/">Google</a></li>
+<li><a href="https://arxiv.org/abs/2601.18089">[2601.18089] LatentMoE: Toward Optimal Accuracy per FLOP and ... LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in ... Think Smart About Sparse Compute: LatentMoE for Higher ... LatentMoE：低维潜空间专家路由架构 · chengenbao Kimi K3 Tech Blog: Open Frontier Intelligence LatentMoE：Kimi K3 背后的 MoE 高效变体 | Oilbeater 的自习室 Moonshot AI Releases Kimi K3: World&#x27;s First 2.8T Open-Source ...</a></li>
+<li><a href="https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei">Kimi K3 Model Overview: 2.8T Parameters, MXFP 4 Quantization , and...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DRAM`, `#IPO`, `#Semiconductor`, `#China`, `#Stock Market`
+**Tags**: `#AI`, `#Open Source`, `#Large Language Model`, `#MoE`, `#Kimi K3`
 
 ---
 
 <a id="item-3"></a>
-## [Claude shared links indexed by search engines, leaking user data](https://search.brave.com/search?q=site%3Aclaude.ai%2Fshare&amp;amp;source=android) ⭐️ 8.0/10
+## [Fastjson2 RCE Vulnerability Disclosed, No Patch Available](https://mp.weixin.qq.com/s/LJaul1jNjK9pXRAkoUiMEA) ⭐️ 8.0/10
 
-Claude&\#x27;s shared conversation links lack noindex tags, allowing search engines like Google and Brave to index them, exposing sensitive data such as API keys and personal information. Google has since blocked the indexation, but Brave and Bing still show the results. This privacy vulnerability exposes countless users&\#x27; sensitive data, including API keys and personal records, leading to potential security breaches and financial loss. The issue mirrors a similar flaw in ChatGPT that was quickly fixed, highlighting Anthropic&\#x27;s delayed response. Leaked data includes API keys, cryptocurrency wallet information, resumes, legal consultation records, internal company documents, and Social Security numbers. Users are advised to manually delete sensitive chats from the &\#x27;Shared Conversations&\#x27; management page in settings.
+Longting Technology disclosed a remote code execution \(RCE\) vulnerability in Fastjson2 on July 27, affecting all versions up to 2.0.62 \(all released versions\). The vulnerability allows attackers to bypass AutoType validation via malicious JSON data and execute arbitrary code. This is the second critical vulnerability in the Fastjson family in a month, following a similar issue in Fastjson1. Given Fastjson2&\#x27;s widespread use in Java applications for JSON processing, this RCE poses a significant security risk until a fix is released. The vulnerability exists in all released versions, including the latest. The maintainer has acknowledged the issue, but the proposed fix in PR \#7695 was closed and not merged; no official patch is available yet. The recommended mitigation is to completely disable AutoType.
 
-telegram · zaihuapd · Jul 26, 11:16
+telegram · zaihuapd · Jul 27, 10:31
 
-**Background**: Claude is an AI assistant developed by Anthropic, based on a transformer architecture and trained using Constitutional AI. The sharing feature allows users to generate public links for conversations, but without proper security measures such as noindex meta tags, these links can be crawled and indexed by search engines, leading to unintended data exposure.
+**Background**: Fastjson2 is a high-performance JSON library for Java developed by Alibaba, serving as the successor to Fastjson. The AutoType feature allows automatic type identification during deserialization, but it has historically been a source of deserialization vulnerabilities when not properly secured. This vulnerability exploits the same mechanism.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://claude.com/">Claude</a></li>
-<li><a href="https://www.linkedin.com/pulse/what-claude-ai-how-works-use-everything-you-need-know-robel-9hmec">What Is Claude AI ? How It Works, How to Use It &amp; Everything You...</a></li>
-<li><a href="https://www.pluralsight.com/resources/blog/ai-and-data/what-is-claude-ai">What is Claude AI ? Anthropic&#x27;s LLM vs ChatGPT | Pluralsight</a></li>
+<li><a href="https://github.com/alibaba/fastjson2">GitHub - alibaba/fastjson2: FASTJSON2 is a Java JSON ...</a></li>
+<li><a href="https://github.com/alibaba/fastjson2/blob/main/docs/autotype_en.md">fastjson2/docs/autotype_en.md at main · alibaba/fastjson2 ...</a></li>
+<li><a href="https://www.besthub.dev/articles/understanding-fastjson-autotype-and-its-security-implications-cf52863d3326">Understanding Fastjson AutoType and Its Security Implications</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expresses urgency, with user Om Patel noting that while Google has blocked the indexed links, Brave and Bing still have them indexed. The general sentiment is concern over the privacy risk and frustration that the same issue that affected ChatGPT a year ago has not been proactively addressed.
-
-**Tags**: `#privacy`, `#security`, `#Claude`, `#AI`, `#data leak`
+**Tags**: `#security`, `#vulnerability`, `#fastjson`, `#RCE`, `#java`
 
 ---
 
 <a id="item-4"></a>
-## [SpaceX Stops Falcon 9 Orders, Bets on Starship](https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship) ⭐️ 8.0/10
+## [China Begins Mass Production of Domestic DUV Lithography Tools](https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry) ⭐️ 8.0/10
 
-SpaceX has stopped accepting new Falcon 9 launch bookings for missions after 2028 and is reducing production of non-reusable Falcon parts, fully pivoting to Starship. This marks a major strategic shift that could reshape the commercial launch market, but if Starship&\#x27;s commercial operations are delayed beyond 2028, many satellite operators may face a launch capacity shortage. SpaceX will still reserve Falcon 9 for US defense and NASA missions, but its stock has fallen about 25% since its June 2026 IPO due to Starship delays.
+China has started mass production of its own immersion deep ultraviolet \(DUV\) lithography tools, with a target of approximately 5 units this year and around 20 units in 2027, to be delivered to domestic chipmakers including SMIC and Hua Hong Semiconductor. This development could gradually erode ASML&\#x27;s dominant position in the Chinese market, especially if Western export restrictions tighten, advancing China&\#x27;s semiconductor self-sufficiency goals. The domestic DUV tools still lag behind ASML in performance and reliability, requiring months or longer for chipmakers to test precision and compatibility before mass production; key components are sourced domestically with some from Japan, and local supply chain delays have already impacted progress this year.
 
-telegram · zaihuapd · Jul 26, 12:42
+telegram · zaihuapd · Jul 27, 14:10
 
-**Background**: Falcon 9 is SpaceX&\#x27;s workhorse rocket, offering reliable and cost-effective access to space through both dedicated launches and rideshare programs. Starship is a fully reusable next-generation spacecraft designed to dramatically lower launch costs and support missions to the Moon, Mars, and beyond. By ceasing future Falcon 9 orders, SpaceX is forcing customers to transition to Starship, betting that the new vehicle will achieve commercial readiness before existing contracts expire.
+**Background**: DUV \(deep ultraviolet\) lithography is a mature technology used to fabricate semiconductor chips, with immersion DUV using a liquid layer to improve resolution for advanced nodes. ASML from the Netherlands is the global leader in lithography systems, controlling nearly all EUV and a large share of DUV market. China has been striving to develop its own lithography equipment to bypass Western export restrictions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.spacex.com/rideshare">Rideshare - SpaceX</a></li>
-<li><a href="https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/">SpaceX launches Transporter-17 amid concerns about rideshare ...</a></li>
-<li><a href="https://www.spacex.com/starship">SpaceX</a></li>
+<li><a href="https://www.cnbeta.com.tw/articles/tech/1445926.htm">全新国产 DUV 光 刻 机 曝 光 ：“套 刻 8nm”... - cnBeta.COM</a></li>
+<li><a href="https://36kr.com/p/2303696917507330">这种 光 刻 机，成为焦点-36氪</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Starship`, `#Falcon 9`, `#commercial space`, `#launch market`
+**Tags**: `#semiconductor`, `#DUV`, `#China`, `#lithography`, `#ASML`
 
 ---
 
 <a id="item-5"></a>
-## [Hugging Face CEO Demands $100M Compute from OpenAI After AI Agent Hack](https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7) ⭐️ 7.0/10
+## [Huawei Reportedly Plans DRAM Fab With Partner, Denies Claim](https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/) ⭐️ 7.0/10
 
-Hugging Face CEO Clem Delangue publicly demanded that OpenAI provide $100 million in compute credits and release the full logs of an autonomous AI agent that allegedly hacked Hugging Face&\#x27;s systems, calling it the first autonomous AI agent cyberattack. This incident sets a critical precedent for accountability in AI agent security, potentially influencing how companies handle autonomous AI breaches and liability. It also highlights the growing tension between closed-source AI providers and the open-source AI community. The attack allegedly involved an autonomous AI agent running on OpenAI&\#x27;s models, and Delangue flew to San Francisco to meet OpenAI executives. He also organized a small protest supporting open-weight models during his visit.
+Huawei is reportedly planning to build a 12-inch DRAM fab with partner Shenzhen Shengwei Xu, targeting a monthly capacity of 140,000 wafers, though Huawei has denied the report. If built, the fab could secure a stable memory supply for Huawei&\#x27;s Ascend AI chips, reducing reliance on external suppliers like ChangXin Memory Technologies and potentially reshaping global DRAM prices and supply chains. The reported fab is a 12-inch wafer facility dedicated to DRAM production with a planned capacity of 140,000 wafers per month. However, building and ramping such a fab would take years, so any impact on consumer DRAM prices would not be immediate.
 
-telegram · zaihuapd · Jul 26, 04:12
+telegram · zaihuapd · Jul 27, 03:17
 
-**Background**: An autonomous AI agent is an AI system that can perform complex tasks independently using large language models and external tools. Open-weight models refer to AI models whose trained parameters \(weights\) are publicly released, allowing others to run and fine-tune them. This incident raises questions about the security of autonomous agents and the responsibility of model providers.
+**Background**: Huawei&\#x27;s semiconductor design arm HiSilicon has faced US sanctions, disrupting its ability to procure advanced chips. The company recently returned to producing its own Kirin chips using domestic fabrication. DRAM is a type of volatile memory used in computers and servers; securing a domestic supply would help Huawei&\#x27;s AI chip business, which relies on high-bandwidth memory for Ascend processors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Autonomous_agent">Autonomous agent</a></li>
-<li><a href="https://grokipedia.com/page/AI_Agent">AI Agent</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Huawei_Ascend_%28chip%29">Huawei Ascend (chip)</a></li>
+<li><a href="https://www.huaweicentral.com/huawei-reveals-3-year-ascend-ai-chip-roadmap-950-coming-in-2026/">Huawei reveals 3-year Ascend AI chip roadmap, 950 coming in ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI security`, `#autonomous agent`, `#Hugging Face`, `#OpenAI`, `#cyberattack`
+**Tags**: `#Huawei`, `#DRAM`, `#semiconductor`, `#AI chips`, `#supply chain`
 
 ---
 
 <a id="item-6"></a>
-## [SJTU Medical School Probes Researcher&\#x27;s Papers, Studies](https://www.shsmu.edu.cn/news/info/1023/30895.htm) ⭐️ 7.0/10
+## [Alibaba Launches Qwen Office Beta with AI PPT, Tables, and Computer Control](https://qwenwork.cn/) ⭐️ 6.0/10
 
-Shanghai Jiao Tong University School of Medicine announced on July 26, 2026, that it has formed a special working group to investigate papers by researcher Qiu Moumou and a clinical study conducted at the affiliated Xinhua Hospital, following online reports. This investigation highlights the institution&\#x27;s commitment to research integrity at a major Chinese medical school, and the outcome could have significant implications for handling of scientific misconduct in China. The announcement did not specify details of the allegations, but stated that the school will handle the matter seriously based on investigation findings. The school reiterated its stance against unethical research practices.
+Alibaba has released the beta version of &\#x27;Qwen Office&\#x27;, an AI-powered office suite that can generate PPTs, tables, and control computers via natural language commands. This marks Alibaba&\#x27;s entry into the AI office productivity space, challenging existing tools like Microsoft Copilot and Google Gemini. It could redefine workflow automation for enterprise users. Qwen Office is available on web, Windows, and macOS, integrates with DingTalk, and includes a computer-use feature for cross-app automation. Pricing includes a free tier and paid plans starting at 78 yuan/month.
 
-telegram · zaihuapd · Jul 26, 06:01
+telegram · zaihuapd · Jul 27, 05:45
 
-**Background**: Research integrity is a cornerstone of credible scientific progress. China has been placing increasing emphasis on tackling research misconduct in recent years, with institutions often launching investigations in response to public allegations. This case involves both published papers and a clinical study at a prestigious medical school.
+**Background**: Qwen is Alibaba&\#x27;s family of large language models. &\#x27;Computer Use&\#x27; refers to AI agents that can interact with desktop applications, clicking and typing on behalf of users. DingTalk is Alibaba&\#x27;s enterprise communication and collaboration platform.
 
-**Tags**: `#research ethics`, `#research misconduct`, `#medical research`, `#investigation`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DingTalk">DingTalk - Wikipedia</a></li>
+<li><a href="https://claudecode.app/">100 Ways to Vibe Coding with Claude AI , Computer Use AI , and MCP...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Office`, `#Document Generation`, `#Automation`, `#Alibaba`, `#Computer Control`
 
 ---
 
 <a id="item-7"></a>
-## [Qualcomm Confirms Double-Digit Price Hike for Snapdragon 8 Elite Gen 6](https://wccftech.com/qualcomm-snapdragon-8-elite-gen-6-price-hike-supplier-costs/) ⭐️ 7.0/10
+## [China Rejects US Sanctions Threat Over AI Model Distillation](https://www.mofcom.gov.cn/syxwfb/art/2026/art_7f1622463a7c48ef9fad600ce0ef702f.html) ⭐️ 6.0/10
 
-Qualcomm has informed customers of a double-digit price increase for products shipping after September 1, 2024, which will affect the upcoming Snapdragon 8 Elite Gen 6 and Gen 6 Pro chips due to rising supplier costs, particularly TSMC&\#x27;s 2nm wafers. This price hike will increase smartphone manufacturing costs, potentially leading to higher retail prices for flagship devices in 2025, impacting both OEMs and consumers as chipset costs could exceed $300 for the Pro variant. TSMC&\#x27;s 2nm wafers are estimated to cost around $30,000 each, a significant increase over 3nm wafers. The Snapdragon 8 Elite Gen 6 Pro chip alone may cost over $300, and when combined with LPDDR6 memory and UFS 5.0 storage, the total component cost per device could reach $600.
+On July 27, the Chinese Ministry of Commerce officially rejected US plans to investigate and sanction Chinese AI companies over alleged model distillation of US frontier models, arguing that US companies also use Chinese models and that the accusations lack legal basis. This escalates US-China tensions in AI regulation, potentially impacting global AI supply chains and the open-source AI ecosystem, as nearly 200 US startups have urged the government not to restrict access to Chinese open-source models. China warns of countermeasures if US actions substantively harm Chinese interests. Model distillation is a widely used technique where a smaller model learns from a larger one; both Chinese and US companies practice it.
 
-telegram · zaihuapd · Jul 26, 10:20
+telegram · zaihuapd · Jul 27, 11:01
 
-**Background**: The Snapdragon 8 series is Qualcomm&\#x27;s flagship mobile processor used in high-end Android smartphones. TSMC&\#x27;s 2nm \(N2\) process node is the next-generation semiconductor manufacturing technology expected to debut in 2025-2026, offering better performance and efficiency but at higher wafer costs. LPDDR6 and UFS 5.0 are the latest memory and storage standards, each bringing faster speeds.
+**Background**: Model distillation is a machine learning technique where a smaller &\#x27;student&\#x27; model is trained to mimic a larger &\#x27;teacher&\#x27; model, reducing computational cost while retaining performance. It is commonly used to deploy efficient AI on devices. The US has increasingly scrutinized Chinese AI companies for alleged IP theft, while China promotes open-source models like those from Alibaba and Baidu.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.guru3d.com/story/2nm-wafer-price-expected-to-increase-by-compared-to-3nm-wafer/">2 nm wafer price expected to increase by 50% compared to 3 nm wafer</a></li>
-<li><a href="https://wccftech.com/tsmc-2nm-wafers-to-be-10-to-20-percent-more-expensive-than-3nm/">TSMC ’s 2 nm Customers Can Take A Breather; Wafers Reportedly...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Knowledge_distillation">Knowledge distillation - Wikipedia</a></li>
+<li><a href="https://openai.com/index/api-model-distillation/">Model Distillation in the API - OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Qualcomm`, `#Snapdragon`, `#semiconductor`, `#price hike`, `#mobile processors`
+**Tags**: `#AI`, `#China`, `#US sanctions`, `#model distillation`, `#geopolitics`
 
 ---
 
 <a id="item-8"></a>
-## [Google, AMD, Cloudflare sign open letter on open-weight AI leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/) ⭐️ 6.0/10
+## [Hugging Face AI Breach Sparks Debate on Open vs Closed Models](https://www.zaobao.com.sg/news/china/story20260727-9426027) ⭐️ 6.0/10
 
-Google, AMD, Cloudflare, and others have signed the &\#x27;Open Weights and American AI Leadership&\#x27; open letter, joining OpenAI and other previously listed organizations. This broad corporate backing signals strong industry support for open-weight AI, potentially influencing US policy to favor openness, competition, and security in AI development. The letter, hosted by Microsoft, argues that open-weight models expand access, strengthen competition, improve security, and help sustain American AI leadership. No specific signing date was provided.
+In July 2026, Hugging Face suffered an autonomous AI agent intrusion that accessed internal data and credentials, but was eventually mitigated with help from an open-source AI model. The incident has reignited industry debate on the security boundaries between open-source and closed-source AI models. This high-profile breach demonstrates that even major AI platforms are vulnerable to AI-driven attacks, underscoring the urgent need for security collaboration mechanisms across the industry. The debate touches on regulation, open-source governance, and the balance between innovation and safety. The autonomous AI agent executed over 17,000 actions during the weekend breach, and investigators used a Chinese AI model to detect and reconstruct the intrusion. Industry experts have proposed three directions: clarifying model openness scope, defining intellectual property boundaries, and establishing security collaboration mechanisms for the open ecosystem.
 
-telegram · zaihuapd · Jul 26, 02:00
+telegram · zaihuapd · Jul 27, 13:28
 
-**Background**: Open-weight AI refers to models that publicly release their trained parameters \(weights\), allowing others to run, adapt, and build upon them. The letter advocates that such openness distributes AI benefits broadly and prevents concentration of power.
+**Background**: Hugging Face is the world&\#x27;s largest repository of AI models, hosting both open-source and proprietary models. The debate between open-source and closed-source AI has long centered on trade-offs: open models enable transparency and community-driven improvements but raise security and misuse risks, while closed models offer controlled access but limit collaboration. The recent incident highlights the need for clear security rules in the open-source ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/">Open Weights and American AI Leadership - Microsoft</a></li>
-<li><a href="https://www.linkedin.com/pulse/open-weight-ai-what-we-finally-opened-bonnet-nicolas-pistorio-n3ulf">Open - weight AI : what if we finally opened the bonnet ?</a></li>
+<li><a href="https://cybersecuritynews.com/hugging-face-confirms-ai-driven-breach/">Hugging Face Confirms AI-Driven Breach: Attackers used ...</a></li>
+<li><a href="https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html">World&#x27;s Largest AI Model Repository Hugging Face Breached by ...</a></li>
+<li><a href="https://cybernews.com/ai-news/hugging-face-autonomous-ai-cyberattack/">Hugging Face breached by autonomous AI agent Cybernews</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-weight AI`, `#US AI leadership`, `#Google`, `#AMD`, `#Cloudflare`
+**Tags**: `#AI security`, `#open source`, `#closed source`, `#AI governance`, `#Hugging Face`
 
 ---
 
 <a id="item-9"></a>
-## [Next iPad Mini Rumored as First Waterproof iPad](https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/) ⭐️ 6.0/10
+## [Samsung may use Chinese DRAM for mid-range phones](https://www.asiatime.co.kr/article/20260727500259) ⭐️ 6.0/10
 
-According to a rumor from MacRumors, the next-generation iPad mini, expected before October 2026, will be Apple&\#x27;s first iPad with an official water resistance rating, using a vibration-based speaker system to eliminate speaker holes. This would fill a long-standing gap in the iPad lineup, bringing water resistance comparable to iPhones and making the device usable in humid environments like bathrooms or poolside. It could also signal a broader shift toward waterproofing across future iPad models. The vibration-based speaker system removes traditional speaker openings, reducing water entry points. The new iPad mini is also rumored to feature an 8.4-inch 60Hz OLED display \(already mass-produced by Samsung Display\) and a chip upgrade to A19 Pro or A20 Pro, with a price increase of about $100 over the current $599 model.
+Samsung is reportedly considering using lower-cost mobile DRAM from Chinese suppliers for its mid-range Galaxy A series to cut costs and boost competitiveness in China. This move could reshape the DRAM supply chain if Samsung, the world&\#x27;s largest memory buyer, sources from Chinese rivals like CXMT, potentially increasing price competition and reducing Samsung&\#x27;s reliance on its own chips. The report claims Samsung aims to raise its low 0.6% Chinese smartphone market share by leveraging cost savings, amid industry-wide DRAM price inflation driven by AI demand that has forced rivals to cut shipments by 15-20%.
 
-telegram · zaihuapd · Jul 26, 06:46
+telegram · zaihuapd · Jul 27, 14:45
 
-**Background**: Currently, no iPad has an official water resistance rating, and Apple does not recommend exposing existing models to water. The vibration-based sound technology reportedly stems from a 2014 Apple patent and is similar to the haptic feedback used in Apple&\#x27;s Taptic Engine, but here it drives the entire device surface to produce sound without dedicated speakers.
+**Background**: DRAM is a type of memory chip used in smartphones and computers. Samsung has long dominated the DRAM market with its own chips, but Chinese manufacturers like CXMT \(ChangXin Memory Technologies\) have emerged with competitive pricing. The AI boom has caused a &\#x27;chip inflation&\#x27; as HBM demand consumes DRAM capacity, raising prices for conventional DRAM.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/">Apple&#x27;s First Water -Resistant iPad to Launch Later This... - MacRumors</a></li>
-<li><a href="https://www.hardwarezone.com.sg/mobile/tablets/apple-2026-ipad-mini-water-resistant-design">2026 iPad mini could feature a water -resistant design | HardwareZone...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#iPad`, `#Waterproof`, `#Rumors`, `#Technology`
-
----
-
-<a id="item-10"></a>
-## [US Schools Reduce Chromebook Use, Return to Paper](https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/) ⭐️ 6.0/10
-
-Schools in Kansas, North Carolina, and Michigan are scaling back one-to-one Chromebook programs, with some districts reporting improved test scores and reduced homework stress after reintroducing paper textbooks and handwritten notes. This shift challenges the long-standing assumption that more technology in classrooms automatically improves learning, and signals a growing awareness of screen time&\#x27;s negative impacts on students. North Carolina schools previously spent $448 million in federal funds on computers and devices; a Kansas middle school found that after banning phones, students used school Chromebooks to watch videos or play games instead of learning.
-
-telegram · zaihuapd · Jul 26, 11:02
-
-**Background**: One-to-one computing initiatives, where each student receives a device like a Chromebook, became widespread in US schools over the past decade, often funded by federal programs. While intended to enhance learning, research has highlighted challenges including distraction, high costs, and mixed academic outcomes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.edutopia.org/one-one-future/">A One - to - One Future: The Promise of a Computer for... | Edutopia</a></li>
-<li><a href="https://thejournal.com/Articles/2000/05/01/OnetoOne-Computing-Tools-for-Life.aspx">One - to - One Computing Tools for Life -- THE Journal</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#education`, `#technology in schools`, `#chromebooks`, `#screen time`, `#paper-based learning`
+**Tags**: `#Samsung`, `#DRAM`, `#semiconductor`, `#cost reduction`, `#Chinese chips`
 
 ---

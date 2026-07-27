@@ -6,207 +6,197 @@ lang: zh
 report: ai
 ---
 
-> 从 262 条内容中筛选出 10 条重要资讯。
+> 从 306 条内容中筛选出 10 条重要资讯。
 
 ---
 
-1. [折扣 LLM 令牌转售的地下市场内幕](#item-1) ⭐️ 8.0/10
-2. [开源 3D 打印便携式 MRI 机，成本低于 7 万美元](#item-2) ⭐️ 8.0/10
-3. [Meta 允许 AI 生成虚假医生广告](#item-3) ⭐️ 8.0/10
-4. [多家科技巨头支持开放权重 AI](#item-4) ⭐️ 8.0/10
-5. [中国 AI 模型因低成本与开放性在美国崛起](#item-5) ⭐️ 7.0/10
-6. [诺贝尔奖得主西蒙·约翰逊警告中国 AI 过度自动化风险](#item-6) ⭐️ 7.0/10
-7. [英伟达和微软敦促美国保护开放 AI 模型](#item-7) ⭐️ 7.0/10
-8. [科技巨头裁员 14 万，同时增加 AI 投资](#item-8) ⭐️ 7.0/10
-9. [以色列科技行业低迷导致 AI 裁员激增](#item-9) ⭐️ 7.0/10
-10. [三井不动产将在台积电熊本厂附近建设 AI 中心](#item-10) ⭐️ 7.0/10
+1. [AI 天气预报投入实际运行](#item-1) ⭐️ 9.0/10
+2. [美团发布 CatPaw AI 代理平台与 LongCat 2.0 模型](#item-2) ⭐️ 9.0/10
+3. [AI 聊天机器人处理心理健康危机引发担忧](#item-3) ⭐️ 8.0/10
+4. [Claude AI 共享链接被搜索引擎曝光](#item-4) ⭐️ 8.0/10
+5. [英伟达牵头 37 家公司成立开放源代码 AI 安全联盟](#item-5) ⭐️ 7.0/10
+6. [NIST 发布新的 AI 评估平台 - Nextgov/FCW](#item-6) ⭐️ 7.0/10
+7. [AI 能力远超商业价值实现](#item-7) ⭐️ 7.0/10
+8. [禁止开源人工智能损害创新与安全](#item-8) ⭐️ 7.0/10
+9. [AWS 引入超越 RAG 的任务感知知识压缩](#item-9) ⭐️ 7.0/10
+10. [LLM 是否受困于训练数据截止时间？](#item-10) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [折扣 LLM 令牌转售的地下市场内幕](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) ⭐️ 8.0/10
+## [AI 天气预报投入实际运行](https://news.google.com/rss/articles/CBMidEFVX3lxTE5BQ190T0E4emdaanN2TGlYWi1YM01qZU5LMGZkWDFTdkZVTkd4ckhWTThMbGx1UHdEQ2Zud0hqMDRHc2pDbVRYQXF5YlBaQnF5a2NoX1gxdjFHUnFwUmRoYlVUb2FZaU81RXRwdmRmbmVtVTUw?oc=5) ⭐️ 9.0/10
 
-Matt Lenhard 的调查揭露了一个黑市，转售者通过滥用免费试用、窃取凭证以及开源代理工具（如 one-api 和 new-api）来提供折扣的 LLM API 访问。 这个市场暴露了 LLM 提供商和合法用户的重大安全和经济风险，因为它助长了欺诈、绕过地理限制以及潜在的用于模型蒸馏的数据窃取。 这些代理主要基于开源项目 one-api 及其分支 new-api，两者都是合法的 API 网关，可以在多个 API 密钥之间进行负载均衡。买家包括寻求廉价令牌、避免地理限制或收集数据用于模型蒸馏的人。
+包括欧洲中期天气预报中心（ECMWF）和美国国家海洋和大气管理局（NOAA）在内的主要气象中心，已将 AI 天气模型从研究阶段转入日常业务运行，标志着 AI 在气象学领域的重要里程碑。 这一转变代表了天气预报模式的革新，能够实现更快、更准确的预测，同时降低计算成本，可能有利于农业、防灾和可再生能源等领域。 ECMWF 现已将其人工智能预报系统（AIFS）与传统物理模型并行投入业务运行，而 NOAA 于 2025 年 12 月部署了一套新的 AI 驱动全球天气模型，声称在预报速度和准确性上有所提升。
 
-rss · Simon Willison · 7月26日 19:30
+google\_news · Communications of the ACM · 7月27日 19:41
 
-**背景**: LLM API 令牌是允许开发者使用大型语言模型（如 GPT-4）的凭证。官方定价可能很昂贵，尤其是对于大量使用。One-api 和 new-api 是开源 API 代理工具，旨在管理和分发跨多个密钥的 API 调用，在这种情况下被滥用来聚合折扣或欺诈性令牌。
+**背景**: 传统天气预报依赖于求解复杂物理方程的数值天气预报（NWP）模型，计算成本高且速度慢。相比之下，AI 模型通过海量历史数据进行学习，能在数秒或数分钟内生成预报，通常在准确性上与 NWP 相当甚至更优，尤其是在极端天气方面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://simonwillison.net/2026/Jul/26/relay-market/">An Inside Look at the Relay Market Powering Token Resellers and...</a></li>
-<li><a href="https://github.com/songquanpeng/one-api/blob/main/README.en.md">one-api/README.en.md at main · songquanpeng/one-api</a></li>
+<li><a href="https://cacm.acm.org/news/ai-weather-forecasting-goes-operational/">AI Weather Forecasting Goes Operational – Communications of ...</a></li>
+<li><a href="https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models">NOAA deploys new generation of AI-driven global weather models | National Oceanic and Atmospheric Administration</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#API fraud`, `#token reselling`, `#cybersecurity`, `#AI market`
+**标签**: `#AI`, `#weather forecasting`, `#operational AI`, `#machine learning`, `#meteorology`
 
 ---
 
 <a id="item-2"></a>
-## [开源 3D 打印便携式 MRI 机，成本低于 7 万美元](https://news.google.com/rss/articles/CBMi4AJBVV95cUxPVFVmeFlqU1MxUWR0QUtZVDdhUGc3V3Mtc0tmZk0yN2RVbEk3RkYzVVUxaU9WX2N6XzhTLVhSa2E0cFBVOTlrMTBsbWNfQmFXSE9mYWstUnFBVy1wdThid3FHWmxLbC0yQnZLWktIWDRlUEJURHF4bmw1RHNCbGtTNGhmWlNNUDNkdGNLN2o5dlRiMnVjZ0JDY3Rma05GUzhHcWtBTV9IU3I3QlJmUnIzeTBEZUplZ1RhbC1uMG12ajY4aU96Z2FmWjRhT2JSWngzQUpGNENieVFuMFBubjBuM3dHMWwyWlY0cEtCUkFfanVqS1FXRURXOUxpN3lpMFNreTJBNXJnRnYwSVE5QUxyN2RrbjMzbmRPVGZKVko1ZEFzUjFBMk94eFFKNUFkb2JaTnhhcjZYZTdkcXdkWk95cEZCM0FaZ1Fnc01GcHlyeVhVSGYxaUZZNnI4enlaZTB2?oc=5) ⭐️ 8.0/10
+## [美团发布 CatPaw AI 代理平台与 LongCat 2.0 模型](https://www.aibase.com/news/29913) ⭐️ 9.0/10
 
-一支团队利用开源设计和 3D 打印技术，开发出一台便携式 MRI 机，成本不到 7 万美元，仅为传统全尺寸 MRI 机起步价 110 万美元的 7%。 这一突破可能通过大幅降低成本并支持本地制造，使 MRI 成像在资源匮乏和偏远地区普及。它同时也展示了开源硬件颠覆昂贵医疗设备市场的潜力。 该设备采用低场 MRI 技术，通常工作在 0.1–0.25 特斯拉，降低了磁体复杂性和成本，同时仍能生成临床可用图像。开源设计允许任何拥有 3D 打印机和基本电子技能的人复制该系统，促进了本地维修和定制。
+7 月 27 日，美团正式发布全场景 AI 代理平台 CatPaw，该平台由开源大模型 LongCat 2.0 驱动，模型拥有 1.6 万亿参数和原生 100 万 token 的上下文窗口。 此次发布标志着国内 AI 发展的重大里程碑，LongCat 2.0 是规模最大的完全使用国产计算卡训练的开源中文模型之一，彰显了中国在 AI 基础设施方面日益增强的自给能力。 该模型采用混合专家（MoE）架构，总参数 1.6 万亿，每个 token 激活约 480 亿参数，训练使用了 5 万张国产 AI 计算卡集群。
 
-google\_news · Tom&\#x27;s Hardware · 7月26日 14:36
+aibase · AIbase · 7月27日 17:13
 
-**背景**: 传统 MRI 机价格在 100 万至 300 万美元之间，且需要专门的屏蔽和冷却设施，因此只能用于资金充足的医院。低场 MRI 使用较弱的磁体，降低了成本和尺寸，而近年来图像重建技术（如深度学习）的进步，改善了低场条件下的图像质量。开源医疗设备设计遵循节俭工程原则，提供免费的技术规格，以实现低成本本地制造。
+**背景**: 大语言模型训练需要巨大的计算资源，由于出口限制，中国一直在积极开发高端 GPU（如 NVIDIA A100）的国产替代方案。LongCat 2.0 证明了使用国产硬件也能训练出具有竞争力的万亿参数模型，这对中国的 AI 自主化具有重要意义。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Low-field_magnetic_resonance_imaging">Low-field magnetic resonance imaging - Wikipedia</a></li>
-<li><a href="https://www.hopkinsmedicine.org/news/articles/2024/11/low-field-mri-could-democratize-access-to-medical-imaging">Low-Field MRI Could Democratize Access to Medical Imaging | Johns Hopkins Medicine</a></li>
-<li><a href="https://www.nature.com/articles/s44222-024-00162-9">Open-source design of medical devices | Nature Reviews Bioengineering</a></li>
+<li><a href="https://longcat.chat/blog/longcat-2.0/">Introducing LongCat - 2 . 0</a></li>
+<li><a href="https://huggingface.co/meituan-longcat/LongCat-2.0-FP8">meituan- longcat / LongCat - 2 . 0 -FP8 · Hugging Face</a></li>
+<li><a href="https://solaratimes.medium.com/chinas-first-trillion-scale-ai-model-trained-on-domestic-chips-marks-a-turning-point-in-the-global-2d231596e2cd">China ’s First Trillion-Scale AI Model Trained on Domestic ... | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open-source`, `#3D-printing`, `#medical-devices`, `#healthcare`, `#DIY-hardware`
+**标签**: `#AI Agents`, `#Large Language Models`, `#Open Source`, `#Meituan`, `#Trillion Parameter Model`
 
 ---
 
 <a id="item-3"></a>
-## [Meta 允许 AI 生成虚假医生广告](https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVFJKdTZGSWhqU3hHVGl2UjZUNTVCTWxJTVFoU1RRMkNHOS1kV3NUX2xHc1FJSEIyX2JFcjN2U0NnSFo5ZlV0ZERwNVlnaFoyY19TdjEyS0hZX0loY3g4V0g0dnpaM0hhN0p0NkhhbjZGQ2EtQi1hamtrVTI?oc=5) ⭐️ 8.0/10
+## [AI 聊天机器人处理心理健康危机引发担忧](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNxSWxHZmxfM1dmLTE0eV9NMGd6TUxxbEw2Tm1lUkhXbFlxbFNwTTFXSUVEUlNxSk1qVmJvdFdUamp2MDVBWWFKNnpLNFRwa3lna0VrOEtka1VkRVhPR2RRLTBoUk54djBpSUU3b0t4UTQ4RjlvLXNXdzJLNHR6S2NodTF2NWRNRnBLRWtET2E1RElSOUFMU0hPR19wLWl4SFN2c19qRQ?oc=5) ⭐️ 8.0/10
 
-Futurism 的一项调查显示，Meta 允许 AI 生成的虚假医生资料在其平台上推销未经证实的医疗疗法。 这通过欺骗性的 AI 生成角色推销假药，构成严重的公共健康风险，并引发对平台内容审核和 AI 滥用的伦理担忧。 这些虚假资料使用 AI 生成的面孔和资质来显得正规，广告针对寻求医疗建议的弱势用户。
+NPR 发表了一篇调查文章，审视了 AI 聊天机器人在处理心理健康危机时的风险，强调了失败案例和伦理困境。 这之所以重要，是因为 AI 聊天机器人越来越多地被部署在医疗场景中，但心理健康危机需要微妙的判断和共情能力，而当前的 AI 缺乏这些能力，可能危及弱势用户。 文章列举了具体案例，例如聊天机器人未能识别自杀倾向或给出了不恰当的建议，突显了 AI 能力与危机干预需求之间的差距。
 
-google\_news · Futurism · 7月26日 17:01
+google\_news · NPR · 7月27日 21:05
 
-**背景**: 深度伪造是利用 AI 生成的合成媒体，通常借助生成对抗网络（GAN）制作逼真的图像或视频。此类技术可能被滥用来冒充医生等专业人士，正如本案例所示。
+**背景**: 类似于 ChatGPT 的 AI 聊天机器人和专门的心理健康机器人正被用作低成本的心理健康支持工具。然而，它们并未针对危机情况进行训练，也缺乏实时的人工监督，引发了责任和安全性方面的质疑。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Deepfake_detection">Deepfake detection</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI ethics`, `#misinformation`, `#social media`, `#healthcare`, `#platform moderation`
+**标签**: `#AI`, `#mental health`, `#ethics`, `#chatbots`
 
 ---
 
 <a id="item-4"></a>
-## [多家科技巨头支持开放权重 AI](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5) ⭐️ 8.0/10
+## [Claude AI 共享链接被搜索引擎曝光](https://www.aibase.com/news/29917) ⭐️ 8.0/10
 
-Meta、微软、英伟达、IBM 等多家科技巨头公开支持开放权重 AI 模型，标志着行业集体推动更易获取的 AI。 这些领先公司的支持可能加速开放权重模型的采用，减少对专有系统的依赖，并在各行业促进创新。 开放权重 AI 意味着模型的权重公开共享，但与完全开源 AI 不同，训练数据和代码可能不包含在内。这种方法平衡了透明度和实用性。
+Anthropic 的 Claude AI 的共享对话链接因缺少 noindex 元标签而被 Google 和 Bing 收录，导致私人聊天和公司秘密泄露。 这一安全疏忽削弱了用户对 AI 平台的信任，并凸显了在共享内容上实施适当访问控制以防止意外数据泄露的迫切必要性。 此次泄露并非因后端被入侵，而是爬虫漏洞所致：共享链接可公开访问且缺少 noindex 指令，使搜索引擎爬虫能够将其收录。
 
-google\_news · AI News · 7月26日 07:27
+aibase · AIbase · 7月27日 18:13
 
-**背景**: 在 AI 中，“权重”是模型在训练过程中学习的数值参数，决定其如何处理输入。开放权重模型使这些权重公开可用，允许他人使用和微调模型。然而，它并非完全开源，因为训练数据、代码和方法可能仍属专有。理解这一区别对于把握行业支持的影响至关重要。
+**背景**: Claude AI 允许用户与他人共享对话链接。通常，共享链接应通过 noindex 元标签阻止搜索引擎收录。Anthropic 未能添加此标签，导致搜索引擎爬取了这些页面并将其索引，从而使其可被搜索到并暴露敏感信息。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/open-weight-ai-what-we-finally-opened-bonnet-nicolas-pistorio-n3ulf">Open - weight AI : what if we finally opened the bonnet ?</a></li>
-<li><a href="https://tech.yahoo.com/articles/openai-just-teased-open-weights-224557547.html">OpenAI Just Teased a New &#x27; Open - Weights &#x27; AI Model: Here&#x27;s What...</a></li>
+<li><a href="https://w3speedup.com/tools/meta-robots-tag-checker/">Meta Robots Tag Checker - Check Bulk Noindex and Nofollow Tags</a></li>
+<li><a href="https://sitechecker.pro/noindex-checker/">Noindex Checker Test | Optimize Your Site’s Indexation</a></li>
+<li><a href="https://owasp.org/www-project-automated-threats-to-web-applications/assets/oats/EN/OAT-014_Vulnerability_Scanning">OAT-014 Vulnerability Scanning | OWASP Foundation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#open-source`, `#industry-news`, `#machine-learning`, `#big-tech`
+**标签**: `#security`, `#privacy`, `#AI`, `#Claude`, `#data leak`
 
 ---
 
 <a id="item-5"></a>
-## [中国 AI 模型因低成本与开放性在美国崛起](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG9xZXdnSm5sYXJDbHMxZDZ1SWJVWTdMLVNmVDNnbW96VHhvaUd6TGl4T1lFSGk3WUFlMGhlNmxIdG5PRUQ4SVVqQTBRYkRNRUJzSFhCUnVxU3NXczlvbHB0SGJ2V2h0emJiOFdnb2hHb0pLQXlSaWlFUzFrQzBPa1hFeW9IZUdrQWhfYUxHS19nOFh3aVhNUlhPdG95eG1iNzAxWUVyZWY5bmRtT3UwZjBMT1ZNM0xWS0picUM0Q2ZBSHl0dWk1SXFsM21xWVVhREE?oc=5) ⭐️ 7.0/10
+## [英伟达牵头 37 家公司成立开放源代码 AI 安全联盟](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJtUHJlRFExbEh0M25QSXI3ZGwzNXYtSEJUT1MwclVrTDZDWTNlalhfQkQxeC1Yd2E5MlpDS2J5WEdUMzAzM3BvT3BmZzFJV1BDb1lTT01BQU02Qk8tMjNfYm04UDZpS0RYRlpUeGFMZ1FISHk1a0JEWEI1ZE85N3plMVM4RHAyWjVFbUEyVnN4NzVmcjBOWEhrb29iUXhOeDhBVzFTWWl0ckIzdV80?oc=5) ⭐️ 7.0/10
 
-中国 AI 模型（如 DeepSeek 的开放权重系列）正越来越被美国市场采纳，提供比美国开发的模型更廉价和开放的替代方案。 这标志着全球 AI 格局的转变，挑战了美国的主导地位并促进了开源创新。它影响了先进 AI 的竞争、定价和可及性。 DeepSeek 的模型是开放权重的，但训练数据未开放许可。DeepSeek-V4 Flash 具有 284B 参数的 MoE 架构和 100 万 token 的上下文窗口。
+英伟达联合包括微软和 SpaceX 在内的 37 家软硬件公司，成立了开放安全 AI 联盟（Open Secure AI Alliance），旨在开发 AI 领域的开源安全与网络安全工具。 该联盟标志着行业向协作式开源 AI 发展迈出重要一步，有望在兼顾安全问题的同时加速创新，并可能影响监管标准，促进 AI 安全工具的普及。 该联盟由英伟达牵头，共 37 家公司组成，专注于开源 AI 安全与网络安全工具的开发，通过强调安全性与其他开源 AI 联盟形成区别。
 
-google\_news · Los Angeles Times · 7月26日 15:14
+google\_news · Nextgov/FCW · 7月27日 18:22
 
-**背景**: DeepSeek 是一家中国 AI 公司，于 2023 年 11 月发布了首个模型。其开放权重模型允许全球开发者使用和微调，促进了快速采纳。美国市场传统上由美国 AI 实验室主导，但更便宜且具有竞争力的中国模型正在改变这一局面。
+**背景**: 围绕 AI 安全性的争论日益激烈，部分观点主张采用封闭模型以防止滥用。该联盟代表了主要科技公司的联合立场，认为借助适当的工具和社区监督，开源 AI 同样可以做到安全可靠。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
-<li><a href="https://build.nvidia.com/deepseek-ai">AI Models by DeepSeek AI | Try NVIDIA NIM APIs</a></li>
-<li><a href="https://openmodelmap.com/task/text-generation">Text Generation Models - OpenModelMap | OpenModelMap</a></li>
+<li><a href="https://www.nextgov.com/artificial-intelligence/2026/07/over-30-companies-form-open-source-ai-alliance/415028/?oref=ng-homepage-river">Over 30 companies form open-source AI alliance - Nextgov/FCW</a></li>
+<li><a href="https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html">Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety - The New York Times</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Chinese AI`, `#machine learning`, `#technology competition`
+**标签**: `#AI`, `#open-source`, `#industry alliance`, `#collaboration`
 
 ---
 
 <a id="item-6"></a>
-## [诺贝尔奖得主西蒙·约翰逊警告中国 AI 过度自动化风险](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTZKeVZrZ3VpOGd2V29ZdW94RGl0VTF1TlZadzdGckVTeEVhZW5qSkpFcGFoMjhEQXpubXFjdUpCNHNOX2JTVnNtRmVTc1c3Zlc4YVpMcllCQmRGX1lTanBkNjJxbFUxTGNBdmpaNDlwZGZsZnNZVTFnd09jWV82TnN0Ylk4blJIQjg3b3JVQzlxejZ1cFV6UjZCa05SWDhaT3NXYnRiSDRia1FTMHAwN3JSV3pGclJCaFEwMVZPZDVXQks1N0d6Y0pn0gHKAUFVX3lxTE02R3JuYnVmcmdVcVdKZ0lqMnlDcGJRODUwbkRFazNkWGVtSkxiWFllNE9nVDRqU1pLY1FRWTYyMmFva0RGNzJVa1hlTXYzcF9kZThlZjV3MmlPNXo2ODNzZjk1WTBZM1B3TVdwNjB5azNQRHJYdXQ3eTdZUk1sRTJFbWJ5REF1cExPek1IRGxheEFabGVTRjZNYzJvRldwUHozSkFWR29aRC1lY2ZfMnNJclpaeUdMbG1ZdEFrVkg2ZDNNODBJNEl3elE?oc=5) ⭐️ 7.0/10
+## [NIST 发布新的 AI 评估平台 - Nextgov/FCW](https://news.google.com/rss/articles/CBMipgFBVV95cUxORk51UlB1TF8ySnVUdWszZ2FoT0Y2Wmk0TjROdlRkMC1tLW5GbXVGMENURERlWkxrcHR1Y0o0aFZwLXhPeVh1Vkh2cjUwWlV0cmlEUTRLMUNvQndhbnhMbUpEeFFFaWpjODhBZ0ZmYUk2RmNxc2VHT2NpXzJtRWJyNEd0LUtoNHJrOG95aUhCSmdLbmZTV1hZcG1JbE1kSWgyaVNUdkZ3?oc=5) ⭐️ 7.0/10
 
-在接受《南华早报》独家专访时，诺贝尔奖得主西蒙·约翰逊讨论了全球 AI 竞赛，并警告中国面临过度自动化的风险，即过度投资自动化可能导致失业和经济不平等。 这位知名经济学家的分析指出了中国积极推动 AI 可能带来的负面影响，这可能产生重大的社会和经济后果。它为关于平衡自动化与劳动力市场稳定的持续辩论增添了关键视角。 《权力与进步》合著者西蒙·约翰逊强调，过度自动化可能加剧不平等并削弱工人的议价能力。他建议中国应专注于补充而非替代人类劳动的 AI 应用。
+NIST 宣布了一个新的 AI 系统评估平台。
 
-google\_news · South China Morning Post · 7月26日 22:00
+google\_news · Nextgov/FCW · 7月27日 20:56
 
-**背景**: 西蒙·约翰逊是诺贝尔经济学奖得主，以经济增长和产业政策研究著称。
-
-“过度自动化”指的是自动化技术的部署速度导致其摧毁的就业岗位多于创造的就业岗位，从而引发结构性失业。中国作为工业战略的一部分，大力投资 AI 和自动化，这引发了关于就业替代的担忧。
-
-**标签**: `#AI`, `#automation`, `#economics`, `#China`, `#Nobel laureate`
+**标签**: `#NIST`, `#AI evaluation`, `#standards`, `#government`
 
 ---
 
 <a id="item-7"></a>
-## [英伟达和微软敦促美国保护开放 AI 模型](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrN0E0NHI5bk4xb1ZLTHUxcGdDVjA3bXJuZ2VPRGFDU3hxQkpadmhxbTdGc1BEaUhyTFRNeXEtQUJvTmtGUjdHcFR3YkFqNExZTlRyZFJ3cHdLZENoNkN5blpkbUNkOElX?oc=5) ⭐️ 7.0/10
+## [AI 能力远超商业价值实现](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUE1Xd1Rfc3JRR205d25CSmhveEJhZHhmWnBWc2d4bU12UkJCRlNuVHR6eHRFb0N1a09iT1UtT1BKNkJ5NFFJTEl6Zm9oQzF1RHZUMDlxMlJmZXhaVWhPVFdvNXJtYzZzM0ZSQzZmMWx5cHpQWDZhd3ZqektlZ1YtSUJkRC0xZw?oc=5) ⭐️ 7.0/10
 
-英伟达和微软正在游说美国政府，要求制定政策保护开放 AI 模型免受限制性法规的影响。 此举突显了在 AI 监管中如何不扼杀创新的重大政策辩论，并可能影响未来美国的 AI 法规，进而波及全球开发者和企业。 这些公司主张采取平衡的方法，在维护开放模型优势的同时应对潜在的滥用风险。
+美国企业研究所发布分析，指出 AI 能力的发展速度远超企业实现实际价值的速度，技术进展与经济回报之间的差距正在扩大。 这一差距表明许多组织可能在 AI 上过度投资而缺乏明确回报，可能导致 AI 泡沫或失望。它强调了 AI 部署与商业战略更好对齐的必要性。 AEI 文章可能指出，虽然 AI 模型快速改进，但融入业务流程、变革管理和价值衡量却滞后，造成了“实现差距”。摘要中未提供具体数据或案例。
 
-google\_news · calcalistech.com · 7月26日 18:03
+google\_news · American Enterprise Institute - AEI · 7月27日 22:10
 
-**背景**: 开放 AI 模型是指权重和代码公开可访问的 AI 系统，允许自由使用、修改和分发。大型科技公司认为，过于严格的监管可能阻碍创新，并让封闭的专有模型占据优势。辩论的核心在于如何在管理强大 AI 的同时保持开放性。
+**背景**: AI 能力指 AI 系统的技术性能，如准确性、速度以及自然语言理解等能力。商业价值指可量化的经济利益，如成本节约、收入增长或效率提升。历史上，技术创新与广泛采用之间常存在滞后，如之前通用技术的情况。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openrouter.ai/models">Compare AI Models : Pricing, Context &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Open_ModelSphere">Open ModelSphere</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI regulation`, `#open source`, `#Nvidia`, `#Microsoft`, `#AI policy`
+**标签**: `#AI`, `#business strategy`, `#technology adoption`, `#value realization`
 
 ---
 
 <a id="item-8"></a>
-## [科技巨头裁员 14 万，同时增加 AI 投资](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbk5INXdaVl9jTWVsRnZoa1puR1UwTF9zNFZ6R0luOFBsd0ZGc2Y2RmRfSkVCUDYzTUVWOEtZNlgxZGFaWkJxcDN0ZUZrOEE0QTNsX1ZlcFB1a3piUmQxSWJuRnVqdFV3Mzk3V0N1b1pnc29BQ0U3M2ZUZ1MyQl9vUWlOYkVnMHpOV3VaYTJUaw?oc=5) ⭐️ 7.0/10
+## [禁止开源人工智能损害创新与安全](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0NabjBlZHFsRFM0a1dPX2t0ZWh5OVUycnZGNUFORnByZkE1aHB0ckNSVnlsVXZJODEtckkxM0VCMVRreW1SNENpY3VOQkNXYUsyMkVjZUJhYVRpTjQxd2R5ZDY1Z0tKNGNqcEtqUEk3UGtQaFZYSUdTM25zcmJnWW1sSTJwYzV0SV8xenVhY09EdEFFZ3JmQw?oc=5) ⭐️ 7.0/10
 
-据最新报告，科技公司在大幅增加人工智能投资的同时，已裁减约 14 万个工作岗位。这标志着整个行业在劳动力和投资重点上的重大转变。 这一趋势表明资源正从传统岗位向 AI 驱动项目进行根本性重新分配，可能重塑科技就业格局。同时，它也引发了对岗位替代以及快速采用 AI 所带来的社会影响的担忧。 裁员波及多家科技巨头，工程、销售和支持岗位被裁撤，同时 AI 相关职位被新设。报告强调，公司正大力投资于 AI 基础设施、研究和部署，这往往以牺牲其他部门为代价。
+大西洋理事会发表评论文章，认为禁止开源人工智能适得其反，会扼杀创新并削弱安全。 这为关于监管人工智能模型的持续政策辩论提供了观点，强调了过于严格的措施对开源开发的风险。 文章可能讨论了开放性与安全性之间的权衡，警告禁令可能迫使开发转入地下或流向监管较弱的司法管辖区。
 
-google\_news · PYMNTS.com · 7月26日 23:10
+google\_news · Atlantic Council · 7月27日 16:39
 
-**背景**: 科技行业正经历由生成式 AI 和大语言模型进步驱动的转型。谷歌、微软和 Meta 等公司竞相将 AI 集成到其产品中，导致对数据中心、芯片和 AI 人才的资本支出激增。与此同时，成本削减措施导致非 AI 领域的裁员。
+**背景**: 开源人工智能指公开可用的模型代码和权重，允许任何人使用、修改和分发。政策制定者一直在辩论是否应限制强大模型的开源发布，以防潜在滥用。大西洋理事会是一个专注于国际事务和政策的智库。
 
-**标签**: `#AI`, `#job market`, `#tech industry`, `#layoffs`, `#spending`
+**标签**: `#open source`, `#AI`, `#policy`, `#regulation`
 
 ---
 
 <a id="item-9"></a>
-## [以色列科技行业低迷导致 AI 裁员激增](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeDBuUWxkU3g1eWpoZmhlN1JqZ2dIMXhsQ3BoSkZLX2NZRERnTlljaHMwX1MyZnVONVpZNUd1X25wdkJBOXlER0drQXRBNlZzRjdlN05kUXYtcVhsakxlT3ZMOWVsLW5rYmtIVQ?oc=5) ⭐️ 7.0/10
+## [AWS 引入超越 RAG 的任务感知知识压缩](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDlwT08wNm5iOF9pbE1QTTVKUk1ERHF3enZVcDRDaXRYMmtQSlN5UzNOR01Oc0NHNnRFdTlBNjUzdTR2RXRqX0dSR3A2LUxOb1ZuOGQxdUZvMS0xUUFaUHkzSmdQZ3JadENwWGpzTkFRX3hLbW5jTzEzeFVoTXRHTHI4SjB0N3Q5eS05dmhla2VMd0I5di1fZHNRdDlMY3BvdjdDMzU5NVlRT3BXaEdlbUdvb1pRdw?oc=5) ⭐️ 7.0/10
 
-据《耶路撒冷邮报》报道，以色列的人工智能和软件公司正面临日益严重的裁员潮，这是更广泛的行业低迷的一部分。 这标志着以色列高科技行业（全球人工智能和软件创新的关键中心）显著收缩，可能影响全球科技人才流动和初创企业投资。 裁员波及多家 AI 公司，但未提供具体数字；文章强调软件行业正处于“血洗”之中，暗示大幅裁员。
+AWS 宣布了一种称为任务感知知识压缩的新方法，该方法超越了传统的检索增强生成（RAG），用于其云平台上的企业 AI 应用。 这项创新可以通过以任务特定的方式压缩外部知识，显著提高企业中知识密集型 AI 任务的效率和准确性，与标准 RAG 相比降低计算开销和延迟。 该方法受学生为开卷考试浓缩学习材料的启发，在零样本或少样本设置中压缩键值（KV）缓存，详细内容见最近的 arXiv 论文（2503.04973）。
 
-google\_news · The Jerusalem Post · 7月26日 11:21
+google\_news · Amazon Web Services \(AWS\) · 7月27日 16:11
 
-**背景**: 以色列科技行业（被称为“硅溪”）是经济的重要组成部分，拥有众多 AI 初创公司。2024-2025 年的全球科技放缓导致大规模裁员，以色列公司也无法幸免。文章可能指的是 AI21 Labs 等公司近期的裁员。
-
-**标签**: `#AI`, `#layoffs`, `#Israeli tech`, `#software sector`
-
----
-
-<a id="item-10"></a>
-## [三井不动产将在台积电熊本厂附近建设 AI 中心](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGtDbGpIcGJ0bi0zQlQyX2lFVzNKNEQtMTdEWFJwN2dZQURaQVU0b0lCLXkxMEZEX3NZUEl4Mmg0RWpkVmlqemszcjJlaDgwNVRuZHZrLWx0ZEFKaW5xblA0T3FSUVFHR2dpdFFUOEdfM2ZTeTNoaFU2bkxMYUxkU3RCa250ZEVNSm52NUdpdmFaVWg2TzhVWFZmcFpnM243elI1NkNwZjJIOG1pczdpQVpZcHVUSUJBMU91elFkTEZqUGpsanR1YXdhVExxUQ?oc=5) ⭐️ 7.0/10
-
-日本大型房地产开发商三井不动产宣布，计划在台积电位于熊本的半导体工厂旁建设一个物理 AI 中心。该中心旨在支持开发与物理世界交互的人工智能系统的公司，如机器人和自动驾驶汽车。 这一发展突显了将 AI 与半导体基础设施协同布局以加速创新的重要性。它使日本有望成为物理 AI 研究和制造的关键枢纽，可能吸引全球科技投资。 该中心将位于台积电熊本第一工厂附近，该工厂计划于 2024 年开始大规模芯片生产。三井不动产计划吸引从事具身 AI、机器人和自主系统领域的初创公司和成熟企业。
-
-google\_news · Nikkei Asia · 7月26日 19:44
-
-**背景**: 物理 AI 中心是一种专门设施，为开发和测试在现实世界中运行的 AI 系统（包括机器人和自主机器）提供基础设施。台积电在熊本的扩张是日本振兴半导体产业、确保先进制造能力的战略的一部分。AI 与芯片生产设施协同布局正成为全球趋势。
+**背景**: 检索增强生成（RAG）是一种通过外部知识源增强大型语言模型以提高事实准确性的技术。然而，标准 RAG 会检索所有相关信息，而不考虑具体任务，导致效率低下。任务感知知识压缩根据手头任务定制压缩知识，仅保留对推理最重要的信息。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://research.virginia.edu/initiatives/uva-research-hubs">UVA Research Hubs</a></li>
+<li><a href="https://arxiv.org/abs/2503.04973">[2503.04973] Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#infrastructure`, `#TSMC`, `#Japan`, `#semiconductor`
+**标签**: `#RAG`, `#AWS`, `#enterprise AI`, `#knowledge compression`
+
+---
+
+<a id="item-10"></a>
+## [LLM 是否受困于训练数据截止时间？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUlZFdEVkcDVnV25aNzkzSkJGOHJuX2JndXRGT3VGNkRfQTNjaW1UQV9XLTRySlUtMXY3TTFKYU1vUWpwV1BPWWt2SHVIUjk3eThJa2hpbVhYRktuVUpSLQ?oc=5) ⭐️ 7.0/10
+
+一篇由《ACM 通讯》发表的文章探讨了大语言模型的一个根本局限：它们依赖带有知识截止日期的静态训练数据，从而无法准确获取或推理实时事件。 这一局限影响了 LLM 在金融分析、新闻摘要和对话式 AI 等时间敏感应用中的可靠性。解决这一问题对于在需要最新信息的场景中部署 LLM 至关重要。 该文章可能讨论了如检索增强生成（RAG）和时间推理等技术，以缓解知识截止问题。RAG 允许模型查询外部数据库获取当前信息，而时间推理帮助模型理解事实的时间性和持久性。
+
+google\_news · Communications of the ACM · 7月27日 15:48
+
+**背景**: 大语言模型在截止于某个日期的庞大数据集上进行训练，这个日期被称为“知识截止时间”。训练完成后，除非重新训练或微调，模型无法学习新信息。这造成了“冻结大脑”问题，模型的知识会随时间过时。时间推理是人工智能研究的一个领域，旨在使系统能够表示和推理时间、事件和变化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://papers.cool/venue/wS7PxDjy6m@OpenReview">Dated Data: Tracing Knowledge Cutoffs in Large Language Models</a></li>
+<li><a href="https://blog.appxlab.io/2026/03/24/the-ai-that-never-stops-learning-how-rag-gives-language-models-a-living-memory/">The AI That Never Stops Learning: How RAG Gives Language ...</a></li>
+<li><a href="https://arxiv.org/abs/2502.00020">[2502.00020] Temporal Reasoning in AI systems - arXiv.org Temporal Reasoning in AI Systems Temporal Reasoning - Mem0 Introducing Temporal Reasoning in Mem0 Temporal Reasoning in AI: Mastering Time-Aware Memory … Temporal Intelligence: How AI Models Grasp Sequences ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#LLMs`, `#AI limitations`, `#temporal reasoning`, `#knowledge cutoff`
 
 ---

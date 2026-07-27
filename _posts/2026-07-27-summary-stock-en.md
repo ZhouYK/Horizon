@@ -6,395 +6,365 @@ lang: en
 report: stock
 ---
 
-> From 262 items, 20 important content pieces were selected
+> From 306 items, 20 important content pieces were selected
 
 ---
 
-1. [SHEIN Files for Hong Kong IPO with $41.8B Revenue](#item-1) ⭐️ 10.0/10
-2. [Carlyle and Bain Capital battle for wealth manager in $7bn deal](#item-2) ⭐️ 9.0/10
-3. [Former CSRC Vice Chairman Fang Xinghai Investigated](#item-3) ⭐️ 9.0/10
-4. [China Clarifies Tax Rules for Offshore Trusts](#item-4) ⭐️ 9.0/10
-5. [China fines Ctrip 51.79 billion yuan for monopoly abuse](#item-5) ⭐️ 9.0/10
-6. [Nvidia in talks to back OpenAI&\#x27;s $250B data center lease guarantee](#item-6) ⭐️ 9.0/10
-7. [NVIDIA buys 4.5% of Naver for $1B, stock surges 22%](#item-7) ⭐️ 9.0/10
-8. [BYD Seal 08 Unveiled: 5-Min Charge for 400 km Range](#item-8) ⭐️ 8.0/10
-9. [BYD Tang SUV gets 100k+ pre-orders before June 17 launch](#item-9) ⭐️ 8.0/10
-10. [BYD Launches 1500 kW Flash Charging Pile for Highways](#item-10) ⭐️ 8.0/10
-11. [BYD Second-Gen Blade Battery with Flash Charging Debuts in 10 New Models](#item-11) ⭐️ 8.0/10
-12. [BYD Halts Han L and Tang L Production After Poor Sales](#item-12) ⭐️ 8.0/10
-13. [Oil markets remain tense amid geopolitical risks](#item-13) ⭐️ 8.0/10
-14. [Oil prices drop as Iran-US strikes pause over Hormuz](#item-14) ⭐️ 8.0/10
-15. [Chile storm disrupts copper mines, threatens AI supply](#item-15) ⭐️ 8.0/10
-16. [Investors use crypto perpetuals to evade China AI stock curbs](#item-16) ⭐️ 8.0/10
-17. [Strong CPU Earnings and Major AI Deals Highlight Booming Demand](#item-17) ⭐️ 8.0/10
-18. [Over 100 billion yuan flows into dividend ETFs amid tech rout](#item-18) ⭐️ 8.0/10
-19. [HKEX New Rules Lower Barriers for Tech Listings](#item-19) ⭐️ 8.0/10
-20. [China&\#x27;s WAIC 2026 Showcases Record AI Deployment](#item-20) ⭐️ 7.0/10
+1. [Changxin Tech Soars 465% on STAR Market Debut](#item-1) ⭐️ 10.0/10
+2. [Tesla Plunges 14.52%, Will BYD Follow?](#item-2) ⭐️ 9.0/10
+3. [Oil price tumbles 6% as Iran and US pause strikes near Strait of Hormuz](#item-3) ⭐️ 9.0/10
+4. [DCC board backs £5.75bn private equity takeover by KKR, ECP](#item-4) ⭐️ 9.0/10
+5. [Indonesia central bank chief resigns amid rupiah pressure](#item-5) ⭐️ 9.0/10
+6. [Lee Jae-myung&\#x27;s first US visit yields $950B chip deal](#item-6) ⭐️ 9.0/10
+7. [Insider Trading Case Involving Futu, Tiger Options Narrows to Over 310 Accounts](#item-7) ⭐️ 9.0/10
+8. [Ctrip fined 5.179B yuan for monopoly; ChangXin lists; Japan robots lag China](#item-8) ⭐️ 9.0/10
+9. [Dongfang Securities to Buy Shanghai Securities for $251.2B](#item-9) ⭐️ 9.0/10
+10. [ST Hengxin and Controller Probed by CSRC for Disclosure Violations](#item-10) ⭐️ 9.0/10
+11. [MIIT Praises BYD&\#x27;s Major Blade Battery Breakthrough](#item-11) ⭐️ 8.0/10
+12. [Big Tech credit risks rise with AI spending surge](#item-12) ⭐️ 8.0/10
+13. [Ares Management in Talks to Acquire Leonard Green &amp; Partners](#item-13) ⭐️ 8.0/10
+14. [Shein reports loss and warns of trade tensions ahead of Hong Kong IPO](#item-14) ⭐️ 8.0/10
+15. [Hong Kong, Macau Recall Royal Friso Stage 1 Formula Over Lead Scare](#item-15) ⭐️ 8.0/10
+16. [Former CSRC Vice Chairman Fang Xinghai Investigated](#item-16) ⭐️ 8.0/10
+17. [Mindray Surges on VBP Signals and BCI Breakthrough](#item-17) ⭐️ 7.0/10
+18. [India Fines BYD 630 Million, Sparks Controversy](#item-18) ⭐️ 7.0/10
+19. [BYD Han Debuts at Chengdu Auto Show, D-Class Body, 1000km Range](#item-19) ⭐️ 7.0/10
+20. [BYD Tang Large SUV Debuts with Megawatt Flash Charging at 400k RMB](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [SHEIN Files for Hong Kong IPO with $41.8B Revenue](https://36kr.com/newsflashes/3912399333676422?f=rss) ⭐️ 10.0/10
+## [Changxin Tech Soars 465% on STAR Market Debut](https://finance.caixin.com/2026-07-27/102468485.html) ⭐️ 10.0/10
 
-SHEIN disclosed its post-hearing information pack to the Hong Kong Stock Exchange on July 26, 2026, reporting $41.8 billion in revenue and $2.06 billion net profit for 2025. This marks a major step toward a Hong Kong IPO, potentially the largest cross-border e-commerce listing in the city in 2026. This IPO is significant because SHEIN is one of the world&\#x27;s largest fast-fashion e-commerce platforms, and a Hong Kong listing would provide it with access to deep capital markets. The filing also reveals a slowing growth rate, which may signal market maturity or increasing competition. SHEIN reported a 14.2% compound annual growth rate \(CAGR\) from 2023 to 2025, with 2025 net profit of $2.06 billion. However, revenue growth slowed to 8% in 2025 and further to 1.1% in Q1 2026. As of end-2025, the platform served approximately 273 million active customers across ~160 markets.
+Changxin Technology \(688825.SH\) surged 465.82% on its first day of trading on the STAR Market, with a record turnover of 141.2 billion yuan, setting a new A-share single-day volume record. This extreme price movement and massive trading volume reflects intense speculative interest and could set a benchmark for future semiconductor IPOs in China, highlighting the market&\#x27;s appetite for domestic chipmakers. The stock opened at 49.50 yuan, dipped to 38.11 yuan, then hit a high of 55.03 yuan before closing at 49.00 yuan, forming a long-legged doji candle. Main funds saw a net inflow of 80.126 billion yuan, while small investors showed strong selling pressure.
 
-rss · 36氪 · Jul 26, 11:38
+rss · 财新网 · Jul 27, 13:29
 
-**Background**: SHEIN is a Chinese-founded fast-fashion e-commerce company known for its ultra-low prices and data-driven supply chain. It has faced regulatory scrutiny in various markets and previously attempted IPOs in the US and London before settling on Hong Kong. The &\#x27;post-hearing information pack&\#x27; \(聆讯后资料集\) is a key document filed after a hearing with the Hong Kong Stock Exchange, indicating the company has passed the listing hearing and is close to trading.
+**Background**: Changxin Technology is a leading domestic DRAM manufacturer. Its listing on the STAR Market is China&\#x27;s largest IPO since 2010, raising about 57.9 billion yuan, and it surpassed SMIC&\#x27;s 2020 record to become the biggest IPO on the STAR Market.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.hstong.com/news/detail/20072307565395011">港 股 IPO 流 程 解读 你看好的公司还有多久上市？ 港 美 股 资 讯 | 华盛通</a></li>
-<li><a href="https://cj.sina.com.cn/articles/view/7730756972/1ccc9fd6c0010172f2">【锋行链盟】 港 交所 IPO 聆 讯 环节中高频问题及关注重点</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#IPO`, `#e-commerce`, `#cross-border`, `#earnings`, `#market debut`
+**Tags**: `#IPO`, `#半导体`, `#A股`, `#资金流向`, `#市场情绪`
 
 ---
 
 <a id="item-2"></a>
-## [Carlyle and Bain Capital battle for wealth manager in $7bn deal](https://www.ft.com/content/083aa3f4-04c8-48d1-905f-11ccee299ca4?syn-25a6b1a6=1) ⭐️ 9.0/10
+## [Tesla Plunges 14.52%, Will BYD Follow?](https://news.google.com/rss/articles/CBMickFVX3lxTE5JWU5rNTQyUVl5TFgxTnd2WFlpZWxzYnpWZVBZdUctb0VlSTdBeG9hR2ExNFViNUx5M0JxNlhRYkVQYVo0LWlOT2s5R0NpeGxKSWJybjJXYm03SlduZ3daTHJCU0dtdWJic05PajM0TnRkdw?oc=5) ⭐️ 9.0/10
 
-Carlyle and Bain Capital are competing to acquire a wealth manager in a potential $7 billion deal, highlighting a major M&amp;A battle in the wealth management sector. This battle reflects the growing trend of private equity firms targeting independent wealth managers for their stable, recurring earnings. A $7 billion deal would significantly reshape the wealth management landscape. The deal is valued at around $7 billion, and both Carlyle and Bain Capital are major private equity players. The target is a wealth manager with strong recurring earnings, making it attractive for buyout.
+Tesla shares experienced a massive single-day drop of 14.52%, triggering widespread analysis of whether the decline will spill over to rival BYD. The article explores this through three dimensions and an FAQ format. This sharp selloff reflects deep investor concern about Tesla&\#x27;s fundamentals and could signal a broader downturn for the electric vehicle sector. The potential contagion to BYD, a major Chinese EV maker, matters for global EV investors and supply chain participants. The 14.52% plunge is one of Tesla&\#x27;s largest single-day drops and likely stems from disappointing earnings or delivery results. The analysis examines three dimensions: market sentiment correlation, valuation differences, and supply chain interdependence between Tesla and BYD.
 
-rss · FT Markets · Jul 26, 10:00
+google\_news · 手机新浪网 · Jul 27, 08:57
 
-**Background**: Private equity firms have been increasingly acquiring independent wealth management groups due to their predictable fee-based income streams. This trend has accelerated as interest rates rose and traditional buyout targets became more expensive. Wealth managers offer recurring revenue from assets under management, making them appealing for leveraged buyouts.
+**Background**: Tesla and BYD are two of the world&\#x27;s largest electric vehicle manufacturers, with Tesla dominating the premium segment and BYD leading in affordable EVs and batteries. A sharp move in Tesla&\#x27;s stock often influences sentiment across the EV sector due to its status as a bellwether. The article aims to help investors assess whether BYD&\#x27;s stock could face similar pressure.
 
-**Tags**: `#M&amp;A`, `#private equity`, `#wealth management`, `#deal`
+**Tags**: `#Tesla`, `#BYD`, `#EV sector`, `#stock drop`, `#market reaction`
 
 ---
 
 <a id="item-3"></a>
-## [Former CSRC Vice Chairman Fang Xinghai Investigated](https://china.caixin.com/2026-07-27/102468280.html) ⭐️ 9.0/10
+## [Oil price tumbles 6% as Iran and US pause strikes near Strait of Hormuz](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-Fang Xinghai, former vice chairman of the China Securities Regulatory Commission \(CSRC\), is under investigation for suspected serious violations of discipline and law, announced on July 24, 2026, two years after his retirement. This marks the fourth high-ranking CSRC official investigated in two years, signaling intensified anti-corruption efforts in China&\#x27;s securities regulation. Fang&\#x27;s downfall could impact market sentiment and signal potential policy shifts in capital markets. Fang Xinghai was known for his outspoken style and long tenure overseeing key departments such as international affairs and issuance. He is the latest in a series of CSRC officials including Wang Jianjun, Wang Huimin, and Yi Huiman who have been investigated.
+Brent crude oil fell by approximately 6% after Iran and the United States paused military strikes for two days, easing fears of supply disruptions through the critical Strait of Hormuz. This price drop reverses a recent spike above $100 per barrel driven by escalating violence, highlighting the Strait of Hormuz&\#x27;s role as a chokepoint for about 25% of global maritime oil trade. Any de-escalation has an immediate and significant impact on global energy markets. The pause followed 13 consecutive nights of US airstrikes on Iran, and a reported White House meeting where concerns were raised about depletion of Patriot missile defense inventories and the risk of further escalation.
 
-rss · 财新网 · Jul 26, 23:32
+rss · FT Markets · Jul 27, 17:24
 
-**Background**: The China Securities Regulatory Commission \(CSRC\) is the top securities regulator in China. The vice chairman is a senior position overseeing market supervision and policy. Fang&\#x27;s investigation is part of a broader anti-corruption campaign targeting financial regulators.
+**Background**: The Strait of Hormuz is a narrow sea passage connecting the Persian Gulf with the Gulf of Oman; approximately 20.3 million barrels of oil pass through daily, representing about 25% of global maritime oil shipments. Brent crude oil is a major global benchmark, originating from the North Sea and widely used for pricing crude from Europe, Africa, and the Middle East. The MIM-104 Patriot system is the US Army&\#x27;s primary air and missile defense system, designed to intercept aircraft and ballistic missiles.
 
-**Tags**: `#anti-corruption`, `#regulation`, `#CSRC`, `#China`, `#financial policy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance , Conflict and Closure... | Britannica</a></li>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
+<li><a href="https://tradingeconomics.com/commodity/brent-crude-oil">Brent crude oil - Price - Chart - Historical Data - News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macro`, `#oil`, `#geopolitics`, `#energy`
 
 ---
 
 <a id="item-4"></a>
-## [China Clarifies Tax Rules for Offshore Trusts](https://finance.caixin.com/2026-07-27/102468274.html) ⭐️ 9.0/10
+## [DCC board backs £5.75bn private equity takeover by KKR, ECP](https://www.ft.com/content/e7966a18-6144-4873-940d-3f4d6bfccc4c?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-China&\#x27;s Ministry of Finance and State Taxation Administration clarified that residents must declare and pay personal income tax on assets placed in offshore trusts and on trust income. Separately, Samsung and SK Hynix secured $950 billion long-term memory chip supply agreements with Nvidia and Broadcom. The tax clarification closes a loophole that allowed wealthy individuals to defer or avoid taxes by transferring assets offshore, potentially increasing tax compliance. The chip deals solidify South Korea&\#x27;s dominance in memory chips and secure critical supply chains for US tech giants. The trust tax rule applies to both the initial contribution and subsequent income; detailed reporting requirements are yet to be published. The chip agreements include a $750 billion contract between SK Hynix and Nvidia, and a $200 billion deal between Samsung and Broadcom.
+DCC&\#x27;s board has recommended a £5.75 billion takeover bid by private equity firms KKR and Energy Capital Partners, despite objections from some large shareholders. This significant M&amp;A transaction could reshape DCC&\#x27;s ownership and strategy, and the board&\#x27;s endorsement despite shareholder pushback highlights the power dynamics in large takeovers. The bid values DCC at approximately £5.75 billion \($7.3 billion\), and the board&\#x27;s recommendation has been made despite concerns from a number of large shareholders about the price and terms.
 
-rss · 财新网 · Jul 26, 22:45
+rss · FT Markets · Jul 27, 08:05
 
-**Background**: Offshore trusts are legal structures in low-tax jurisdictions used for asset protection and estate planning. They have grown popular among wealthy individuals but can be used to evade taxes. The new rule aims to prevent tax avoidance. Meanwhile, global demand for memory chips has surged due to AI computing, making long-term supply agreements critical.
+**Background**: DCC is a multinational sales, marketing, and support services group, and this takeover would take the company private. Private equity takeovers often involve significant debt financing and can lead to operational changes away from public market scrutiny.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://m.jiemian.com/article/13116239.html">投教· 信 托 | 离 岸 信 托 是什么？ 家族 信 托 为何风险频出？ | 界面新闻</a></li>
-<li><a href="https://m.21jingji.com/article/20260725/herald/d0d639ac431b0930da55dc361038aa2c.html">动议即查、假收购凉凉！ 两高重划 内 幕 交 易 红线，7月27日施行 - 21财经</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductor`, `#supply chain`, `#M&amp;A`, `#industry news`
+**Tags**: `#M&amp;A`, `#private equity`, `#DCC`, `#takeover`, `#shareholder activism`
 
 ---
 
 <a id="item-5"></a>
-## [China fines Ctrip 51.79 billion yuan for monopoly abuse](https://36kr.com/p/3913118530819457?f=rss) ⭐️ 9.0/10
+## [Indonesia central bank chief resigns amid rupiah pressure](https://www.ft.com/content/f9abab6b-964c-4dae-ba41-4c20fa71c2e0?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-China&\#x27;s State Administration for Market Regulation fined Ctrip \(Trip.com Group\) 5.179 billion yuan \($715 million\) for abusing its dominant market position. This is one of the largest antitrust penalties in China&\#x27;s tech sector, significantly impacting Ctrip&\#x27;s finances and signaling a stricter regulatory environment for dominant platforms. Ctrip issued a statement accepting the penalty and pledging to comply with all regulatory requirements. The fine was imposed on July 25, 2026.
+Indonesia&\#x27;s central bank governor Perry Warjiyo has resigned amid pressure from the weakening rupiah currency. The resignation of a central bank chief is a rare event that raises uncertainty about monetary policy direction in Indonesia and may affect investor confidence in emerging markets. Perry Warjiyo had been under intense scrutiny as the rupiah weakened against the US dollar, leading to his departure.
 
-rss · 36氪 · Jul 26, 23:50
+rss · FT Markets · Jul 27, 04:09
 
-**Background**: Ctrip is China&\#x27;s largest online travel agency, holding a dominant share in hotel booking and flight ticketing. Under China&\#x27;s Anti-Monopoly Law, abusing market dominance—such as forcing exclusive deals or imposing unfair trading conditions—can result in fines of up to 10% of annual revenue. This case follows a broader antitrust crackdown on tech giants since 2021.
+**Background**: Central bank governors typically serve fixed terms to ensure policy independence. Resignations often signal political pressure or deep economic challenges. The Indonesian rupiah has been under pressure due to global monetary tightening and domestic factors.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.unitree.com/g1/">Humanoid robot G 1 _ Humanoid Robot ... | Unitree Robotics</a></li>
-<li><a href="https://www.scmp.com/business/china-business/article/3354223/why-chinese-dram-maker-cxmts-ipo-attracting-so-much-attention">Why is Chinese DRAM maker CXMT’s IPO attracting so much attention?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#regulation`, `#monopoly`, `#Ctrip`, `#antitrust`
+**Tags**: `#central bank`, `#currency`, `#Indonesia`, `#macro`, `#policy`
 
 ---
 
 <a id="item-6"></a>
-## [Nvidia in talks to back OpenAI&\#x27;s $250B data center lease guarantee](https://36kr.com/newsflashes/3913110255359105?f=rss) ⭐️ 9.0/10
+## [Lee Jae-myung&\#x27;s first US visit yields $950B chip deal](https://international.caixin.com/2026-07-27/102468508.html) ⭐️ 9.0/10
 
-Nvidia is reportedly negotiating to provide a $250 billion guarantee to help OpenAI lease computing capacity from SoftBank&\#x27;s planned 10-gigawatt data center hub in Ohio. This deal, if realized, would be one of the largest AI infrastructure financings ever, significantly impacting Nvidia&\#x27;s balance sheet and solidifying OpenAI&\#x27;s access to massive computing power. The guarantee would support a lease in SoftBank&\#x27;s $500 billion project, and the data center hub is planned to have 10 gigawatts of capacity, enough to power millions of homes.
+During his first official visit to the United States, South Korean President Lee Jae-myung oversaw the announcement of approximately $950 billion in cooperation projects between major South Korean semiconductor firms and American AI companies, including meetings with CEOs of Nvidia, OpenAI, and Anthropic. This massive investment solidifies South Korea&\#x27;s role as a critical supplier of AI hardware, particularly in high-bandwidth memory \(HBM\) and advanced packaging, which are essential for powering next-generation AI systems. The collaboration directly impacts key firms like Samsung and SK Hynix and strengthens the global AI supply chain. The $950 billion figure encompasses multiple cooperative projects between Korean semiconductor giants and U.S. AI firms, though specific allocations and timelines have not been disclosed. The agreements were announced alongside the &\#x27;San Francisco AI Declaration&\#x27; at the AI summit, with Lee Jae-myung emphasizing AI and advanced technology cooperation as a key pillar of economic diplomacy.
 
-rss · 36氪 · Jul 26, 23:41
+rss · 财新网 · Jul 27, 13:29
 
-**Background**: AI companies like OpenAI require enormous amounts of computing power to train and run large language models. Data center leases often require guarantees because of the massive capital investment involved; a guarantee reduces the landlord&\#x27;s risk and secures the tenant&\#x27;s access to power and space.
+**Background**: High Bandwidth Memory \(HBM\) is a 3D-stacked DRAM technology that provides extremely high memory bandwidth, critical for AI workloads where memory speed is the primary bottleneck. Advanced semiconductor packaging techniques, such as 3D packaging and system-in-package \(SiP\), allow multiple chips to be integrated into a single module, improving performance and efficiency. South Korea, home to Samsung and SK Hynix, is a dominant player in both HBM and advanced packaging, making it vital to the AI hardware ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.zerohedge.com/ai/openai-eyes-massive-10-gigawatt-ohio-data-center">OpenAI Eyes Massive 10 - Gigawatt Ohio Data Center</a></li>
-<li><a href="https://www.mariettatimes.com/wire/?category=5282&amp;ID=390618">Trump officials announce 10 - gigawatt data center ... - Marietta Times</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Advanced_packaging_%28semiconductors%29">Advanced packaging (semiconductors) - Wikipedia</a></li>
+<li><a href="https://intellaix.com/hbm-valuable-ai-hardware-component/">Why HBM Has Become The Most Valuable Component In AI Hardware</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#OpenAI`, `#data center`, `#AI infrastructure`, `#SoftBank`
+**Tags**: `#chip`, `#AI`, `#Korea`, `#US`, `#industry`
 
 ---
 
 <a id="item-7"></a>
-## [NVIDIA buys 4.5% of Naver for $1B, stock surges 22%](https://36kr.com/newsflashes/3913085284783496?f=rss) ⭐️ 9.0/10
+## [Insider Trading Case Involving Futu, Tiger Options Narrows to Over 310 Accounts](https://finance.caixin.com/2026-07-27/102468398.html) ⭐️ 9.0/10
 
-NVIDIA acquires a 4.5% stake in Naver for $1 billion as per a previously announced strategic investment agreement. Following the news, Naver&\#x27;s stock surged 22% in Korean pre-market trading. This investment signals NVIDIA&\#x27;s strategic interest in expanding its presence beyond hardware into AI services and cloud infrastructure, leveraging Naver&\#x27;s strong foothold in the Korean tech ecosystem. The stock surge reflects market optimism about the partnership&\#x27;s potential to drive value for both companies. The deal values Naver at approximately $22.2 billion based on the 4.5% stake purchase. The investment is part of a broader strategic partnership that may involve collaboration in AI and cloud technologies.
+Over 310 accounts have been implicated in an insider trading case involving stock options of Futu Holdings \(FUTU\) and Tiger Brokers \(TIGR\), with total illegal profits estimated at $137 million, of which 8 traders accounted for nearly 60% \($80+ million\). This case highlights the vulnerability of Chinese fintech stocks to insider trading ahead of regulatory actions, and the concentrated profits suggest a sophisticated group with access to non-public information, potentially leading to stricter enforcement and penalties. The lawsuit was filed by options market makers Susquehanna International and Citadel Securities in the U.S. District Court for the Southern District of New York against &\#x27;John Does 1 Through 100,&\#x27; a placeholder for unidentified defendants; the 8 key traders collectively earned over $80 million, representing 60% of the total illegal gains.
 
-rss · 36氪 · Jul 26, 23:36
+rss · 财新网 · Jul 27, 13:29
 
-**Background**: NVIDIA is a leading AI chipmaker, while Naver is South Korea&\#x27;s top internet company, operating the country&\#x27;s largest search engine and various online services. Strategic investments like this are common in the tech industry to foster innovation and market reach. The $1 billion investment represents a significant bet by NVIDIA on Naver&\#x27;s future growth.
+**Background**: In May 2026, Chinese regulators announced a crackdown on cross-border brokerages such as Futu and Tiger, causing their stock prices to plummet. Shortly before the announcement, unknown traders made highly profitable options bets, suggesting insider trading. Options are financial derivatives that give the holder the right to buy or sell a stock at a predetermined price, allowing for leveraged profits.
 
-**Tags**: `#M&amp;A`, `#investment`, `#tech`, `#Korea`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://finance.caixin.com/2026-07-27/102468398.html">独家｜富途老虎期权 内 幕 交 易 案锁定账户超310个_金融频道_财新网</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2012462670230603228">期权做市商 - 知乎专栏</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#insider trading`, `#regulation`, `#Chinese fintech`, `#options`, `#legal case`
 
 ---
 
 <a id="item-8"></a>
-## [BYD Seal 08 Unveiled: 5-Min Charge for 400 km Range](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUXVaMmh5eUZWQ01sekUxLTlkQ3hYZXdXd0U3SWVrZHhYdXdQb0xqel84YjVmVG1Id09mR214ODFEaG9oclFSQnllSlZlUy1WWjIxZm1ERkpyRXc?oc=5) ⭐️ 8.0/10
+## [Ctrip fined 5.179B yuan for monopoly; ChangXin lists; Japan robots lag China](https://36kr.com/p/3913118530819457?f=rss) ⭐️ 9.0/10
 
-BYD has unveiled the Seal 08, a new electric vehicle that claims to achieve a 5-minute charge for 400 km of range, representing a major breakthrough in EV charging speed. This technology could significantly reduce range anxiety and charging time, potentially disrupting competitors and accelerating EV adoption, while strengthening BYD&\#x27;s market leadership. The Seal 08 likely leverages BYD&\#x27;s advanced blade battery technology and an 800V architecture to achieve such fast charging, though specific details on battery capacity and charging infrastructure requirements have not been fully disclosed.
+China&\#x27;s market regulator fined Ctrip \(Trip.com Group\) 5.179 billion yuan \($717 million\) for abusing its dominant market position. Additionally, DRAM maker ChangXin Memory Technologies began trading on the Shanghai STAR Market on July 27, 2026, and Japanese engineers disassembled Unitree&\#x27;s G1 humanoid robot, concluding that Japan cannot catch up with China in humanoid robotics in the short term. The antitrust penalty against Ctrip is one of the largest in China&\#x27;s recent history, sending a strong deterrent signal to platform economy giants. ChangXin&\#x27;s listing boosts China&\#x27;s semiconductor self-sufficiency, while the Unitree robot teardown highlights China&\#x27;s growing lead in humanoid robotics. The total fine and confiscation against Ctrip amounts to 5.179 billion yuan. ChangXin Memory Technologies priced its IPO at 8.66 yuan per share, with analysts estimating first-day gains of 70%–600%. Unitree&\#x27;s G1 robot features 23–43 degrees of freedom, industrial-grade joints, and runs on the UnifoLM unified large model.
 
-google\_news · 汽车之家 · Jul 26, 13:57
+rss · 36氪 · Jul 26, 23:50
 
-**Background**: Most current EVs require 20-40 minutes to charge from 10% to 80% using DC fast charging. BYD&\#x27;s blade battery uses LFP chemistry for safety and longevity, while 800V architecture allows higher charging power, reducing charge times. The Seal 08&\#x27;s claim of 5-minute charge for 400 km pushes beyond current industry benchmarks.
+**Background**: China&\#x27;s Anti-Monopoly Law prohibits abusive conduct by dominant market players, such as unfair pricing or refusal to deal. ChangXin Memory Technologies is a leading Chinese DRAM chip designer and manufacturer. Unitree Robotics is a Chinese company specializing in legged robots, and its G1 humanoid robot is designed for agile movement and manipulation using imitation and reinforcement learning.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
-<li><a href="https://www.drive-electric.co.uk/guides/charging/know-your-ev-the-differences-between-400v-and-800v/">400V vs 800V EV Architecture Explained - DriveElectric</a></li>
+<li><a href="https://www.unitree.com/g1/">Humanoid robot G1_Humanoid Robot Functions ... - Unitree G1</a></li>
+<li><a href="https://www.mg21.com/changxin.html">中国最大DRAM芯片研发设计公司： 长 鑫 存储（ 长 鑫 科 技 ） ChangXin ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EV`, `#BYD`, `#technology`, `#product launch`, `#competition`
+**Tags**: `#regulatory`, `#antitrust`, `#travel`
 
 ---
 
 <a id="item-9"></a>
-## [BYD Tang SUV gets 100k+ pre-orders before June 17 launch](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90NDhqZzlETUZHLTBYZTR1bW1JVV9sLUdJNFM3c3F0S1NXTTRKdmwyV1pHZWo5QjQ4ZUhqVUNMOVZoYWlIQXNYX3o1RGs5bm1rUVJ3QWpNN0h5ZVVYQUE?oc=5) ⭐️ 8.0/10
+## [Dongfang Securities to Buy Shanghai Securities for $251.2B](https://36kr.com/newsflashes/3913869684381060?f=rss) ⭐️ 9.0/10
 
-BYD announced that pre-orders for its new Tang SUV have exceeded 100,000 units ahead of the official launch on June 17, 2025. This milestone signals strong market demand for BYD&\#x27;s flagship SUV, reinforcing the company&\#x27;s leading position in China&\#x27;s EV market and potentially boosting investor confidence. The pre-order figure of 100,000 units was reported by leading Chinese automotive media Autohome. The official launch event is scheduled for June 17, 2025.
+Dongfang Securities announced a proposal to acquire 100% of Shanghai Securities for 251.2 billion yuan, payable in A-share stock and cash. The consideration includes 235.5 billion yuan in shares and 15.7 billion yuan in cash. This is a landmark merger in China&\#x27;s securities sector, signaling consolidation among mid-tier brokers. The deal could reshape the competitive landscape and potentially influence stock prices of both companies. Dongfang Securities will issue approximately 2.289 billion new shares at 10.29 yuan per share, representing 21.22% of the post-issuance total shares. The transaction requires regulatory approvals.
 
-google\_news · 汽车之家 · Jul 26, 09:37
+rss · 36氪 · Jul 27, 12:34
 
-**Background**: The BYD Tang is a mid-to-large plug-in hybrid/electric SUV that has been a key model for BYD since its debut. Pre-orders are often used as a gauge of consumer interest and can predict initial sales performance.
+**Background**: Chinese securities firms have been under pressure to merge due to intense competition and regulatory push for larger, more resilient institutions. Dongfang and Shanghai both operate primarily in the domestic market, and this acquisition could create a larger entity with improved capital base and market share.
 
-**Tags**: `#BYD`, `#product launch`, `#EV`, `#pre-order`
+**Tags**: `#M&amp;A`, `#Chinese securities`, `#corporate action`, `#equity issuance`
 
 ---
 
 <a id="item-10"></a>
-## [BYD Launches 1500 kW Flash Charging Pile for Highways](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rcG5VWlZhRWRUT202WGNqUjFmYi1aY3FORDlrTlRncWszNWJOa0hqeGxjYVlzT2tNajFDQVBic0JkTFFJbVRQTGJVQXlSUUt6SkowMFRsY1FVS0U?oc=5) ⭐️ 8.0/10
+## [ST Hengxin and Controller Probed by CSRC for Disclosure Violations](https://36kr.com/newsflashes/3913863639799168?f=rss) ⭐️ 9.0/10
 
-BYD has unveiled a 1500 kW flash charging pile, capable of adding 400 km of range in just 5 minutes. This megawatt-level charger operates at 1000V and uses a single-gun output of 1500 kW, far exceeding current industry standards of 50-350 kW. This breakthrough could significantly reduce charging time during peak travel periods like the Spring Festival, alleviating highway charging congestion. It positions BYD as a leader in ultra-fast charging technology and accelerates EV adoption. The 1500 kW flash charger uses a zero-gravity cable design and integrates grid-safe energy storage. It is roughly 4-6 times faster than typical fast chargers, though it requires compatible vehicles and grid upgrades.
+ST Hengxin and its actual controller Meng Xianmin have received a case filing notice from the China Securities Regulatory Commission \(CSRC\) for suspected illegal information disclosure. The investigation is ongoing but the company claims normal operations. This marks a serious regulatory action against an already specially treated \(ST\) stock, increasing the risk of penalties and potential delisting. It underscores the CSRC&\#x27;s intensified crackdown on information disclosure violations in China&\#x27;s A-share market. The company and its controlling shareholder have been placed under investigation simultaneously, which is relatively rare and indicates grave concerns by regulators. The company stated that this matter will not have a major impact on production and operations.
 
-google\_news · 汽车之家 · Jul 26, 11:05
+rss · 36氪 · Jul 27, 12:27
 
-**Background**: Electric vehicle fast charging currently ranges from 50 kW to 350 kW, with even the fastest taking 20-30 minutes for a full charge. BYD&\#x27;s 1500 kW system represents a major leap, comparable to Zeekr&\#x27;s 800 kW V3 charger. Such high power requires robust grid infrastructure and thermal management.
+**Background**: In China&\#x27;s stock market, stocks prefixed with &\#x27;ST&\#x27; \(Special Treatment\) indicate that the listed company has experienced abnormal financial conditions or other irregularities, subjecting them to trading restrictions such as daily price limits. The China Securities Regulatory Commission \(CSRC\) is the primary regulator of securities markets and regularly investigates companies for violations of information disclosure rules, which can lead to fines, suspensions, or delisting.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bydcarchina.com/byd-megawatt-flash-charging-2-0-how-1500-kw-changes-the-ev-charging-game/">BYD 1500 kW Flash Charging 2.0: 5-Minute EV Charging</a></li>
-<li><a href="https://caradvisers.com/blogs/byd-brings-1500kw-flash-ev-charging-to-uk">BYD Brings 1500 kW Flash EV Charging to UK</a></li>
-<li><a href="https://www.tesevo.com/blogs/tesla-news/byd-s-1500kw-flash-charger-revolutionizing-electric-vehicle-charging-technology">BYD’s 1500 kW Flash Charger : Revolutionizing Electric Vehicle...</a></li>
+<li><a href="https://baike.baidu.com/en/item/Special+Treatment+Stock/1467811">Special Treatment Stock_Baiduwiki - 百度百科</a></li>
+<li><a href="https://en.wikipedia.org/wiki/China_Securities_Regulatory_Commission">China Securities Regulatory Commission - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EV`, `#technology`, `#BYD`, `#charging infrastructure`, `#innovation`
+**Tags**: `#regulatory`, `#investigation`, `#information disclosure`, `#ST stock`
 
 ---
 
 <a id="item-11"></a>
-## [BYD Second-Gen Blade Battery with Flash Charging Debuts in 10 New Models](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54OTRRTWZVOXh0Uko5d084UjJfZWRneHFjZ1JGU2hQY01hQnNjbXZiTjBhOGFTWTNMUUpWSlNhaENUa0JvaDJ2RTFlXzg3bVI3c2lGdUpSMTUxc1c0S1E?oc=5) ⭐️ 8.0/10
+## [MIIT Praises BYD&\#x27;s Major Blade Battery Breakthrough](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fYmJHaTBpOHVJT1d6TVgxZUNDZFotR3RBRFI5Skp6ekxZLVZHQUs0ckNETnVBVVBtRHMyWXFKSmU3SXVKYUdqbGx6TmxHVm5rVWxMek02NTY2LUk?oc=5) ⭐️ 8.0/10
 
-BYD announced its second-generation Blade Battery paired with Flash Charging technology, capable of charging from 10% to 70% in five minutes and from 10% to 97% in nine minutes, and it will first be used in 10 new vehicle models. This breakthrough significantly reduces charging time, addressing a major barrier to EV adoption, and strengthens BYD&\#x27;s competitive edge in the global EV market, potentially accelerating the transition to electric mobility. The new Blade Battery 2.0 uses a &\#x27;Lithium-Ion High-Speed Channel&\#x27; and a &\#x27;Full-Spectrum Intelligent Thermal Management System,&\#x27; supporting power inputs up to 1,500 kW. The system is based on LFP chemistry, known for safety and longevity.
+China&\#x27;s Ministry of Industry and Information Technology \(MIIT\) publicly praised BYD&\#x27;s major technological breakthrough, specifically its second-generation blade battery and flash charging technology. MIIT&\#x27;s endorsement is a strong official signal that could boost BYD&\#x27;s stock, credibility, and market position in the EV industry, while also encouraging further innovation in Chinese battery technology. The second-generation blade battery achieves a 10% to 70% charge in just 5 minutes at room temperature and supports fast charging even at -30°C, with energy density improved by over 5% compared to the first generation.
 
-google\_news · 汽车之家 · Jul 26, 01:16
+google\_news · 汽车之家 · Jul 27, 14:25
 
-**Background**: BYD&\#x27;s first-generation Blade Battery, introduced in 2020, was a lithium iron phosphate \(LFP\) battery that set new standards for safety and energy density. The second generation builds on this with faster charging and higher energy density, aiming to eliminate range anxiety by making charging as fast as refueling.
+**Background**: The blade battery is a structural innovation of lithium iron phosphate \(LFP\) cells, designed as long, thin blades to improve space utilization and safety. By adopting CTP \(cell-to-pack\) technology, it eliminates intermediate modules, increasing energy density while maintaining high thermal stability. MIIT&\#x27;s praise highlights the technology&\#x27;s significance for China&\#x27;s EV industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.byd.com/za/news-list/byd-unveils-2nd-generation-blade-battery-and-flash-charging-technologyw">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
-<li><a href="https://iestbattery.com/byd-blade-2-the-battery-changing-the-ev-landscape/">BYD Blade 2.0: The Battery Changing the EV Landscape in 2026</a></li>
-<li><a href="https://scuto.co.id/news/byd-flash-charging-5-minute-ev-power-up-is-here">BYD Flash Charging : 5-Minute EV Power-Up is Here | Scuto Indonesia</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/666521979">比亚迪刀片电池技术 - 知乎专栏 Images Top Stories 比亚迪第二代刀片电池技术解析 - 知乎 比亚迪 比亚迪 第二代刀片电池与固态技术：真实技术突破与行业影响202... 比亚迪第二代刀片电池 - 百度百科 比亚迪发布第二代刀片电池及闪充技术，引领新能源汽车迈入闪充时代 比亚迪刀片电池全面技术解析 - 今日头条</a></li>
+<li><a href="https://www.byd.com/cn/detail617">电动化上半场完美收官：比亚迪发布第二代刀片电池及闪充技术</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2024805575804855759">比亚迪第二代刀片电池技术解析 - 知乎</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#technology`, `#EV`, `#battery`, `#BYD`, `#innovation`
+**Tags**: `#BYD`, `#China`, `#EV`, `#government policy`, `#technology`
 
 ---
 
 <a id="item-12"></a>
-## [BYD Halts Han L and Tang L Production After Poor Sales](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1YU9ueGtMYUkyaGhucDlnUF8tRTk1WTZQSm5kTlQzZlgwMjdla3p4WUJNTUZNNXdOTlpTMjNhRl9RVzRGNHRHQzVKdU8yZnhNU2J3NXN6X2paSWs?oc=5) ⭐️ 8.0/10
+## [Big Tech credit risks rise with AI spending surge](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-BYD has stopped production of its Han L and Tang L flagship models after May 2025 sales fell below 700 units, and plans to redirect these vehicles to overseas markets. This discontinuation reflects a significant product failure for BYD&\#x27;s high-end strategy and will impact near-term revenue, though the pivot to overseas markets could mitigate losses. The Han L and Tang L are premium variants of BYD&\#x27;s popular Han and Tang models; their combined May sales were under 700 units, prompting the halt to cut losses.
+Investors are increasingly concerned about Big Tech companies&\#x27; rising debt levels due to massive borrowing to fund AI data centre investments. This heightened credit risk could impact Big Tech valuations and market sentiment, potentially leading to higher borrowing costs or reduced investor confidence across the sector. The article notes that the rush to borrow for AI infrastructure investments has sharply increased credit risks for Big Tech firms, though no specific companies or figures are cited.
 
-google\_news · 汽车之家 · Jul 26, 08:05
+rss · FT Markets · Jul 27, 20:55
 
-**Background**: BYD is China&\#x27;s largest electric vehicle maker and has been pushing into the premium segment with models like the Han L and Tang L. The Han L and Tang L were launched to compete with luxury EVs but failed to attract buyers, likely due to high pricing or market saturation.
+**Background**: Big Tech companies like Microsoft, Google, and Amazon have been investing heavily in AI data centres to support cloud services and AI model training. These investments often require substantial upfront capital, leading companies to issue debt. Credit risk refers to the likelihood that a borrower might default on its debt obligations, and rising debt levels can increase this risk.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Han_L">BYD Han L</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Tang_L">BYD Tang L</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#earnings`, `#product strategy`, `#EV`, `#BYD`
+**Tags**: `#big tech`, `#credit risk`, `#AI spending`, `#data centres`, `#macro`
 
 ---
 
 <a id="item-13"></a>
-## [Oil markets remain tense amid geopolitical risks](https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again) ⭐️ 8.0/10
+## [Ares Management in Talks to Acquire Leonard Green &amp; Partners](https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-According to a July 2026 Economist report, oil markets continue to face high volatility as geopolitical tensions and fragile energy supply chains keep traders on edge, despite a pause in active bombing. This matters because sustained oil price volatility can impact global inflation, economic growth, and energy security for both producers and consumers. Investors and policymakers must monitor risks of sudden supply disruptions. The report notes that while bombing has paused, underlying supply conditions remain precarious, suggesting that any new disruption could quickly escalate prices.
+Ares Management has held talks to acquire fellow Los Angeles-based private equity firm Leonard Green &amp; Partners, a move that would significantly increase Ares&\#x27; private equity assets under management. This potential acquisition would consolidate two major players in the private equity industry, potentially reshaping the competitive landscape and signaling a trend of consolidation in asset management. Both firms are based in Los Angeles, and the deal would dramatically expand Ares&\#x27; private equity business, though financial terms have not been disclosed.
 
-rss · The Economist Finance · Jul 26, 14:06
+rss · FT Markets · Jul 27, 17:23
 
-**Background**: Oil markets are highly sensitive to geopolitical events, especially in major producing regions. Supply disruptions, even temporary, can cause sharp price spikes. The current fragility stems from a combination of low spare capacity, sanctions, and conflicts.
+**Background**: Ares Management is a global alternative investment manager with a significant presence in credit, private equity, and real estate. Leonard Green &amp; Partners is a well-known private equity firm focusing on middle-market investments. A combination would create a larger entity with more scale and resources.
 
-**Tags**: `#macro`, `#energy`, `#geopolitics`, `#oil`
+**Tags**: `#M&amp;A`, `#private equity`, `#asset management`
 
 ---
 
 <a id="item-14"></a>
-## [Oil prices drop as Iran-US strikes pause over Hormuz](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Shein reports loss and warns of trade tensions ahead of Hong Kong IPO](https://www.ft.com/content/9ed6a6f4-c6a6-4027-9c54-19bffcd88913?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-Brent crude oil prices fell at the open after Iran and the United States paused military strikes, easing fears of supply disruptions in the Strait of Hormuz. The de-escalation reduces the geopolitical risk premium in oil markets, potentially lowering global energy costs and inflationary pressures, benefiting consumers and economies dependent on oil imports. Brent crude had previously risen above $100 per barrel following two weeks of escalating violence, and the pause in strikes marks a temporary respite in tensions over the strategic waterway.
+Fast-fashion retailer Shein reported a net loss for its most recent fiscal year and warned of risks from US and EU trade tensions as it prepares for a planned listing on the Hong Kong Stock Exchange. The loss and trade warnings could affect Shein&\#x27;s valuation and investor sentiment for its Hong Kong IPO, highlighting regulatory and geopolitical risks facing cross-border e-commerce companies. The company flagged specific risks from proposed US tariff increases and EU sustainability regulations on fast fashion, both of which could significantly impact its supply chain and cost structure.
 
-rss · FT Markets · Jul 26, 23:37
+rss · FT Markets · Jul 27, 05:26
 
-**Background**: The Strait of Hormuz is a narrow waterway between Iran and Oman through which about 20% of the world&\#x27;s oil passes. Tensions between Iran and the US often lead to concerns about supply disruptions, driving oil prices up as traders price in risk.
+**Background**: Shein is a Chinese-founded fast-fashion e-commerce giant known for its ultra-fast production and low-price clothing. It has faced increasing scrutiny in the US and EU over labor practices, sustainability, and trade compliance. A Hong Kong IPO would be one of the largest listings in the market.
 
-**Tags**: `#oil`, `#geopolitics`, `#macro`, `#energy`
+**Tags**: `#IPO`, `#retail`, `#trade tensions`, `#earnings`, `#listing`
 
 ---
 
 <a id="item-15"></a>
-## [Chile storm disrupts copper mines, threatens AI supply](https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Hong Kong, Macau Recall Royal Friso Stage 1 Formula Over Lead Scare](https://www.caixin.com/2026-07-27/102468541.html) ⭐️ 8.0/10
 
-A deadly storm in Chile, a major global copper producer, has disrupted operations at several copper mines, increasing concerns about supply shortages for AI and tech sectors that rely heavily on copper for infrastructure. This event highlights the vulnerability of critical mineral supply chains to extreme weather, which could hamper the expansion of AI infrastructure and drive up costs for tech companies worldwide. Chile is the world&\#x27;s largest copper producer, and many of its mines are located in high-altitude, declining regions that are increasingly exposed to weather volatility, making supply disruptions more frequent.
+Hong Kong and Macau authorities have ordered an urgent recall of a batch of Royal Friso Stage 1 infant formula due to suspected lead contamination. The brand owner, FrieslandCampina Hong Kong, disputes the findings, citing third-party lab tests that show no exceedance. This recall raises serious concerns about infant formula safety and could impact consumer trust in the Royal Friso brand. The dispute between authorities and the company adds uncertainty and may lead to broader scrutiny of testing standards. The specific batch number and lead levels have not been disclosed in the summary. The company claims its own third-party testing shows compliance, suggesting a potential discrepancy in testing methods or regulatory thresholds.
 
-rss · FT Markets · Jul 26, 09:46
+rss · 财新网 · Jul 27, 13:29
 
-**Background**: Copper is a critical material for electrical wiring, data centers, and renewable energy systems, all essential for building and powering AI infrastructure. Chile accounts for about 25% of global copper production, and extreme weather events like storms can quickly impact global supply and prices.
+**Background**: Lead contamination in infant formula is particularly dangerous because it can cause developmental and neurological harm in infants. Royal Friso is a premium formula brand widely used in Hong Kong and Macau. Product recalls in this category are rare but can severely damage brand reputation and consumer confidence.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1">Deadly storm in Chile disrupts copper mines and raises AI supply concerns</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chuquicamata">Chuquicamata - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/posts/zacdolesky_enjoyed-joining-double-take-to-discuss-the-activity-7440073512041689088-UbIw">Copper Demand Rises with AI Infrastructure Growth | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#commodities`, `#supply chain`, `#AI`, `#weather`, `#Chile`
+**Tags**: `#product recall`, `#consumer safety`, `#dairy`, `#Asia`
 
 ---
 
 <a id="item-16"></a>
-## [Investors use crypto perpetuals to evade China AI stock curbs](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Former CSRC Vice Chairman Fang Xinghai Investigated](https://finance.caixin.com/2026-07-24/102467861.html) ⭐️ 8.0/10
 
-Investors are using perpetual futures on cryptocurrency exchanges to gain leveraged exposure to Chinese AI stocks, bypassing China&\#x27;s capital controls that restrict foreign access to its equity markets. This highlights a growing interplay between crypto derivatives and traditional equity markets, allowing global investors to circumvent regulatory hurdles and potentially influencing AI stock valuations and capital flows. Perpetual futures are contracts with no expiry date, enabling traders to hold leveraged positions indefinitely while paying or receiving funding fees based on market conditions. These crypto-native instruments are traded on unregulated exchanges outside China&\#x27;s jurisdiction.
+On July 24, 2026, the Central Commission for Discipline Inspection announced that Fang Xinghai, former vice chairman of the China Securities Regulatory Commission, is under investigation for serious disciplinary and legal violations, exactly two years after his retirement. This marks the second high-ranking CSRC official to be investigated in recent years, following Wang Jianjun in 2025, shaking market confidence in regulatory stability and signaling intensified anti-corruption efforts in China&\#x27;s financial regulatory system. Fang Xinghai, known for his direct style, oversaw international and issuance departments during his tenure. He is the fourth senior CSRC official to be investigated in two years, including Wang Huimin, Wang Jianjun, and Yi Huiman.
 
-rss · FT Markets · Jul 26, 04:00
+rss · 财新网 · Jul 27, 13:16
 
-**Background**: China imposes strict capital controls that limit foreign direct investment in its stock markets, including AI-related companies. Perpetual futures, a type of crypto derivative, allow traders to speculate on the price of an asset without owning it, using leverage. By trading these on crypto exchanges, investors can indirectly bet on Chinese AI stocks without triggering Chinese regulatory restrictions.
+**Background**: The China Securities Regulatory Commission \(CSRC\) is the main securities regulator in China. In recent years, multiple former senior officials have been investigated as part of a broader anti-corruption drive targeting financial regulators. Fang Xinghai served as vice chairman from 2015 to 2024, overseeing international affairs and IPO reforms.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://grokipedia.com/page/Perpetual_futures_and_options_in_cryptocurrency_trading">Perpetual futures and options in cryptocurrency trading</a></li>
-<li><a href="https://ecos.am/en/blog/perpetual-futures-crypto-guide">Perpetual Futures Explained: What Crypto Perpetuals Are</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#regulation`, `#China`, `#AI`, `#crypto`, `#equity markets`
+**Tags**: `#监管`, `#反腐`, `#证监会`, `#政策`, `#风险`
 
 ---
 
 <a id="item-17"></a>
-## [Strong CPU Earnings and Major AI Deals Highlight Booming Demand](https://36kr.com/newsflashes/3913117191918981?f=rss) ⭐️ 8.0/10
+## [Mindray Surges on VBP Signals and BCI Breakthrough](https://news.google.com/rss/articles/CBMiYEFVX3lxTE44RkMzY180TjRuTXowS25DSUJnTnlQNDRTQzNBS3l4Vl9sM3g0VmJ6ekZWM1MzQy1fM0xEN0xpNTIxNXRlcGRYWW56c3JMX3VVekRySm5hTnpIVW9fdE9qXw?oc=5) ⭐️ 7.0/10
 
-CITIC Securities highlights that Intel&\#x27;s Q2 2026 revenue growth hit a 15-year high, driven by hyperscaler and enterprise demand, while AMD raised its long-term total addressable market \(TAM\) outlook. Additionally, SK Group and Nvidia signed a $500 billion partnership for next-generation AI memory solutions. This indicates sustained strong demand across the AI hardware chain, including CPUs, GPUs, memory, and networking, which could drive further investment and innovation. Investors and industry participants should watch for continued growth in hyperscaler capex and AI-related chip spending. Intel plans to increase capital expenditures to meet CPU demand from downstream compute investment, while AMD is accelerating mass production of new products. The SK-Nvidia deal includes long-term supply agreements and joint R&amp;D, enhancing upstream capacity certainty.
+Mindray Medical surged 1.30% and the Medical Device ETF \(159898\) rose 1.73% on January 10, 2026, marking its eighth consecutive day of net capital inflows. New volume-based procurement signals and a major brain-computer interface breakthrough are driving sector optimism. This indicates strong investor confidence in China&\#x27;s medical device sector, fueled by policy clarity on volume-based procurement and advancements in brain-computer interface technology that could open new growth areas. The ETF \(159898\) has seen net inflows for eight consecutive days as of July 24, 2025, with its share count growing 18.22% year-to-date. Jiuan Medical rose 2.92%, further boosting the sector.
 
-rss · 36氪 · Jul 26, 23:55
+google\_news · 东方财富 · Jul 27, 08:05
 
-**Background**: Hyperscalers are large cloud service providers like AWS, Google Cloud, and Microsoft Azure that operate massive data center infrastructures. Total Addressable Market \(TAM\) refers to the total revenue opportunity available for a product or service. The recent earnings and deal announcements reflect the booming demand for AI computing infrastructure, spanning from chips to memory and networking.
+**Background**: Volume-Based Procurement \(VBP\) is a Chinese government policy that aggregates purchasing volume to negotiate lower drug and device prices, initially applied to coronary stents in 2020. Recent signals suggest a more measured approach, easing investor fears of aggressive price cuts. Brain-computer interfaces \(BCIs\) connect the brain to external devices, promising to restore communication and mobility for paralyzed patients, with recent clinical advances accelerating commercialization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.redhat.com/en/topics/cloud-computing/what-is-a-hyperscaler">What is a hyperscaler ?</a></li>
-<li><a href="https://www.cherryservers.com/blog/hyperscaler-in-cloud-computing">What is a Hyperscaler in Cloud Computing ? | Cherry Servers</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2589238X2500083X">Application and future directions of brain-computer ...</a></li>
+<li><a href="https://www.nature.com/articles/s41565-025-02096-8">Brain–computer interfaces race to the clinic - Nature</a></li>
+<li><a href="https://assets.kpmg.com/content/dam/kpmgsites/cn/pdf/en/2021/05/how-to-cope-with-the-volume-based-procurement-policy-on-high-value-medical-device.pdf">How to cope with the Volume-based Procurement policy ... - KPMG</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#earnings`, `#AI`, `#semiconductors`, `#data center`, `#partnership`
+**Tags**: `#sector`, `#ETF`, `#fund flow`, `#regulation`, `#technology`
 
 ---
 
 <a id="item-18"></a>
-## [Over 100 billion yuan flows into dividend ETFs amid tech rout](https://36kr.com/newsflashes/3913116783416713?f=rss) ⭐️ 8.0/10
+## [India Fines BYD 630 Million, Sparks Controversy](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaUJPbnFpanpycFA5aXA4MHRmYkdKXzBLU0RVaThWakh3T2hXUVZRVzdaT0tlcWgzQ05LMmJITncyRk5rQUlrR1lIaUtfQU1aSTZpS2dpY2cydTA?oc=5) ⭐️ 7.0/10
 
-Multiple dividend ETFs in China saw net inflows exceeding 100 billion yuan in the past month as investors fled volatile technology stocks. This massive rotation signals a sharp decline in risk appetite and a flight to safety, which could further pressure tech valuations while boosting dividend-oriented strategies. The inflows were driven by the triple appeal of high dividends, low volatility, and low valuations, as global de-leveraging and AI sector turbulence rattled markets.
+India&\#x27;s tax authorities have imposed a fine of 630 million \(currency unspecified\) on Chinese electric vehicle manufacturer BYD, reportedly for alleged tax evasion or import duty violations. This fine could disrupt BYD&\#x27;s expansion plans in India, a key emerging market for electric vehicles, and signal increased regulatory hurdles for Chinese companies operating in India. The exact currency of the fine is not confirmed, but it is likely in Indian rupees or Chinese yuan. The news is based on an opinion piece and has not been officially verified by BYD or Indian authorities.
 
-rss · 36氪 · Jul 26, 23:48
+google\_news · 风闻 · Jul 27, 12:33
 
-**Background**: Dividend ETFs invest in stocks with consistent dividend payouts, offering a buffer during market downturns. The recent AI-related volatility, exemplified by the DeepSeek shock, has spooked investors, prompting a shift from growth to value.
+**Background**: India has recently increased scrutiny on Chinese companies amid political tensions, leading to several fines and investigations. BYD, a leading EV maker, has been expanding globally, including in India. The fine reportedly relates to alleged irregularities in import tax payments.
 
-**Tags**: `#market rotation`, `#ETF flows`, `#dividend stocks`, `#risk aversion`
+**Tags**: `#regulatory`, `#fine`, `#BYD`, `#India`, `#electric vehicles`
 
 ---
 
 <a id="item-19"></a>
-## [HKEX New Rules Lower Barriers for Tech Listings](https://36kr.com/newsflashes/3913064367904137?f=rss) ⭐️ 8.0/10
+## [BYD Han Debuts at Chengdu Auto Show, D-Class Body, 1000km Range](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lLUxpWk1IUmdsQUJGS29lY2t1RGVVQmEtQXpYVnZmdE5uWHhJWUxoX0JXcXdvZ3IzRm9YeURRZlBiWmNsUkc1LWVnbnBDWkhhZWZ2MWd6UDdGbHZkbUp0dGJVUmIxcEVyRFpsazR1U3B1SjQ1dTZyZzVrX1RNZw?oc=5) ⭐️ 7.0/10
 
-HKEX has published a consultation conclusion and immediately implemented revised listing rules that lower financial thresholds for weighted voting rights \(WVR\) structures, relax the limit on voting rights ratios, and allow confidential filings for all applicants. These changes aim to attract more technology companies and overseas-listed firms to list in Hong Kong, boosting IPO activity and enhancing the exchange&\#x27;s global competitiveness against markets like Nasdaq. Since the beginning of 2026, nearly 100 companies have listed in Hong Kong, with over 500 more under review. The new rules take effect immediately.
+BYD announced the debut of its new luxury sedan &\#x27;Han&\#x27; \(大汉\) at the Chengdu Auto Show on August 21, featuring a D-class body and a range of 1008 km for the pure electric version. This launch marks BYD&\#x27;s aggressive push into the high-end EV market, challenging traditional luxury brands and potentially boosting its market share and profit margins. The Han will be offered in both plug-in hybrid and pure electric powertrains, with the EV version achieving a CLTC range of 1008 km. It is positioned as a D-segment flagship sedan competing with models like the BMW 5 Series and Mercedes-Benz E-Class.
 
-rss · 36氪 · Jul 26, 23:00
+google\_news · 手机新浪网 · Jul 27, 09:57
 
-**Background**: Weighted voting rights \(WVR\) allow founders to retain control with a smaller equity stake, but HKEX previously imposed high financial thresholds for such structures. Confidential filing permits companies to submit listing applications privately, reducing market pressure. These regulatory adjustments are part of HKEX&\#x27;s ongoing effort to modernize its listing regime and attract a broader range of issuers.
+**Background**: Vehicle size classes categorize cars by length, width, and weight. D-segment \(or full-size\) cars are typically mid-to-large sedans with spacious interiors, often used for family or executive transport. BYD&\#x27;s Han series has been a best-seller in China, and the new &\#x27;大 Han&\#x27; aims to elevate the brand&\#x27;s luxury image with a larger body and extended range.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.gelonghui.com/live/2365673">Momenta 港 股 秘 密 递 表 预计年内 上 市 -格隆汇</a></li>
+<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD&#x27;s new Blade EV Battery 2.0 unlocks 1,000+ km pure electric range and 10 min fast charging</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Car_classification">Car classification - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#IPO`, `#Hong Kong`, `#tech`, `#regulation`
+**Tags**: `#BYD`, `#EV`, `#product launch`, `#luxury`, `#new model`
 
 ---
 
 <a id="item-20"></a>
-## [China&\#x27;s WAIC 2026 Showcases Record AI Deployment](https://weekly.caixin.com/2026-07-25/102467939.html) ⭐️ 7.0/10
+## [BYD Tang Large SUV Debuts with Megawatt Flash Charging at 400k RMB](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aU0hGZW1VbGtXc2pEdWxPck5TdVA3TkpOQ2RjU016MGlDQjhzelR2VUVXNVpTcTdDS3pOcklpT2FnSVhwMHBkcVlILVhTeERqNl8xVDVMMUVzeTQ?oc=5) ⭐️ 7.0/10
 
-The 2026 World AI Conference \(WAIC\) set new records with 1,117 exhibitors, 4,486 exhibits, and 351 global product launches, including Moonshot AI&\#x27;s open-source Kimi K3 model with 2.8 trillion parameters. This event signals China&\#x27;s accelerated AI integration across chips, models, and hardware, with record attendance and investment momentum, indicating the country&\#x27;s rapid progress in deploying AI at scale. The conference attracted 400,000 visitors and featured 140 forums with 1,400 global speakers; the Kimi K3 model is the first open model to reach 2.8 trillion parameters, continuing Moonshot AI&\#x27;s trend of pushing open-model scaling boundaries.
+BYD officially unveiled its flagship large SUV, the Tang L, featuring the new Megawatt Flash Charging technology. The vehicle is positioned at the 400,000 RMB price point and is part of BYD&\#x27;s Super e-Platform launch. This launch strengthens BYD&\#x27;s presence in the high-end large SUV market, potentially boosting its brand image and stock sentiment. The megawatt flash charging technology could set a new benchmark for ultra-fast charging in the electric vehicle industry. The megawatt flash charging system operates at 1000V architecture with 1000A current and 10C charging rate, enabling 400 km range in just 5 minutes. Tang L is one of the first models to receive this technology, alongside Han L.
 
-rss · 财新网 · Jul 26, 12:59
+google\_news · 汽车之家 · Jul 27, 12:28
 
-**Background**: WAIC is China&\#x27;s premier artificial intelligence conference, held annually since 2018. Large language models like Kimi K3 are AI systems trained on vast text data to generate human-like text. Embodied AI, a key theme at the conference, combines AI with robotics to enable interaction with physical environments.
+**Background**: BYD&\#x27;s Super e-Platform represents a significant leap in EV charging technology, aiming to reduce charging times to levels comparable with refueling. The platform includes a flash charging battery and megawatt-level charging stations. Megawatt flash charging uses a high-voltage architecture to deliver extremely high power, claiming 1 second charge for 2 km of range.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
-<li><a href="https://openrouter.ai/moonshotai/kimi-k3">Kimi K 3 - API Pricing &amp; Benchmarks | OpenRouter</a></li>
+<li><a href="https://www.byd.com/mea/news-list/byd-unveils-super-e-platform-with-megawatt-flash-charging">BYD Unveils Super e-Platform with Megawatt Flash Charging for...</a></li>
+<li><a href="https://www.linkedin.com/posts/shreeyansh-chouksey_ev-innovation-electricvehicles-activity-7392922116960022528-jYmT">BYD unveils Megawatt Flash Charging : 400 km in 5 minutes | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#China`, `#large models`, `#WAIC`, `#technology`
+**Tags**: `#EV`, `#BYD`, `#product launch`, `#automotive`, `#China`
 
 ---
