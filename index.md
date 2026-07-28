@@ -23,7 +23,7 @@ title: Home
   {% assign ai_posts = site.posts | where: "lang", "zh" | where: "report", "ai" %}
   {% for post in ai_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
@@ -36,7 +36,7 @@ title: Home
   {% assign stock_posts = site.posts | where: "lang", "zh" | where: "report", "stock" %}
   {% for post in stock_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
@@ -49,7 +49,7 @@ title: Home
   {% assign other_posts = site.posts | where: "lang", "zh" | where: "report", "default" %}
   {% for post in other_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
