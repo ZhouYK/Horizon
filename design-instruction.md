@@ -298,3 +298,151 @@ AnalysisResult.model_validate(dict)  ← Pydantic 确保 score ∈ [0, 10]
     ↓
 item.ai_score=8.5 / ai_summary="..." / ai_tags=[...]
 ```
+
+---
+
+## 8. MCP Server 设计说明（`src/mcp/`）
+
+### 8.1 模块职责
+
+`src/mcp/` 把 Horizon 的抓取/打分/过滤/增强/摘要 pipeline 包装成一个 **MCP（Model Context Protocol）server**，供外部 MCP client（Claude Desktop、Claude Code 等）调用。**不重新实现业务逻辑**，只是加一层可分阶段调用、可续跑的工具外壳。
+
+| 文件 | 作用 |
+|---|---|
+| `server.py` | MCP 入口，用 `FastMCP` 注册工具/资源，统一包一层 `_ok`/`_err` 响应格式，维护调用次数、耗时等 metrics |
+| `service.py` | `HorizonPipelineService`，真正的业务编排层，调用 orchestrator 各阶段函数，做 config 校验和敏感字段脱敏（`_redact_config` 遮蔽 key/token/secret 等字段） |
+| `horizon_adapter.py` | 适配层，动态加载 Horizon 主代码库（`load_runtime`/`make_orchestrator`/`make_storage`），复用主仓库的 `ContentItem`/`Config`/orchestrator，而不是重写 |
+| `run_store.py` | 每次 pipeline 运行的中间产物持久化到 `data/mcp-runs/<run_id>/`，分 `raw/scored/filtered/enriched` 四个 stage 文件，支持从中间阶段续跑 |
+| `errors.py` | 统一的 `HorizonMcpError`（code + message + details）异常类型 |
+
+设计原则：① Horizon 是唯一的业务逻辑来源；② 保留分阶段落盘，支持从中间产物续跑；③ 默认无额外副作用，除非显式要求。
+
+### 8.2 提供的 Tools / Resources
+
+| Tool | 说明 |
+|---|---|
+| `hz_validate_config` | 校验 config 和必需的环境变量 |
+| `hz_fetch_items` | 抓取并去重，写入 `raw` stage |
+| `hz_score_items` | 对某个 stage 打分，写入 `scored` |
+| `hz_filter_items` | 过滤 `scored`，写入 `filtered` |
+| `hz_enrich_items` | 增强 `filtered`，写入 `enriched` |
+| `hz_generate_summary` | 从某个 stage 生成 markdown 摘要 |
+| `hz_run_pipeline` | 一次性跑完 fetch → score → filter → enrich → summarize |
+| `hz_list_runs` / `hz_get_run_meta` / `hz_get_run_stage` / `hz_get_run_summary` | 读取历史 run 的元信息/分阶段数据/摘要 |
+| `hz_get_metrics` | 读取 server 内存中的调用统计 |
+| `hz_send_webhook` | 用 config 里的模板发送 webhook 通知 |
+
+对应的 Resources（只读，URI 形式）：`horizon://server/info`、`horizon://metrics`、`horizon://runs`、`horizon://runs/{run_id}/meta`、`horizon://runs/{run_id}/items/{stage}`、`horizon://runs/{run_id}/summary/{language}`、`horizon://config/effective`。
+
+**Tool 与 Resource 的边界**：有副作用（写文件、发网络请求）的一律是 tool；纯读取的一律是 resource，两者在 MCP 协议里语义不同，不能混用。Horizon 目前没有定义任何 **prompt**（`prompts/get` 返回的是给 LLM 的对话消息模板，Horizon 是纯数据 pipeline，用不到这个抽象）。
+
+### 8.3 MCP 协议规则
+
+MCP 建立在 **JSON-RPC 2.0** 之上，核心约束：
+
+- **传输层**：Horizon 用 stdio transport——消息是换行分隔的 JSON-RPC 对象（不是 LSP 那种 `Content-Length` 头+body）；stdout 只能写协议消息，日志必须走 stderr。
+- **生命周期握手**：连接建立后必须先完成握手，不能跳过直接调工具：
+  ```
+  client → initialize（声明 protocolVersion、capabilities）
+  server → initialize 响应（声明支持 tools/resources/prompts 里的哪些）
+  client → notifications/initialized（握手完成）
+  ```
+- **三种核心原语**：
+
+  | 原语 | 只读/有副作用 | 发现方式 | 调用方式 |
+  |---|---|---|---|
+  | Tools | 可以有副作用 | `tools/list` | `tools/call` |
+  | Resources | 必须只读 | `resources/list` | `resources/read` |
+  | Prompts | 模板 | `prompts/list` | `prompts/get` |
+
+- **返回结构**：`CallToolResult` 至少带 `content`（展示层）；工具若声明了输出类型（Horizon 靠 `-> dict[str, Any]` 类型标注触发），还会带 `structuredContent`（程序解析用）；失败时 `isError: true`。
+
+**两层信封**：Horizon 的 tool 返回值有内外两层——外层 `isError`/`content` 是 MCP 协议要求的；内层 `ok`/`error.code`（`server.py` 里 `_ok`/`_err` 组装）是 Horizon 自己的业务约定。业务失败时（比如抛出 `HorizonMcpError`），协议层 `isError` 仍是 `false`（调用本身成功了），但内层 `ok:false` 携带具体错误码，调用方需要自己解析内层结构判断业务是否成功。
+
+### 8.4 调用示例（tools / resources / prompts）
+
+**Tool 调用**（对应 `hz_list_runs`）：
+```json
+→ {"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"hz_list_runs","arguments":{"limit":5}}}
+← {"jsonrpc":"2.0","id":1,"result":{
+    "content":[{"type":"text","text":"{\"ok\":true,\"tool\":\"hz_list_runs\",\"data\":{...}}"}],
+    "structuredContent":{"ok":true,"tool":"hz_list_runs","data":{"runs":[...]}},
+    "isError":false
+}}
+```
+
+**Resource 读取**（对应 `horizon://server/info`）：
+```json
+→ {"jsonrpc":"2.0","id":2,"method":"resources/read","params":{"uri":"horizon://server/info"}}
+← {"jsonrpc":"2.0","id":2,"result":{"contents":[
+    {"uri":"horizon://server/info","mimeType":"application/json",
+     "text":"{\"name\":\"horizon-mcp\",\"started_at\":\"...\",\"runs_root\":\"...\"}"}
+]}}
+```
+
+**Prompt**（Horizon 未实现，假设加一个 `summarize_run_prompt` 说明机制）：
+```json
+→ {"jsonrpc":"2.0","id":3,"method":"prompts/get","params":{"name":"summarize_run_prompt","arguments":{"run_id":"run_xxx","tone":"简洁"}}}
+← {"jsonrpc":"2.0","id":3,"result":{"messages":[
+    {"role":"user","content":{"type":"text","text":"请用简洁的风格,总结 run_id=run_xxx 里被筛选出来的重要内容。"}}
+]}}
+```
+
+Python client 端可以用官方 SDK 调用：
+```python
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
+
+params = StdioServerParameters(command="uv", args=["run", "horizon-mcp"], cwd="/path/to/Horizon")
+
+async with stdio_client(params) as (read, write):
+    async with ClientSession(read, write) as session:
+        await session.initialize()
+        result = await session.call_tool("hz_list_runs", arguments={"limit": 5})
+        print(result.structuredContent)
+```
+
+### 8.5 `uv run horizon-mcp` 做了什么
+
+`pyproject.toml` 里注册了 console script：
+```toml
+[project.scripts]
+horizon-mcp = "src.mcp.server:main"
+```
+`main()` 就是 `mcp.run()`（`server.py` 末尾）。所以 `uv run horizon-mcp` = **同步依赖 + 启动 MCP server，在当前进程的 stdin/stdout 上跑 stdio transport，等待 client 发协议消息**。它不是常驻网络服务、不监听端口——正常用法是被 client **当子进程 spawn**，而不是手动在终端里一直挂着（手动跑会看到进程"卡住"，其实是在等 stdin 输入，不是卡死）。
+
+典型 client 侧配置（如 Claude Desktop）：
+```json
+{
+  "mcpServers": {
+    "horizon": { "command": "uv", "args": ["run", "horizon-mcp"], "cwd": "/path/to/Horizon" }
+  }
+}
+```
+
+### 8.6 本地调用 vs 远程调用
+
+MCP 支持两种 transport，行为差异很大：
+
+| | stdio（本地） | Streamable HTTP / SSE（远程） |
+|---|---|---|
+| 连接方式 | client 直接 spawn 子进程，管道通信 | client 发 HTTP 请求到一个 URL |
+| 部署形态 | 不需要单独部署，跟着 client 走 | 需要独立部署、常驻监听端口 |
+| 生命周期 | 和 client 绑定，client 退出即结束 | 独立于 client，可以一直跑着 |
+| 多 client | 一个进程只服务一个 client | 可以同时服务多个 client |
+| Horizon 现状 | ✅ 用的这种（`mcp.run()` 默认 stdio） | ❌ 没配置 |
+
+Horizon 目前只支持本地 stdio 这一种；如果要让远程/其他机器接入，需要显式改成 `mcp.run(transport="streamable-http")` 并部署常驻服务。
+
+### 8.7 底层机制：为什么 `session.call_tool("hz_list_runs", ...)` 能找到并执行
+
+这是**进程编程 + 进程间通信（IPC）**的范畴，不是 shell 编程——`stdio_client` 内部直接调用 `subprocess`（`fork()` + `pipe()` + `execve()`），完全没有 shell 参与解析命令行，管道属于 OS 提供的 IPC 机制，shell 的 `|` 语法只是这个机制的另一种使用方式。完整链路分六步：
+
+1. **进程建立**：`stdio_client(params)` fork 子进程执行 `uv run horizon-mcp`，把子进程 stdin/stdout 接到 client 手里的两根管道（`read`/`write`）
+2. **注册表建好**（发生在 server 启动、模块 import 时，早于任何调用）：`@mcp.tool()` 装饰器用 `inspect.signature()` 读取函数签名生成 JSON Schema，把 `"hz_list_runs"` 这个字符串 key 和函数对象存进内部字典——纯粹是字典查找，不是运行时反射搜索
+3. **握手**：`session.initialize()` 走 8.3 节的 `initialize` → `initialized` 流程
+4. **发起调用**：`call_tool()` 生成唯一请求 id，组装 `tools/call` JSON-RPC 消息写入 `write` 管道；同时在 client 内部登记 `{id: Future}`，`await` 挂起
+5. **server 侧执行**：读到消息后按 `name` 字段去阶段 2 的字典查表，取出函数和 schema，校验/转换参数后真正调用 `hz_list_runs(limit=5)`，把返回值包装成 `CallToolResult` 写回 stdout
+6. **响应回来**：client 后台任务读到响应，按 `id` 找到对应 Future 并唤醒，`call_tool()` 返回，`result.structuredContent` 就是最终数据
+
+一句话：函数名从头到尾就是一个**字符串 key**，装饰器在启动时把它注册进字典，收到请求后按 key 查表直接调用——和 Flask/FastAPI 的路由表本质相同，只是传输载体是 stdio 管道而不是 HTTP。
