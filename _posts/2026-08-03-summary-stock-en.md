@@ -6,394 +6,409 @@ lang: en
 report: stock
 ---
 
-> From 348 items, 20 important content pieces were selected
+> From 376 items, 20 important content pieces were selected
 
 ---
 
-1. [IF Coconut Water Profit Warning Sends Market Cap From HK$12.6B to HK$1.6B](#item-1) ⭐️ 9.0/10
-2. [BYD Launches 11 New Models, Including EV with Over 1,000 km Range](#item-2) ⭐️ 8.0/10
-3. [BYD to Launch Three 1,000 km EVs with 10-Minute Charging This Year](#item-3) ⭐️ 8.0/10
-4. [Billionaire Walter&\#x27;s Insurers Face Probe Over Private Credit and Egan-Jones Payments](#item-4) ⭐️ 8.0/10
-5. [Ford, Geely to Co-Operate Spain Plant, Co-Develop New EV](#item-5) ⭐️ 8.0/10
-6. [Chinese VLCCs Suspend Red Sea Oil Loadings amid Houthi Blockade](#item-6) ⭐️ 8.0/10
-7. [Guangdong spot power prices spike 162.9%, ushering in spot market era](#item-7) ⭐️ 8.0/10
-8. [Huarun New Energy IPO wobbles as market reform squeezes profits](#item-8) ⭐️ 8.0/10
-9. [China Broadens Housing Provident Fund Use; 60+ Cities Adopt New Policy](#item-9) ⭐️ 8.0/10
-10. [Baotou Steel Plant Explosion Report Exposes Systemic Special Equipment Safety Failures](#item-10) ⭐️ 8.0/10
-11. [South Korea&\#x27;s KOSPI Index Plunges 5% Amid Heavy Selling](#item-11) ⭐️ 8.0/10
-12. [Legend Holdings expects H1 net profit up at least 186%](#item-12) ⭐️ 8.0/10
-13. [Japan&\#x27;s 2-Year Yield Hits 1.54%, First Since 1995](#item-13) ⭐️ 8.0/10
-14. [BYD Leads July NEV Sales; NIO Deliveries Jump 71%](#item-14) ⭐️ 7.0/10
-15. [BYD July NEV Sales Hit 419,200 Units; Cumulative Sales Down 10.54% YoY](#item-15) ⭐️ 7.0/10
-16. [BYD Seven-Month NEV Sales Fall 10.54% to 2.23 Million Units](#item-16) ⭐️ 7.0/10
-17. [Kevin Warsh faces twin economic shocks as Fed chair](#item-17) ⭐️ 7.0/10
-18. [S&amp;P 500 profits &\#x27;rock solid&\#x27; as earnings hit five-year high](#item-18) ⭐️ 7.0/10
-19. [US employment data may prompt Fed rate rethink](#item-19) ⭐️ 7.0/10
-20. [Morgan Stanley&\#x27;s IPO After-Party: $74bn Wealth Management Surge](#item-20) ⭐️ 7.0/10
+1. [US and Japan stage first joint yen-buying intervention in 15 years](#item-1) ⭐️ 10.0/10
+2. [BYD Denza Z9S Launches with Record 1100 km Range, 7000+ Flash Chargers](#item-2) ⭐️ 8.0/10
+3. [BYD Leads July Traditional Automaker Sales; Chery Exports Hit Record](#item-3) ⭐️ 8.0/10
+4. [Aston Martin bondholders threaten suit to unwind HPS branding deal](#item-4) ⭐️ 8.0/10
+5. [Japan vows further yen intervention with US if needed](#item-5) ⭐️ 8.0/10
+6. [Chinese Leasing Firm&\#x27;s LNG Carrier Damaged in Hormuz Attack](#item-6) ⭐️ 8.0/10
+7. [Brookfield Completes Oaktree Acquisition, Creating Global Credit Powerhouse](#item-7) ⭐️ 8.0/10
+8. [Coldcard Bitcoin wallet RNG flaw drains 1,755 BTC worth ~$110M](#item-8) ⭐️ 8.0/10
+9. [Morgan Stanley Forecasts Global Cloud Capex to Hit $1.2 Trillion by 2027](#item-9) ⭐️ 8.0/10
+10. [Chinese Auto Sales July: BYD Leads with 419,211 Units, Exports Soar](#item-10) ⭐️ 7.0/10
+11. [BYD enters embodied intelligence; humanoid robot &\#x27;Xiao Di&\#x27; to debut in August](#item-11) ⭐️ 7.0/10
+12. [BYD enters embodied intelligence; humanoid robot Xiaodi to debut in August](#item-12) ⭐️ 7.0/10
+13. [SpaceX&\#x27;s staggered lock-up release prolongs IPO pain](#item-13) ⭐️ 7.0/10
+14. [Japan’s Puzzling Yen Intervention Stirs Global Markets](#item-14) ⭐️ 7.0/10
+15. [Storage Sector Selloff Hits GigaDevice Limit-Down; ChangXin Gains](#item-15) ⭐️ 7.0/10
+16. [Iran Says Hormuz Talks With Oman Near Completion; US Seeks Military Plans](#item-16) ⭐️ 7.0/10
+17. [IF Coconut Water Market Cap Crashes 87%; Alibaba Tsai Divorce Won&\#x27;t Affect Shares](#item-17) ⭐️ 7.0/10
+18. [Xingyun Technology Discloses 15.4B Yuan AI Compute, Storage Orders](#item-18) ⭐️ 7.0/10
+19. [Hong Kong, Mainland Regulators Unveil Measures to Deepen Capital Market Ties](#item-19) ⭐️ 7.0/10
+20. [Sungrow Plans 500M-1B Yuan Buyback for Employee Incentives](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [IF Coconut Water Profit Warning Sends Market Cap From HK$12.6B to HK$1.6B](https://36kr.com/p/3923043072634498?f=rss) ⭐️ 9.0/10
+## [US and Japan stage first joint yen-buying intervention in 15 years](https://finance.caixin.com/2026-08-03/102470890.html) ⭐️ 10.0/10
 
-IFBH \(06603.HK\), the parent of coconut water brand if, issued a profit warning on July 31, forecasting a 65%–75% drop in net profit and a 40%–50% fall in revenue for the first half of 2026. Its market capitalization has plunged from HK$12.6 billion to HK$1.6 billion. This is the first profit warning from the HKEX-listed &\#x27;coconut water first stock&\#x27; just over a year after its debut, severely shaking investor confidence. It also exposes the fragility of the asset-light business model that once supported a market cap of over HK$12.6 billion. The company listed on June 30, 2025, at HK$27.8 per share and opened 57.9% higher, briefly reaching a market cap of HK$12.68 billion with only 46 employees. Its coconut water is sourced exclusively from Thailand, with supply provided by General Beverage, a company owned by founder Pongsakorn Pongsak.
+Japan&\#x27;s Ministry of Finance announced on August 3, 2026 that it and the U.S. Treasury jointly bought yen on July 31, 2026 \(U.S. time\), pushing the dollar-yen rate from around 163 to near 157. Japanese Finance Minister Katayama Satsuki said Tokyo would not hesitate to take further joint intervention if needed. This is the first U.S.-Japan joint currency intervention in 15 years, a rare coordinated policy action by the world&\#x27;s largest and fourth-largest economies. It could mark a turning point for the yen&\#x27;s prolonged weakness and has broad implications for global currency markets, carry trades, and U.S. Treasury demand. The Finance Ministry&\#x27;s routine report on July 31 still said there was no intervention between June 29 and July 29, but the joint action was announced after the weekend. Japan said it may use the Federal Reserve&\#x27;s FIMA repurchase facility to obtain dollars without having to sell U.S. Treasuries in the open market.
 
-rss · 36氪 · Aug 3, 00:07
+rss · 财新网 · Aug 3, 15:03
 
-**Background**: Coconut water brand if entered the Chinese mainland market in 2017 and became many consumers&\#x27; first coconut water. IFBH was carved out from General Beverage in 2023 and listed on the HKEX, telling a capital story of a lightweight, outsourced production model that generated about US$150 million in annual revenue.
+**Background**: Japan&\#x27;s currency intervention normally involves the Ministry of Finance instructing the Bank of Japan to buy or sell yen in the foreign-exchange market. The Fed&\#x27;s FIMA repo facility allows foreign and international monetary authorities to borrow dollars by pledging U.S. Treasuries held at the Federal Reserve, easing dollar funding pressures without outright asset sales. Sustained yen weakness reflects Japan&\#x27;s lower interest rates compared with the dollar; extraordinary joint intervention with the United States is highly unusual.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cj.sina.com.cn/articles/view/2949462582/afcd3a3600101ogre?from=finance">IF 椰 子 水 年入11亿！ 生产全靠外包？__ 财经头条__新浪财经</a></li>
-<li><a href="https://m.pedaily.cn/news/551647">刚刚，中国人又喝出一个IPO： if 椰 子 水 上市了|投资界</a></li>
-<li><a href="https://post.smzdm.com/p/a44pkpp8/">公 司 仅46人，年入1.5亿美元！ 泰国富二代靠if...</a></li>
+<li><a href="https://www.stlouisfed.org/on-the-economy/2020/october/fed-dollar-swap-lines-fima-repos">The Importance of the Fed’s Dollar Swap Lines and FIMA Repos</a></li>
+<li><a href="https://talkmarkets.com/article/largest-currency-intervention-in-history-by-us-and-japan-to-support-the-yen-1785570195">Largest Currency Intervention In History By US And... - TalkMarkets</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2preU9iYkVSSF9FZDl1eHVxMG15Z0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Google News - US and Japan confirm joint yen currency intervention ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#earnings`, `#profit warning`, `#consumer`, `#HK stock`
+**Discussion**: No comments were provided.
+
+**Tags**: `#FX intervention`, `#yen`, `#US-Japan`, `#central bank`, `#currency markets`
 
 ---
 
 <a id="item-2"></a>
-## [BYD Launches 11 New Models, Including EV with Over 1,000 km Range](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5) ⭐️ 8.0/10
+## [BYD Denza Z9S Launches with Record 1100 km Range, 7000+ Flash Chargers](http://finance.eastmoney.com/a/202608033830097869.html) ⭐️ 8.0/10
 
-BYD launched 11 new car models at once, including a fully electric vehicle with a driving range exceeding 1,000 kilometers. This marks the first time the company has brought such a long-range EV to market. The launch represents a major competitive push by BYD in the EV market, potentially strengthening its position against rivals. A production EV with over 1,000 km of range could ease consumer range anxiety and accelerate EV adoption. The announcement was made via Autohome, a major Chinese automotive media outlet. While exact model names and pricing were not detailed in the report, the scale of the launch — 11 models at once — underscores BYD&\#x27;s aggressive product rollout strategy.
+BYD’s premium Denza brand launched the Z9S, available in three variants, all featuring the second-generation blade battery and standard flash charging. Denza general manager Li Hui announced the Z9S achieves a maximum pure electric range of 1,100 km, claiming the global record for longest-range production EV, and confirmed BYD has built over 7,000 flash charging stations nationwide as of July 31. This milestone strengthens BYD’s competitive position in the EV market by combining a record-breaking range with a rapidly expanding fast-charging network, addressing two major consumer pain points: range anxiety and charging speed. It reflects the industry trend toward higher energy density batteries and ultra-fast charging infrastructure, potentially pressuring rivals to accelerate their own technologies. The Z9S is powered by BYD’s second-generation blade battery, which supports flash charging from 10% to 70% in about five minutes. The vehicle is offered in three variants, and the 1,100 km range figure is based on the China light-duty vehicle test cycle; real-world range may vary.
 
-google\_news · 汽车之家 · Aug 2, 10:04
+rss · 东方财富/比亚迪 · Aug 3, 14:19
 
-**Background**: BYD is China&\#x27;s largest electric vehicle maker and a global leader in new energy vehicles. The range of an EV is a key purchasing factor, and passing the 1,000 km threshold has been a highly anticipated milestone in the industry; achieving it in a production model could challenge competitors like Tesla and other Chinese EV startups.
+**Background**: The second-generation blade battery is BYD’s latest battery technology, unveiled in March 2026, which improves energy density and enables faster charging compared to the original blade battery. Flash charging technology uses high-power charging infrastructure and battery chemistry optimizations to dramatically cut charging times; BYD is deploying flash charging stations across China to support its EVs. The Denza Z9S is a new model under BYD’s premium Denza brand, which targets the high-end EV segment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://electrek.co/2026/03/05/byds-new-ev-battery-unlocks-1000-km-range-10-min-charging/">BYD’s new Blade EV Battery 2.0 unlocks 1,000+ km pure ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Blade_battery">BYD Blade battery - Wikipedia</a></li>
-<li><a href="https://www.byd.com/eu/technology/byd-e-platform-3">e-Platform 3.0 | BYD Europe</a></li>
+<li><a href="https://auto.sina.com.cn/newcar/2026-03-06/detail-inhpyima3014799.shtml">比 亚 迪 正式发布 第 二 代 刀 片 电 池 及闪充 技 术 -新浪汽车</a></li>
+<li><a href="https://www.dutenews.com/n/article/10511534">比 亚 迪 第 二 代 刀 片 电 池 来了！ 从10%到70%充 电 时间只用5分钟</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#automotive`, `#sector`
+**Tags**: `#EV`, `#product launch`, `#BYD`, `#charging infrastructure`, `#battery technology`
 
 ---
 
 <a id="item-3"></a>
-## [BYD to Launch Three 1,000 km EVs with 10-Minute Charging This Year](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWVpoSURqUEoyeDlfT19Za0JPeUE2eldXV2M1QTZKdXRTLVJKNDZSb0phMm9HYURRSE9oMjExTTFjTTJPRHBWNmYzNHBTamtOd3JYLTNnbVJXNDQ?oc=5) ⭐️ 8.0/10
+## [BYD Leads July Traditional Automaker Sales; Chery Exports Hit Record](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalVSVnlyaVJfZkFjREFFX0E2aUM2ZS1HbnZqdXZkelBkYnZZdS1HNUxRREd2aUExcHdHQmFHbEdUWkJyLXJ5QmZ1VHA3bmdmVm1uMXF4UnI5QVZXU0pwU0FERUdLeUg1b2JrNXllbDJfZEtTVWRYTVdUdXMxWGtQcTdWUEN5VFBWVzFUb1VuQ3hUWXJnUUVzc1Fxbl95eDc0NEhUNGZIWm5iOUtWYU85b0c1RQ?oc=5) ⭐️ 8.0/10
 
-BYD reportedly plans to launch three battery-electric vehicles this year with a 1,000 km range and the ability to fully charge in 10 minutes. The move comes as rivals are still talking about solid-state batteries, putting BYD in an early leading position. If the claims hold up, 1,000 km of range and 10-minute charging would eliminate most range and charging anxiety, redefining EV performance expectations. It would also intensify battery-technology competition and put pressure on other automakers to accelerate their roadmaps. The report does not name the three models. The 10-minute full charge depends on both the battery&\#x27;s charging acceptance and high-power extreme fast charging \(XFC\) infrastructure; related reports link BYD&\#x27;s next-generation Blade Battery 2.0, with an LMFP cathode and silicon-carbon anode, to 1,000 km range and roughly 9-minute charging to 97% state of charge.
+In July, BYD sold 419,000 vehicles, taking a clear lead among traditional automakers in China, while Chery&\#x27;s exports surpassed 200,000 units for the first time, a new record. The strong sales figures signal robust demand in China&\#x27;s auto market and highlight the growing overseas competitiveness of Chinese automakers. This could positively affect auto stocks and the broader supply chain. The data covers traditional automakers, with BYD&\#x27;s 419,000 units described as a &\#x27;fault-line&\#x27; lead. Chery&\#x27;s export milestone of over 200,000 units in a single month is unprecedented.
 
-google\_news · 汽车之家 · Aug 2, 09:55
+google\_news · 东方财富 · Aug 3, 13:18
 
-**Background**: Solid-state batteries replace the liquid or gel electrolyte in conventional lithium-ion cells with a solid electrolyte, promising higher energy density and safety, but they have not yet reached commercial scale. BYD&\#x27;s current Blade Battery is a lithium iron phosphate \(LFP\) design with a long cell structure that emphasizes safety, longevity, and stability. Extreme fast charging \(XFC\) aims to make EV refueling as quick as filling a gasoline tank, but it requires both advanced battery materials and high-power charging infrastructure.
+**Background**: The Chinese auto market is the world&\#x27;s largest, and monthly sales figures are closely watched by investors. BYD has expanded rapidly in both domestic and overseas markets, while Chery has focused on export growth. &\#x27;Traditional automaker&\#x27; here generally refers to established manufacturers excluding new EV startups.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Solid-state_battery">Solid-state battery</a></li>
-<li><a href="https://www.byd.com/eu/technology/byd-blade-battery">BYD Blade Battery | BYD Europe</a></li>
-<li><a href="https://www.linkedin.com/posts/electricmobilitynews_byd-blade-battery-20-how-it-delivers-1000-activity-7450171328910757888-0uIA">BYD Blade Battery 2.0: 5-minute charging, 1000km range | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#EV`, `#battery`, `#product-launch`, `#technology`
+**Tags**: `#auto sales`, `#BYD`, `#Chery`, `#exports`, `#sector`
 
 ---
 
 <a id="item-4"></a>
-## [Billionaire Walter&\#x27;s Insurers Face Probe Over Private Credit and Egan-Jones Payments](https://www.ft.com/content/18ccb15a-f8ed-41ba-a948-7c62cd757274?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Aston Martin bondholders threaten suit to unwind HPS branding deal](https://www.ft.com/content/48cd3b97-dc85-4732-8428-58fd8bfe5958?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-A wide-ranging regulatory probe has been opened into the private credit holdings of insurers controlled by billionaire investor Walter. The probe also examines millions of dollars that these insurers paid to credit rating provider Egan-Jones. This probe raises concerns about the integrity of credit ratings in the fast-growing private credit market. If the payments are found to compromise Egan-Jones&\#x27;s independence, it could undermine investor confidence and affect the valuations of insurers and their holdings. Egan-Jones is a US credit rating agency registered as a nationally recognized statistical rating organization \(NRSRO\), and it rates issuers in private credit markets. The Financial Times report highlights &quot;millions of dollars&quot; in payments to Egan-Jones, suggesting regulators are scrutinizing whether the ratings were independent and accurate.
+Aston Martin&\#x27;s bondholders have sent the carmaker a letter warning they may file a lawsuit aimed at unwinding the HPS branding rights transaction and blocking the disposal of assets. This legal threat could derail Aston Martin&\#x27;s asset disposal and liquidity plans, creating significant uncertainty for both equity and bond investors. It also underscores deepening conflicts between the company and its creditors during its restructuring efforts. The HPS transaction reportedly involves the monetization of Aston Martin&\#x27;s branding rights, a move creditors see as detrimental to their claims. A successful suit could unwind the deal and prevent further asset sales, complicating the company&\#x27;s refinancing efforts.
 
-rss · FT Markets · Aug 2, 12:00
+rss · FT Markets · Aug 3, 20:27
 
-**Background**: Private credit, often called direct lending, is debt provided by non-bank institutions such as private credit funds or business development companies to private businesses, and it is not issued or traded on public markets. Egan-Jones is an American credit rating agency registered as an NRSRO that rates issuers in private credit markets. Because private credit is less liquid and transparent than public debt, investors rely on rating agencies for independent assessment, making financial ties between insurers and raters a potential conflict-of-interest concern.
+**Background**: Aston Martin is a British luxury carmaker that has periodically sought external capital to fund operations and growth. In corporate finance, companies sometimes sell or license intangible assets such as brand names to raise cash. HPS Investment Partners is a major private credit firm that became a subsidiary of BlackRock in 2025. Bondholders often oppose such asset monetization because it can reduce the value of collateral backing their debt.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Egan-Jones_Ratings_Company">Egan-Jones Ratings Company - Wikipedia</a></li>
-<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/private-credit-characteristics-and-risks-20240223.html">The Fed - Private Credit: Characteristics and Risks</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Private_credit">Private credit - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HPS_Investment_Partners">HPS Investment Partners</a></li>
+<li><a href="https://www.investopedia.com/terms/c/corporatefinance.asp">investopedia.com/terms/c/corporatefinance.asp</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#regulatory`, `#probe`, `#private credit`, `#insurers`
+**Tags**: `#credit`, `#legal`, `#auto`, `#restructuring`, `#corporate governance`
 
 ---
 
 <a id="item-5"></a>
-## [Ford, Geely to Co-Operate Spain Plant, Co-Develop New EV](https://database.caixin.com/2026-08-02/102470640.html) ⭐️ 8.0/10
+## [Japan vows further yen intervention with US if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-On July 23, Ford and Geely officially announced a joint venture agreement to operate Ford&\#x27;s Spanish subsidiary, producing their respective brand models and co-developing a new energy vehicle. This marks a major step in Ford&\#x27;s global manufacturing restructuring. This joint venture reflects Ford&\#x27;s pivot away from a broad global footprint toward a more focused manufacturing strategy, while giving Geely a strategic production base in Europe. The co-developed new energy vehicle could strengthen both companies&\#x27; positions in the rapidly growing European EV market. The report notes that after 17 years of adjustment, Ford&\#x27;s global manufacturing network has shifted to a new pattern of &\#x27;North America as the core, Europe streamlined, China selectively retained, and Southeast Asia as an export base.&\#x27; The Spanish subsidiary will produce models for both brands and jointly develop a new energy vehicle.
+Japan&\#x27;s finance minister, Satsuki Katayama, confirmed that Tokyo is ready to intervene again jointly with Washington to counter &\#x27;disorderly movements&\#x27; in the yen. This follows a rare coordinated yen-buying operation with the United States. Coordinated intervention by Japan and the US is highly unusual, with the last joint yen-buying action occurring in 1998. The move signals strong policy resolve and could affect global currency markets, equity risk sentiment, and bond yields. The operation involves buying yen and selling dollars in the foreign exchange market. Analysts note that such intervention may only provide temporary relief unless underlying interest-rate differentials between Japan and the US narrow.
 
-rss · 财新网 · Aug 3, 00:35
+rss · FT Markets · Aug 3, 15:09
 
-**Background**: Ford has spent nearly two decades restructuring its global manufacturing footprint, consolidating around core markets to improve efficiency and reduce costs. Geely, one of China&\#x27;s largest automakers, has been actively expanding into Europe through investments and partnerships. The joint venture allows Geely to gain a European production foothold while helping Ford streamline its operations and share the costs and risks of EV development.
+**Background**: Foreign exchange intervention is a monetary policy tool in which authorities buy or sell currencies to counter excessive exchange-rate swings. The yen has been under pressure as the Federal Reserve raised interest rates aggressively while the Bank of Japan kept policy ultra-loose, widening rate differentials. Direct intervention by buying yen is considered a major step because Japan has not used it frequently, and joint US-Japan action is even rarer.
 
-**Tags**: `#M&amp;A`, `#automotive`, `#joint venture`, `#restructuring`, `#EV`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.globalbankingandfinance.com/exclusive-japan-announce-tokyo-washington-took-joint-action/">Japan , US Conduct Joint Market Intervention to Halt Yen Slide</a></li>
+<li><a href="https://www.firstpost.com/business/why-is-the-yen-falling-and-why-are-the-us-and-japan-stepping-in-14035589.html">Why is the yen falling — and why are the US and Japan stepping in?</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#forex`, `#policy`, `#Japan`, `#intervention`, `#macro`
 
 ---
 
 <a id="item-6"></a>
-## [Chinese VLCCs Suspend Red Sea Oil Loadings amid Houthi Blockade](https://international.caixin.com/2026-07-24/102467674.html) ⭐️ 8.0/10
+## [Chinese Leasing Firm&\#x27;s LNG Carrier Damaged in Hormuz Attack](https://finance.caixin.com/2026-08-03/102470869.html) ⭐️ 8.0/10
 
-Chinese supertankers have suspended Red Sea oil loadings following a Houthi-declared maritime blockade of Saudi routes, with two loaded VLCCs successfully transiting the Bab el-Mandeb strait on July 23. Insurance premiums for vessels in the Red Sea have surged sharply, and Chinese tanker companies are assessing security before resuming loadings at Yanbu port. This disruption threatens crude supply flows from Saudi Arabia, a key oil exporter, and could push up global tanker rates and oil prices. The Red Sea—a critical chokepoint for ~12% of global seaborne oil—now poses heightened risks for Chinese shipping and energy security. The two tankers that successfully transited were &\#x27;Xin Long Yang&\#x27; and &\#x27;Yuan Xin Hu&\#x27;, each carrying 300,000 tonnes of crude loaded at Yanbu, and they passed through the Bab el-Mandeb into the Gulf of Aden. Three other Chinese VLCCs remain inside the Red Sea: &\#x27;Xin Wei Yang&\#x27;, &\#x27;Yuan Xi Hu&\#x27; \(COSCO\), and &\#x27;Kai Tuo&\#x27; \(China Merchants\).
+On August 1, UKMTO reported attacks on two vessels off Oman in the Strait of Hormuz. One was the 155,000-cubic-meter LNG carrier GasLog Shanghai, owned by CDB Leasing \(01606.HK\), which was hit by an unknown guided munition, suffered engine-room damage, and was left drifting uncontrolled. This is a direct instance of Middle East geopolitical risk damaging a Chinese lessor&\#x27;s maritime asset, potentially triggering large insurance claims and raising war-risk premiums for LNG shipping. It underscores how escalating tensions in the Strait of Hormuz can disrupt global LNG trade and affect shipping asset values. The Bermuda-flagged vessel, GasLog Shanghai, was about 11 nautical miles northeast of Limah, Oman, when struck; the engine room was damaged and the ship remained adrift off Oman as of the morning of August 2. Another tanker attacked in the same incident was not hit directly, with a missile exploding nearby. The specific terms of ship lease and war-risk insurance claims are still unclear.
 
-rss · 财新网 · Aug 3, 00:30
+rss · 财新网 · Aug 3, 14:03
 
-**Background**: VLCC \(Very Large Crude Carrier\) is a class of supertanker with a deadweight tonnage of 200,000–320,000 tonnes, capable of carrying about 2 million barrels of crude oil. The Bab el-Mandeb strait connects the Red Sea to the Gulf of Aden, and its narrowest section is about 29–32 km wide; it is a vital maritime route for oil shipments from the Gulf region to Europe and Asia. Maritime war risk insurance covers vessels operating in high-risk areas; brokers have reported sharp premium increases in the Red Sea following the Houthi blockade declaration.
+**Background**: LNG carriers are specialized vessels for transporting liquefied natural gas, widely considered one of the most complex ship types to design and build, along with aircraft carriers and large cruise ships. The UKMTO is a long-established maritime security authority that issues verified warnings for shipping routes. War-risk insurance typically covers losses from hostile acts, and such attacks often lead to higher premiums for vessels transiting high-risk waters like the Strait of Hormuz.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.54seaman.com/group/detail_39181.html">什 么 是 VLCC ？ -航海知识-中国海员之家</a></li>
+<li><a href="https://www.dzwww.com/xinwen/guoneixinwen/202606/t20260603_17802911.htm">dzwww.com/xinwen/guoneixinwen/202606/t20260603_17802911.htm</a></li>
+<li><a href="https://www.ukmto.org/">UKMTO</a></li>
+<li><a href="https://www.zaobao.com.sg/news/world/story20260801-9455507">阿曼水域两油轮遇袭 | 联合早报</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#geopolitics`, `#oil`, `#shipping`, `#supply chain`, `#insurance`
+**Tags**: `#geopolitics`, `#shipping`, `#LNG`, `#company-news`, `#insurance`
 
 ---
 
 <a id="item-7"></a>
-## [Guangdong spot power prices spike 162.9%, ushering in spot market era](https://weekly.caixin.com/2026-08-02/102470563.html) ⭐️ 8.0/10
+## [Brookfield Completes Oaktree Acquisition, Creating Global Credit Powerhouse](https://36kr.com/newsflashes/3923781963626885?f=rss) ⭐️ 8.0/10
 
-On April 11, 2026, Guangdong&\#x27;s real-time spot electricity price hit 0.978 yuan/kWh, 162.9% above the annual contract average, while zero and negative prices also appeared frequently. This marks the arrival of China&\#x27;s &\#x27;power spot market first year&\#x27; in 2026, with the spot market clearing every 15 minutes. Electricity, previously seen as a stable cost, is becoming a volatile business variable driven by weather, fuel, and real-time supply-demand. Enterprises must learn to manage an un-storable, fluctuating resource, which directly impacts energy costs for all businesses and the profitability of power generators, making it highly relevant for investors. Despite lower energy prices, many enterprises found their total electricity bills did not significantly decrease. Negative prices occur when renewable generation surges, signaling temporary oversupply; these price signals encourage flexible consumption, storage, and deep peaking by generators.
+Brookfield announced today that it has completed its acquisition of Oaktree Capital, fully integrating the two platforms. The deal finalizes a process that began with a partnership in 2019 and makes the United States Brookfield Asset Management&\#x27;s largest market. The acquisition creates a leading global credit platform spanning opportunistic credit, real asset credit, asset-backed finance, and corporate performance credit. It significantly strengthens Brookfield&\#x27;s credit investing capabilities and expands its presence in the United States, the world&\#x27;s largest asset management market. Oaktree&\#x27;s acquisition was originally structured as a partnership in 2019, and today&\#x27;s integration consolidates both platforms into one. Brookfield&\#x27;s global credit platform now serves institutional investors, financial advisors, and individuals with a diversified menu of credit strategies, while the US becomes its largest market.
 
-rss · 财新网 · Aug 3, 00:30
+rss · 36氪 · Aug 3, 12:45
 
-**Background**: China&\#x27;s power spot market is a core task of electricity market reform and a cornerstone of building a unified national power market. It typically includes day-ahead, intraday, and real-time markets, with prices clearing every 15 minutes based on real-time supply and demand. The rapid growth of renewable energy increases price volatility, and negative prices—when generators pay users to absorb excess power—occur when supply exceeds demand. Plans call for nationwide coverage of spot markets by the end of 2025.
+**Background**: Brookfield is a global alternative asset manager with extensive portfolios in real estate, infrastructure, and renewable energy. Oaktree Capital is a prominent credit-focused investment manager known for distressed debt and opportunistic credit. The acquisition was structured to allow Oaktree to maintain operational independence while giving Brookfield a major credit platform. This deal reflects a broader trend of consolidation in asset management as firms seek scale and diversified strategies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://paper.people.com.cn/zgnyb/pc/content/202505/12/content_30073587.html">今年底将实 现 电 力 现 货 市 场 全覆盖</a></li>
-<li><a href="https://m.bjx.com.cn/mnews/20230511/1305954.shtml">科普｜为什么会出现负电价？-北极星电力新闻网</a></li>
-<li><a href="https://www.zhihu.com/question/1967220236932616742">国家能源局称「负电价」有可能会更频繁出现，它是如何产生的？对电力市场、电厂收益等有何影响？ - 知乎</a></li>
+<li><a href="https://caia.org/blog/2025/09/15/opportunistic-credit-multi-asset-portfolios-private-credit-complement">Opportunistic Credit in Multi-Asset Portfolios: A Private Credit Complement | Portfolio for the Future | CAIA</a></li>
+<li><a href="https://www.oaktreecapital.com/strategies/credit">Credit</a></li>
+<li><a href="https://www.acprivatemarkets.com/siteassets/pdf/private-credit-overview.pdf">Private Credit</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#power market`, `#electricity prices`, `#energy policy`, `#sector`, `#regulation`
+**Tags**: `#M&amp;A`, `#Asset Management`, `#Credit`, `#Brookfield`, `#Oaktree`
 
 ---
 
 <a id="item-8"></a>
-## [Huarun New Energy IPO wobbles as market reform squeezes profits](https://weekly.caixin.com/2026-08-01/102470343.html) ⭐️ 8.0/10
+## [Coldcard Bitcoin wallet RNG flaw drains 1,755 BTC worth ~$110M](https://36kr.com/newsflashes/3923755364186243?f=rss) ⭐️ 8.0/10
 
-Huarun New Energy \(001248.SZ\) listed on the Shenzhen Stock Exchange on July 2, 2026, with its share price surging 137% on the first day to a market cap exceeding 300 billion yuan, then losing nearly half its value within two weeks. The company&\#x27;s net profit fell 26% cumulatively from 2023 to 2025 and dropped another 20-30% in the first half of 2026. This signals weakening profitability for new energy developers as China&\#x27;s power market liberalization shifts pricing from subsidies to market competition. The volatile IPO reflects a new investment logic where revenue certainty is replaced by market-based price risks, affecting both established developers and new investors. The IPO was the largest ever on the Shenzhen exchange. Net profit figures show 8.28 billion yuan \(2023\), 7.953 billion yuan \(2024\), and 6.102 billion yuan \(2025\); H1 2026 net profit was 3.3-3.8 billion yuan, down 20-30% year-on-year. After the first-day gain, the share price fell about 50% from its first-day close by July 16.
+Coinkite&\#x27;s Coldcard hardware wallet had a random-number-generation flaw that let attackers systematically derive mnemonic phrases for offline wallets. As of August 3, roughly 5,000 wallets had been drained of 1,755 BTC \(about $110 million\), and Coinkite confirmed the issue while releasing repaired firmware. Coldcard is widely regarded as one of the most secure cold-storage solutions, so this flaw undermines confidence in hardware wallets and forces urgent updates. The incident also adds to a record first half of the year for global cryptocurrency thefts, which totaled $972 million across 207 attacks. The vulnerability stems from a faulty random number generator \(RNG\) that allowed attackers to predict the supposedly random values used to create BIP39 mnemonic seeds. Analysis showed attackers drained over 1,755 BTC from about 5,000 wallets before Coinkite shipped patched firmware.
 
-rss · 财新网 · Aug 2, 23:25
+rss · 36氪 · Aug 3, 12:33
 
-**Background**: China is pushing wind and solar power into the electricity spot market under policy documents such as the 136号文 \(Document No. 136\), ending guaranteed feed-in tariffs and requiring most new energy output to be priced through market trading. The spot market, which reflects real-time supply and demand, introduces significant price volatility, directly impacting the revenues of developers that previously relied on stable subsidies.
+**Background**: Hardware wallets like Coldcard store private keys offline in a secure element and generate seed phrases using entropy from a random number generator. BIP39 mnemonic codes convert this entropy into readable words that control the wallet&\#x27;s private keys; if the entropy is predictable, anyone can reconstruct the keys. CoinDesk reported that the same vulnerability also drained 594 BTC in a 25-minute sweep, and BitBox has stated it is not affected by this Coldcard RNG vulnerability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zhuanlan.zhihu.com/p/23717758500">政策解读 | 新能源全面入市136号文：解密“市场外差价结算机制”，机制...</a></li>
-<li><a href="https://paper.people.com.cn/zgnyb/pc/content/202503/24/content_30064868.html">全面入市后，新能源四大问题待解</a></li>
-<li><a href="https://paper.people.com.cn/zgnyb/pc/content/202505/12/content_30073587.html">今年底将实 现 电 力 现 货 市 场 全覆盖</a></li>
+<li><a href="https://coldcard.com/">COLDCARD - Bitcoin-Only Hardware Wallet</a></li>
+<li><a href="https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep">Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep</a></li>
+<li><a href="https://blog.bitbox.swiss/en/bitbox-is-not-affected-by-the-coldcard-rng-vulnerability/">BitBox is not affected by the Coldcard RNG vulnerability</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#IPO`, `#new energy`, `#earnings`, `#power market`, `#volatility`
+**Tags**: `#crypto`, `#security`, `#bitcoin`, `#theft`, `#hardware wallet`
 
 ---
 
 <a id="item-9"></a>
-## [China Broadens Housing Provident Fund Use; 60+ Cities Adopt New Policy](https://finance.caixin.com/2026-08-03/102470681.html) ⭐️ 8.0/10
+## [Morgan Stanley Forecasts Global Cloud Capex to Hit $1.2 Trillion by 2027](https://36kr.com/newsflashes/3923764104460416?f=rss) ⭐️ 8.0/10
 
-On August 3, 2026, China&\#x27;s State Council approved four nuclear power projects \(eight units\) with total investment of about 160 billion yuan, and passed a draft amendment to housing provident fund regulations broadening usage rights. Meanwhile, the latest OpenRouter data shows Chinese AI models occupy the top five spots globally by call volume, with Xiaomi MiMo-V2.5 leading, DeepSeek contributing two models, and Tencent Hunyuan 3 surging over 999% after its open-source release. These policy moves are major catalysts for the property market and infrastructure investment: broadening provident fund usage supports housing demand, while the new nuclear units inject about 160 billion yuan into effective investment. The global adoption of Chinese AI models signals a shift in the AI competitive landscape, adding momentum to the domestic technology sector. The State Council meeting approved four nuclear projects including Liaoning Zhuanghe Phase I, and passed a draft amendment to housing provident fund management regulations that explicitly broadens usage permissions; according to the briefing, more than 60 cities have already rolled out the new provident fund rules. The OpenRouter ranking reflects global API call volume, with Xiaomi MiMo-V2.5 \(a 310B-parameter MoE model\) taking the top spot and Tencent Hunyuan 3 experiencing a usage surge of over 999% following open-sourcing.
+Morgan Stanley raised its global cloud capital expenditure forecast to $1.2 trillion by 2027, a 30% year-over-year increase and $170 billion above its previous Q2 estimate. The revision is attributed to AI demand outstripping supply, leaving major hyperscale cloud providers capacity-constrained. This signals sustained, massive investment in AI infrastructure by mega-cap tech companies. AI-driven demand is becoming the primary driver of cloud capital spending, with implications for the entire technology supply chain and investors. Alphabet, Amazon, and Meta have all raised their 2026 capex guidance, while Microsoft kept its outlook unchanged. The forecast exceeds the Q2 estimate by $170 billion, reflecting tighter-than-expected capacity at the four largest U.S. hyperscalers.
 
-rss · 财新网 · Aug 2, 22:50
+rss · 36氪 · Aug 3, 12:27
 
-**Background**: The housing provident fund is a mandatory housing savings scheme in China in which employers and employees contribute a portion of salary that workers can draw on for housing-related purposes; previously its use was largely restricted to home purchases, and the broadening now allows withdrawals for renting, renovation, and other housing needs, which can boost consumption and property demand. OpenRouter is an AI model aggregation platform that provides a unified API gateway to hundreds of large language models from multiple providers, making its call-volume data a key indicator of real-world global adoption; Chinese models such as Xiaomi MiMo-V2.5, DeepSeek, and Tencent Hunyuan 3 have gained international traction in 2026.
+**Background**: Hyperscale cloud providers are large-scale data center operators such as AWS, Microsoft Azure, and Google Cloud that offer extreme scalability for massive workloads. Their capital expenditures cover data centers, servers, networking gear, and AI chips, which are essential to meeting surging AI computing demand. Morgan Stanley&\#x27;s forecast suggests these companies will continue aggressive spending despite broader economic uncertainty.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.zenml.io/llmops-database/building-a-multi-model-llm-api-marketplace-and-infrastructure-platform">OpenRouter: Building a Multi-Model LLM API Marketplace and Infrastructure Platform - ZenML LLMOps Database</a></li>
-<li><a href="https://mimo.xiaomi.com/mimo-v2-5/">MiMo-V2.5 | Xiaomi</a></li>
-<li><a href="https://hy3ai.com/">Hy3 Preview — Tencent Hunyuan 3 Open-Source Model | Hunyuan 3.0 MoE 295B</a></li>
+<li><a href="https://www.ibm.com/think/topics/hyperscale">What is hyperscale ? | IBM</a></li>
+<li><a href="https://www.coresite.com/blog/what-is-a-hyperscale-data-center">What is a Hyperscale Data Center?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#nuclear`, `#real estate`, `#AI`, `#infrastructure`
+**Tags**: `#cloud computing`, `#AI infrastructure`, `#capex`, `#Morgan Stanley`, `#tech sector`
 
 ---
 
 <a id="item-10"></a>
-## [Baotou Steel Plant Explosion Report Exposes Systemic Special Equipment Safety Failures](https://china.caixin.com/2026-08-02/102470666.html) ⭐️ 8.0/10
+## [Chinese Auto Sales July: BYD Leads with 419,211 Units, Exports Soar](http://auto.eastmoney.com/a/202608033829966273.html) ⭐️ 7.0/10
 
-On August 2, 2026, the Inner Mongolia Emergency Management Department released an investigation report concluding that the January 18 explosion at Baotou Steel&\#x27;s rare earth steel plate plant—which killed 10 and injured 84—was a major production safety liability accident. The report found systemic failures in special equipment safety management across design, manufacturing, use, inspection, and testing. This finding exposes deep-rooted safety governance failures in China&\#x27;s steel sector, where special equipment such as pressure vessels can pose lethal risks. It imposes significant operational, financial, and reputational pressure on Baotou Steel and signals stricter regulatory accountability for industrial accidents. The blast occurred at 15:01 on January 18, 2026, in Kundulun District, Baotou City, resulting in 10 deaths, 84 injuries, and direct economic losses of 67.23 million yuan. A total of 62 people were held accountable, while two were exempted because they had died.
+In July, BYD sold 419,211 vehicles, up 21.76% year-on-year, with overseas exports surging 124.3% to 180,538 units. SAIC sold 338,606 vehicles, including 176,673 new energy vehicles, up 50.67% year-on-year, and exports rising 72.55% to 141,656 units. The figures show BYD&\#x27;s commanding lead in China&\#x27;s auto market and the accelerating global expansion of Chinese carmakers. Strong NEV and export growth signal sustained demand and suggest competitive pressure on legacy automakers worldwide. BYD&\#x27;s export growth of 124.3% was nearly double SAIC&\#x27;s 72.55% export growth, though SAIC&\#x27;s NEV sales jumped a higher 50.67%. The figures are monthly sales results reported by the companies, not deliveries registered by third-party agencies.
 
-rss · 财新网 · Aug 2, 22:50
+rss · 东方财富/比亚迪 · Aug 3, 12:04
 
-**Background**: Special equipment refers to boilers, pressure vessels \(including gas cylinders\), pressure pipelines, elevators, cranes, passenger ropeways, and other machinery that pose a significant risk to personal and property safety. In China, the design, manufacturing, installation, maintenance, and renovation of such equipment must be licensed under the Special Equipment Safety Supervision Regulations and the Special Equipment Safety Law, and the equipment must be registered with safety supervision authorities before use. Pressure vessel explosions can be triggered by design flaws, manufacturing defects, overpressure, improper operation, or lack of inspection—factors the Baotou Steel investigation says all failed in sequence.
+**Background**: In China, automakers typically release monthly sales figures at the start of the following month, which investors closely watch as a health check on the industry. BYD is the world&\#x27;s largest NEV maker, while SAIC includes joint ventures with Volkswagen and GM. &\#x27;New energy vehicles&\#x27; covers battery-electric, plug-in hybrid, and fuel-cell vehicles. Export growth has become a key theme as Chinese EV makers expand overseas amid domestic price competition.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/60268587">什么是特种设备，如何检验，规范是什么？ - 知乎</a></li>
-<li><a href="https://www.zhihu.com/question/459929248">什么是特种设备？ - 知乎</a></li>
-<li><a href="https://163.com/dy/article/KD586FK405149PS1.html">知识科普：什么是特种设备？特种设备八大类都有哪些？|锅炉|索道|电梯...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#production safety`, `#accident`, `#Baotou Steel`, `#investigation`, `#steel sector`
+**Tags**: `#autos`, `#EV`, `#sales`, `#exports`, `#sector`
 
 ---
 
 <a id="item-11"></a>
-## [South Korea&\#x27;s KOSPI Index Plunges 5% Amid Heavy Selling](https://36kr.com/newsflashes/3923064912490114?f=rss) ⭐️ 8.0/10
+## [BYD enters embodied intelligence; humanoid robot &\#x27;Xiao Di&\#x27; to debut in August](http://finance.eastmoney.com/a/202608033829957373.html) ⭐️ 7.0/10
 
-South Korea&\#x27;s benchmark KOSPI index extended its decline to 5% in the latest trading session, according to 36Kr, signaling a sharp selloff in the Korean stock market. The exact time and trigger of the crash were not specified in the report. A 5% single-day drop in a major national stock index often reflects systemic risk or an external shock, and it can directly affect investor sentiment and asset allocation across Asian markets. This level of volatility is likely to draw attention from global investors monitoring regional risk exposure. The report does not provide any specific cause for the decline or mention any policy response. KOSPI is South Korea&\#x27;s major stock market index, launched in 1983 with a base value of 100 as of January 4, 1980.
+BYD officially entered the embodied intelligence sector, announcing that its humanoid robot &\#x27;Xiao Di&\#x27; will make its public debut in August. Executive Vice President Li Ke confirmed plans to place 2-3 robots at each dealership for reception, vehicle explanation, and car-machine demonstration tasks. This marks another major automaker expanding into the fast-growing humanoid robotics market. BYD&\#x27;s nationwide dealership network provides a real-world commercial scenario, which could accelerate robot deployment and drive broader adoption of embodied intelligent systems. The initial robot deployment is limited to standardized service tasks such as greeting customers, explaining vehicle models, and demonstrating car-machine interactions. This focus on controlled, service-oriented roles suggests a cautious first step rather than an immediate push into complex physical labor.
 
-rss · 36氪 · Aug 3, 00:27
+rss · 东方财富/比亚迪 · Aug 3, 11:47
 
-**Background**: KOSPI \(Korea Composite Stock Price Index\) is the major stock market index of South Korea, tracking all common stocks listed on the Korea Exchange. It serves as the primary gauge for the performance of the Korean equity market. A 5% plunge is a large one-day move that often indicates panic selling or a broad repricing of macroeconomic risks.
+**Background**: Embodied intelligence \(Embodied AI\) refers to intelligent agents that have a physical body and can interact with the environment. It is considered a key future direction of AI research, emphasizing perception, action, and environmental interaction rather than computation alone. Humanoid robots are a typical carrier of embodied intelligence, and automakers such as BYD are entering the field as robotic platforms and supply chains mature.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.moneycontrol.com/live-index/kospi?symbol=kr;KSPI">KOSPI - Asian Market - KOSPI Index - KOSPI Market - KOSPI Stocks</a></li>
-<li><a href="https://en.wikipedia.org/wiki/KOSPI_200">KOSPI 200</a></li>
+<li><a href="http://www.broadview.com.cn/article/420497">被众多AI大佬看好的 具 身 智 能 到底 是 什 么 ？ 它凭 什 么 成为下一个AI...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Embodied_intelligence">Embodied intelligence</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#市场`, `#宏观`, `#韩国`, `#股市`
+**Tags**: `#humanoid robot`, `#BYD`, `#strategic expansion`, `#embodied intelligence`, `#automotive`
 
 ---
 
 <a id="item-12"></a>
-## [Legend Holdings expects H1 net profit up at least 186%](https://36kr.com/newsflashes/3923035684547972?f=rss) ⭐️ 8.0/10
+## [BYD enters embodied intelligence; humanoid robot Xiaodi to debut in August](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWHc0NW1iV1VWZ2lXbFlvR1JqSVJsWm5FRld6elY5a0Q3SFpwR2xLdHhWRi1BemdfcFd5QzI0NG96Q0V1a2Vpd19nalJfN3RrYkNwaWREazJOamo2eno0bA?oc=5) ⭐️ 7.0/10
 
-Legend Holdings issued a positive profit alert on the Hong Kong Stock Exchange, expecting net profit attributable to equity holders of no less than RMB 2 billion for the first half, up at least 186% year-on-year. The growth is mainly attributed to the recovery of capital markets and the turnaround of its investment business in the industrial incubation and investment segment. This result significantly exceeds market expectations and signals a recovery in China&\#x27;s capital markets and investment-driven business models. It could boost investor confidence in Legend Holdings and similar investment holding companies whose earnings are tied to equity market performance. The expected growth is primarily driven by the investment business in the industrial incubation and investment segment turning from loss to profit. The profit alert is a preliminary estimate based on the board&\#x27;s current knowledge, and the final interim results have not yet been released.
+BYD has officially entered the embodied intelligence sector, announcing that its humanoid robot, named &\#x27;Xiaodi&\#x27;, will make its debut in August. This marks the automaker&\#x27;s first concrete move into the humanoid robotics space. This is significant because a major automaker like BYD entering the high-growth humanoid robot sector could shift market dynamics and intensify competition in embodied intelligence. It may also influence investor sentiment and accelerate industry adoption of humanoid robots. No financial details or technical specifications have been disclosed for the &\#x27;Xiaodi&\#x27; robot yet. The announcement focuses on the August debut, with BYD joining a growing list of companies pursuing embodied AI applications.
 
-rss · 36氪 · Aug 3, 00:05
+google\_news · 东方财富 · Aug 3, 12:10
 
-**Background**: Legend Holdings is a major Chinese investment holding company affiliated with Lenovo Group, with businesses spanning strategic investment, incubation, and fund management. Its profitability is closely tied to capital market conditions because a large portion of earnings comes from changes in the fair value of its investment portfolio. This profit alert indicates that improving equity markets in the first half of the year have positively impacted its holdings.
+**Background**: Embodied intelligence refers to AI systems that are embedded in a physical body, perceiving the environment through sensors and acting via actuators, with intelligence emerging from the interaction between the agent and its surroundings. Humanoid robots are a key application of this concept, combining locomotion, perception, and manipulation capabilities. BYD&\#x27;s entry reflects a broader trend of automakers leveraging their engineering and manufacturing expertise to diversify into robotics.
 
-**Tags**: `#earnings`, `#profit alert`, `#guidance`, `#Hong Kong`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Embodied_intelligence">Embodied intelligence</a></li>
+<li><a href="https://grokipedia.com/page/embodied_agent">Embodied agent</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#BYD`, `#robotics`, `#embodied intelligence`, `#product launch`, `#sector`
 
 ---
 
 <a id="item-13"></a>
-## [Japan&\#x27;s 2-Year Yield Hits 1.54%, First Since 1995](https://36kr.com/newsflashes/3923037813239176?f=rss) ⭐️ 8.0/10
+## [SpaceX&\#x27;s staggered lock-up release prolongs IPO pain](https://www.ft.com/content/6a8c1d6c-63c7-4d3d-8882-eb5c67b2f9e1) ⭐️ 7.0/10
 
-Japan&\#x27;s 2-year government bond yield rose to 1.54%, the highest level since 1995. The move reflects stronger market expectations that the Bank of Japan will continue normalizing monetary policy. This milestone matters because it signals markets are convinced the BOJ will keep raising interest rates, ending Japan&\#x27;s decades-long ultra-loose monetary regime. The rise could also reverberate globally, affecting bond yields and yen-funded carry trades. The 1.54% yield sits roughly 54 basis points above the BOJ&\#x27;s current policy rate of 1.0%. Analysts note the 5-year JGB yield of about 2% is seen as the medium-term target for the policy rate, suggesting further hikes are priced in.
+SpaceX&\#x27;s IPO employed a staggered lock-up release to avoid a single cliff-edge of insider selling, but it has created a 12-month overhang of potential insider selling, prolonging market uncertainty. This prolonged lock-up schedule can pressure SpaceX&\#x27;s stock price and weigh on investor sentiment, as traders must account for persistent insider selling risk over an entire year. It also highlights a structural trade-off for large IPOs between avoiding a sudden dump and enduring ongoing uncertainty. The staggered design distributes insider share releases across 12 months instead of concentrating them on one date. The article notes that the biggest IPO hoped to avoid a cliff edge but now faces a longer period of uncertainty instead.
 
-rss · 36氪 · Aug 3, 00:00
+rss · FT Markets · Aug 3, 11:00
 
-**Background**: The Bank of Japan has been gradually exiting its ultra-loose monetary policy after years of negative interest rates, moving from negative rates to 1.0% by mid-2026. At its July 2026 meeting, the BOJ kept rates unchanged after a 25bp hike in June, while warning that underlying inflation could exceed the 2% target. A BOJ policy board member has said Japan&\#x27;s real interest rates remain significantly lower than overseas, supporting the case for continued gradual tightening.
+**Background**: In an IPO, a lock-up period is a contractual restriction that prevents company insiders and early investors from selling their shares for a set time after listing, typically 90 to 180 days. A staggered lock-up releases shares in tranches over a longer schedule, which can reduce the immediate selling pressure after the lock-up expires but also extends the period of overhang. This news refers to SpaceX&\#x27;s recent public listing, where the chosen lock-up structure has become a focal point for market participants.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tradingeconomics.com/japan/interest-rate">Japan Interest Rate - Trading Economics</a></li>
-<li><a href="https://think.ing.com/articles/boj-preview-the-slow-path-to-higher-rates/">Bank of Japan preview: The slow path to higher rates | articles | ING THINK</a></li>
-<li><a href="https://www.bis.org/review/r260303c.pdf">TAKATA Hajime Member of the Policy Board Bank of Japan February 26, 2026</a></li>
+<li><a href="https://darrowwealthmanagement.com/blog/spacex-ipo-employee-lockup-release-dates/">SpaceX IPO: Employee Lockup Release Dates | Darrow Wealth Management</a></li>
+<li><a href="https://www.marketbeat.com/ipos/lockup-expirations/">Upcoming IPO Lockup Period Expirations</a></li>
+<li><a href="https://realtrading.com/trading-blog/ipo-share-lock-up-period-explained/">IPO Share Lock Up Period Explained (plus Strategies) | Real Trading</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#macro`, `#rates`, `#Japan`, `#central bank`
+**Tags**: `#IPO`, `#lock-up`, `#insider selling`, `#equity markets`
 
 ---
 
 <a id="item-14"></a>
-## [BYD Leads July NEV Sales; NIO Deliveries Jump 71%](http://finance.eastmoney.com/a/202608023829156481.html) ⭐️ 7.0/10
+## [Japan’s Puzzling Yen Intervention Stirs Global Markets](https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-On August 2, BYD reported July new energy vehicle \(NEV\) sales of approximately 419,200 units, up from 344,300 in the same month last year. NIO also announced that it delivered 35,934 vehicles in July 2026, a 71.0% increase year-on-year. The strong sales figures from BYD and NIO indicate robust demand for electric vehicles in China, which could boost investor confidence and support EV stock valuations. The results also highlight intensifying competition and growth in the country&\#x27;s new energy vehicle sector. In BYD&\#x27;s passenger vehicle sales, battery electric vehicles accounted for about 233,100 units, while plug-in hybrid electric vehicles totaled approximately 178,000 units. NIO&\#x27;s delivery announcement was made via a filing to the Hong Kong Stock Exchange.
+Japanese authorities appear to have intervened in the yen market, a move the FT calls puzzling. The intervention is not fully confirmed, but it is seen as a high-impact policy action with potential to move global FX and risk sentiment. Japan is one of the world&\#x27;s largest economies, so any official yen intervention can reverberate across global currency markets and trading flows. It may also shift investors&\#x27; risk appetite and influence how other central banks approach currency policy. The article provides few specifics, offering no official confirmation, no date, and no disclosed size for the intervention. The lack of detail itself is notable, leaving traders to guess at the scale and timing.
 
-rss · 东方财富/比亚迪 · Aug 2, 12:35
+rss · FT Markets · Aug 3, 05:30
 
-**Background**: In China, the term &quot;new energy vehicle&quot; \(NEV\) refers to automobiles that are fully or predominantly powered by electric energy, including battery electric vehicles \(BEVs\), plug-in hybrid electric vehicles \(PHEVs\), and fuel cell electric vehicles. A PHEV combines a traditional petrol engine with an electric motor and a larger rechargeable battery than a standard hybrid, allowing it to run on electric power for shorter trips while retaining a gasoline engine as backup. This context helps explain BYD&\#x27;s sales breakdown between pure electric and plug-in hybrid models.
+**Background**: Currency intervention occurs when a central bank or finance ministry buys or sells its own currency to influence its exchange rate. Japan has a history of intervening in the yen market during periods of extreme volatility, and the FT’s headline plays on &\#x27;Team America: World Police&\#x27; to cast Japan’s authorities as &\#x27;yen police.&\#x27; Such unannounced actions are closely watched because they can have spillover effects beyond Japan.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_China">Plug-in electric vehicles in China - Wikipedia</a></li>
-<li><a href="https://www.byd.com/eu/electric-cars/what-is-a-nev">What is a NEV? | Electric &amp; Hybrid Cars | BYD Europe</a></li>
-<li><a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/new-energy-vehicles">New Energy Vehicles - an overview | ScienceDirect Topics</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#electric vehicles`, `#auto sales`, `#BYD`, `#NIO`, `#China`
+**Tags**: `#macro`, `#FX`, `#Japan`, `#policy`, `#central bank`
 
 ---
 
 <a id="item-15"></a>
-## [BYD July NEV Sales Hit 419,200 Units; Cumulative Sales Down 10.54% YoY](http://finance.eastmoney.com/a/202608023829131056.html) ⭐️ 7.0/10
+## [Storage Sector Selloff Hits GigaDevice Limit-Down; ChangXin Gains](https://www.caixin.com/2026-08-03/102471003.html) ⭐️ 7.0/10
 
-BYD reported July 2026 new energy vehicle \(NEV\) sales of 419,200 units, with production reaching 420,200 units. However, cumulative NEV sales for 2026 fell 10.54% year-over-year to 2.2277 million units. This monthly data is a key indicator for BYD and the broader Chinese EV market; the year-on-year decline despite strong July volumes suggests softening demand. It could pressure investor sentiment and point to headwinds for the industry. Passenger vehicles accounted for 411,100 units, comprising 233,100 battery-electric and 178,000 plug-in hybrid vehicles, while commercial vehicles contributed 8,139 units. The figures come from BYD&\#x27;s official production and sales bulletin for July 2026.
+On August 3, the A-share storage sector extended its decline for a fifth straight trading day. GigaDevice \(603986.SH\) hit limit-down at 340.74 yuan per share despite a buyback plan and an over-10-fold surge in first-half profit, while Jiangbolong \(301308.SZ\) and Bawei Storage \(688525.SH\) fell 7.84% and 8.49%, respectively. ChangXin Technology \(688825.SH\) bucked the trend and closed up 1.89%. This sharp selloff highlights a notable rotation of capital away from memory and storage stocks despite strong fundamentals, reflecting shifting market sentiment and profit-taking pressures. It directly affects investors in A-share semiconductor names and signals broader sector rotation dynamics in the current market environment. GigaDevice recorded a net main-fund outflow of over 4.8 billion yuan on August 3, the largest among all A-shares that day, with cumulative outflows exceeding 30 billion yuan over the past 20 trading days. Its market capitalization has shed over 350 billion yuan from its historical peak. Meanwhile, ChangXin, which still trades more than 500% above its IPO price, managed to close in positive territory, underscoring divergent fund flows within the sector.
 
-rss · 东方财富/比亚迪 · Aug 2, 08:34
+rss · 财新网 · Aug 3, 15:06
 
-**Background**: BYD is the world&\#x27;s largest seller of new energy vehicles, and its monthly production-and-sales bulletin is closely watched as a barometer of China&\#x27;s EV industry. NEVs cover battery-electric, plug-in hybrid, and commercial new-energy vehicles. A year-on-year decline in cumulative sales may reflect factors such as intensifying competition, subsidy policy changes, or weakening consumer demand.
+**Background**: In China&\#x27;s A-share market, main-board stocks are subject to a daily price limit of 10%, meaning a limit-down halts the stock at the lowest allowed price for that day. &\#x27;Main funds&\#x27; \(主力资金\) refers to large institutional or block-trade flows; persistent net outflows indicate institutional selling. Storage companies in this sector span different segments: GigaDevice focuses on NOR flash, DRAM and MCUs, ChangXin is a DRAM maker, while Jiangbolong and Bawei Storage are memory module vendors. The sharp earnings increases at some of these firms, like GigaDevice&\#x27;s over-10-fold profit growth, reflect a memory upcycle driven by AI demand, but high valuations and profit-taking have triggered the recent selloff.
 
-**Tags**: `#BYD`, `#EV`, `#sales data`, `#autos`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://bochk.etnet.com.hk/content/bochkweb/asharecontent/eng/ashare_education_ashare.php">Bank of China (Hong Kong) Limited</a></li>
+<li><a href="https://www.biyapay.com/en/blogdetail/3012-beginners-guide-what-to-do-when-a-stock-hits-limit">Beginner’s Guide: What to Do When a Stock Hits Limit-Down? Can You Still Trade? - BiyaPay Blog</a></li>
+<li><a href="https://www.linkedin.com/posts/mark-mayo-649abb8_dram-vs-nand-understanding-the-two-memory-activity-7416488923205537792-W-0l">DRAM vs NAND : Understanding the Two Memory Technologies...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#sector`, `#A-shares`, `#memory`, `#fund flow`, `#market sentiment`
 
 ---
 
 <a id="item-16"></a>
-## [BYD Seven-Month NEV Sales Fall 10.54% to 2.23 Million Units](http://finance.eastmoney.com/a/202608023829132291.html) ⭐️ 7.0/10
+## [Iran Says Hormuz Talks With Oman Near Completion; US Seeks Military Plans](https://international.caixin.com/2026-08-03/102470999.html) ⭐️ 7.0/10
 
-BYD announced on August 2 that its new energy vehicle \(NEV\) sales reached 419,211 units in July 2026, while cumulative sales for the first seven months totaled 2,227,722 units, down 10.54% year over year. This marks a significant decline for the world&\#x27;s largest NEV maker, potentially dampening investor sentiment and signaling softer demand in China&\#x27;s electric vehicle market. The drop could also influence the broader sector outlook and pricing competition among EV manufacturers. The company&\#x27;s cumulative NEV production for January-July was 2,234,379 units, an 8.98% year-over-year decrease. July production was 420,249 units, slightly exceeding sales for the month.
+Iranian Foreign Minister Araghchi said on August 2 that negotiations with Oman on the Strait of Hormuz have entered their final stage and are nearly complete. Iran&\#x27;s Foreign Ministry spokesperson added that the two sides discussed establishing a safe temporary shipping lane through the strait, while US President Trump claimed negotiations with Iran would begin on August 3, a claim Tehran denied. The Strait of Hormuz is a critical chokepoint for global oil shipments, so progress or collapse of these talks could significantly affect oil prices and geopolitical risk premiums. The apparent disagreement between Washington and Tehran on whether negotiations exist adds further uncertainty to an already tense region. Iran&\#x27;s Foreign Ministry spokesperson Esmail Baghaei said bilateral talks with Oman took place over the past seven to eight days, focusing on a temporary safe route for ships. Araghchi did not provide further details, and the US claim of upcoming negotiations was not corroborated by Iranian officials.
 
-rss · 东方财富/比亚迪 · Aug 2, 08:32
+rss · 财新网 · Aug 3, 14:03
 
-**Background**: New energy vehicles include battery-electric and plug-in hybrid vehicles, a core focus of BYD&\#x27;s business. BYD regularly publishes monthly sales and production data, and these figures are closely watched by investors as indicators of EV demand and industry momentum.
+**Background**: The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and is one of the world&\#x27;s most important oil transit routes. Iran and Oman have historically maintained close diplomatic ties, and Oman has often acted as a mediator in regional disputes. Tensions between Iran and the United States have periodically raised concerns about potential disruptions to shipping in the strait.
 
-**Tags**: `#BYD`, `#EV sales`, `#monthly update`, `#automotive sector`
+**Tags**: `#geopolitics`, `#oil`, `#Hormuz`, `#Iran`, `#Oman`
 
 ---
 
 <a id="item-17"></a>
-## [Kevin Warsh faces twin economic shocks as Fed chair](https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks) ⭐️ 7.0/10
+## [IF Coconut Water Market Cap Crashes 87%; Alibaba Tsai Divorce Won&\#x27;t Affect Shares](https://36kr.com/p/3923043072634498?f=rss) ⭐️ 7.0/10
 
-The Economist published an analysis asking how Fed Chair Kevin Warsh would act if America’s economy breaks, specifically if AI stocks collapse while oil prices soar simultaneously. The article presents Warsh as an &\#x27;enigmatic&\#x27; leader whose policy choices are difficult to predict. This matters because the Fed&\#x27;s reaction under stress will determine whether the U.S. economy tips into recession or stabilizes. Investors, businesses, and global markets are watching for clues about how Warsh would balance inflation control against supporting asset prices. The analysis highlights a policy dilemma: falling AI stocks normally call for interest-rate cuts, while surging oil prices typically justify rate hikes. With an &\#x27;enigmatic Fed,&\#x27; the article emphasizes the uncertainty around Warsh’s likely course of action.
+On July 31, IFBH \(06603.HK\), the &\#x27;first coconut water stock,&\#x27; issued a profit warning for H1 2026, forecasting net profit down 65-75% and revenue down 40-50%, sending its market value from approximately HK$12.6 billion to HK$1.6 billion. Separately, Alibaba chairman Joe Tsai announced his divorce from Wu Minghua, confirming no plan to sell Alibaba shares and no impact on his role. IFBH&\#x27;s profit warning reveals the fragility of a &\#x27;light-asset&\#x27; capital story, wiping out roughly 87% of market value in a short period and serving as a cautionary tale for IPO investors. Joe Tsai&\#x27;s divorce statement removes a potential overhang on Alibaba shares, reassuring investors about leadership stability during a critical period. IFBH listed on the Hong Kong Stock Exchange on June 30, 2025, at HK$27.80 per share, and once reached a market value of HK$12.68 billion, built on a narrative of &\#x27;46 employees supporting a ten-billion market cap.&\#x27; Joe Tsai and Wu Minghua had transitioned to a partnership focused on business and parenting; Tsai retains his roles at Alibaba, and the divorce does not change management positions at Brooklyn Sports Entertainment, the Brooklyn Nets, or the New York Liberty.
 
-rss · The Economist Finance · Aug 2, 16:12
+rss · 36氪 · Aug 3, 00:07
 
-**Background**: The Federal Reserve is the U.S. central bank, responsible for setting interest rates to manage inflation and employment. In recent years, AI-related stocks have become a major force in U.S. equity markets, and oil prices directly affect inflation through energy costs. A Fed chair facing both a stock-market crash and an inflation spike must choose between contradictory policy tools.
+**Background**: Profit warnings occur when a company expects its financial results to be significantly worse than previously expected, and they often trigger sharp share price declines. IFBH&\#x27;s case shows how a compelling narrative around a low employee count and high market cap can collapse quickly when fundamentals deteriorate. For Alibaba, executive shareholding and leadership stability are closely watched by investors, especially any news that might affect share disposal plans.
 
-**Tags**: `#Fed`, `#monetary policy`, `#AI stocks`, `#oil price`, `#macro`
+**Tags**: `#earnings`, `#profit-warning`, `#stock-move`, `#alibaba`, `#corporate-news`
 
 ---
 
 <a id="item-18"></a>
-## [S&amp;P 500 profits &\#x27;rock solid&\#x27; as earnings hit five-year high](https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Xingyun Technology Discloses 15.4B Yuan AI Compute, Storage Orders](https://36kr.com/newsflashes/3923802394081666?f=rss) ⭐️ 7.0/10
 
-America&\#x27;s largest companies are reporting &\#x27;rock solid&\#x27; profits, with S&amp;P 500 groups on track for the strongest earnings in five years. This marks a significant milestone in the current earnings season. Robust corporate profitability despite rising consumer costs signals economic resilience and may support stock valuations. For investors, this is a key macro earnings indicator that could influence market sentiment and portfolio strategies. The report highlights that S&amp;P 500 companies are on pace for their best earnings growth in five years, even as consumers face higher costs. The article does not provide specific earnings growth percentages or sector breakdowns, so the overall trend is the main focus.
+As of the end of July 2026, Xingyun Technology held over 15.404 billion yuan in 3- to 5-year long-term framework orders for computing and storage resources. Customers reportedly include leading central state-owned listed companies and major large-model R&amp;D institutions. The disclosure signals sustained demand for AI compute and storage from central state-owned enterprises and top large-model developers, reinforcing growth visibility for the AI infrastructure chain. Sufficient credit support also de-risks order fulfillment and capacity expansion. The company has cumulatively obtained 18.024 billion yuan in comprehensive credit lines, with 10.264 billion yuan already approved for use, which it says fully covers fulfillment of its billion-yuan order backlog and ongoing capacity expansion. The orders are structured as 3-5 year framework agreements rather than one-off purchases.
 
-rss · FT Markets · Aug 2, 16:00
+rss · 36氪 · Aug 3, 12:58
 
-**Background**: The S&amp;P 500 is a stock market index that tracks the performance of 500 of the largest publicly traded companies in the United States, serving as a common proxy for the overall U.S. stock market. Corporate earnings reports, released quarterly, are closely watched by investors as they provide insight into business health and economic conditions. Strong earnings can signal that companies are managing costs well and maintaining pricing power, even when inflation pressures affect consumers.
+**Background**: Long-term framework orders are advance commitments under which customers agree to procure compute or storage services over a multi-year period, giving infrastructure providers more predictable revenue. Credit lines from banks provide the working capital needed to build out data centers and procure hardware before customers pay in full. Xingyun Technology appears to be an AI computing infrastructure provider; its client base of central state-owned enterprises and large-model research institutions reflects the growing institutional demand for domestic AI compute capacity.
 
-**Tags**: `#earnings`, `#S&amp;P 500`, `#macro`, `#corporate profits`
+**Tags**: `#订单`, `#AI算力`, `#存储`, `#公司动态`, `#授信`
 
 ---
 
 <a id="item-19"></a>
-## [US employment data may prompt Fed rate rethink](https://www.ft.com/content/b3042c38-c38c-48f9-aa8c-99901ed440a9?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Hong Kong, Mainland Regulators Unveil Measures to Deepen Capital Market Ties](https://36kr.com/newsflashes/3923756085360775?f=rss) ⭐️ 7.0/10
 
-The Financial Times has published a preview of upcoming US employment data for July, suggesting the figures could trigger a rethink on interest rate policy. The article is part of the FT&\#x27;s &\#x27;Market Questions&\#x27; weekly guide to the week ahead. US employment data is a critical indicator for Federal Reserve rate decisions, and a surprise in either direction could shift market expectations for future rate moves. The analysis matters for investors, traders, and anyone tracking the macroeconomic outlook. The preview does not provide specific numbers but highlights the potential market-moving nature of the report. It appears in the FT&\#x27;s &\#x27;Market Questions&\#x27; feature, which focuses on the key economic questions for the week ahead.
+Hong Kong&\#x27;s Securities and Futures Commission \(SFC\) and the China Securities Regulatory Commission \(CSRC\) jointly announced a package of measures on March 3 to deepen practical cooperation and coordinated development. The measures span listing and financing, index cooperation, futures products, ETFs, financial institution internationalization, green finance, and professional qualification facilitation. This signals strong regulatory policy support for Hong Kong&\#x27;s status as an international financial center, potentially boosting cross-border capital flows and investor sentiment. The breadth of areas covered — from listings to green finance — indicates a coordinated push to strengthen Hong Kong&\#x27;s role in connecting mainland and global markets. No specific figures or detailed implementation timelines were disclosed in the announcement, limiting its immediate actionable impact. The measures touch on multiple regulatory domains, including index cooperation for cross-border products and facilitation of professional qualifications for financial practitioners.
 
-rss · FT Markets · Aug 2, 11:00
+rss · 36氪 · Aug 3, 12:11
 
-**Background**: The US Federal Reserve sets interest rates based on its dual mandate of maximum employment and price stability. Employment data, such as non-farm payrolls, are closely watched by policymakers and markets as a signal of economic health. Strong employment might argue for keeping rates higher for longer, while weak data could raise expectations for rate cuts.
+**Background**: Hong Kong serves as the primary offshore capital market for mainland Chinese companies and a key gateway for international investors accessing China. The SFC and CSRC have a long history of regulatory cooperation, including arrangements such as Stock Connect programs. The newly announced measures aim to further integrate the two markets while maintaining regulatory oversight. Green finance refers to financial investments that support environmentally sustainable projects, while professional qualification facilitation helps professionals from one jurisdiction practice more easily in the other.
 
-**Tags**: `#macro`, `#employment`, `#Fed`, `#rates`, `#economic data`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://rsj.beijing.gov.cn/xxgk/2024zcwj/202509/t20250912_4200266.html">关于印发《北京市国际职业资格认可目录 （2025年版）》的通知_ 北京市人力资源和社会保障局_政务公开_政策文件</a></li>
+<li><a href="https://mhuanbao.bjx.com.cn/topics/lusejinrongtixi/">绿 色 金 融 体系-北极星环保网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#policy`, `#capital markets`, `#Hong Kong`, `#China`, `#regulation`
 
 ---
 
 <a id="item-20"></a>
-## [Morgan Stanley&\#x27;s IPO After-Party: $74bn Wealth Management Surge](https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Sungrow Plans 500M-1B Yuan Buyback for Employee Incentives](https://36kr.com/newsflashes/3923746577692803?f=rss) ⭐️ 7.0/10
 
-Morgan Stanley reported a $74bn surge in wealth management assets in the second quarter, driven by its underwriting of SpaceX and other IPOs. The bank leveraged its IPO pipeline to attract substantial new client assets. This underscores Morgan Stanley&\#x27;s success in cross-selling investment banking services to its wealth management clients. It demonstrates how large banks can use IPO underwriting to drive asset growth, boosting fee income and client loyalty. The $74bn asset gain was specifically attributed to Morgan Stanley&\#x27;s underwriting of SpaceX and other new issues. Wealth management assets under management have become an increasingly important earnings driver for the bank, complementing its traditional trading and advisory businesses.
+Sungrow Power announced a plan to repurchase its own shares for 500 million to 1 billion yuan, at a maximum price of 188 yuan per share. The repurchased shares will be used for employee stock ownership or equity incentive plans. This buyback signals management&\#x27;s confidence in the company&\#x27;s value and aims to support the share price. As a major renewable energy inverter and storage company, the move could boost investor sentiment and align employee interests with the company&\#x27;s long-term growth. The buyback will be executed through centralized competitive bidding on the secondary market, with a 12-month repurchase window from board approval. The upper price of 188 yuan per share implies the company is willing to buy at a premium depending on the current trading level, reflecting a strong signal of undervaluation.
 
-rss · FT Markets · Aug 2, 10:00
+rss · 36氪 · Aug 3, 12:01
 
-**Background**: Investment banks underwrite IPOs to bring private companies to public markets, earning fees and often providing share allocations to preferred clients. Morgan Stanley has built a large wealth management division, partly through acquisitions such as E\*Trade and Eaton Vance, and uses corporate relationships to channel new assets into that division. A successful IPO can incentivize wealthy clients to park more money with the bank in exchange for access to hot stock deals.
+**Background**: Employee stock ownership plans \(ESOPs\) allow employees to hold shares in the company they work for, aligning their incentives with corporate performance. Centralized competitive bidding \(集合竞价\) is the standard open-auction mechanism used in Chinese stock exchanges during the trading session. Such buybacks are often used by listed companies to distribute shares for employee incentives while reducing market float and boosting stock prices.
 
-**Tags**: `#wealth management`, `#IPO`, `#Morgan Stanley`, `#financials`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.huawei.com/-/media/corporate/pdf/press-center/unnamed+item.pdf">Zhibiao Zhu 1 , James Hoffmire 2 , John Hoffmire 3 , Fusheng Wang 4</a></li>
+<li><a href="https://xueqiu.com/6265633112/207005338">xueqiu.com/6265633112/207005338</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#share buyback`, `#renewable energy`, `#corporate action`, `#equity incentive`, `#Sungrow`
 
 ---
