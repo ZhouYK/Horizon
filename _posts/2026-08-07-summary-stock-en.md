@@ -6,398 +6,408 @@ lang: en
 report: stock
 ---
 
-> From 272 items, 20 important content pieces were selected
+> From 278 items, 20 important content pieces were selected
 
 ---
 
-1. [US-Japan Joint Yen Intervention Sparks 5% Surge, Dollar Index Breaks 100](#item-1) ⭐️ 9.0/10
-2. [Dangdai Group Founder Ai Luming Detained for Suspected Illegal Fundraising](#item-2) ⭐️ 9.0/10
-3. [BYD Launches &\#x27;Flash Charge China&\#x27; Strategy to Lead EV Fast-Charging Era](#item-3) ⭐️ 8.0/10
-4. [China Issues Mandatory Safety Standard for L3/L4 Autonomous Driving; BYD Exec Comments](#item-4) ⭐️ 8.0/10
-5. [Mexico Deploys Troops to Michoacán as US Suspends Avocado Imports](#item-5) ⭐️ 8.0/10
-6. [Partners Group nears €2bn deal to buy beauty group Aroma-Zone](#item-6) ⭐️ 8.0/10
-7. [BP&\#x27;s North Sea Exit Signals Scottish Energy Wake-Up Call](#item-7) ⭐️ 8.0/10
-8. [Nvidia may cut next-gen Rubin Ultra GPU memory specs amid HBM shortage](#item-8) ⭐️ 8.0/10
-9. [Chinese VLCC Reroutes Around Africa to Load Saudi Crude via Egypt](#item-9) ⭐️ 8.0/10
-10. [Glencore swings to H1 profit as oil market turmoil opens arbitrage](#item-10) ⭐️ 8.0/10
-11. [Meiji Exits China Dairy Business, Sells to AustAsia Group](#item-11) ⭐️ 8.0/10
-12. [US Proposes Comprehensive Ban on Chinese Intelligent Connected Vehicles](#item-12) ⭐️ 8.0/10
-13. [BYD Ranks Sixth Globally in H1 2026 Auto Sales, Chinese Automakers Take Three Top-Ten Spots](#item-13) ⭐️ 7.0/10
-14. [BYD Launches Customized Hybrids in Brazil, Accelerating Localization](#item-14) ⭐️ 7.0/10
-15. [BYD Unveils New Tang SUV with Pre-Sale Price of 250k–320k Yuan](#item-15) ⭐️ 7.0/10
-16. [Jane Street in Talks to Move $11bn Debt to Pimco and Investors](#item-16) ⭐️ 7.0/10
-17. [ConocoPhillips CEO Ryan Lance to Step Down After 14 Years](#item-17) ⭐️ 7.0/10
-18. [US Pension Funds and Business Groups Clash Over SEC Climate Disclosure Shift](#item-18) ⭐️ 7.0/10
-19. [Ares scales back €1bn private credit fund as investors balk at valuations](#item-19) ⭐️ 7.0/10
-20. [Zhipu AI and Minimax Join Stock Connect; StepFun May List Next](#item-20) ⭐️ 7.0/10
+1. [Iran&\#x27;s oil exports stall as US blockade idles Kharg Island](#item-1) ⭐️ 9.0/10
+2. [US euro sale to prop up yen blindsides ECB](#item-2) ⭐️ 9.0/10
+3. [Everbright Sells Jiasitang Stake to Tongrentang Amid Corruption Probe](#item-3) ⭐️ 9.0/10
+4. [Unitree Sets IPO Price at 150.8 Yuan, Valuing Firm at 61 Billion Yuan](#item-4) ⭐️ 9.0/10
+5. [BYD Files Six Solid-State Battery Patents, Targets 2027 Production](#item-5) ⭐️ 8.0/10
+6. [BYD Wins UAE Gigawatt-Scale Storage Deal for All-Weather Renewable Station](#item-6) ⭐️ 8.0/10
+7. [UAE Backs ADNOC&\#x27;s Post-OPEC Expansion Strategy](#item-7) ⭐️ 8.0/10
+8. [El Niño Threatens Disruptions to Global Commodity Markets](#item-8) ⭐️ 8.0/10
+9. [US July Jobs Report: Payrolls Drop 23,000, Unemployment Rate Falls to 4.1%](#item-9) ⭐️ 8.0/10
+10. [Former Financial Regulator Li Yunze Removed as NPC Deputy](#item-10) ⭐️ 8.0/10
+11. [CALB&\#x27;s Failure Rate 20x Higher Than Peers; Third Place at Risk](#item-11) ⭐️ 8.0/10
+12. [DRC Bans Copper, Cobalt Concentrate Exports; Chinese Battery Makers&\#x27; Share Hits Record](#item-12) ⭐️ 8.0/10
+13. [US Proposes Comprehensive Ban on Chinese Intelligent Connected Vehicles](#item-13) ⭐️ 8.0/10
+14. [BYD Ranks Sixth in H1 2026 Global Auto Sales; Three Chinese Automakers in Top 10](#item-14) ⭐️ 7.0/10
+15. [BYD Launches First K-Car in Japan; First-Week Orders Surge, Pressuring Toyota](#item-15) ⭐️ 7.0/10
+16. [BYD&\#x27;s 2.9L/100km hybrid tech challenges future of fuel vehicles.](#item-16) ⭐️ 7.0/10
+17. [UK Watchdog Cracks Down on Financial Crime After MFS Collapse](#item-17) ⭐️ 7.0/10
+18. [DR Congo probes uranium-contaminated cobalt exports](#item-18) ⭐️ 7.0/10
+19. [Goodwin explores sale of defence business after buyout bids](#item-19) ⭐️ 7.0/10
+20. [Yen intervention highlights dangers of monetary experiments](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [US-Japan Joint Yen Intervention Sparks 5% Surge, Dollar Index Breaks 100](https://international.caixin.com/2026-08-06/102471767.html) ⭐️ 9.0/10
+## [Iran&\#x27;s oil exports stall as US blockade idles Kharg Island](https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-In late July 2026, the U.S. and Japan carried out their first joint currency intervention since the 1998 Asian financial crisis, lifting the yen from 163.40 to 155.21 per dollar \(roughly 5%\) and driving the dollar index below 100. U.S. Treasury Secretary Bessent was photographed at Camp David with a to-do note confirming plans to buy 5-10 billion dollars&\#x27; worth of yen. This rare joint intervention signals unprecedented official coordination between Washington and Tokyo, with immediate consequences for global FX markets. The sharp yen rebound and the dollar index breaking below 100 will reshape capital flows, trade competitiveness, and yen carry-trade positions worldwide. Bessent reportedly wrote the currency name out in full as Japanese Yen because he worried reporters would not understand the abbreviation JPY. Other currencies responded unevenly: the euro gained 1.2% against the dollar on July 29-30, while offshore RMB only slipped by less than 0.02%.
+A US naval blockade is halting tankers from carrying Iranian crude, causing Iran&\#x27;s oil exports to stall. Kharg Island, a key export terminal, has effectively stopped operations. This is a major geopolitical escalation that directly threatens global oil supply and could drive oil prices and energy market volatility upward. The disruption to Iran&\#x27;s exports may affect global consumers and energy security. The report describes &\#x27;naval interdiction&\#x27; as the mechanism halting tankers carrying Tehran&\#x27;s crude. Kharg Island appears to have been idled, though the exact scope and duration of the blockade remain unverified.
 
-rss · 财新网 · Aug 7, 00:26
+rss · FT Markets · Aug 7, 21:12
 
-**Background**: Foreign-exchange intervention means monetary authorities actively buy or sell currencies to steer exchange rates, and joint action by two governments is extremely rare. The yen had just hit a nearly 40-year low before the intervention, reflecting the wide interest-rate gap between the U.S. and Japan. During the 1998 Asian financial crisis, Washington last joined Tokyo to support the yen. Analysts cited in the article say that promoting Japanese capital repatriation is the most powerful direct policy lever for the yen over the long run.
+**Background**: Kharg Island is Iran&\#x27;s main crude oil export terminal in the Persian Gulf, handling the majority of the country&\#x27;s seaborne oil shipments. The US has long used sanctions and naval enforcement to restrict Iranian oil revenues. A blockade that halts tankers at this terminal effectively cuts off Iran&\#x27;s primary oil export route, carrying major implications for global markets.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Currency_intervention">Currency intervention - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/u/usdx.asp">Understanding the U.S. Dollar Index (USDX) and Trading Tips</a></li>
-<li><a href="https://blog.currencycloud.com/the-difference-between-cny-and-cnh">The difference between onshore and offshore RMB (CNY &amp; CNH ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Forex`, `#Central bank intervention`, `#Macro`, `#US-Japan`, `#Policy`
+**Tags**: `#oil`, `#geopolitics`, `#energy`, `#supply disruption`, `#Iran`
 
 ---
 
 <a id="item-2"></a>
-## [Dangdai Group Founder Ai Luming Detained for Suspected Illegal Fundraising](https://wenews.caixin.com/2026-08-06/102472068.html) ⭐️ 9.0/10
+## [US euro sale to prop up yen blindsides ECB](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-On August 4, 2026, lawyer Lan He revealed on Weibo that Ai Luming, founder of Dangdai Group, has been criminally detained by Wuhan police on suspicion of illegally absorbing public deposits and is held at Wuhan Second Detention Center. Several shareholders were also detained as part of the same case. The criminal detention of the founder marks a dramatic escalation of Dangdai Group&\#x27;s debt crisis, transforming it into a case with alleged fraud elements. It will heighten pressure on the group&\#x27;s creditors, bondholders and minority shareholders, and signals tougher legal accountability for founders of over-leveraged private conglomerates. Dangdai Group was once one of Hubei&\#x27;s largest private enterprise groups, with peak total assets exceeding 100 billion yuan. Its debt crisis erupted in the first half of 2021, and it entered judicial restructuring in November 2023 with a reported insolvency gap of about 70 billion yuan; in 2025, a China Merchants Group subsidiary invested over 10 billion yuan to take over core asset Humanwell Healthcare \(600079.SH\).
+The US Treasury sold euros to support the yen in a historic currency intervention, catching the European Central Bank off guard. ECB President Christine Lagarde and US Treasury Secretary Scott Bessent spoke only after the action was taken. This marks a rare and significant US intervention in foreign exchange markets, potentially reshaping expectations about central bank cooperation and currency policy. The move could have major implications for global FX markets, the euro-yen exchange rate, and international monetary relations. The intervention involved selling euros to buy yen, an unusual operation since the US typically avoids direct currency market actions. The fact that Lagarde and Bessent communicated only after the intervention indicates a lack of prior coordination with the ECB.
 
-rss · 财新网 · Aug 7, 00:07
+rss · FT Markets · Aug 7, 08:08
 
-**Background**: Dangdai Group was founded in the late 1980s by Ai Luming and five other Wuhan University alumni, and expanded from pharmaceuticals into finance, real estate, sports and culture, education and tourism. The group&\#x27;s high-debt, diversified expansion eventually collapsed under an economic downturn; the direct trigger for both its debt crisis and the founder&\#x27;s criminal liability was the concentrated exposure of illegal fundraising risk.
+**Background**: Currency intervention, also known as foreign exchange market intervention, is a monetary policy operation where a government or central bank buys or sells foreign currency to influence exchange rates. The US has historically been reluctant to intervene, preferring market-determined exchange rates, making this action particularly notable. Support for the yen through euro sales adds another layer of complexity because it involves a major currency not directly tied to the US dollar.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84">非法集资 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://jrj.beijing.gov.cn/jrxcjy/jraq/djffjz/202105/t20210521_2394694.html">存在这三种情况就是非法集资！</a></li>
-<li><a href="https://www.nanjing.gov.cn/zt/2024nffffjzjzxc/zswd/202405/t20240516_4668098.html">非法集资的定义和基本特征是什么？</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Currency_intervention">Currency intervention - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/f/foreign-exchange-intervention.asp">Foreign Exchange Intervention Definition, Strategies, Goals</a></li>
 
 </ul>
 </details>
 
-**Discussion**: No comments were provided in the news item, so there is no community discussion to summarize.
-
-**Tags**: `#corporate-crisis`, `#fraud`, `#legal-action`, `#private-enterprise`, `#debt`
+**Tags**: `#central bank`, `#FX intervention`, `#policy`, `#yen`, `#euro`
 
 ---
 
 <a id="item-3"></a>
-## [BYD Launches &\#x27;Flash Charge China&\#x27; Strategy to Lead EV Fast-Charging Era](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3SVpQSGtXTUJDWmp3WC1IUnJQZnNBZjNpVkg1RmZFejhMTXFlQkF2SHlac05IdTB6cENSa0loZE01bDY0SmNpTW5OWGluVi1hZzBMTE5EM2E3LV9xMWc?oc=5) ⭐️ 8.0/10
+## [Everbright Sells Jiasitang Stake to Tongrentang Amid Corruption Probe](https://wenews.caixin.com/2026-08-07/102472368.html) ⭐️ 9.0/10
 
-BYD announced its &quot;Flash Charge China&quot; strategy on March 6, 2026, planning to build 20,000 flash charging stations nationwide by the end of 2026. The company also unveiled its second-generation blade battery and new flash charging technology. This marks a major push by the world&\#x27;s leading EV maker into fast-charging infrastructure, potentially reshaping the EV competitive landscape and accelerating EV adoption in China. It also affects BYD&\#x27;s valuation and the broader charging ecosystem. The plan includes 18,000 stations embedded in urban areas, with coverage within 3 km in first- and second-tier cities, 5 km in third- and fourth-tier cities, and 6 km in fifth- and sixth-tier cities. The charging network is open to third-party brands, and tests show 5-minute charging for 400 km and roughly 9-minute full charges depending on the vehicle&\#x27;s BMS.
+In February 2026, Everbright Group transferred its combined 28.48% stake in pharmaceutical distributor Jiasitang \(002462.SZ\) to Tongrentang Group for about 1.461 billion yuan. After the deal, Tongrentang becomes the controlling shareholder, with the Beijing SASAC as the new actual controller; the article also reveals that more than ten current and former mid-to-senior managers are being investigated in a medical corruption case, and two consecutive board secretaries resigned abnormally. This is a significant ownership reshuffle in China&\#x27;s pharmaceutical distribution and elderly-care sector: a central state-owned financial giant is exiting its only listed health-related company, while a Beijing SASAC-backed pharmaceutical group expands its industrial footprint. The deal&\#x27;s entanglement with a corruption probe underscores rising compliance and governance risks facing China&\#x27;s healthcare industry. Jiasitang, a pharmaceutical distribution platform, was previously grouped with Everbright Elderly Care under the Everbright Health segment; an insider said the elderly-care business had &\#x27;never done very well&\#x27; compared with peers such as Taikang Home, CPIC Home and Vanke Suiyuan, and the health segment is now weakened within the group. Everbright&\#x27;s industrial arm previously held three listed companies — Everbright Environment, China CYTS Tours and Jiasitang — so this sale leaves it with two.
 
-google\_news · 汽车之家 · Aug 6, 14:20
+rss · 财新网 · Aug 7, 13:52
 
-**Background**: Fast charging refers to high-power DC charging that can replenish a large amount of range in minutes. BYD&\#x27;s new &quot;flash charging&quot; technology builds on its second-generation blade battery, improving thermal management and charging curves. With the &quot;Flash Charge China&quot; strategy, BYD pairs its battery tech with a massive proprietary charging network, similar to Tesla&\#x27;s Supercharger approach, to reduce range anxiety and support the transition to EVs.
+**Background**: Everbright Group is a large central state-owned financial conglomerate with financial and industrial arms; its industrial arm focuses on environmental protection, cultural tourism and elderly care. Jiasitang is a Shenzhen-listed pharmaceutical distribution company, and its buyer, Tongrentang Group, is a major state-owned pharmaceutical enterprise ultimately controlled by the Beijing SASAC. In recent years China has intensified anti-corruption enforcement in the healthcare sector, and such investigations have increasingly overlapped with corporate deals. The article does not disclose the specific charges or progress of the investigation into Jiasitang&\#x27;s managers.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260310A00VT200">短评｜比亚迪 闪 充 中 国 ：把 充 电这件事彻底做透了_腾讯新闻</a></li>
-<li><a href="https://video.sina.cn/finance/2026-03-06/detail-inhpzrep9228208.d.html?vt=4">比亚迪发布 闪 充 中 国 战 略 ，预计2026年底建成2万座 | 手机新浪网</a></li>
-<li><a href="https://post.smzdm.com/p/a70rpg4d/">实测5分钟 充 400km...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#EV`, `#strategy`, `#fast charging`, `#China`
+**Tags**: `#M&amp;A`, `#corruption`, `#healthcare`, `#governance`, `#China`
 
 ---
 
 <a id="item-4"></a>
-## [China Issues Mandatory Safety Standard for L3/L4 Autonomous Driving; BYD Exec Comments](https://news.google.com/rss/articles/CBMitwJBVV95cUxPUG8yMVlCZlJHdnpBRlA1eTdBUENyOVF5ZmphSGZ6Zmd5LTVrR0tJQUZaNnJ2eTM2eTR5VWIzaDRVNWsyNGdRdF9tcGQxUU81OWJySUZNSW1WTE9ROUpWWEFzeURJaXo0a2YzbFZqd3dEZWM4Tzk5b0Z3WHdYZnpvT3Y2eWo5Y3B5TVp6TkprYVM1aHVLazdWV0RFMXdEY0tGdmtFTG9UcW9fOFBGM3NJajlDUXlHLU05eHAxWEQwd3JZQ2ZYWHZ5T1NUYzctWnFHRFB0eUZpaFVZWjNvMVJGWDA0cTZJRVRPZ2FNa1oyZ19NZTJYT1FhR2N4MUhvRFUxQ09xTS14YWNybG9aTkVzT2tGaHFOYmxPblM3REZjUUpXa3dCT1dQcFZvQmx4WWI0dnpNV3hTSQ?oc=5) ⭐️ 8.0/10
+## [Unitree Sets IPO Price at 150.8 Yuan, Valuing Firm at 61 Billion Yuan](https://www.caixin.com/2026-08-07/102472114.html) ⭐️ 9.0/10
 
-China has released a mandatory national standard covering the safety of L3/L4 autonomous driving systems for intelligent connected vehicles. BYD executive He Zhiqi commented on the new rule, discussing its boundaries and requirements. This is China&\#x27;s first mandatory national safety standard for high-level automated driving, giving automakers like BYD a clear compliance baseline. It could accelerate deployment of L3/L4 vehicles and reshape the intelligent connected vehicle industry. The standard applies to L3 and L4 autonomous driving systems and sets safety requirements within a defined operational design domain \(ODD\). He Zhiqi&\#x27;s remarks highlight the importance of clearly defining system boundaries and operating rules under the new regulation.
+Unitree Technology priced its STAR Market IPO at 150.8 yuan per share on August 6, 2026, raising 6.09 billion yuan and implying a post-issuance market value of about 61 billion yuan. The price is well above market estimates of around 42 billion yuan, making it the first humanoid robot company to list on A-shares. As the first pure-play humanoid robot stock on the A-share market, Unitree&\#x27;s IPO sets a valuation benchmark for the sector, which previously lacked comparable listed peers. Market participants expect its post-listing market value could easily surpass 100 billion yuan, potentially reshaping sentiment toward robotics stocks and new listings. The offering price corresponds to Unitree&\#x27;s 2025 diluted static price-to-sales ratio of 35.89 times, above the average of comparable listed companies, and a diluted price-to-earnings ratio of 219.23 times based on the lower of profit with or without non-recurring items. The fundraising size was increased from the 4.2 billion yuan disclosed in the prospectus to 6.09 billion yuan, implying a pre-issuance valuation of about 54.9 billion yuan.
 
-google\_news · 新浪财经 · Aug 6, 04:19
+rss · 财新网 · Aug 7, 12:19
 
-**Background**: Autonomous driving is classified into levels from L0 to L5: at L3 the driver can take hands off but must remain ready to intervene, while at L4 the system can drive without human fallback within its ODD. ODD defines the environmental, geographical, and temporal conditions under which an automated system may operate. China has been building a national intelligent connected vehicle \(ICV\) standard system, and this mandatory safety standard is a key step toward mass deployment.
+**Background**: Static price-to-sales ratio \(P/S\) divides a company&\#x27;s market value by its historical annual revenue, while diluted earnings per share account for all potential common shares, making the diluted P/E a conservative valuation measure. In venture capital terms, pre-money valuation is the company&\#x27;s value before a new investment, while post-money valuation equals pre-money plus the new funds raised. A-share investors lack direct comparable humanoid-robot pure plays, so they may use growth expectations and related robotics peers to gauge Unitree&\#x27;s worth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Self-driving_car">Self- driving car - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Operational_design_domain">Operational design domain - Wikipedia</a></li>
-<li><a href="https://unece.org/sites/default/files/2023-09/GRVA-17-27e.pdf">Guideline of Intelligent and Connected Vehicle Standard System</a></li>
+<li><a href="https://www.toutiao.com/article/7482814141942546971/">动态VS静态市销率：哪把尺子量出真价值？ - 今日头条</a></li>
+<li><a href="https://blog.csdn.net/wumingxiaoyao/article/details/143166649">小白投资理财 - 解读市销率，市现率_市现率 市销率-CSDN博客</a></li>
+<li><a href="https://www.kuaiji.com/zhuanyewenda/892187738.html">摊 薄 后 每股 盈 利是什么-会计网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#autonomous-driving`, `#regulation`, `#China`, `#EV`
+**Tags**: `#IPO`, `#人形机器人`, `#估值`, `#科创板`
 
 ---
 
 <a id="item-5"></a>
-## [Mexico Deploys Troops to Michoacán as US Suspends Avocado Imports](https://www.ft.com/content/f6f53b98-9661-4d50-bf25-b32738643cac?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [BYD Files Six Solid-State Battery Patents, Targets 2027 Production](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BRFZkZ1hRamJmN3lNbmNEOExVWVBKSzBiNFNrQTVOWW5PdzBZVjZKTHNCNVF3aUM1bDBGaWduRkZIRHEtMk5SSm1rNl9Zd0xyODVhUThxaXJYb0U?oc=5) ⭐️ 8.0/10
 
-Mexico has deployed hundreds of troops to Michoacán after the US suspended avocado imports from the state following the withdrawal of US inspectors amid violence. The suspension halts shipments of the fruit from Mexico&\#x27;s main avocado-growing region. The suspension is a major disruption to the global avocado supply chain, since Michoacán is the world&\#x27;s leading avocado-producing region. It will likely push up avocado prices for US consumers and hit Mexican producers&\#x27; revenue, while highlighting how cartel violence can affect international trade. The US took action after its inspectors were withdrawn for security reasons, effectively halting new avocado shipments. Troop deployment is meant to secure the region and allow inspections to resume, but no timeline for restoring imports has been announced.
+BYD has filed six solid-state battery patents and plans to begin production of dual-electrolyte cathode solid-state cells by 2027. The filings center on a dual-electrolyte cathode design that combines halide and sulfide electrolyte components. This signals a major step toward commercializing solid-state batteries, which promise higher energy density and improved safety over conventional liquid-electrolyte lithium-ion batteries. If BYD meets its 2027 target, it could strengthen the company&\#x27;s competitive edge in EVs and push the broader battery industry toward next-generation technology. The dual-electrolyte cathode approach aims to replace traditional liquid electrolytes by combining halide and sulfide electrolyte components to improve interface stability. However, the patent applications describe material designs and do not include specific performance metrics or vehicle testing data.
 
-rss · FT Markets · Aug 6, 21:12
+google\_news · user.guancha.cn · Aug 7, 17:04
 
-**Background**: Avocados are one of Mexico&\#x27;s most valuable agricultural exports, and the vast majority of avocados consumed in the US come from Michoacán. The state has long struggled with organized crime groups that extort growers and control parts of the supply chain, occasionally prompting safety-related disruptions like this one.
+**Background**: Solid-state batteries use a solid electrolyte instead of the liquid electrolyte found in conventional lithium-ion batteries, offering potential gains in energy density and safety. BYD is a major Chinese EV and battery manufacturer, and its push into solid-state technology aligns with broader industry efforts to commercialize the technology. The company has also disclosed earlier cathode-related patents, including CN113725405A and CN121237834A.
 
-**Tags**: `#trade`, `#supply chain`, `#agriculture`, `#geopolitics`, `#imports`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://battery-tech.net/battery-markets-news/byd-unveils-dual-electrolyte-solid-state-battery-cathode/">BYD Unveils Dual-Electrolyte Solid-State Battery Cathode</a></li>
+<li><a href="https://carnewschina.com/2026/07/29/byds-new-solid-state-battery-patent-reveals-a-dual-electrolyte-cathode-approach-to-interface-challenges/">BYD’s new solid-state battery patent reveals a dual ...</a></li>
+<li><a href="https://carnewschina.com/2026/08/06/byd-files-six-solid-state-battery-patents-eyes-2027-production-with-dual-electrolyte-cathode-cells/">BYD files six solid-state battery patents, eyes 2027 ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#BYD`, `#solid-state battery`, `#EV`, `#patents`, `#technology`
 
 ---
 
 <a id="item-6"></a>
-## [Partners Group nears €2bn deal to buy beauty group Aroma-Zone](https://www.ft.com/content/235a98f8-7833-450f-a9aa-f5049d361d30?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [BYD Wins UAE Gigawatt-Scale Storage Deal for All-Weather Renewable Station](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBVFh2YzBJM0FjTWdXU1BYSkcySXVuTHNlVzBQY2RKT1A0YWV1d2V5eFZrZkZnWTZvd25tYTJDUU1Vb2xXbzkyNmJiVG9Wb1FYSHY1WTZEeHpsb29EYWlB?oc=5) ⭐️ 8.0/10
 
-Partners Group is in advanced talks to acquire Aroma-Zone, a French beauty and wellness group, from Eurazeo in a deal valued at nearly €2 billion. Eurazeo confirmed it is discussing the sale of its stake in Aroma-Zone. If completed, this would be one of the larger European consumer deals of the year, underscoring private equity appetite for high-growth beauty and wellness brands. The deal could reshape Aroma-Zone&\#x27;s ownership and strategy while providing a significant exit for Eurazeo. Aroma-Zone sells face serums and food supplements, positioning it in the natural beauty and wellness segment. The talks may still not result in a final agreement, and the reported price is around €2 billion.
+BYD has secured a landmark energy storage contract in the UAE to build the world&\#x27;s first all-weather gigawatt-level renewable energy station. The project will deploy BYD&\#x27;s Haohan energy storage system, according to a report from Chinese outlet CarbonSoul Energy Storage. This contract win boosts BYD&\#x27;s presence in the global energy storage market and could involve billions of dollars in revenue. It also signals increasing demand for massive storage projects in the Middle East as the region accelerates its renewable energy transition. The Haohan system uses the world&\#x27;s largest 2170Ah blade battery cell, achieving a system-level volume energy density of 233 kWh/m³ and a minimum unit capacity of 14.5 MWh. It is reportedly the first storage architecture in China to pass the GB44240 safety standard, with a weight energy density of 134.88 Wh/kg.
 
-rss · FT Markets · Aug 6, 07:11
+google\_news · 碳索储能网 · Aug 7, 01:19
 
-**Background**: Aroma-Zone is a French beauty company known for DIY cosmetics, essential oils, face serums, and food supplements. Eurazeo, a French asset manager, has owned a majority stake in the company and is now exploring a sale. Partners Group is a Swiss-based global private markets firm that manages investments across private equity, real estate, and infrastructure.
+**Background**: Energy storage systems help integrate variable renewable sources like solar and wind by storing excess power for use when generation is low. A &\#x27;gigawatt-level&\#x27; project typically refers to a station with power or storage capacity measured in gigawatts or gigawatt-hours. BYD&\#x27;s Haohan system is designed for large-scale grid applications, building on the company&\#x27;s blade battery technology to improve safety and energy density. The UAE has been investing heavily in renewables and storage as part of its plan to diversify the economy away from oil.
 
-**Tags**: `#M&amp;A`, `#private equity`, `#beauty`, `#consumer`, `#deal`
+<details><summary>References</summary>
+<ul>
+<li><a href="http://m.solarzoom.com/article-196954-1.html">比 亚 迪 ： 浩 瀚 储 能 系 统 实现 能 量颠覆性突破_SOLARZOOM光 储 亿家</a></li>
+<li><a href="https://news.qq.com/rain/a/20250919A06UTT00">news.qq.com/rain/a/20250919A06UTT00</a></li>
+<li><a href="https://news.goalfore.cn/latest/detail/95280.html">拉美Top 级 ！ 西班牙安迅 能 能 源 (ACCIONA Energía)智利Malgarida...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#BYD`, `#energy storage`, `#UAE`, `#renewable energy`, `#contract win`
 
 ---
 
 <a id="item-7"></a>
-## [BP&\#x27;s North Sea Exit Signals Scottish Energy Wake-Up Call](https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [UAE Backs ADNOC&\#x27;s Post-OPEC Expansion Strategy](https://www.ft.com/content/1cc700ca-730a-4138-a1a3-f69defa62945?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-BP is exiting the North Sea, dealing a major blow to Scotland&\#x27;s oil and gas industry. The departure comes at a time when Scottish renewable energy projects are also faltering. BP is one of the world&\#x27;s largest energy companies, so its retreat from the North Sea signals a structural decline for Scottish oil and gas. The simultaneous problems with renewables show how difficult the green transition is for an economy historically dependent on fossil fuels. The news frames the exit as a &\#x27;blow&\#x27; to the oil and gas industry rather than a routine asset sale, implying significant strategic weight. It also links BP&\#x27;s move to broader concerns about the viability of Scottish renewable projects and the region&\#x27;s energy future.
+The United Arab Emirates, after leaving OPEC, is backing state-owned oil giant ADNOC to pursue a more assertive and expansive strategy, potentially boosting its oil production capacity. ADNOC currently has a production capacity exceeding 4 million barrels per day, with plans to reach 5 million bpd by 2030. This shift could increase global oil supply and reshape OPEC&\#x27;s internal dynamics, affecting energy markets and geopolitics. As the world&\#x27;s 12th largest oil company by production, ADNOC&\#x27;s more independent course may accelerate competition among major producers. ADNOC, wholly owned by the Abu Dhabi Government, is a diversified energy group operating across the value chain, including exploration, production, refining, and petrochemicals. The UAE&\#x27;s backing follows its departure from OPEC, marking a notable change in the country&\#x27;s oil policy posture.
 
-rss · FT Markets · Aug 6, 04:00
+rss · FT Markets · Aug 7, 04:00
 
-**Background**: The North Sea has been a cornerstone of Scottish energy and employment for decades, with oil and gas production supporting local economies and government revenues. Renewables such as offshore wind and tidal power are seen as the natural replacement, but many projects face cost, grid, and planning obstacles. BP&\#x27;s exit signals that the old industry is contracting faster than the new one can expand, creating an energy transition &\#x27;gap&\#x27;.
+**Background**: The Organization of the Petroleum Exporting Countries \(OPEC\) coordinates oil production policies among major producers to manage prices and supply. The UAE, a long-time member, left OPEC to pursue a more autonomous energy strategy, with ADNOC seeking to expand output and maximize value from its hydrocarbon resources amid global energy transitions.
 
-**Tags**: `#energy`, `#oil &amp; gas`, `#BP`, `#renewables`, `#restructuring`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company">Abu Dhabi National Oil Company - Wikipedia</a></li>
+<li><a href="https://www.adnoc.ae/">ADNOC - Maximum Energy Minimum Emissions</a></li>
+<li><a href="https://www.adnoc.ae/en/our-story/who-we-are">Who We Are - ADNOC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#oil`, `#OPEC`, `#energy`, `#geopolitics`, `#macro`
 
 ---
 
 <a id="item-8"></a>
-## [Nvidia may cut next-gen Rubin Ultra GPU memory specs amid HBM shortage](https://www.caixin.com/2026-08-07/102472107.html) ⭐️ 8.0/10
+## [El Niño Threatens Disruptions to Global Commodity Markets](https://www.ft.com/content/7c35f5dd-7c40-4748-a103-f47ab44c858d?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-According to The Information, Nvidia is considering reducing the memory configuration of its next-generation Rubin Ultra GPU to cope with a high-bandwidth memory \(HBM\) shortage. Over the past weeks, Nvidia has tested at least three versions of the Rubin Ultra GPU, some with significantly lower HBM specifications than originally announced, and it has also decided to halve the SOCAMM capacity for the next-generation Vera Rubin superchip module. This matters because HBM and LPDDR5X shortages are forcing Nvidia to compromise memory capacity, which could affect AI GPU performance and its competitive positioning. It also signals broader supply-chain pressure, as multiple cloud vendors are reportedly weighing lower-capacity HBM for their next-generation custom AI chips. Trendforce said on August 4 that Nvidia has been evaluating lower-spec memory configurations for Rubin Ultra since the third quarter, and that LPDDR5X supply tightness could last into 2027. The SOCAMM capacity for Vera Rubin has reportedly been halved as a result.
+A potentially record-strong El Niño, forecast to be among the strongest since 1950, is raising the risk of food shortages and inflation by threatening supply of key agricultural commodities. This year&\#x27;s event could disrupt the world&\#x27;s most-traded commodity markets. Because major food commodities are traded globally, supply disruptions could reignite inflation and complicate central bank policy. Consumers, food-importing nations, and emerging markets are especially exposed. El Niño typically weakens monsoon rains and brings drought to parts of Asia and South America while causing flooding elsewhere, hitting crops such as wheat, rice, sugar, and palm oil. Because this event is forecast to be one of the strongest on record, the potential supply shock is unusually large.
 
-rss · 财新网 · Aug 7, 00:41
+rss · FT Markets · Aug 7, 04:00
 
-**Background**: High Bandwidth Memory \(HBM\) is a 3D-stacked DRAM interface designed for ultra-high bandwidth and is widely used in GPUs for AI and high-performance computing. LPDDR5X is a low-power, solder-down memory standard used in smartphones, laptops, and increasingly for on-device AI. SOCAMM, developed by Micron with Nvidia, is a low-power memory module that sits flat and close to the processor, designed for data-center servers. These technologies are central to AI accelerator memory subsystems.
+**Background**: El Niño is a natural climate cycle marked by warming of the equatorial Pacific Ocean, which alters weather patterns worldwide. Its effects on agriculture can reduce crop yields, tighten food supplies, and push up commodity prices through supply chains, which is why markets and policymakers watch its development closely. This year&\#x27;s unusually strong forecast has heightened concerns about global food security and inflation.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://semiconductor.samsung.com/dram/lpddr/lpddr5x/">LPDDR5X | DRAM | Samsung Semiconductor Global</a></li>
-<li><a href="https://www.micron.com/products/memory/lpddr-modules/socamm">SOCAMM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#AI`, `#semiconductor`, `#supply chain`, `#HBM`
+**Tags**: `#commodities`, `#macro`, `#inflation`, `#weather`, `#supply chain`
 
 ---
 
 <a id="item-9"></a>
-## [Chinese VLCC Reroutes Around Africa to Load Saudi Crude via Egypt](https://international.caixin.com/2026-08-06/102471650.html) ⭐️ 8.0/10
+## [US July Jobs Report: Payrolls Drop 23,000, Unemployment Rate Falls to 4.1%](https://international.caixin.com/2026-08-07/102472425.html) ⭐️ 8.0/10
 
-On August 4, 2026, COSCO&\#x27;s 330,000-ton VLCC Yuanxihu arrived off Egypt&\#x27;s Sidi Kerir terminal to load Saudi crude that had been piped across Egypt, after transiting the Suez Canal northbound on August 1. The vessel, previously held off Yanbu due to the Houthi blockade, is now taking the longer route around Africa. This rerouting shows how Houthi attacks in the Red Sea are forcing structural changes in Saudi crude export logistics, adding thousands of nautical miles and higher freight costs. It affects global oil shipping patterns, tanker availability, and energy market pricing. The cargo is shipped by shuttle tankers from Saudi Arabia&\#x27;s Yanbu terminal to Egypt&\#x27;s Ain Sokhna on the Red Sea, then moved via the SUMED pipeline to Sidi Kerir on the Mediterranean, where the VLCC loads. This emergency measure still cannot fully meet Saudi crude export demand, according to the report.
+On August 7, the U.S. Bureau of Labor Statistics reported that nonfarm payrolls unexpectedly fell by 23,000 in July, far below the expected gain of 83,000. June&\#x27;s employment gain was also revised down sharply to just 20,000, while the unemployment rate fell to 4.1% from 4.2%. This signals a significant cooling in the U.S. labor market, reducing market expectations for a Federal Reserve rate hike in September to 44%. The weaker jobs data could influence monetary policy decisions and have broad implications for investors and economists watching for recession signals. The May final payroll figure was also revised down by 66,000 to an increase of 63,000, and the labor force participation rate dropped to 61.4%, the lowest in more than five years. The unemployment rate fell for a second consecutive month to a one-year low, but this was accompanied by a declining participation rate, indicating more people are leaving the workforce.
 
-rss · 财新网 · Aug 7, 00:26
+rss · 财新网 · Aug 7, 13:52
 
-**Background**: A VLCC \(Very Large Crude Carrier\) is an oil tanker capable of carrying about 2 million barrels of crude. The SUMED pipeline, running from Ain Sokhna on the Gulf of Suez to Sidi Kerir near Alexandria, offers an alternative to the Suez Canal for moving Persian Gulf crude to the Mediterranean. Houthi forces had announced a maritime blockade on Saudi Arabia, closing the southern Red Sea Bab el-Mandeb route, which prompted this alternate logistics chain.
+**Background**: Nonfarm payrolls are a key measure of U.S. employment, excluding farm workers, private household employees, and nonprofit employees. The Federal Reserve closely watches labor market data when deciding on interest rates, and a slowdown in hiring may ease inflation pressure and reduce the need for aggressive rate hikes. However, the combination of falling unemployment and a lower participation rate suggests a weakening labor market rather than a strong one.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Sumed_pipeline">Sumed pipeline</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Oil_tanker">Oil tanker - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/sumed_pipeline">Sumed pipeline — Grokipedia</a></li>
+<li><a href="https://www.laohu8.com/post/107839571">非 农 就 业 数 据 爆冷门，浅谈三点想法_老虎社区_美港股上老虎 - 老虎社区</a></li>
+<li><a href="https://www.tsinghua.edu.cn/__local/4/E6/DA/A12EB75B9D564353167D4F107C5_D711D7DB_79EC7D.pdf">tsinghua.edu.cn/__local/4/E6/DA/A12EB75B9D564353167D4F107...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy`, `#geopolitics`, `#shipping`, `#oil supply`, `#supply chain`
+**Tags**: `#macroeconomics`, `#employment`, `#Federal Reserve`, `#US labor market`, `#nonfarm payroll`
 
 ---
 
 <a id="item-10"></a>
-## [Glencore swings to H1 profit as oil market turmoil opens arbitrage](https://www.caixin.com/2026-08-06/102472062.html) ⭐️ 8.0/10
+## [Former Financial Regulator Li Yunze Removed as NPC Deputy](https://finance.caixin.com/2026-08-07/102472218.html) ⭐️ 8.0/10
 
-Glencore reported H1 adjusted EBITDA of $10.115 billion, up 86% year-on-year, and a net profit attributable to shareholders of $4.405 billion, reversing a loss of $655 million in H1 2025. Energy and coking coal trading profits surged 65-fold in the period. The results show how geopolitical shocks — specifically the US-Iran war and the closure of the Strait of Hormuz — can create outsized profits for global commodity traders. This underscores the growing impact of trade-flow disruption and regional market imbalances on energy and metals markets worldwide. The war effectively closed the Strait of Hormuz, a critical energy chokepoint, and attacks on regional smelters jolted aluminum markets. Buyers had to source alternative crude at higher prices, lengthening shipping routes and reshaping trade flows, which created widespread arbitrage opportunities for Glencore.
+Li Yunze, the founding head of China&\#x27;s National Financial Regulatory Administration \(NFRA\), was stripped of his seat in the 14th National People&\#x27;s Congress on May 27, 2026, for serious violations of discipline and law. The decision was made by the Standing Committee of Sichuan Province&\#x27;s 14th People&\#x27;s Congress and is the first official disclosure of the reason for his removal. As the inaugural head of China&\#x27;s top financial regulator, Li&\#x27;s removal underscores a high-level crackdown on misconduct within financial oversight agencies. It may shake market confidence in financial regulation and signal further anti-corruption efforts in China&\#x27;s finance sector. The decision was adopted at the 27th session of the 14th Sichuan Provincial People&\#x27;s Congress Standing Committee and disclosed in its Gazette No. 3, published July 12, 2026. Li had spent over two decades at China Construction Bank, became vice governor of Sichuan in 2018, and took the helm of the newly created NFRA in May 2023 before being removed in April 2026.
 
-rss · 财新网 · Aug 7, 00:26
+rss · 财新网 · Aug 7, 13:52
 
-**Background**: The Strait of Hormuz is the world&\#x27;s most important oil transit chokepoint, with about 20 million barrels per day passing through in 2025, accounting for a significant share of global petroleum consumption. Arbitrage trading refers to profiting from price differences of the same or related assets in different markets, which becomes especially lucrative when supply routes are disrupted. EBITDA is a measure of operating profitability before interest, taxes, depreciation, and amortization, commonly used to assess company performance.
+**Background**: In China, a deputy to the National People&\#x27;s Congress \(NPC\), the national legislature, can be recalled by the electoral body for various reasons, including disciplinary violations. The NFRA, established in May 2023, consolidated banking and insurance regulation into a single agency directly under the State Council. Li Yunze, a veteran financial executive, was its first top official before being dismissed from his regulatory post in April 2026.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD">霍尔木兹海峡 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://baike.baidu.com/item/%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1/1019195">霍尔木兹海峡_百度百科</a></li>
-<li><a href="https://en.wikipedia.org/wiki/EBITDA">EBITDA</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#earnings`, `#energy`, `#commodities`, `#geopolitics`, `#trading`
+**Tags**: `#policy`, `#regulation`, `#China`, `#finance`, `#political risk`
 
 ---
 
 <a id="item-11"></a>
-## [Meiji Exits China Dairy Business, Sells to AustAsia Group](https://database.caixin.com/2026-08-07/102472066.html) ⭐️ 8.0/10
+## [CALB&\#x27;s Failure Rate 20x Higher Than Peers; Third Place at Risk](http://finance.eastmoney.com/a/202608073835384046.html) ⭐️ 8.0/10
 
-In late July 2026, Meiji Holdings under new CEO Matsuda Katsuya agreed to sell its entire China dairy business to AustAsia Group&\#x27;s wholly-owned subsidiary Shanghai AoYa Food. The deal transfers Meiji&\#x27;s dairy operations, including two factories in Tianjin and Suzhou, into a newly formed target company that AustAsia will acquire. This marks a major strategic retreat by a Japanese dairy giant after years of losses in China, reversing Meiji&\#x27;s 2020 investment in AustAsia. The deal reshapes China&\#x27;s dairy competitive landscape and signals that foreign dairy brands are struggling against intense local competition and oversupply. The conditional sales agreement, signed in late July 2026, requires Meiji China to inject its dairy business, equity of Meiji Tianjin and Meiji Suzhou factories, related assets, contracts, and transferred employees into the target company before closing. Notably, in 2020 Meiji invested $254 million in AustAsia to secure upstream milk sources; now AustAsia is absorbing Meiji&\#x27;s manufacturing capacity to utilize excess raw milk.
+A report reveals that CALB&\#x27;s battery failure rate is more than 20 times higher than its peers, while its 2025 gross margin stands at a low 16.69%. This raises serious concerns about the company&\#x27;s product quality and competitive position. This is significant because CALB is widely considered the third-largest EV battery maker in China, behind CATL and BYD. Lower margins and quality issues could erode its market share and investor confidence in a highly competitive industry. Specifically, the company&\#x27;s 2025 gross margin was 16.69%, compared with CATL&\#x27;s 26.27% and BYD&\#x27;s overall gross margin of approximately 21.6%. The failure rate statistic was described as being over 20 times higher than industry peers.
 
-rss · 财新网 · Aug 7, 00:07
+rss · 东方财富/002594 · Aug 7, 11:56
 
-**Background**: Meiji Holdings is a major Japanese food and dairy company that expanded into China, while AustAsia Group is a dairy farming company in which Meiji took a stake in 2020 to secure milk sources. In recent years, China&\#x27;s dairy market has faced severe oversupply and price wars, hurting both processors and upstream farmers. Under CEO Matsuda Katsuya, who took office over a year ago, Meiji used impairment charges, production halts, and now the divestiture to stop losses.
+**Background**: CALB \(China Aviation Lithium Battery\) is a leading Chinese manufacturer of lithium-ion batteries for electric vehicles, typically positioned third by market share after CATL and BYD. Gross margin is a key profitability metric that reflects how efficiently a company produces and sells its batteries. Quality issues, such as higher failure rates, can significantly affect automaker choices and long-term contracts.
 
-**Tags**: `#M&amp;A`, `#divestiture`, `#dairy`, `#Japan`, `#China`
+**Tags**: `#battery`, `#EV`, `#competition`, `#quality`, `#margins`
 
 ---
 
 <a id="item-12"></a>
-## [US Proposes Comprehensive Ban on Chinese Intelligent Connected Vehicles](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0Y2ci1LNFZSQTEweUdXZ0dSTVBCb0o4X2FOQ0lZbWUyOThDWkFUZFZSaFRzS0VFSHhMQWlvWFQxbzJMMElCRUF1VHZ4UzBrdWJxdjkxWWJLSXhrdWpLUzhYd3d0eU5ENTVrUEZNU0FzT1pyblRCUWxCZDBnZTNqLW9YNExHR3U0ZzFyTGFORHlybmdweERfbDFqa05pQnVWRHFxX3dFSjg0ZWNuZEg3UUV0UHBScHpMZUNsVkVXdDNDbjYzdGlmNU8yelVDRkhpMkV6cnJNaXY2dUFULW41S3pIVXl2OGPSAecBQVVfeXFMUDNGNnItSzRWUkExMHlHV2dHUk1QQm9KOF9hTkNJWW1lMjk4Q1pBVGRWUmhUc0tFRUh4TEFpb1hUMW8yTDBJQkVBdVR2eFMwa3VicXY5MVliS0l4a3VqS1M4WHd3dHlORDU1a1BGTVNBc09acm5UQlFsQmQwZ2Uzai1vWDRMR0d1NGcxckxhTkR5cm5ncHhEX2wxamtOaUJ1VkRxcV93RUo4NGVjbmRIN1FFdFBwUnB6TGVDbFZFV3QzQ242M3RpZjVPMnpVQ0ZIaTJFenJyTWl2NnVBVC1uNUt6SFV5djhj?oc=5) ⭐️ 8.0/10
+## [DRC Bans Copper, Cobalt Concentrate Exports; Chinese Battery Makers&\#x27; Share Hits Record](http://finance.eastmoney.com/a/202608073835367432.html) ⭐️ 8.0/10
 
-The United States has proposed a comprehensive ban on Chinese intelligent connected vehicles \(ICVs\), citing national security risks. The proposal would restrict or prohibit Chinese-made smart vehicles and their components from the US market, sparking debate among experts over whether the threat is genuine or driven by competitive pressure. If enacted, this would be a major regulatory shift with far-reaching effects on Chinese EV and autonomous driving companies, as well as global automotive supply chains. It also signals growing tech decoupling between the US and China in the automotive sector, affecting consumers and industry standards. The proposal has not yet been finalized; it is a regulatory proposal that could evolve through rule-making. It targets intelligent connected vehicles, which combine autonomous driving sensors, in-vehicle networks, and V2X communication technologies, making cybersecurity a central concern. The debate among experts centers on whether security risks are the true motivation or whether it is a trade protectionist measure.
+The Democratic Republic of the Congo \(DRC\) has banned exports of copper and cobalt concentrates, a major regulatory shift for battery raw materials. Meanwhile, seven Chinese battery makers entered the global top-10 power battery installation ranking, reaching a record combined share. The ban could tighten cobalt supply and push up prices, directly affecting battery material costs and battery manufacturers. The record share of Chinese firms underscores the country&\#x27;s growing dominance in the EV supply chain, which is highly relevant for investors. The seven Chinese companies are CATL, BYD, CALB, Gotion High-tech, EVE Energy, SVOLT, and Sunwoda. The DRC&\#x27;s ban means copper and cobalt concentrates must now be processed domestically, potentially reshaping the processing and export structure.
 
-google\_news · 美国之音 · Aug 6, 21:24
+rss · 东方财富/002594 · Aug 7, 11:29
 
-**Background**: Intelligent connected vehicles \(ICVs\) integrate autonomous driving systems with internet connectivity, enabling vehicle-to-everything \(V2X\) communication with other vehicles, infrastructure, and networks. Cellular V2X \(C-V2X\) is a key technology that extends autonomous driving coverage and improves blind spot detection using 4G/5G networks. However, connected vehicles also introduce cybersecurity risks, as they rely on complex software and network interactions that could be vulnerable to hacking and data misuse. The US has previously restricted Chinese telecom equipment like Huawei, and this proposal extends similar security arguments to the automotive domain.
+**Background**: The DRC holds a large share of global cobalt reserves and is a key source of copper and cobalt concentrates used in battery production. Concentrates are semi-processed ores; requiring domestic processing could add value inside the country but may reduce the supply of ready material to international refineries. The global power battery installation ranking is closely watched as a proxy for competitiveness in electric vehicle battery supply chains.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mdpi.com/2624-8921/8/4/70">Intelligent Connected Vehicles - MDPI</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s11431-017-9338-1">Intelligent and connected vehicles: Current status and future ...</a></li>
-<li><a href="https://www.helpnetsecurity.com/2024/01/22/ivan-reedman-ioactive-connected-vehicles-cybersecurity/">The reality of hacking threats in connected car... - Help Net Security</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA">中 创 新 航 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%9C%82%E5%B7%A2%E8%83%BD%E6%BA%90%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/60746613">蜂巢能源科技股份有限公司_百度百科</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#automotive`, `#technology`, `#trade`, `#regulation`
+**Tags**: `#lithium battery`, `#cobalt`, `#commodities`, `#regulation`, `#China battery makers`
 
 ---
 
 <a id="item-13"></a>
-## [BYD Ranks Sixth Globally in H1 2026 Auto Sales, Chinese Automakers Take Three Top-Ten Spots](http://finance.eastmoney.com/a/202608073834277176.html) ⭐️ 7.0/10
+## [US Proposes Comprehensive Ban on Chinese Intelligent Connected Vehicles](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0Y2ci1LNFZSQTEweUdXZ0dSTVBCb0o4X2FOQ0lZbWUyOThDWkFUZFZSaFRzS0VFSHhMQWlvWFQxbzJMMElCRUF1VHZ4UzBrdWJxdjkxWWJLSXhrdWpLUzhYd3d0eU5ENTVrUEZNU0FzT1pyblRCUWxCZDBnZTNqLW9YNExHR3U0ZzFyTGFORHlybmdweERfbDFqa05pQnVWRHFxX3dFSjg0ZWNuZEg3UUV0UHBScHpMZUNsVkVXdDNDbjYzdGlmNU8yelVDRkhpMkV6cnJNaXY2dUFULW41S3pIVXl2OGPSAecBQVVfeXFMUDNGNnItSzRWUkExMHlHV2dHUk1QQm9KOF9hTkNJWW1lMjk4Q1pBVGRWUmhUc0tFRUh4TEFpb1hUMW8yTDBJQkVBdVR2eFMwa3VicXY5MVliS0l4a3VqS1M4WHd3dHlORDU1a1BGTVNBc09acm5UQlFsQmQwZ2Uzai1vWDRMR0d1NGcxckxhTkR5cm5ncHhEX2wxamtOaUJ1VkRxcV93RUo4NGVjbmRIN1FFdFBwUnB6TGVDbFZFV3QzQ242M3RpZjVPMnpVQ0ZIaTJFenJyTWl2NnVBVC1uNUt6SFV5djhj?oc=5) ⭐️ 8.0/10
 
-According to a report from Shenzhen Release on August 6, 2026, BYD ranked sixth on the 2026 first-half international auto group world sales share list. Three Chinese automakers made the global top ten, with BYD the highest-ranked among them. BYD reaching the No. 6 spot in global auto sales reflects its rapid growth and rising competitiveness against legacy giants, and is an important signal for investors tracking China&\#x27;s auto sector. It also highlights the increasing global influence of Chinese automakers, as three Chinese companies now rank among the world&\#x27;s top ten. The ranking is based on the 2026 first-half international auto group world sales share list cited by Shenzhen Release. The announcement did not disclose BYD&\#x27;s exact sales figures or the names of the other two Chinese automakers in the top ten.
+The US government is proposing a comprehensive ban on Chinese intelligent connected vehicles \(ICVs\), citing national security concerns. The move has sparked debate among experts over whether the primary motivation is security or protecting US competitiveness against Chinese automakers. This regulatory proposal could significantly disrupt the global automotive supply chain and affect major Chinese EV makers such as BYD and Nio. If enacted, it would reshape trade relations and accelerate the decoupling of US and Chinese automotive technologies. The proposal targets &\#x27;smart&\#x27; connected vehicles that integrate sensors, controllers, and communication networks for vehicle-to-everything \(V2X\) connectivity. Experts are divided on whether the security risks justify such a sweeping measure, noting that connected vehicles do present cybersecurity and data privacy vulnerabilities, but the competitive pressure from China&\#x27;s advanced EV industry is also a key factor.
 
-rss · 东方财富/比亚迪 · Aug 6, 23:01
+google\_news · 美国之音 · Aug 6, 21:24
 
-**Background**: Global automaker sales rankings are traditionally led by long-established groups such as Toyota, Volkswagen, and General Motors. BYD, originally a battery maker, has grown into a major electric-vehicle manufacturer with expanding overseas sales, allowing it to climb the global rankings. The presence of three Chinese automakers in the top ten underscores the shifting balance in the global auto industry toward China.
+**Background**: Intelligent connected vehicles \(ICVs\) are a new generation of automobiles that combine onboard sensors, controllers, actuators, and communication technologies to enable intelligent information exchange between vehicles, people, roads, and the cloud. As the Internet of Vehicles and autonomous driving mature, ICVs raise significant cybersecurity and privacy concerns, including unauthorized remote access and personal data leakage. The US proposal reflects a broader trend of governments scrutinizing connected-vehicle supply chains and data flows, as highlighted by analyses of emerging security threats in the global transition to electric and connected vehicles.
 
-**Tags**: `#autos`, `#BYD`, `#sales`, `#global ranking`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://baike.baidu.com/en/item/Intelligent+Connected+Vehicle,+ICV/1447497">Intelligent Connected Vehicle, ICV_Baiduwiki</a></li>
+<li><a href="https://fpanalytics.foreignpolicy.com/2025/03/24/connected-vehicles-emerging-threats/">Connected Vehicles and Emerging Threats – FP Analytics</a></li>
+<li><a href="https://arxiv.org/pdf/2508.15306">Connected and Exposed: Cybersecurity Risks, Regulatory Gaps ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: No community comments were provided for this news item.
+
+**Tags**: `#policy`, `#regulation`, `#automotive`, `#trade`, `#China`
 
 ---
 
 <a id="item-14"></a>
-## [BYD Launches Customized Hybrids in Brazil, Accelerating Localization](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PQ05WMWE4NFVreXdqb2pFQS0tZmpvdFFDOXpYdzdabGEyNzR6djByNmoxZVQtNl8yVW1LbV9KNk1MOXYzTVM0QnFsRnFyaUhmSGNhLWo4Y2hzUmJEQlU2YmZn?oc=5) ⭐️ 7.0/10
+## [BYD Ranks Sixth in H1 2026 Global Auto Sales; Three Chinese Automakers in Top 10](http://finance.eastmoney.com/a/202608073834277176.html) ⭐️ 7.0/10
 
-BYD has launched the Song Pro Super-Hibrido Flex Fuel in Brazil, a plug-in hybrid that can run on electricity, gasoline, or ethanol. This is Brazil&\#x27;s first locally made plug-in hybrid flex vehicle, with dealerships receiving the car starting Wednesday. This move marks a significant step in Chinese automakers&\#x27; overseas localization strategy, moving from exporting finished cars to producing tailored vehicles in local markets. BYD&\#x27;s entry into Brazil&\#x27;s large auto market with a biofuel-compatible hybrid could boost its global sales and market share. The flex-fuel powertrain is optimized for Brazilian ethanol blends up to E100, adapting BYD&\#x27;s DM-i plug-in hybrid technology to local fuel infrastructure. In October 2025, BYD previewed the Song Pro COP30 with the Flex Fuel engine, and the company has been expanding its local manufacturing footprint in Brazil.
+According to the &\#x27;Shenzhen Release&\#x27; WeChat account on August 6, the newly released first-half 2026 global auto group sales share ranking places BYD sixth. Three Chinese automakers entered the global top ten. BYD&\#x27;s sixth-place finish demonstrates the rising international competitiveness of Chinese automakers and marks a concrete milestone for China&\#x27;s auto industry. It also reflects the accelerating shift in global auto market share toward Chinese brands. The ranking is based on global sales share for the first half of 2026, and BYD specifically placed sixth. The report did not disclose the identities of the other two Chinese automakers or their precise positions.
 
-google\_news · 观察者 · Aug 6, 09:22
+rss · 东方财富/比亚迪 · Aug 6, 23:01
 
-**Background**: Brazil is the world&\#x27;s largest market for flex-fuel vehicles, which are designed to run on any mix of gasoline and hydrous ethanol. BYD&\#x27;s DM-i \(Dual Mode Intelligent\) is an electric-first plug-in hybrid system that typically uses the engine mainly as a generator. Combining these technologies lets the vehicle run on electricity, gasoline, or ethanol, catering to Brazilian consumers who widely use ethanol fuel.
+**Background**: Global auto group sales rankings track the combined sales of automakers worldwide, often reported as a share of total global vehicle sales. Chinese automakers such as BYD have expanded rapidly into overseas markets in recent years, driven by new-energy vehicles and aggressive export strategies. The presence of three Chinese brands in the top ten highlights this broader trend.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.wikiwand.com/en/articles/Flexible-fuel_vehicles_in_Brazil">Flexible - fuel vehicles in Brazil - Wikiwand</a></li>
-<li><a href="https://speedme.ru/en/posts/id69519-byd-song-pro-flex-fuel-2026-brazil-s-first-local-phev-runs-on-gas-ethanol-or-electricity">BYD Song Pro Flex Fuel 2026: Brazil &#x27;s First Local PHEV Runs on Gas...</a></li>
-<li><a href="https://www.freemalaysiatoday.com/category/business/2026/08/04/byd-debuts-first-brazilian-made-plug-in-hybrid-flex-car-as-sales-surge">BYD debuts first Brazilian -made plug-in hybrid flex car as sales surge</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#BYD`, `#hybrid vehicles`, `#Brazil`, `#international expansion`, `#auto sector`
+**Tags**: `#BYD`, `#auto sales`, `#global ranking`, `#China auto`, `#sector`
 
 ---
 
 <a id="item-15"></a>
-## [BYD Unveils New Tang SUV with Pre-Sale Price of 250k–320k Yuan](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0aU4wSjQwQ3k0ZkFEZmNvdjhhelhpNTBpamNIYXo5ekNUQ09iOWJHbFhwTENyN2REQTgxYkdLek5LM014aF9nUnlXMVlaZzhoZTduWnprUkM5RW9SZmc?oc=5) ⭐️ 7.0/10
+## [BYD Launches First K-Car in Japan; First-Week Orders Surge, Pressuring Toyota](https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2V6Q3lweXI4NExpOGUxN3NOSkVWYlpzUzFEdEhXTmdWUWlROU9QeFhERC1IVXVHcGtEZzdHTDliSzVsSzRmNWtpdDRfeUNDVi0xNzU4WHNuV2NOOVh6b2dtdzJfZFgwVmhMWkxwdXFmdy1uNVExSm84RzYwTjNxUmZNWTlCYmxkMjFZSjFxOFA?oc=5) ⭐️ 7.0/10
 
-BYD officially unveiled the all-new Tang SUV, announcing a pre-sale price range of 250,000 to 320,000 yuan. The launch marks the latest generation of one of BYD&\#x27;s flagship models. The Tang is a key model in BYD&\#x27;s lineup, targeting the large and competitive mid-to-large SUV segment in China. Its pricing and reception could influence BYD&\#x27;s near-term sales momentum and investor sentiment, given the brand&\#x27;s leading position in China&\#x27;s new-energy vehicle market. The pre-sale price of 250,000–320,000 yuan positions the Tang in the premium mass-market segment. Specific powertrain details, range figures, and trim configurations were not disclosed in the announcement.
+BYD has launched its first K-CAR model, the Haita \(Sea Otter\), in the Japanese market, and the vehicle reportedly received a surge of orders within its first week. The product launch marks BYD&\#x27;s first foray into Japan&\#x27;s unique kei-car segment. By entering Japan&\#x27;s kei-car segment, BYD is directly challenging entrenched domestic players such as Toyota, Daihatsu, and Suzuki, potentially disrupting a market long considered difficult for foreign automakers to penetrate. This move also demonstrates BYD&\#x27;s aggressive global expansion strategy beyond its home market. The K-CAR, or kei car, is a unique Japanese vehicle class with strict regulations limiting engine displacement to 660cc and overall length to 3.4 meters, offering tax and insurance benefits. BYD&\#x27;s newcomer is an EV, which could leverage the company&\#x27;s cost advantages in batteries to compete on price.
 
-google\_news · 汽车之家 · Aug 6, 15:43
+google\_news · 新浪网 · Aug 7, 14:40
 
-**Background**: BYD is one of the world&\#x27;s largest new-energy vehicle makers, known for its blade battery and DM hybrid technology. The Tang is a midsize-to-large SUV that has been a cornerstone of BYD&\#x27;s passenger-car lineup, competing with both conventional SUVs and electric rivals in China.
+**Background**: Kei cars were introduced in post-war Japan as a category of small, economical vehicles, and they remain extremely popular due to tax breaks, lower insurance, and easy parking in cramped urban areas. BYD, China&\#x27;s largest EV maker by sales, has been aggressively expanding overseas, and this launch appears to be a strategic attempt to gain a foothold in Japan&\#x27;s highly regulated mini-car market.
 
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#China`, `#automotive`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=KSriktakUTw">Why Americans Want This Tiny Japanese Sports Car - YouTube</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#product-launch`, `#market-expansion`, `#EV`, `#Japan`, `#competition`
 
 ---
 
 <a id="item-16"></a>
-## [Jane Street in Talks to Move $11bn Debt to Pimco and Investors](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [BYD&\#x27;s 2.9L/100km hybrid tech challenges future of fuel vehicles.](https://news.google.com/rss/articles/CBMidEFVX3lxTE5MOUxSd3AtYkZzUHgxYnJBYlIybS1EZndyRUltUlhJR1VZODJET1ppbHBDX0NYbzlPd0VmQU1ZcWJXMzQ1clR3ZWFHRzN4bmgycFlhZF9TTlpwamQwWDNoaDJzb2Nvb3RHUk51cU5aNWlTUDZu?oc=5) ⭐️ 7.0/10
 
-Jane Street is in talks to transfer $11bn of its debt to investors including Pimco. The private credit deal is intended to fund further investments in AI. This deal underscores the rapid growth of the private credit market and reflects major capital flows into AI investments. It shows how non-bank lenders are financing large, sophisticated borrowers. The trading firm is known for its secrecy, and the $11bn transaction would be one of the larger private credit deals. Proceeds will be used for additional AI-related investments.
+BYD has released a new hybrid technology with a reported fuel consumption of just 2.9L/100km, a level that undercuts most conventional gasoline cars. The headline from Sina Auto argues that this data makes it difficult for traditional fuel vehicles to survive. If the 2.9L/100km figure holds in real-world conditions, it could accelerate the replacement of combustion-engine vehicles in China&\#x27;s auto market. As a leading NEV producer, BYD&\#x27;s efficiency breakthrough raises the competitive bar for all traditional automakers. The figure likely comes from BYD&\#x27;s electric-first DM-i super hybrid system, in which the gasoline engine primarily serves as a generator rather than driving the wheels directly under most conditions. Such measurements often depend on test cycles, so real-world mileage may vary.
 
-rss · FT Markets · Aug 6, 20:10
+google\_news · 新浪汽车 · Aug 7, 13:46
 
-**Background**: Private credit is non-bank lending where debt is not traded on public markets. Lenders negotiate directly with borrowers, often small-to-mid-sized businesses. The market has expanded significantly in recent years as an alternative to traditional bank financing.
+**Background**: Traditional hybrids are typically designed around the gasoline engine, with the electric motor providing assistance. BYD&\#x27;s DM-i system flips this by using large electric motors as the primary drive source, while the engine runs at optimal efficiency to generate electricity. This approach allows plug-in hybrids to achieve remarkably low fuel consumption numbers, putting pressure on conventional internal combustion engine vehicles. The &\#x27;2.9L&\#x27; headline reflects this broader shift in China&\#x27;s auto industry toward electric-first hybrids.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Private_credit">Private credit - Wikipedia</a></li>
-<li><a href="https://corporatefinanceinstitute.com/resources/capital_markets/what-is-private-credit/">Private Credit Explained: Meaning, Examples, and Uses | CFI</a></li>
+<li><a href="https://byd.auto/addons/cms/news/detail?news_id=68&amp;category=1">DiLink - 比 亚 迪 汽车工业有限公司</a></li>
+<li><a href="https://thepluganddrive.com/tech/dm-i-super-hybrid-how-it-works-and-why-its-different">DM-i Super Hybrid: How It Works and Why It&#x27;s Different</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#private credit`, `#AI`, `#capital markets`, `#Jane Street`, `#Pimco`
+**Tags**: `#BYD`, `#auto sector`, `#hybrid technology`, `#product launch`
 
 ---
 
 <a id="item-17"></a>
-## [ConocoPhillips CEO Ryan Lance to Step Down After 14 Years](https://www.ft.com/content/15857866-5274-41cc-90a6-b4f696c60a13?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [UK Watchdog Cracks Down on Financial Crime After MFS Collapse](https://www.ft.com/content/0edbd013-dc35-494b-b7e7-9a745af01c9d?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Ryan Lance will step down as CEO of ConocoPhillips after leading the third-largest US oil and gas company for 14 years. The announcement comes as the company reports rising profits driven by war-induced oil price surges. This leadership transition at a major US oil producer introduces uncertainty about strategic direction, especially as the industry faces pressure on energy transition and production growth. Investors will watch for succession details to gauge continuity or potential shifts in policy. Succession plans have not been fully disclosed, adding investor uncertainty. Lance&\#x27;s departure marks one of the longest tenures among major oil company CEOs, and his successor will inherit a portfolio shaped by years of shale-focused investment.
+The UK&\#x27;s Financial Conduct Authority \(FCA\) is now requiring unregulated entities to provide more information about fraud risks, a direct response to the collapse of mortgage lender Market Financial Solutions \(MFS\). This signals a regulatory crackdown on financial crime across the industry. The FCA&\#x27;s move could impose new compliance burdens on financial firms and tighten oversight of previously unregulated entities, reshaping how the industry addresses fraud. It shows regulators are using recent scandals to push for stricter financial crime controls. The FCA is specifically asking unregulated firms for more fraud-risk information, rather than introducing a formal rule change. This follows an investigation into MFS, which collapsed last month amid allegations of fraud involving £1.3bn of mortgages.
 
-rss · FT Markets · Aug 6, 12:25
+rss · FT Markets · Aug 7, 09:56
 
-**Background**: ConocoPhillips is a global exploration and production company, ranking as the third-largest US oil and gas producer. The company has benefited from higher crude prices following geopolitical conflicts, boosting profits and shareholder returns. CEO transitions in the energy sector often signal possible changes in capital allocation and climate strategy.
+**Background**: Market Financial Solutions \(MFS\) was a Mayfair-based specialist lender providing bridge loans and buy-to-let finance. Its collapse sparked a major scandal, with the FCA launching an investigation into the lender amid allegations of fraud. The UK regulator&\#x27;s latest demand for fraud-risk information from unregulated entities is part of its broader effort to crack down on financial crime following the case.
 
-**Tags**: `#management-change`, `#oil-gas`, `#energy`, `#leadership`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theguardian.com/business/2026/mar/20/fca-investigates-mfs-mortgage-lender">FCA investigates collapsed lender MFS amid £1.3bn mortgage scandal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Market_Financial_Solutions">Market Financial Solutions - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#regulatory`, `#financial crime`, `#UK`, `#FCA`, `#crackdown`
 
 ---
 
 <a id="item-18"></a>
-## [US Pension Funds and Business Groups Clash Over SEC Climate Disclosure Shift](https://www.ft.com/content/9d38db74-98a5-46ee-b9ed-4e553ff41025?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [DR Congo probes uranium-contaminated cobalt exports](https://www.ft.com/content/7c028aa0-cb64-4f71-9605-f63b83df7af4?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-US public pension funds and business groups are openly disagreeing over the SEC&\#x27;s proposed changes to climate risk disclosure rules, while Vanguard and Norway&\#x27;s sovereign wealth fund have responded cautiously. This rulemaking would affect nearly every public company in the US by requiring climate-related risk and emissions disclosures, so the clash between major investors and business groups could shape the final regulation and broader ESG investing trends. The article notes that Vanguard and Norway&\#x27;s sovereign wealth fund issued cautious responses, indicating that even large institutional investors are not uniformly backing the disclosure push.
+The Democratic Republic of Congo has launched a government investigation into cobalt exports found to be contaminated with uranium, following a joint investigation by the Financial Times and Lighthouse Reports. This could disrupt global cobalt supply, as DR Congo is the world&\#x27;s largest cobalt producer and the metal is critical for electric vehicle batteries. Regulatory action may force mining companies to implement stricter radiation controls, affecting supply chains and prices. The investigation by FT and Lighthouse Reports uncovered uranium contamination in exported cobalt, prompting government measures. Specific contamination levels, affected companies, and export destinations have not been publicly disclosed yet.
 
-rss · FT Markets · Aug 6, 10:40
+rss · FT Markets · Aug 7, 08:48
 
-**Background**: The SEC has been developing rules that would require public companies to report climate-related risks and, in some cases, greenhouse gas emissions. Public pension funds generally support such disclosures as material to long-term risk management, while business groups argue they are costly and burdensome. Asset managers such as Vanguard and sovereign investors like Norges Bank must balance support for transparency with concerns about regulatory overreach and portfolio-company compliance costs.
+**Background**: Cobalt in DR Congo is typically mined as a byproduct of copper, and uranium can occur naturally in the same geological formations. Cobalt is a key ingredient in lithium-ion batteries used in electric vehicles and electronics. Uranium contamination raises both health and regulatory concerns, as radiation exposure standards and international transport rules may apply.
 
-**Tags**: `#政策`, `#监管`, `#ESG`, `#气候风险`, `#市场结构`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41467-026-75910-z">Uranium in cobalt-hydroxide exports from the Democratic ...</a></li>
+<li><a href="https://www.lighthousereports.com/investigation/congos-hidden-uranium-exports/">Congo’s Hidden Uranium Exports - Lighthouse Reports</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#policy`, `#commodities`, `#supply-chain`, `#regulatory`, `#cobalt`
 
 ---
 
 <a id="item-19"></a>
-## [Ares scales back €1bn private credit fund as investors balk at valuations](https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Goodwin explores sale of defence business after buyout bids](https://www.ft.com/content/83f594d8-5878-4ecf-a274-4a4ae9eeb30c?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Ares Management, a major Wall Street private credit firm, was forced to scale back its €1bn continuation fund after investors refused to accept the proposed loan valuations. The firm failed to secure sufficient buy-in on the pricing from investors. This highlights growing investor scrutiny over private credit asset valuations amid a challenging fundraising environment. If a major player like Ares faces such pushback, it may signal broader concerns about overvaluation in the private credit market. The continuation fund was intended to hold legacy loans, but investors balked at the assigned valuations. This instance is part of a recent wave of private credit continuation funds, yet the scale-back indicates that pricing discipline has become a critical sticking point.
+Goodwin, a London-listed supplier to UK and US nuclear submarine programmes, is exploring a sale of its defence business after receiving bids from private equity firms. No deal value or definitive terms have been disclosed. This is a significant potential M&amp;A transaction in the defence sector, with implications for the supply chain of critical nuclear deterrent programmes. A change of ownership could affect the stability and security of key strategic capabilities. The company has received bids from buyout firms, but no deal value or definitive terms are disclosed. Goodwin is a supplier to both UK and US nuclear submarine programmes, including the Dreadnought-class replacement for the Vanguard class.
 
-rss · FT Markets · Aug 6, 04:00
+rss · FT Markets · Aug 7, 08:25
 
-**Background**: Continuation funds are vehicles used by private asset managers to provide liquidity by moving older assets into a new fund, often with participation from secondary investors. In private credit, loan valuations are less transparent than in public markets because loans are not frequently traded, leading to debates over fair pricing. Ares and other firms have been active in this space, with secondary buyers such as Coller Capital participating in similar transactions.
+**Background**: The Dreadnought class is the future replacement for the Royal Navy&\#x27;s Vanguard-class ballistic missile submarines, which have been in service since the 1990s. These submarines will carry Trident II D-5 missiles and form the sea-based component of the UK&\#x27;s Continuous At-Sea Deterrent \(CASD\). Goodwin&\#x27;s defence business supplies components for these and US nuclear submarine programmes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pitchbook.com/news/articles/continuation-funds-find-their-footing-in-private-credit">Continuation funds find their footing in private credit</a></li>
-<li><a href="https://www.deloitte.com/us/en/industries/financial-services/articles/private-credit-valuation-perspective.html">Private credit valuation | Deloitte US</a></li>
-<li><a href="https://www.macfarlanes.com/insights/102l4e5/private-credit-continuation-funds-a-developing-frontier-for-secondary-transactio/">Private credit continuation funds: a developing frontier for ...</a></li>
+<li><a href="https://www.gov.uk/government/collections/dreadnought-submarine-programme-the-facts">Dreadnought submarine programme - GOV.UK</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dreadnought-class_submarine">Dreadnought-class submarine - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#private credit`, `#fundraising`, `#valuations`, `#Ares`, `#market sentiment`
+**Tags**: `#M&amp;A`, `#defence`, `#aerospace`, `#corporate action`
 
 ---
 
 <a id="item-20"></a>
-## [Zhipu AI and Minimax Join Stock Connect; StepFun May List Next](https://deepview.caixin.com/event/EVENT.000000348.html) ⭐️ 7.0/10
+## [Yen intervention highlights dangers of monetary experiments](https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Zhipu AI and Minimax have been added to the Hong Kong Stock Connect, allowing mainland investors to trade their shares directly. Media speculation suggests that StepFun \(阶跃星辰\) could be the next Chinese AI firm to go public. Stock Connect inclusion increases access to mainland capital, potentially boosting liquidity and valuations for AI firms. It also signals that Chinese AI companies are increasingly turning to Hong Kong for public listings amid a broader AI financing boom. Stock Connect inclusion generally requires a main-board listing, a market-capitalization threshold \(recently around HK$9.3 billion\), and liquidity criteria. StepFun has not yet confirmed a listing plan, so reports remain speculative.
+Tokyo and Washington are intervening in currency markets to stabilize the yen, but the FT argues that such short-term stability efforts may sow long-term monetary dangers. The yen recently tumbled to a 40-year low near 162.78 per dollar. Major currency interventions can trigger sharp volatility in global equity and foreign-exchange markets, affecting investor sentiment and cross-border trade. The FT&\#x27;s warning suggests that repeated intervention may undermine central bank credibility and create moral hazard. According to news reports, Japan&\#x27;s record intervention appears to be losing its effect, and past yen interventions have caused drastic swings in Japanese and global equity markets. The FT piece is more of an analytical commentary than a breaking-news report.
 
-rss · 财新网 · Aug 7, 00:26
+rss · FT Markets · Aug 7, 04:00
 
-**Background**: Hong Kong Stock Connect is a channel connecting mainland and Hong Kong stock markets; southbound funds are mainland investors buying Hong Kong stocks. Inclusion makes a stock eligible for trading by mainland investors, which can improve trading volumes. AI startups like Zhipu and Minimax are capital-intensive and seek public market funding.
+**Background**: Currency intervention is a monetary policy operation in which a central bank buys or sells foreign exchange to influence its domestic currency&\#x27;s exchange rate. Governments may intervene to control inflation, maintain competitiveness, or preserve financial stability. However, such &\#x27;monetary experiments&\#x27; carry risks: the effects can be temporary, and repeated intervention may distort markets and erode policy credibility over the long run.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.hstong.com/post/content/21121716200694737?from=CMS_ADMIN">發仔小科普： 什 么 是 南向资金和北向资金 | 华盛 通</a></li>
-<li><a href="https://xueqiu.com/1096519231/371937380">港股上市公司要成为 港股通 标的，需满足一系列严格条件，其中市值门...</a></li>
-<li><a href="https://caifuhao.eastmoney.com/news/20250430132212178819710">纯干货，建议收藏！港股通纳入规则汇总_财富号_东方财富网</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Currency_intervention">Currency intervention</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzbExxNUVSSFY5eXoxd2JhVENDZ0FQAQ?hl=en-IN&amp;gl=IN&amp;ceid=IN:en">Google News - Japanese Yen intervention - Overview</a></li>
+<li><a href="https://www.tradingview.com/news/moneycontrol:41e2c0ba7094b:0-why-japan-s-yen-intervention-could-rattle-global-markets/">Why Japan’s yen intervention could rattle... — TradingView News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Stock Connect`, `#listing`, `#China tech`, `#Hong Kong`
+**Tags**: `#macro`, `#FX`, `#central banks`, `#policy`, `#currency intervention`
 
 ---

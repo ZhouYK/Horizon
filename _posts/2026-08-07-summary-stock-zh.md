@@ -6,369 +6,407 @@ lang: zh
 report: stock
 ---
 
-> 从 272 条内容中筛选出 20 条重要资讯。
+> 从 278 条内容中筛选出 20 条重要资讯。
 
 ---
 
-1. [贝森特买日元便签曝光 美日罕见联合干预汇率](#item-1) ⭐️ 9.0/10
-2. [当代集团创始人艾路明因涉嫌非法吸收公众存款被拘](#item-2) ⭐️ 9.0/10
-3. [比亚迪发布“闪充中国”战略，新能源汽车进入闪充时代](#item-3) ⭐️ 8.0/10
-4. [中国发布首个强制性 L3/L4 自动驾驶安全国标](#item-4) ⭐️ 8.0/10
-5. [美国暂停进口后墨西哥派兵护卫牛油果产区](#item-5) ⭐️ 8.0/10
-6. [Partners Group 接近以 20 亿欧元收购美妆集团 Aroma-Zone](#item-6) ⭐️ 8.0/10
-7. [BP 退出北海给苏格兰能源敲响警钟](#item-7) ⭐️ 8.0/10
-8. [英伟达或因存储短缺下调下一代 GPU 显存配置](#item-8) ⭐️ 8.0/10
-9. [中国超大型油轮绕行非洲，经埃及装载沙特原油](#item-9) ⭐️ 8.0/10
-10. [嘉能可上半年扭亏净利增超 50 亿美元](#item-10) ⭐️ 8.0/10
-11. [明治退出中国乳业 澳亚集团接盘](#item-11) ⭐️ 8.0/10
-12. [美国拟全面封堵中国智能网联汽车](#item-12) ⭐️ 8.0/10
-13. [比亚迪 2026 年上半年销量跻身全球车企第六](#item-13) ⭐️ 7.0/10
-14. [比亚迪在巴西推定制混动车，中国车企加速海外本土化](#item-14) ⭐️ 7.0/10
-15. [比亚迪全新大唐 SUV 亮相，预售价 25-32 万元](#item-15) ⭐️ 7.0/10
-16. [Jane Street 洽谈将 110 亿美元债务转移给 Pimco 等投资者](#item-16) ⭐️ 7.0/10
-17. [康菲石油 CEO 兰斯任职 14 年后卸任](#item-17) ⭐️ 7.0/10
-18. [美国养老基金与商业团体在 SEC 气候披露规则上针锋相对](#item-18) ⭐️ 7.0/10
-19. [Ares 因投资者质疑估值而缩减 10 亿欧元私募信贷基金](#item-19) ⭐️ 7.0/10
-20. [智谱与 Minimax 纳入港股通 阶跃星辰或成下一家](#item-20) ⭐️ 7.0/10
+1. [美国封锁致伊朗石油出口停滞，哈尔克岛闲置](#item-1) ⭐️ 9.0/10
+2. [美国抛售欧元支撑日元，欧洲央行措手不及](#item-2) ⭐️ 9.0/10
+3. [光大转让嘉事堂股权 同仁堂接盘 多名管理者涉医疗腐败被查](#item-3) ⭐️ 9.0/10
+4. [宇树发行市值 610 亿元，成 A 股人形机器人第一股](#item-4) ⭐️ 9.0/10
+5. [比亚迪申请六项固态电池专利，拟于 2027 年投产](#item-5) ⭐️ 8.0/10
+6. [比亚迪拿下阿联酋吉瓦储能大单，浩瀚系统落地全天候电站](#item-6) ⭐️ 8.0/10
+7. [阿联酋退出欧佩克后支持 ADNOC 进取扩张](#item-7) ⭐️ 8.0/10
+8. [厄尔尼诺威胁全球大宗商品供应与通胀前景](#item-8) ⭐️ 8.0/10
+9. [美国 7 月非农意外减少 2.3 万 失业率降至 4.1%](#item-9) ⭐️ 8.0/10
+10. [李云泽因严重违纪违法被罢免全国人大代表职务](#item-10) ⭐️ 8.0/10
+11. [故障率高出同业 20 倍，中创新航第三地位不保](#item-11) ⭐️ 8.0/10
+12. [中企动力电池全球份额创新高 刚果（金）禁止铜钴精矿出口](#item-12) ⭐️ 8.0/10
+13. [美国拟全面封堵中国智能网联汽车，专家激辩安全威胁与竞争压力](#item-13) ⭐️ 8.0/10
+14. [比亚迪跻身 2026 年上半年全球车企销量第六](#item-14) ⭐️ 7.0/10
+15. [比亚迪首款 K-CAR 登陆日本，首周爆单引丰田警惕](#item-15) ⭐️ 7.0/10
+16. [比亚迪 2.9L 油耗混动技术，让油车怎么活？](#item-16) ⭐️ 7.0/10
+17. [MFS 倒闭后英国 FCA 加强金融犯罪打击](#item-17) ⭐️ 7.0/10
+18. [刚果（金）启动对铀污染钴出口的调查](#item-18) ⭐️ 7.0/10
+19. [Goodwin 收到收购报价，考虑出售防务业务](#item-19) ⭐️ 7.0/10
+20. [日元干预凸显货币实验的风险](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [贝森特买日元便签曝光 美日罕见联合干预汇率](https://international.caixin.com/2026-08-06/102471767.html) ⭐️ 9.0/10
+## [美国封锁致伊朗石油出口停滞，哈尔克岛闲置](https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-美国财长贝森特被拍到的待办便签显示其计划买入 50 亿至 100 亿美元日元；与此同时，美日罕见联合干预推动日元从 1 美元兑 163.40 日元升至 155.21 日元，涨幅约 5%，美元指数跌破 100 关口。 这是 1998 年亚洲金融危机以来美日首次联合干预汇市，表明全球最大外汇市场出现了协调的官方行动。日元涨势的规模与速度可能影响全球宏观头寸、套息交易及出口竞争力。 干预发生在 2026 年 7 月 30 日至 31 日，日元此前刚创下近 40 年新低，随后急剧反转。美元指数两个交易日累计下跌 1.5%，欧元上涨 1.2%，离岸人民币（CNH）两个交易日仅小幅贬值不到 0.02%。
+美国海军封锁正在拦截运载伊朗原油的油轮，导致伊朗石油出口陷入停滞。作为重要出口终端的哈尔克岛实际上已停止运作。 这是一次重大的地缘政治升级，直接威胁全球石油供应，可能推高油价并加剧能源市场波动。伊朗出口中断可能影响全球消费者和能源安全。 报道称“海上拦截”是导致运载德黑兰原油的油轮停运的机制。哈尔克岛似乎已闲置，但该封锁的具体范围和持续时间尚未得到核实。
 
-rss · 财新网 · 8月7日 00:26
+rss · FT Markets · 8月7日 21:12
 
-**背景**: 外汇干预是央行刻意削弱或增强本币汇率的货币政策工具。美元指数（DXY）衡量美元兑欧元、日元等六种主要货币一篮子货币的汇率。离岸人民币（CNH）是在中国内地以外（主要在香港）交易的人民币，由于资本管制，其价格可能与在岸人民币（CNY）不同。
+**背景**: 哈尔克岛是伊朗位于波斯湾的主要原油出口终端，处理该国大部分海运石油出口。美国长期通过制裁和海军执法来限制伊朗的石油收入。封锁致使油轮在该终端停运，实际上切断了伊朗的主要石油出口通道，对全球市场具有重大影响。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Currency_intervention">Currency intervention - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/u/usdx.asp">Understanding the U.S. Dollar Index (USDX) and Trading Tips</a></li>
-<li><a href="https://blog.currencycloud.com/the-difference-between-cny-and-cnh">The difference between onshore and offshore RMB (CNY &amp; CNH ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Forex`, `#Central bank intervention`, `#Macro`, `#US-Japan`, `#Policy`
+**标签**: `#oil`, `#geopolitics`, `#energy`, `#supply disruption`, `#Iran`
 
 ---
 
 <a id="item-2"></a>
-## [当代集团创始人艾路明因涉嫌非法吸收公众存款被拘](https://wenews.caixin.com/2026-08-06/102472068.html) ⭐️ 9.0/10
+## [美国抛售欧元支撑日元，欧洲央行措手不及](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-2026 年 8 月 4 日，北京京师律师事务所合伙人兰和在微博发文称，当代集团创始人艾路明已被武汉市公安局以涉嫌非法吸收公众存款罪刑事拘留，目前羁押于武汉市第二看守所。 这表明湖北最大民营企业集团之一的债务危机进一步升级，刑责已波及创始人及多名股东。这可能影响集团的重整进程、债券持有人和债权人，也凸显高杠杆企业集团非法集资的风险。 此次拘留与非法集资风险的集中暴露有关，该风险既是当代集团债务危机爆发的导火索，也是创始人被追刑责的原因。当代集团于 2023 年 11 月进入司法重整程序，当时资不抵债约 700 亿元；2025 年，招商局旗下公司投入逾百亿元重整集团并接盘核心资产人福医药（600079.SH）。
+华盛顿进行了一次历史性的外汇干预，通过抛售欧元来支撑日元，令欧洲央行措手不及。欧洲央行行长克里斯蒂娜·拉加德和美国财政部长斯科特·贝森特直到行动发生后才就此事表态。 这标志着美国罕见（甚至可能是前所未有地）参与外汇市场以支持另一种货币，并引发了对主要央行之间协调的质疑。这一出人意料的做法可能重塑市场对汇率干预的预期，并对全球市场和政策制定者产生影响。 此次干预的特殊之处在于，华盛顿抛售的是欧元而非美元来推高日元，属于跨币种操作。拉加德和贝森特在行动后才进行沟通，凸显了欧洲央行对此毫无准备。
 
-rss · 财新网 · 8月7日 00:07
+rss · FT Markets · 8月7日 08:08
 
-**背景**: 在中国法律中，非法吸收公众存款罪是指未经有关部门依法批准，以承诺还本付息或给予其他投资回报等方式，向社会不特定对象吸收资金的行为。它是非法集资的一种形式，常被用于高息向公众借款的企业。当代集团由艾路明与 6 位武汉大学校友创立于上世纪 80 年代后期，业务从医药扩展至金融、地产、文体、教育及旅游等领域，鼎盛时期资产总额逾千亿元，2021 年资金链断裂后债务危机爆发。
+**背景**: 汇率干预是一种货币政策操作，指政府或中央银行买卖外币，通常是为了影响本国汇率。对于发达经济体来说，这类干预相对少见，尤其美国传统上很少主动管理美元汇率。抛售欧元来支撑日元是一种特别非常规的跨币种操作，也凸显了政策制定者因日元疲软而面临的巨大压力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84">非法集资 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://jrj.beijing.gov.cn/jrxcjy/jraq/djffjz/202105/t20210521_2394694.html">存在这三种情况就是非法集资！</a></li>
-<li><a href="https://www.nanjing.gov.cn/zt/2024nffffjzjzxc/zswd/202405/t20240516_4668098.html">非法集资的定义和基本特征是什么？</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Currency_intervention">Currency intervention - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/f/foreign-exchange-intervention.asp">Foreign Exchange Intervention Definition, Strategies, Goals</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 新闻中未提供评论内容，因此没有社区讨论可供总结。
-
-**标签**: `#corporate-crisis`, `#fraud`, `#legal-action`, `#private-enterprise`, `#debt`
+**标签**: `#central bank`, `#FX intervention`, `#policy`, `#yen`, `#euro`
 
 ---
 
 <a id="item-3"></a>
-## [比亚迪发布“闪充中国”战略，新能源汽车进入闪充时代](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3SVpQSGtXTUJDWmp3WC1IUnJQZnNBZjNpVkg1RmZFejhMTXFlQkF2SHlac05IdTB6cENSa0loZE01bDY0SmNpTW5OWGluVi1hZzBMTE5EM2E3LV9xMWc?oc=5) ⭐️ 8.0/10
+## [光大转让嘉事堂股权 同仁堂接盘 多名管理者涉医疗腐败被查](https://wenews.caixin.com/2026-08-07/102472368.html) ⭐️ 9.0/10
 
-比亚迪于 2026 年 3 月发布“闪充中国”战略，宣布新能源汽车进入闪充时代。这一战略与第二代刀片电池和闪充技术一同推出。 此举可能重塑电动汽车快充竞争格局，因为比亚迪的兆瓦级充电远超现有超充网络。它有望大幅缩短充电时间并改善低温充电性能，从而加速中国电动汽车的普及。 比亚迪闪充峰值功率达 1500kW、电压最高 1000V，是特斯拉 V4 超充（约 250kW）的五倍以上。每个充电站配备储能系统，在电网低谷期充电，从而避免了大规模电网升级。
+2026 年 2 月，光大集团将合计持有的嘉事堂（002462.SZ）28.48%股份以约 14.61 亿元转让给同仁堂集团。交易完成后，同仁堂集团成为控股股东，北京市国资委成为实际控制人；与此同时，嘉事堂十余名现任及前任管理人员正因医疗腐败案被查。 这笔交易标志着光大集团旗下稀缺的康养上市平台发生重大股权变更，也显示光大正在收缩康养板块，该板块在集团内的存在感进一步被削弱。交易使嘉事堂划归北京市国资委，同时在中国医疗反腐背景下凸显医药流通领域的公司治理风险。 嘉事堂是医药流通平台，此前与光大养老同属光大健康板块。一位光大集团人士表示，光大养老的表现一直不及泰康之家、太保家园等竞争对手；文章引题还追问，为何两任董秘接连非正常辞职、十余名中高层管理人员缘何被查。
 
-google\_news · 汽车之家 · 8月6日 14:20
+rss · 财新网 · 8月7日 13:52
 
-**背景**: 闪充是一种通过提高充电电流或电压来加快锂离子迁移、从而缩短充电时间的快速充电技术。比亚迪于 2026 年 3 月 5 日在深圳发布第二代刀片电池与闪充技术，常温下电量从 10%充至 70%约需 5 分钟。“闪充”一词此前也用于手机快充，但比亚迪将其引入电动汽车领域。该战略表明比亚迪希望在电池技术和充电基础设施上占据领先地位。
+**背景**: 光大集团是一家大型国有综合企业集团，业务分为金融和实业两大板块，实业板块聚焦环保、文旅、康养等产业。嘉事堂是深交所上市的医药流通平台，此次控股权转让完成后，其实际控制人将变更为北京市国资委。这桩交易发生在医疗领域反腐力度加大的背景下，医药企业及流通公司高管被调查的情况并不鲜见。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.byd.com/mea/news-list/BYD+Unveils+2nd+Generation+Blade+Battery+and+FLASH+Charging+Technology">BYD Unveils 2nd Generation Blade Battery and FLASH Charging ...</a></li>
-<li><a href="https://evseekers.com/byd-fast-charging-explained/">BYD Fast Charging Explained: How Flash Charging Works</a></li>
-<li><a href="https://baike.baidu.com/item/%E9%97%AA%E5%85%85%E6%8A%80%E6%9C%AF/67475523">闪充技术_百度百科</a></li>
-
-</ul>
-</details>
-
-**标签**: `#BYD`, `#EV`, `#strategy`, `#fast charging`, `#China`
+**标签**: `#M&amp;A`, `#corruption`, `#healthcare`, `#governance`, `#China`
 
 ---
 
 <a id="item-4"></a>
-## [中国发布首个强制性 L3/L4 自动驾驶安全国标](https://news.google.com/rss/articles/CBMitwJBVV95cUxPUG8yMVlCZlJHdnpBRlA1eTdBUENyOVF5ZmphSGZ6Zmd5LTVrR0tJQUZaNnJ2eTM2eTR5VWIzaDRVNWsyNGdRdF9tcGQxUU81OWJySUZNSW1WTE9ROUpWWEFzeURJaXo0a2YzbFZqd3dEZWM4Tzk5b0Z3WHdYZnpvT3Y2eWo5Y3B5TVp6TkprYVM1aHVLazdWV0RFMXdEY0tGdmtFTG9UcW9fOFBGM3NJajlDUXlHLU05eHAxWEQwd3JZQ2ZYWHZ5T1NUYzctWnFHRFB0eUZpaFVZWjNvMVJGWDA0cTZJRVRPZ2FNa1oyZ19NZTJYT1FhR2N4MUhvRFUxQ09xTS14YWNybG9aTkVzT2tGaHFOYmxPblM3REZjUUpXa3dCT1dQcFZvQmx4WWI0dnpNV3hTSQ?oc=5) ⭐️ 8.0/10
+## [宇树发行市值 610 亿元，成 A 股人形机器人第一股](https://www.caixin.com/2026-08-07/102472114.html) ⭐️ 9.0/10
 
-中国已批准并发布了首个针对 L3 和 L4 级自动驾驶系统安全的强制性国家标准 GB 44721—2026，该标准将于 2027 年 7 月 1 日实施。比亚迪高管何志奇对此发表了评论，新浪财经也对此进行了报道。 这是全球最大汽车市场在监管层面的一项里程碑式举措，加强了对高阶自动驾驶的安全要求。它将直接影响比亚迪等车企，并有望加速智能网联汽车的商业化部署。 该标准全称为《智能网联汽车 自动驾驶系统安全要求》，由工业和信息化部（MIIT）归口管理。它适用于 L3 和 L4 级自动驾驶系统，标志着行业从技术验证向更大规模应用阶段过渡。
+8 月 6 日，宇树科技公告科创板上市发行定价 150.8 元/股，发行市值约 610 亿元，融资规模 60.9 亿元，较此前招股书披露的 42 亿元明显提高。按发行后总股本 4.044 亿股计算，发行前估值约 549 亿元。 宇树科技是 A 股人形机器人第一股，填补了 A 股缺乏纯正人形机器人标的的空白，市场关注度极高。此次定价对应 2025 年市盈率约 219 倍，显著高于行业可比公司，彰显市场对人形机器人赛道的乐观预期，但也意味着上市后股价需要业绩持续兑现来支撑。 发行价 150.80 元/股对应 2025 年摊薄后静态市销率 35.89 倍，扣非前后孰低的摊薄后市盈率达 219.23 倍。由于 A 股缺乏类似标的，市场预计宇树上市后市值有望轻松突破千亿元，甚至达到 2000 亿元。
 
-google\_news · 新浪财经 · 8月6日 04:19
+rss · 财新网 · 8月7日 12:19
 
-**背景**: 自动驾驶按等级划分，L3（有条件自动驾驶）仍需要驾驶员在系统提示时接管，而 L4（高度自动驾驶）允许车辆在特定条件下完成所有驾驶任务。中国智能网联汽车产业近年来快速发展，此次发布的 L3/L4 强制性国标是首个针对该类系统的国家安全标准，为行业确立了监管基线。
+**背景**: 人形机器人是具身智能的重要方向，训练方式正从传统规则控制转向端到端人工智能——即由神经网络直接将传感器输入映射为机器人动作。宇树创始人王兴兴介绍，到 2023 年宇树推出第一款人形机器人时，已完全通过端到端 AI 训练其行走。NVIDIA Isaac GR00T 等平台和国内开源的强化学习训练框架也在加速该领域的研发。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://chinaevhome.com/2026/08/04/china-issues-first-mandatory-l3-l4-ad-standard-effective-july-2027/">China Issues First Mandatory L3/L4 AD Standard ... | ChinaEVHome</a></li>
-<li><a href="https://www.globaltimes.cn/page/202608/1367493.shtml">China releases mandatory national standard for ... - Global Times</a></li>
-<li><a href="https://www.chinadaily.com.cn/a/202608/06/WS6a74a59ca310986e2b4696c0.html">Safety rules for self-driving cars unveiled - Chinadaily.com.cn</a></li>
+<li><a href="https://developer.nvidia.cn/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/">使用 NVIDIA Isaac GR00T 开发端到端人形机器人策略</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/685561874">开源人形机器人端到端强化学习训练框架！星动纪元联合清华大学、上海...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#policy`, `#autonomous-driving`, `#regulation`, `#China`, `#EV`
+**标签**: `#IPO`, `#人形机器人`, `#估值`, `#科创板`
 
 ---
 
 <a id="item-5"></a>
-## [美国暂停进口后墨西哥派兵护卫牛油果产区](https://www.ft.com/content/f6f53b98-9661-4d50-bf25-b32738643cac?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [比亚迪申请六项固态电池专利，拟于 2027 年投产](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BRFZkZ1hRamJmN3lNbmNEOExVWVBKSzBiNFNrQTVOWW5PdzBZVjZKTHNCNVF3aUM1bDBGaWduRkZIRHEtMk5SSm1rNl9Zd0xyODVhUThxaXJYb0U?oc=5) ⭐️ 8.0/10
 
-在暴力事件升级导致美国撤回检查员并暂停牛油果进口后，墨西哥已向米却肯州派遣数百名士兵。此次部署旨在恢复这一牛油果主产区的安全秩序，推动检查工作尽快恢复。 美国的暂停令扰乱了重要的农产品贸易通道——米却肯州是美国市场牛油果的主要供应来源。此次派兵凸显出贩毒集团暴力已直接威胁到这条大型跨境供应链，短期内可能推高牛油果价格。 此轮暂停是因美国农业部检查员出于安全原因撤离而起，导致米却肯州牛油果对美出口中止。牛油果对美出口是该州重要经济支柱，此前类似暴力事件也曾造成临时进口中断，暴露出供应链对当地局势的高度脆弱性。
+比亚迪提交了六项固态电池专利申请，重点采用双电解质正极方案，结合卤化物和硫化物电解质组分。该公司计划于 2027 年开始量产这种固态电池电芯。 这标志着固态电池商业化迈出重要一步，固态电池相比传统锂离子电池具有更高能量密度和更好的安全性。如果比亚迪如期在 2027 年实现量产，将增强其在电动汽车市场的竞争力，并推动整个行业加速采纳下一代电池技术。 专利描述了一种基于硫化物的电解质体系以及双电解质正极设计，以解决界面稳定性问题。申请文件未包含具体性能指标和整车测试数据，能量密度与循环寿命等关键参数仍有待披露。
 
-rss · FT Markets · 8月6日 21:12
+google\_news · user.guancha.cn · 8月7日 17:04
 
-**背景**: 米却肯州是墨西哥最大的牛油果产区，其大部分产量出口到美国，而牛油果在美国已是日常消费的重要食品。该地区长期受有组织犯罪困扰，贩毒集团近年来愈发将农业作为敲诈勒索和控制的目标。美国会对墨西哥牛油果果园进行检验检疫以确保食品安全；一旦检查员撤离，进口便无法进行。
+**背景**: 固态电池用固态电解质替代传统锂离子电池中易燃的液态电解质，从而降低起火风险，并有望实现更高的能量密度。然而，界面电阻与材料兼容性等挑战一直阻碍其商业化进程。比亚迪作为全球最大的电动汽车和电池制造商之一，也是多家力争在 2020 年代末将固态电池推向市场的企业之一。
 
-**标签**: `#trade`, `#supply chain`, `#agriculture`, `#geopolitics`, `#imports`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://carnewschina.com/2026/08/06/byd-files-six-solid-state-battery-patents-eyes-2027-production-with-dual-electrolyte-cathode-cells/">BYD files six solid-state battery patents, eyes 2027 ...</a></li>
+<li><a href="https://battery-tech.net/battery-markets-news/byd-unveils-dual-electrolyte-solid-state-battery-cathode/">BYD Unveils Dual-Electrolyte Solid-State Battery Cathode</a></li>
+<li><a href="https://www.caranddriver.com/features/a63306863/solid-state-batteries-evs-explained/">caranddriver.com/features/a63306863/ solid - state - batteries -evs...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#solid-state battery`, `#EV`, `#patents`, `#technology`
 
 ---
 
 <a id="item-6"></a>
-## [Partners Group 接近以 20 亿欧元收购美妆集团 Aroma-Zone](https://www.ft.com/content/235a98f8-7833-450f-a9aa-f5049d361d30?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [比亚迪拿下阿联酋吉瓦储能大单，浩瀚系统落地全天候电站](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBVFh2YzBJM0FjTWdXU1BYSkcySXVuTHNlVzBQY2RKT1A0YWV1d2V5eFZrZkZnWTZvd25tYTJDUU1Vb2xXbzkyNmJiVG9Wb1FYSHY1WTZEeHpsb29EYWlB?oc=5) ⭐️ 8.0/10
 
-Partners Group 正在深入谈判，拟以近 20 亿欧元从法国资产管理公司 Eurazeo 手中收购美妆集团 Aroma-Zone。这笔交易将涉及 Eurazeo 出售其持有的股份，而 Aroma-Zone 主要销售面部精华和膳食补充剂。 一笔约 20 亿欧元的交易将成为欧洲美妆与健康领域近期规模较大的私募股权收购案之一。这凸显了投资者对定位天然、健康导向的高增长消费品牌的持续兴趣。 谈判仍在进行中，交易尚未最终敲定。Aroma-Zone 是一家法国企业，以销售面部精华、精油和膳食补充剂为主，主要通过电商渠道销售。
+比亚迪已获得阿联酋一个吉瓦级可再生能源项目的储能系统合同，为其部署新一代“浩瀚”储能系统。该项目被称为全球首座全天候吉瓦级新能源电站，将应用“浩瀚”系统。 这是比亚迪在国际大型储能市场的标志性胜利，展示了其在公用事业级储能领域的竞争力。该订单有望显著推动比亚迪储能业务，并表明海湾地区对全天候可再生能源解决方案的需求持续增长，交易规模可能达数十亿美元。 “浩瀚”系统最小单元容量为 14.5 兆瓦时，体积能量密度达 233 千瓦时/立方米，并搭载比亚迪宣称的全球最大 2710Ah 储能专用刀片电池。建设 1 吉瓦时级储能电站时仅需 69 套“浩瀚”设备，较传统方案的 145 个集装箱减少约 52%，占地面积节省 33%。
 
-rss · FT Markets · 8月6日 07:11
+google\_news · 碳索储能网 · 8月7日 01:19
 
-**背景**: Eurazeo 是一家法国上市资产管理公司，此前将 Aroma-Zone 作为成长型投资持有。Partners Group 是一家总部位于瑞士的私募市场投资公司，业务涵盖私募股权、房地产和基础设施。由于消费者需求稳健且复购率较高，美妆和膳食补充剂品牌一直受到私募股权投资者的青睐。
+**背景**: 比亚迪是中国主要的电动汽车和电池制造商，近年来正积极拓展固定式储能业务。“浩瀚”系统于 2025 年 9 月 18 日在深圳国际数字能源展上首次全球发布。阿联酋该项目旨在全天候稳定供应 1 吉瓦基荷可再生能源，这需要大规模电池储能来平衡间歇性太阳能发电与持续的用电需求。
 
-**标签**: `#M&amp;A`, `#private equity`, `#beauty`, `#consumer`, `#deal`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/tech/roll/2025-09-19/doc-infqytkr3204360.shtml">比亚迪发布新一代储能新品“浩瀚”：搭载全球最大2710Ah储能专用刀片电池|比亚迪|储能_新浪科技_新浪网</a></li>
+<li><a href="https://www.zhihu.com/question/1952311139569492404/answer/1952380844028166380">比亚迪发布最小单元容量 14.5 兆瓦时的浩瀚储能系统，能量密度高达233度电/立方米，这意味着什么？ - 知乎</a></li>
+<li><a href="https://news.goalfore.cn/latest/detail/93982.html">阿联酋首建 全 天 候 千 瓦 级 绿 电 项目 - 电 报文章正文 - 新 闻 – 国复咨询</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#energy storage`, `#UAE`, `#renewable energy`, `#contract win`
 
 ---
 
 <a id="item-7"></a>
-## [BP 退出北海给苏格兰能源敲响警钟](https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [阿联酋退出欧佩克后支持 ADNOC 进取扩张](https://www.ft.com/content/1cc700ca-730a-4138-a1a3-f69defa62945?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-英国石油公司（BP）正在退出北海油气盆地，这一重大战略举措对苏格兰海上能源行业构成打击。该退出发生时，苏格兰地区的可再生能源项目也正陷入困境。 这一退出凸显了北海作为油气产区正在加速衰落，并引发对苏格兰能源转型前景的质疑。此事还会影响 BP 的估值、当地油气行业就业，以及投资者对英国能源资产的整体信心。 文章明确将 BP 此举定性为对油气行业的“打击”，并指出可再生能源项目进展不顺使问题更加严重。现有摘要中未提供具体资产价值、交易条款或时间表。
+阿联酋在退出欧佩克后，支持国有石油公司 ADNOC 采取更强势、更具扩张性的战略。这标志着海湾石油政策的转变，可能增加全球供应并重塑欧佩克的影响力。 如果阿联酋在欧佩克配额之外提高产量，可能增加全球石油供应并削弱欧佩克管理油价的能力。这一地缘政治转变对能源市场以及沙特主导的产量纪律都有重大影响。 ADNOC 是全球第 12 大石油生产商，2021 年产量已超过每日 400 万桶，并计划到 2030 年提高到每日 500 万桶。其扩张目标涵盖上游开采、炼油和石化业务，并得到阿布扎比政府的支持。
 
-rss · FT Markets · 8月6日 04:00
+rss · FT Markets · 8月7日 04:00
 
-**背景**: 几十年来，北海一直是英国和苏格兰油气生产的基石，但随着油田成熟和投资转移，产量持续下降。BP 退出反映出一个更广泛的趋势：国际石油公司正在从老油田转向更高增长的机会和更清洁的能源。与此同时，苏格兰的可再生能源雄心（尤其是海上风电）面临成本上涨和供应链挑战，使该地区的能源转型更加复杂。
+**背景**: 欧佩克是由产油国组成的卡特尔，通过协调产量来影响国际油价。阿联酋退出后，转而支持 ADNOC 走独立且注重增长的道路。ADNOC 由阿布扎比政府全资拥有，正在能源价值链上进行投资，并自称是全球碳强度最低的油气生产商之一。
 
-**标签**: `#energy`, `#oil &amp; gas`, `#BP`, `#renewables`, `#restructuring`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company">Abu Dhabi National Oil Company - Wikipedia</a></li>
+<li><a href="https://www.adnoc.ae/en/our-story/who-we-are">Who We Are - ADNOC</a></li>
+
+</ul>
+</details>
+
+**标签**: `#oil`, `#OPEC`, `#energy`, `#geopolitics`, `#macro`
 
 ---
 
 <a id="item-8"></a>
-## [英伟达或因存储短缺下调下一代 GPU 显存配置](https://www.caixin.com/2026-08-07/102472107.html) ⭐️ 8.0/10
+## [厄尔尼诺威胁全球大宗商品供应与通胀前景](https://www.ft.com/content/7c35f5dd-7c40-4748-a103-f47ab44c858d?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-据报道，英伟达正在测试下一代 Rubin Ultra GPU 的较低规格显存配置，以应对高带宽内存（HBM）短缺。此外，由于 LPDDR5X 供应紧张，英伟达决定将下一代 Vera Rubin 超级芯片模块的 SOCAMM 容量减半。 此举可能影响 AI 硬件性能及英伟达的竞争地位，因为内存带宽是 AI 工作负载的关键约束。这也反映出 HBM 和 LPDDR5X 供应链的紧张状况，对云服务商和内存供应商都会产生影响。 Trendforce 在 8 月 4 日指出，自今年三季度起，英伟达便开始为 Rubin Ultra 评估更低规格的 HBM 配置，多家云厂商也在考虑为下一代自研 AI 芯片配置更低容量的 HBM。LPDDR5X 供应紧张预计将持续至 2027 年，英伟达因而决定将 Vera Rubin 上的 SOCAMM 容量减半。
+今年的厄尔尼诺现象预计将成为 1950 年以来最强的一次，增加了粮食短缺和通货膨胀的风险。这种天气模式可能会扰乱全球多种最重要交易商品的供应。 由于厄尔尼诺可能严重损害主要产区的农业产量，它可能推高全球食品价格并重新引发通胀压力。这可能影响央行的政策决策，并对全球粮食安全和供应链构成新的挑战。 这一现象预计将成为 1950 年以来有记录以来最强的一次，意味着可能带来广泛而严重的天气干扰。影响可能因地区而异，一些地区将出现干旱，另一些地区则可能发生洪水，从而影响糖、咖啡、可可、大米和棕榈油等作物。
 
-rss · 财新网 · 8月7日 00:41
+rss · FT Markets · 8月7日 04:00
 
-**背景**: HBM（高带宽内存）是一种 3D 堆叠 DRAM 内存接口，可提供极高的内存带宽，是 AI 和高性能计算的关键技术。SOCAMM（小型化压缩附加内存模组）是英伟达与美光、三星、SK 海力士合作开发的新型内存形态，旨在将低功耗 LPDDR5X 引入数据中心服务器。对于推理工作负载而言，内存带宽已成为制约因素，因此内存规格成为 AI 硬件竞争的关键领域。
+**背景**: 厄尔尼诺是一种自然气候现象，指热带太平洋中东部海面温度异常升高，从而改变全球天气模式。它通常会给一些地区带来强降雨，而给另一些地区造成干旱，对农业、水资源和能源需求产生重大影响。由于许多大宗商品种植于气候敏感地区，强厄尔尼诺现象可能迅速转化为价格上涨和更广泛的通胀效应。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://semiwiki.com/ip/rambus/370722-how-socamm2-could-reshape-server-memory-for-ai/">How SOCAMM 2 Could Reshape Server Memory for AI - SemiWiki</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Nvidia`, `#AI`, `#semiconductor`, `#supply chain`, `#HBM`
+**标签**: `#commodities`, `#macro`, `#inflation`, `#weather`, `#supply chain`
 
 ---
 
 <a id="item-9"></a>
-## [中国超大型油轮绕行非洲，经埃及装载沙特原油](https://international.caixin.com/2026-08-06/102471650.html) ⭐️ 8.0/10
+## [美国 7 月非农意外减少 2.3 万 失业率降至 4.1%](https://international.caixin.com/2026-08-07/102472425.html) ⭐️ 8.0/10
 
-8 月 4 日，中远海运旗下 33 万吨级超大型油轮“远喜湖”号抵达埃及地中海沿岸西迪基里尔码头外海，准备装载沙特原油；该船 8 月 1 日以空载状态北向通过苏伊士运河。这一航线规避了胡塞武装对红海曼德海峡的封锁，改为经埃及管道在地中海侧装油。 此次绕行凸显了胡塞武装对曼德海峡的封锁正在扰乱沙特原油出口，迫使油轮绕行非洲、增加航程与成本。这也表明，经由埃及 SUMED 管道替代运输的应急方案仍难以完全弥补对全球石油运输和能源市场的影响。 “远喜湖”号从 7 月 11 日进入红海后，因胡塞武装宣布对沙特海上封锁而滞留延布港外海，8 月 1 日空载北行通过苏伊士运河。现在沙特用穿梭油轮将延布港原油运至红海侧苏赫纳码头，再经 SUMED 管道输送至西迪基里尔码头装船。
+美国劳工部 8 月 7 日发布的报告显示，7 月非农就业岗位减少 2.3 万个，远低于预期的增加 8.3 万个，6 月新增就业也被大幅下修至仅 2 万人。失业率从 4.2%降至 4.1%，但劳动参与率跌至 61.4%，为五年多来最低。 这标志着美国劳动力市场显著放缓，引发对经济减速的担忧。同时，市场对美联储 9 月加息的预期降至 44%，可能影响全球市场和货币政策走向。 5 月的最终就业数据也被下修 6.6 万，仅增加 6.3 万。劳动参与率降至 61.4%，表明越来越多的人退出劳动力市场，而非找到工作。
 
-rss · 财新网 · 8月7日 00:26
+rss · 财新网 · 8月7日 13:52
 
-**背景**: 超大型油轮（VLCC）是载重吨位约 20 万至 32 万吨的大型原油运输船，每航次可承运约 200 万桶原油。曼德海峡位于也门与非洲之角之间，是连接红海与亚丁湾的关键海上咽喉要道；埃及的 SUMED 管道则是当苏伊士运河无法通行时，将原油从红海输送到地中海的主要替代路线。
+**背景**: 非农就业数据（NFP）是美国每月最重要的就业指标，由劳工统计局在每月第一个周五发布，涵盖非农业就业人数、失业率等。劳动参与率则衡量劳动年龄人口中就业或积极求职者所占比例，其显著下降可能表明有更多人因找工作困难而退出劳动力市场。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Sumed_pipeline">Sumed pipeline - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/place/Bab-El-Mandeb-Strait">Bab el-Mandeb Strait | Map, Chokepoint, Red Sea, Iran War ... What is the Bab el-Mandeb Strait, and why does the Houthi ... EXPLAINER: What is Bab el-Mandeb Strait and why is it important? Bab-el-Mandeb Strait: Shipping Routes, Key Facts &amp; Strategic Role Bab el-Mandeb ‘Gate of Tears’: How a Second Global Shipping ... Will the Bab el-Mandeb Blockade Impact Oil and Shipping Prices?</a></li>
-<li><a href="https://www.shipfinex.com/blog/vlcc-ships">VLCC Ships: What They Are, How They Work, and Everything You ...</a></li>
+<li><a href="https://www.laohu8.com/post/107839571">非 农 就 业 数 据 爆冷门，浅谈三点想法_老虎社区_美港股上老虎 - 老虎社区</a></li>
+<li><a href="https://www.tsinghua.edu.cn/__local/4/E6/DA/A12EB75B9D564353167D4F107C5_D711D7DB_79EC7D.pdf">tsinghua.edu.cn/__local/4/E6/DA/A12EB75B9D564353167D4F107...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#energy`, `#geopolitics`, `#shipping`, `#oil supply`, `#supply chain`
+**标签**: `#macroeconomics`, `#employment`, `#Federal Reserve`, `#US labor market`, `#nonfarm payroll`
 
 ---
 
 <a id="item-10"></a>
-## [嘉能可上半年扭亏净利增超 50 亿美元](https://www.caixin.com/2026-08-06/102472062.html) ⭐️ 8.0/10
+## [李云泽因严重违纪违法被罢免全国人大代表职务](https://finance.caixin.com/2026-08-07/102472218.html) ⭐️ 8.0/10
 
-嘉能可发布上半年业绩，归母净利润 44.05 亿美元，扭转了上年同期 6.55 亿美元的亏损，因美伊冲突扰乱油气市场。调整后 EBITDA 同比增长 86%至 101.15 亿美元。 该业绩显示，大型大宗商品贸易商如何从地缘政治冲击和供应中断中获取巨额套利收益。这也凸显出嘉能可等贸易巨头在全球能源和金属流向再平衡中发挥的举足轻重作用。 嘉能可能源与炼焦煤贸易利润同比猛增 65 倍。霍尔木兹海峡的实质性关闭以及该地区冶炼厂遭袭，扰乱了铝等金属市场，迫使买家转向其他地区高价采购原油。
+国家金融监管总局首任局长李云泽因严重违纪违法，被罢免第十四届全国人大代表职务。四川省人大常委会于 2026 年 5 月 27 日作出决定，并于 2026 年 7 月 12 日在第三号公报中公布。 这是中国金融监管领域的一件大事，预示着金融监管可能发生变化，并带来政治风险。由于李云泽直到 2026 年 4 月才被免职，此事可能影响市场对金融行业的信心。 李云泽曾在建行工作二十余年，2016 年任工行副行长，2018 年出任四川省负责金融的副省长，2023 年 5 月任国家金融监管总局首任党委书记、局长。2026 年 4 月被免职，近期官方首次披露其被免职的原因。
 
-rss · 财新网 · 8月7日 00:26
+rss · 财新网 · 8月7日 13:52
 
-**背景**: 嘉能可是全球最大的多元化自然资源公司之一，业务涵盖采矿和商品贸易。在供应中断期间，贸易商通过重新调度货物，利用不同地区间的价差获利，而美伊战争恰好造成了这种失衡。调整后 EBITDA 是衡量运营盈利能力的常用指标，剔除利息、税项、折旧及摊销。
+**背景**: 国家金融监督管理总局（NFRA）于 2023 年在中国机构改革中组建，旨在整合金融监管职能。全国人民代表大会代表由各地区选举产生，根据《选举法》，当代表严重违纪违法时，通常会被罢免职务。李云泽的职业生涯反映了中国高级金融官员的典型路径。
 
-**标签**: `#earnings`, `#energy`, `#commodities`, `#geopolitics`, `#trading`
+**标签**: `#policy`, `#regulation`, `#China`, `#finance`, `#political risk`
 
 ---
 
 <a id="item-11"></a>
-## [明治退出中国乳业 澳亚集团接盘](https://database.caixin.com/2026-08-07/102472066.html) ⭐️ 8.0/10
+## [故障率高出同业 20 倍，中创新航第三地位不保](http://finance.eastmoney.com/a/202608073835384046.html) ⭐️ 8.0/10
 
-2026 年 7 月下旬，明治（中国）投资有限公司与澳亚集团全资子公司上海澳雅食品签订附条件买卖协议，拟收购明治中国新设目标公司的全部股权。交割前，明治中国将把乳品业务、明治天津和明治苏州两家工厂的股权及相关资产、合同、转岗员工注入该目标公司。 这笔交易标志着日本领先乳企在中国市场的全面战略撤退，也逆转了 2020 年明治入股澳亚集团时的合作方向。交易凸显中国乳制品市场对外资品牌已相当艰难，同时为澳亚集团提供了下游制造基地，以消化过剩原奶产能。 财新原文未披露交易价格。双方此前合作方向相反：2020 年明治曾斥资 2.54 亿美元入股澳亚集团以锁定上游奶源，如今澳亚集团反向接手明治的中国制造资产。
+此事意义重大，因为中创新航被视为中国第三大电动车电池制造商，如此明显的质量差距可能削弱客户信任和投资者信心。这些发现可能加速市场份额向宁德时代和比亚迪转移，影响整个电池行业格局。 报道特别指出，中创新航 2025 年毛利率 16.69%，相比宁德时代 26.27%和比亚迪整体毛利率 21.6%处于劣势。故障率数据据称高出同业 20 倍以上，是衡量制造一致性和可靠性的关键指标。
 
-rss · 财新网 · 8月7日 00:07
+rss · 东方财富/002594 · 8月7日 11:56
 
-**背景**: 明治控股是日本大型食品和乳制品企业，其中国乳品业务在激烈的本土竞争和需求变化中持续承压。新任社长兼 CEO 松田克也就任一年多，采取减值、停产、出售三步棋来止损。澳亚集团是中国大型原奶生产商，收购明治工厂可帮助其向下游延伸，消化过剩的原奶供应。
+**背景**: 中创新航（CALB）是中国主要的电动汽车锂离子电池供应商，历史上排名第三，仅次于宁德时代和比亚迪。在电动汽车供应链中，电池故障率和毛利率是两个关键指标：故障率影响安全性和长期品牌信誉，而毛利率反映定价能力、成本控制和运营效率。高故障率加上低毛利可能意味着竞争劣势，有侵蚀其市场地位的风险。
 
-**标签**: `#M&amp;A`, `#divestiture`, `#dairy`, `#Japan`, `#China`
+**标签**: `#battery`, `#EV`, `#competition`, `#quality`, `#margins`
 
 ---
 
 <a id="item-12"></a>
-## [美国拟全面封堵中国智能网联汽车](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0Y2ci1LNFZSQTEweUdXZ0dSTVBCb0o4X2FOQ0lZbWUyOThDWkFUZFZSaFRzS0VFSHhMQWlvWFQxbzJMMElCRUF1VHZ4UzBrdWJxdjkxWWJLSXhrdWpLUzhYd3d0eU5ENTVrUEZNU0FzT1pyblRCUWxCZDBnZTNqLW9YNExHR3U0ZzFyTGFORHlybmdweERfbDFqa05pQnVWRHFxX3dFSjg0ZWNuZEg3UUV0UHBScHpMZUNsVkVXdDNDbjYzdGlmNU8yelVDRkhpMkV6cnJNaXY2dUFULW41S3pIVXl2OGPSAecBQVVfeXFMUDNGNnItSzRWUkExMHlHV2dHUk1QQm9KOF9hTkNJWW1lMjk4Q1pBVGRWUmhUc0tFRUh4TEFpb1hUMW8yTDBJQkVBdVR2eFMwa3VicXY5MVliS0l4a3VqS1M4WHd3dHlORDU1a1BGTVNBc09acm5UQlFsQmQwZ2Uzai1vWDRMR0d1NGcxckxhTkR5cm5ncHhEX2wxamtOaUJ1VkRxcV93RUo4NGVjbmRIN1FFdFBwUnB6TGVDbFZFV3QzQ242M3RpZjVPMnpVQ0ZIaTJFenJyTWl2NnVBVC1uNUt6SFV5djhj?oc=5) ⭐️ 8.0/10
+## [中企动力电池全球份额创新高 刚果（金）禁止铜钴精矿出口](http://finance.eastmoney.com/a/202608073835367432.html) ⭐️ 8.0/10
 
-美国政府已提出全面限制措施，以国家安全为由阻止中国智能网联汽车进入其市场。该提案引发专家争论，讨论其究竟是基于真实安全威胁还是竞争压力。 这一监管转变可能严重影响依赖美国市场的中国电动汽车和自动驾驶企业，以及全球汽车供应链。如果实施，可能加速主要汽车市场的脱钩，并重塑下一代汽车的竞争格局。 该提案尚未最终确定，还需经过进一步的监管程序。安全担忧主要聚焦于联网汽车潜在的数据收集和远程控制漏洞，而批评者认为此举主要目的是保护美国汽车制造商免受中国竞争。
+刚果（金）宣布禁止铜精矿和钴精矿出口，此举可能收紧钴供应。上半年全球动力电池装机量前十榜单中，宁德时代、比亚迪、中创新航、国轩高科、亿纬锂能、蜂巢能源和欣旺达共七家中企入围，中企合计份额创历史新高。 刚果（金）是全球最大的钴供应国，其出口禁令可能推高电池材料成本，并加速行业向低钴/无钴电池技术转型。中企在全球动力电池装机量中的份额创新高，凸显中国在电动汽车供应链中不断增强的定价权与影响力。 该禁令针对铜精矿和钴精矿，这两种产品都是锂电池供应链中的关键原材料。跻身全球动力电池装机量前十榜单的七家中企分别是宁德时代、比亚迪、中创新航、国轩高科、亿纬锂能、蜂巢能源和欣旺达。
 
-google\_news · 美国之音 · 8月6日 21:24
+rss · 东方财富/002594 · 8月7日 11:29
 
-**背景**: 智能网联汽车将自动驾驶与互联网连接相结合，支持 V2X（车联万物）通信等特性，包括车对车（V2V）、车对路（V2I）、车对人（V2P）和车对网络（V2N）连接。该技术依赖蜂窝网络，例如 C-V2X，其包含基于 LTE 的 LTE-V2X 和基于 5G 新空口的 NR-V2X。美国此前已对中国科技产品实施限制，此次提案将类似担忧延伸至汽车行业。
+**背景**: 钴是锂离子电池正极的关键原材料，而刚果（金）是全球钴的主要生产国，因此其供应政策对电池成本影响重大。铜也广泛用于电动汽车部件，铜精矿出口禁令可能给原材料供应链带来压力。上榜的中企除宁德时代、比亚迪等头部厂商外，还包括中创新航、蜂巢能源和欣旺达；其中蜂巢能源源自长城汽车动力电池事业部，并已量产无钴电池。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://baike.baidu.com/item/C-V2X/67604240">C-V2X_百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/1978800929332557505">万字长文解析｜自动驾驶技术路线之争：V2X（车路协同）</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%88%9B%E6%96%B0%E8%88%AA">中 创 新 航 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%9C%82%E5%B7%A2%E8%83%BD%E6%BA%90%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/60746613">蜂巢能源科技股份有限公司_百度百科</a></li>
 
 </ul>
 </details>
 
-**标签**: `#policy`, `#automotive`, `#technology`, `#trade`, `#regulation`
+**标签**: `#lithium battery`, `#cobalt`, `#commodities`, `#regulation`, `#China battery makers`
 
 ---
 
 <a id="item-13"></a>
-## [比亚迪 2026 年上半年销量跻身全球车企第六](http://finance.eastmoney.com/a/202608073834277176.html) ⭐️ 7.0/10
+## [美国拟全面封堵中国智能网联汽车，专家激辩安全威胁与竞争压力](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0Y2ci1LNFZSQTEweUdXZ0dSTVBCb0o4X2FOQ0lZbWUyOThDWkFUZFZSaFRzS0VFSHhMQWlvWFQxbzJMMElCRUF1VHZ4UzBrdWJxdjkxWWJLSXhrdWpLUzhYd3d0eU5ENTVrUEZNU0FzT1pyblRCUWxCZDBnZTNqLW9YNExHR3U0ZzFyTGFORHlybmdweERfbDFqa05pQnVWRHFxX3dFSjg0ZWNuZEg3UUV0UHBScHpMZUNsVkVXdDNDbjYzdGlmNU8yelVDRkhpMkV6cnJNaXY2dUFULW41S3pIVXl2OGPSAecBQVVfeXFMUDNGNnItSzRWUkExMHlHV2dHUk1QQm9KOF9hTkNJWW1lMjk4Q1pBVGRWUmhUc0tFRUh4TEFpb1hUMW8yTDBJQkVBdVR2eFMwa3VicXY5MVliS0l4a3VqS1M4WHd3dHlORDU1a1BGTVNBc09acm5UQlFsQmQwZ2Uzai1vWDRMR0d1NGcxckxhTkR5cm5ncHhEX2wxamtOaUJ1VkRxcV93RUo4NGVjbmRIN1FFdFBwUnB6TGVDbFZFV3QzQ242M3RpZjVPMnpVQ0ZIaTJFenJyTWl2NnVBVC1uNUt6SFV5djhj?oc=5) ⭐️ 8.0/10
 
-“深圳发布”微信公众号 8 月 6 日消息，在 2026 年上半年国际汽车集团世界销量份额榜中，比亚迪排名第六。共有 3 家中国车企跻身全球前十。 比亚迪跻身全球前十，凸显了中国汽车品牌在全球市场中的快速崛起，也增强了投资者对国内汽车产业的信心。这同时说明比亚迪海外扩张步伐加快，在全球老牌车企巨头面前已具备更强的竞争力。 该榜单为 2026 年上半年国际汽车集团世界销量份额榜，共有 3 家中国车企进入全球前十。比亚迪位列第六，这是中国品牌在长期由日系、德系和美系车企主导的榜单中取得的不俗成绩。
+据报道，美国拟出台全面限制措施，以国家安全风险为由封堵中国智能网联汽车进入其市场。此举引发专家争论：究竟是基于真实的安全威胁，还是对中国车企的竞争压力所致。 若正式实施，该限制可能严重冲击全球汽车产业，影响比亚迪、蔚来等中国电动汽车与智能网联汽车企业，并重塑供应链。这也标志着美中科技脱钩正延伸至智能网联汽车这一新领域。 此次限制针对的是搭载 V2X（车联万物）通信技术的智能网联汽车，这类车辆需与其他车辆、道路设施及云端持续交换数据。由于系统会不断收集和传输位置与行驶数据，美方称其可能带来数据安全与监控风险，但具体限制范围和执行时间仍有待明确。
 
-rss · 东方财富/比亚迪 · 8月6日 23:01
+google\_news · 美国之音 · 8月6日 21:24
 
-**背景**: 国际汽车集团销量份额榜统计的是全球主要汽车集团的总销量，涵盖乘用车和商用车。长期以来，榜单前十名被日系、德系和美系的传统车企主导。作为中国新能源汽车巨头，比亚迪凭借电动汽车和插电式混合动力车型的强劲需求，在国内外市场快速扩张。此次排名第六，反映出中国在全球汽车产业中的影响力持续上升。
+**背景**: 智能网联汽车融合先进传感器、无线通信和计算能力，支持从实时导航到自动驾驶等功能。V2X（车联万物）通信让车辆能够与其他汽车、交通信号灯、行人设备及云端服务器实时交换数据，从而提升安全性和交通效率。随着中国车企在智能网联和电动汽车领域快速崛起，其全球竞争力增强，也引起美国监管机构对数据安全和供应链依赖的警惕。
 
-**标签**: `#autos`, `#BYD`, `#sales`, `#global ranking`, `#China`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.transportation.gov/research-and-technology/how-connected-vehicles-work">How Connected Vehicles Work - Department of Transportation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Vehicle-to-everything">Vehicle-to-everything - Wikipedia</a></li>
+<li><a href="https://www.itskrs.its.dot.gov/briefings/executive-briefing/vehicle-everything-v2x-technology">Vehicle-to-Everything (V2X) Technology | ITS Deployment ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#policy`, `#regulation`, `#automotive`, `#trade`, `#China`
 
 ---
 
 <a id="item-14"></a>
-## [比亚迪在巴西推定制混动车，中国车企加速海外本土化](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PQ05WMWE4NFVreXdqb2pFQS0tZmpvdFFDOXpYdzdabGEyNzR6djByNmoxZVQtNl8yVW1LbV9KNk1MOXYzTVM0QnFsRnFyaUhmSGNhLWo4Y2hzUmJEQlU2YmZn?oc=5) ⭐️ 7.0/10
+## [比亚迪跻身 2026 年上半年全球车企销量第六](http://finance.eastmoney.com/a/202608073834277176.html) ⭐️ 7.0/10
 
-比亚迪已在巴西推出“定制”混动汽车，标志着中国车企加速推进海外本土化。此举是适应当地市场条件、调整产品策略的更广泛布局的一部分。 巴西是全球最大的汽车市场之一，比亚迪以定制混动车进入该市场，有望显著提升其国际销量和市场份额。这也为中国其他车企在海外实现本地化生产与设计树立了先例。 报道未说明涉及比亚迪的哪些车型及定价。“定制”很可能体现了对巴西消费者偏好及当地燃料基础设施（大量依赖乙醇柔性燃料技术）的适配。
+据“深圳发布”微信公众号 8 月 6 日消息，在 2026 年上半年国际汽车集团世界销量份额榜上，比亚迪排名第六。该榜单中有三家中国车企进入全球前十。 这一里程碑凸显了比亚迪强大的国际竞争力，也是中国汽车产业的一项具体成就。同时也反映出中国车企在全球市场的影响力不断提升，可能重塑全球汽车市场的竞争格局。 该榜单基于 2026 年上半年国际汽车集团的世界销量份额。值得注意的是，有三家中国车企进入全球前十，其中比亚迪排名最高，位列第六。
 
-google\_news · 观察者 · 8月6日 09:22
+rss · 东方财富/比亚迪 · 8月6日 23:01
 
-**背景**: 比亚迪是中国领先的电动及混动汽车制造商。巴西汽车市场传统上以使用乙醇-汽油混合燃料的柔性燃料汽车为主。中国车企正越来越多地在海外推进本地化运营，以满足当地法规、降低物流成本并规避进口关税。
+**背景**: 比亚迪是一家以电动汽车闻名的中国汽车制造商，近年来在海外市场快速扩张。全球汽车销量排行榜追踪制造商或集团在全球的汽车总销量，进入前十意味着具备显著的规模和全球市场覆盖能力。近年来，凭借具有竞争力的价格和电动汽车普及率的提升，中国车企在全球销量中的份额稳步增长。
 
-**标签**: `#BYD`, `#hybrid vehicles`, `#Brazil`, `#international expansion`, `#auto sector`
+**标签**: `#BYD`, `#auto sales`, `#global ranking`, `#China auto`, `#sector`
 
 ---
 
 <a id="item-15"></a>
-## [比亚迪全新大唐 SUV 亮相，预售价 25-32 万元](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0aU4wSjQwQ3k0ZkFEZmNvdjhhelhpNTBpamNIYXo5ekNUQ09iOWJHbFhwTENyN2REQTgxYkdLek5LM014aF9nUnlXMVlaZzhoZTduWnprUkM5RW9SZmc?oc=5) ⭐️ 7.0/10
+## [比亚迪首款 K-CAR 登陆日本，首周爆单引丰田警惕](https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2V6Q3lweXI4NExpOGUxN3NOSkVWYlpzUzFEdEhXTmdWUWlROU9QeFhERC1IVXVHcGtEZzdHTDliSzVsSzRmNWtpdDRfeUNDVi0xNzU4WHNuV2NOOVh6b2dtdzJfZFgwVmhMWkxwdXFmdy1uNVExSm84RzYwTjNxUmZNWTlCYmxkMjFZSjFxOFA?oc=5) ⭐️ 7.0/10
 
-比亚迪官方正式发布了全新大唐 SUV，并公布预售价为 25 万至 32 万元。汽车之家报道了这一消息。 大唐是比亚迪产品线中的关键车型，在中国竞争激烈的 SUV 市场拥有庞大的潜在客户群。此次发布可能影响比亚迪的销售势头和投资者情绪。 报道确认了 25 万至 32 万元的预售价区间，但未公布完整的技术参数、续航里程或交付时间。
+比亚迪正式在日本推出其首款 K-CAR（轻自动车），据报道上市首周订单火爆（爆单）。这标志着这家中国电动车制造商正式进入日本超紧凑型车市场。 该事件意义重大，因为 K-CAR 这一细分市场在日本具有独特重要性，而比亚迪的首周强劲表现可能加剧与丰田、铃木、大发等本土车企的竞争。这也表明比亚迪的全球扩张战略正深入日本本土市场。 该新闻未披露具体车型参数、定价或确切订单数量，仅强调首周订单火爆。比亚迪的 K-CAR 进入了历来由日本品牌主导的细分市场。
 
-google\_news · 汽车之家 · 8月6日 15:43
+google\_news · 新浪网 · 8月7日 14:40
 
-**背景**: 比亚迪是中国最大的新能源汽车制造商之一，而大唐是其知名的 SUV 车型系列之一。预售价是正式上市前用于试探市场需求的价格公告，通常在正式交付之前公布。
+**背景**: K-CAR（轻自动车）是日本特有的一类超紧凑型汽车，也是日本高速公路上合法通行的最小车型类别。它们专为狭窄街道设计，并享有税费和保险优惠，该市场长期由铃木、大发等本土厂商主导。作为中国新能源巨头，比亚迪近年来积极拓展全球市场，此次以电动车进入日本 K-CAR 市场，可能冲击这一传统上较为封闭的细分领域。
 
-**标签**: `#product launch`, `#EV`, `#BYD`, `#China`, `#automotive`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kei_car">Kei car - Wikipedia</a></li>
+<li><a href="https://www.itsjapanese.com/transportation/japanese-kei-car/">What’s a Japanese Kei Car &amp; How’s It Different?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#product-launch`, `#market-expansion`, `#EV`, `#Japan`, `#competition`
 
 ---
 
 <a id="item-16"></a>
-## [Jane Street 洽谈将 110 亿美元债务转移给 Pimco 等投资者](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [比亚迪 2.9L 油耗混动技术，让油车怎么活？](https://news.google.com/rss/articles/CBMidEFVX3lxTE5MOUxSd3AtYkZzUHgxYnJBYlIybS1EZndyRUltUlhJR1VZODJET1ppbHBDX0NYbzlPd0VmQU1ZcWJXMzQ1clR3ZWFHRzN4bmgycFlhZF9TTlpwamQwWDNoaDJzb2Nvb3RHUk51cU5aNWlTUDZu?oc=5) ⭐️ 7.0/10
 
-Jane Street 正洽谈将 110 亿美元债务转移给包括 Pimco 在内的投资者，所得资金计划用于进一步的人工智能投资。这笔私人信贷交易标志着这家低调交易公司参与的一笔重要大规模交易。 这笔交易可能成为面向交易公司的规模最大的私人信贷交易之一，反映出大量资金正流入人工智能领域。同时，它表明私人信贷作为传统银行贷款之外的替代融资方式日益重要。 Jane Street 是一家全球量化交易公司，Pimco 则是大型债券投资机构；相关谈判涉及转移一笔 110 亿美元的债务头寸。交易的具体条款和时间表尚未披露，所得资金将用于支持更多人工智能投资。
+比亚迪第五代 DM-i 混动系统（DM 5.0）公布了油耗数据：百公里 2.9 升，发动机热效率 46.06%，综合续航 2100 公里。这一数据刷新了插电混动车型的全球标杆。 这样的油耗水平在使用成本上直接打击传统燃油车，加剧了在华传统车企的压力。凭借比亚迪的规模，该技术可能加速新能源汽车的普及并重塑中国汽车市场格局。 DM 5.0 于 2024 年发布，现已普及至秦、宋、海豹及海狮 DM-i 系列车型；其 2.9 升/100 公里油耗为插电混动加权油耗值，并非传统燃油车油耗。该系统基于比亚迪的三大专利改进，并随海豚 G DM-i 在欧洲首次亮相。
 
-rss · FT Markets · 8月6日 20:10
+google\_news · 新浪汽车 · 8月7日 13:46
 
-**背景**: Jane Street 以做市和自营交易著称，Pimco 则是全球最大的固定收益投资管理公司之一。私人信贷指的是由非银行机构发放并出售给机构投资者的贷款。此类交易属于一种更广泛的趋势：机构投资者正为人工智能基础设施和技术提供大规模融资。
+**背景**: 插电混动（PHEV）汽车同时搭载电动机和汽油发动机，短途可纯电行驶，长途用油，兼顾经济性与续航。比亚迪 DM-i 就是其插电混动系统，第五代 DM 5.0 将发动机热效率提升至 46.06%，实现 2100 公里综合续航。这使得使用成本远低于同级燃油车，因此 2.9 升的油耗数据给传统车企带来巨大压力。
 
-**标签**: `#private credit`, `#AI`, `#capital markets`, `#Jane Street`, `#Pimco`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://media.byd.com/latest-dm-50-super-hybrid-technology-makes-european-debut-in-all-new-byd-dolphin-g-dm-i/">Latest DM 5.0 Super Hybrid Technology makes European debut in ...</a></li>
+<li><a href="https://www.freshmotors.net/articles/byd-dm-i-5-super-hybrid-explained">BYD DM-i 5.0 (Super DM) Explained: How the World&#x27;s Most ...</a></li>
+<li><a href="https://carnewschina.com/2024/05/29/how-byds-5th-generation-phev-system-may-work/">How BYD&#x27;s DM-i 5.0 PHEV system reportedly works</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#auto sector`, `#hybrid technology`, `#product launch`
 
 ---
 
 <a id="item-17"></a>
-## [康菲石油 CEO 兰斯任职 14 年后卸任](https://www.ft.com/content/15857866-5274-41cc-90a6-b4f696c60a13?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [MFS 倒闭后英国 FCA 加强金融犯罪打击](https://www.ft.com/content/0edbd013-dc35-494b-b7e7-9a745af01c9d?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-康菲石油——美国第三大油气公司——的首席执行官赖安·兰斯在任职 14 年后宣布卸任。此消息公布之际，该公司因战争推动油价上涨而利润攀升。 这一美国大型能源生产商的领导层更迭，可能意味着在地缘政治风险升高和能源价格波动的时期，公司战略将发生变化。投资者将关注继任者人选及其在资本配置和产量方面的规划。 目前尚未公布具体的继任计划或时间表。此次交接正值康菲石油及其同行因地缘政治冲突导致的原油价格上涨而受益之际。
+英国金融行为监管局（FCA）在抵押贷款机构 Market Financial Solutions（MFS）倒闭后，要求未受监管的实体提供更多关于欺诈风险的信息。此举是对 MFS 破产管理的监管回应，该事件涉及财务违规指控，据报道存在约 9.3 亿英镑的缺口。 这标志着英国对金融犯罪的监管打击力度加大，可能增加金融公司的合规负担，并加强对未受监管实体的监督。它可能会影响私人信贷和专业贷款领域的公司，这些领域近年来增长显著。 FCA 特别要求未受监管实体提供更多有关欺诈风险的信息，而不是引入正式的规则变更。MFS 倒闭涉及据称的抵押品重复质押，据报道有约 9.3 亿英镑（13 亿美元）的缺口。
 
-rss · FT Markets · 8月6日 12:25
+rss · FT Markets · 8月7日 09:56
 
-**背景**: 康菲石油是全球最大的独立油气勘探与生产公司之一，业务遍及美国及国际市场。作为美国第三大油气生产商，其战略决策对国内能源供应和股东回报具有重要影响。受近期战争和地缘政治紧张局势推高油价的影响，油气行业利润大幅攀升，为此次领导层变动提供了强劲的财务背景。对任何大型企业而言，CEO 交接都是一个重要转折点，可能重新定义企业战略、资本配置优先级以及能源转型的路径。
+**背景**: Market Financial Solutions（MFS）是一家总部位于梅费尔的专业贷款机构，成立于 2006 年，提供过桥贷款和购房出租融资。在出现大规模财务违规指控后，该公司于 2026 年 2 月进入破产管理程序。金融行为监管局（FCA）是英国金融监管机构，负责保护消费者、维持行业稳定和促进竞争。未受监管实体是处于 FCA 直接监管范围之外的公司，但可能对金融体系构成风险，因此成为反洗钱工作的重点。
 
-**标签**: `#management-change`, `#oil-gas`, `#energy`, `#leadership`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Market_Financial_Solutions">Market Financial Solutions - Wikipedia</a></li>
+<li><a href="https://www.gov.uk/government/organisations/financial-conduct-authority">Financial Conduct Authority - GOV. UK</a></li>
+<li><a href="https://www.theguardian.com/business/2026/mar/18/mfs-mortgage-scandal-private-credit">What is the £1.3bn MFS mortgage scandal and what is private ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#regulatory`, `#financial crime`, `#UK`, `#FCA`, `#crackdown`
 
 ---
 
 <a id="item-18"></a>
-## [美国养老基金与商业团体在 SEC 气候披露规则上针锋相对](https://www.ft.com/content/9d38db74-98a5-46ee-b9ed-4e553ff41025?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [刚果（金）启动对铀污染钴出口的调查](https://www.ft.com/content/7c028aa0-cb64-4f71-9605-f63b83df7af4?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-美国证券交易委员会（SEC）气候风险披露规则的调整引发了公共养老基金与商业团体之间的对立。据报道，先锋领航（Vanguard）和挪威主权财富基金对此持谨慎态度。 此事意义重大，因为 SEC 披露规则影响所有上市公司，可能重塑市场对气候风险的定价方式。具有影响力的养老基金与商业团体之间的分歧，凸显了气候监管在政治和金融层面的重大利害关系。 报道指出，先锋领航和挪威主权财富基金均持谨慎态度，两者都是拥有重大投票权的大型资产管理机构。摘要中未提供 SEC 规则调整的具体细节。
+刚果民主共和国（刚果（金））已启动一项政府调查，针对铀污染钴出口问题，此前英国《金融时报》和 Lighthouse Reports 的联合调查揭露了相关证据。调查是在有证据显示该国矿山的氢氧化钴出口含有较高铀含量之后展开的。 钴是电动汽车电池的关键原材料，而刚果（金）是世界上最大的钴生产国。如果铀污染问题导致出口限制或更严格的监管，可能会扰乱全球钴供应链，提高电池和电动汽车制造商的成本，同时凸显健康与核安全风险。 在许多刚果（金）铜钴矿床中，铀与钴共生，且由于共矿化作用和相似的水化学性质，铀在加工过程中往往与钴一同留存。刚果（金）官员承认，这种污染对矿工健康、周边社区以及核材料安全监管都是切实的担忧。
 
-rss · FT Markets · 8月6日 10:40
+rss · FT Markets · 8月7日 08:48
 
-**背景**: SEC 一直在考虑要求上市公司披露气候相关风险的规则，其背景是投资者对一致 ESG 数据的需求。此类提案具有争议性：商业团体警告合规成本和法律负担，而养老基金和其他投资者则认为气候风险具有财务重要性。先锋领航和挪威主权财富基金的谨慎立场，反映出在受托责任与 ESG 考量之间取得平衡的复杂性。
+**背景**: 天然放射性物质（NORM）可能在采矿作业中富集，而铀是一种常见的 NORM，常与刚果（金）的钴矿伴生。过去二十年间，铀污染在刚果（金）最大的钴铜矿中反复出现。由于地质上的共矿化作用，这两种金属常常一起被发现。调查利用矿石样本中的证据，追踪了铀从矿山到出口环节的污染路径。
 
-**标签**: `#政策`, `#监管`, `#ESG`, `#气候风险`, `#市场结构`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41467-026-75910-z">Uranium in cobalt-hydroxide exports from the Democratic ...</a></li>
+<li><a href="https://www.lighthousereports.com/investigation/congos-hidden-uranium-exports/">Congo’s Hidden Uranium Exports - Lighthouse Reports</a></li>
+
+</ul>
+</details>
+
+**标签**: `#policy`, `#commodities`, `#supply-chain`, `#regulatory`, `#cobalt`
 
 ---
 
 <a id="item-19"></a>
-## [Ares 因投资者质疑估值而缩减 10 亿欧元私募信贷基金](https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Goodwin 收到收购报价，考虑出售防务业务](https://www.ft.com/content/83f594d8-5878-4ecf-a274-4a4ae9eeb30c?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-华尔街大型私募信贷公司 Ares Management 原计划完成一只 10 亿欧元的私募信贷延续基金，但因投资者拒绝接受贷款估值和定价而被迫缩减规模。据英国《金融时报》报道，该基金未能获得投资者对其定价的认可。 这反映出投资者对快速扩张的私募信贷市场的估值问题日益警惕，也表明即便是顶级管理机构也面临募资挑战。如果有限合伙人继续对定价提出异议，信贷领域的延续基金可能更难推进，从而影响管理人处理基金生命周期的方式。 该基金是一只 10 亿欧元的延续基金，现有投资者可选择套现或将份额转入新基金。尽管 Ares 积极参与信贷二手市场交易，但据称其未能让投资者接受定价，交易未能按原计划完成。
+伦敦上市的 Goodwin 为英美核潜艇项目提供产品，在收到私募股权公司的收购报价后，正考虑出售其防务业务。交易金额和具体条款尚未披露。 此次出售可能重塑英国“无畏”级及美国核潜艇项目的重要供应商格局，并对国家安全供应链产生潜在影响。在地缘政治紧张加剧之际，这也标志着防务领域一次引人注目的并购事件。 Goodwin 在伦敦上市，为英国“无畏”级和美国核潜艇项目供应部件。该公司已收到收购公司的报价，目前正在评估出售事宜，但估值和交易结构仍未披露。
 
-rss · FT Markets · 8月6日 04:00
+rss · FT Markets · 8月7日 08:25
 
-**背景**: 延续基金是一种私募股权或信贷工具，允许普通合伙人将资产从老基金转入新基金，并给予现有有限合伙人出售份额或继续投资的选择。在私募信贷中，这类工具不如私募股权中常见，因为贷款通常有固定期限，但它们可以提供流动性并延长投资组合的存续期。估值分歧经常出现，因为普通合伙人和有限合伙人对贷款的公允价值可能有不同看法，尤其在市场不确定时期。
+**背景**: “无畏”级是英国皇家海军未来取代“前卫”级弹道导弹核潜艇的型号，将携带“三叉戟”II D-5 导弹。首艇 HMS Dreadnought 正在巴罗因弗内斯建造，建成后将成为英国最大的潜艇。Goodwin 是支持这些战略项目的更广泛供应链的一部分。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.collercapital.com/cvs-beyond-the-chequered-flag/private-credit/">Continuation Vehicles in Private Credit | Coller Capital</a></li>
-<li><a href="https://www.ares.com/us/news-and-insights/rise-continuation-vehicle-transactions-credit-secondaries">The Rise of Continuation Vehicle Transactions in Credit Secondaries</a></li>
-<li><a href="https://www.moonfare.com/glossary/continuation-fund">What is a continuation fund: definition, vehicles, pros &amp; cons</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dreadnought-class_submarine">Dreadnought-class submarine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HMS_Dreadnought_%28Dreadnought-class_submarine%29">HMS Dreadnought (Dreadnought-class submarine) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#private credit`, `#fundraising`, `#valuations`, `#Ares`, `#market sentiment`
+**标签**: `#M&amp;A`, `#defence`, `#aerospace`, `#corporate action`
 
 ---
 
 <a id="item-20"></a>
-## [智谱与 Minimax 纳入港股通 阶跃星辰或成下一家](https://deepview.caixin.com/event/EVENT.000000348.html) ⭐️ 7.0/10
+## [日元干预凸显货币实验的风险](https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-智谱 AI 和 Minimax 已被纳入港股通，其股票可通过南向通道供内地投资者交易。有媒体猜测，AI 初创公司阶跃星辰（StepFun）可能成为下一家赴港上市的 AI 企业。 纳入港股通扩大了这些 AI 公司的投资者基础，有望提升交易流动性和市场估值。这也显示出资本市场对中国 AI 产业的支持力度加大，可能鼓励更多 AI 企业选择赴港上市。 港股通是连接香港与内地股市的互联互通机制。被纳入港股通通常需要满足一定的市值和上市时长等标准，智谱和 Minimax 的入选反映了其作为 AI 纯正标的的市值和地位不断提升。
+文章指出，东京方面的日元干预以及华盛顿方面稳定债券市场的努力，相当于危险的货币实验。文章警告称，这些举措虽然能在短期内起到缓解作用，但可能给全球金融稳定带来长期风险。 这一分析之所以重要，是因为主要央行正越来越多地诉诸外汇干预和收益率曲线控制等非常规工具。理解这些风险有助于投资者和政策制定者预判潜在的市场动荡和政策反转。 文章引用了“三元悖论”来解释为什么日本无法在维持独立货币政策的同时保护日元免受市场压力影响。文章还指出，通过干预抑制波动可能会在日后积累更大的问题。
 
-rss · 财新网 · 8月7日 00:26
+rss · FT Markets · 8月7日 04:00
 
-**背景**: 沪港通于 2014 年 11 月 17 日开通，在上海证券交易所与香港交易所之间建立了直接的双向证券交易与结算通道。内地投资者可经南向渠道买卖符合条件的港股，国际投资者可经北向渠道买卖符合条件的沪股。这一机制已成为跨境股票投资的重要渠道，被纳入港股通通常会给标的带来显著的成交量提升和投资者关注度。
+**背景**: 收益率曲线控制（YCC）是一种央行通过购买政府债券来锚定某个长期利率水平的货币政策。日元套息交易是指借入低息日元、投资于高收益海外资产，一旦日元升值，这类交易可能急剧平仓。三元悖论认为，一个国家不可能同时实现资本自由流动、汇率稳定和货币政策独立这三个目标。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/shanghai_hong_kong_stock_connect">Shanghai-Hong Kong Stock Connect</a></li>
-<li><a href="https://www.charltonslaw.com/shanghai-hong-kong-stock-connect-to-commence-monday/">Shanghai- Hong Kong Stock Connect | Northbound trading link</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yield_curve_control">Yield curve control - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/t/trilemma.asp">Understanding the Economic Trilemma: Fixed Exchange Rates, Capital Flow, and Policy</a></li>
+<li><a href="https://www.bittime.com/en/blog/yen-carry-trade-adalah">What Is the Yen Carry Trade ? Here&#x27;s How It Works and Its Impact</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Stock Connect`, `#listing`, `#China tech`, `#Hong Kong`
+**标签**: `#macro`, `#FX`, `#central banks`, `#policy`, `#currency intervention`
 
 ---
