@@ -266,7 +266,8 @@ class HorizonOrchestrator:
             report_groups = self._split_items_by_report(important_items)
 
             # 7. Generate and save daily summaries for each report and language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            now_utc = datetime.now(timezone.utc)
+            today = now_utc.strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
                 lang_summaries: List[tuple[str, str, List[ContentItem]]] = []
 
@@ -305,7 +306,7 @@ class HorizonOrchestrator:
                             "---\n"
                             "layout: default\n"
                             f"title: \"Horizon Summary: {today} ({lang.upper()})\"\n"
-                            f"date: {today}\n"
+                            f"date: {now_utc.strftime('%Y-%m-%d %H:%M:%S %z')}\n"
                             f"lang: {lang}\n"
                             f"report: {report_id}\n"
                             "---\n\n"

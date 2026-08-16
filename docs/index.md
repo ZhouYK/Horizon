@@ -23,7 +23,7 @@ title: Home
   {% assign ai_posts = site.posts | where: "lang", "zh" | where: "report", "ai" %}
   {% for post in ai_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
@@ -36,7 +36,7 @@ title: Home
   {% assign stock_posts = site.posts | where: "lang", "zh" | where: "report", "stock" %}
   {% for post in stock_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
@@ -49,7 +49,7 @@ title: Home
   {% assign other_posts = site.posts | where: "lang", "zh" | where: "report", "default" %}
   {% for post in other_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%s" | plus: 28800 | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>暂无内容</em></li>
@@ -76,7 +76,7 @@ Welcome to [Horizon](https://github.com/thysrael/Horizon), an AI-driven informat
   {% assign ai_posts = site.posts | where: "lang", "en" | where: "report", "ai" %}
   {% for post in ai_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>No posts yet</em></li>
@@ -89,7 +89,7 @@ Welcome to [Horizon](https://github.com/thysrael/Horizon), an AI-driven informat
   {% assign stock_posts = site.posts | where: "lang", "en" | where: "report", "stock" %}
   {% for post in stock_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>No posts yet</em></li>
@@ -102,7 +102,7 @@ Welcome to [Horizon](https://github.com/thysrael/Horizon), an AI-driven informat
   {% assign other_posts = site.posts | where: "lang", "en" | where: "report", "default" %}
   {% for post in other_posts limit:20 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }}</a>
+      <a href="{{ post.url | relative_url }}"><span class="local-date" data-utc-epoch="{{ post.date | date: "%s" }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>
     </li>
   {% else %}
     <li><em>No posts yet</em></li>
