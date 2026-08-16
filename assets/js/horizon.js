@@ -41,6 +41,18 @@
     });
   }
 
+  /** Replace server-rendered fallback dates with the visitor's local calendar date */
+  function localizeDates() {
+    function pad(n) { return n < 10 ? '0' + n : String(n); }
+    var targets = document.querySelectorAll('[data-utc-epoch]');
+    targets.forEach(function (el) {
+      var epochSeconds = parseInt(el.getAttribute('data-utc-epoch'), 10);
+      if (!epochSeconds) return;
+      var d = new Date(epochSeconds * 1000);
+      el.textContent = d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+    });
+  }
+
   /** Set up EN/中文 language toggle as a page-level control */
   function setupLanguageToggle() {
     // Create toggle buttons
@@ -127,6 +139,7 @@
   document.addEventListener('DOMContentLoaded', function () {
     processScoreBadges();
     markSemanticElements();
+    localizeDates();
     setupLanguageToggle();
   });
 })();
