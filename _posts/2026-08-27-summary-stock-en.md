@@ -1,402 +1,387 @@
 ---
 layout: default
 title: "Horizon Summary: 2026-08-27 (EN)"
-date: 2026-08-27 00:49:49 +0000
+date: 2026-08-27 04:33:18 +0000
 lang: en
 report: stock
 ---
 
-> From 346 items, 20 important content pieces were selected
+> From 333 items, 20 important content pieces were selected
 
 ---
 
-1. [Bessent&\#x27;s Bond Intervention Sets Treasury on Collision Course with Fed](#item-1) ⭐️ 9.0/10
-2. [MiniMax H1 Revenue Soars 283%, Surpasses FY2025; ARR Tops $800M](#item-2) ⭐️ 9.0/10
-3. [Shipping boss warns Iran conflict may hit Ukraine-style stalemate](#item-3) ⭐️ 8.0/10
-4. [Foreign Investors Offload Beijing-Shanghai Commercial Properties at up to 40% Discounts](#item-4) ⭐️ 8.0/10
-5. [Zhongbang Bank Takeover Sparks Dispute Over Acceptance Bill Haircuts](#item-5) ⭐️ 8.0/10
-6. [BYD Qin MAX Enters B-Segment EV Market Under 100,000 RMB](#item-6) ⭐️ 7.0/10
-7. [BYD Han EV pre-sale starts at 249,900 yuan, targets D+ class](#item-7) ⭐️ 7.0/10
-8. [BYD Qin MAX Launches at 99,900 Yuan, Filling Gap Between Qin L and Han](#item-8) ⭐️ 7.0/10
-9. [Russia Weakens Rouble to Boost Budget Revenues](#item-9) ⭐️ 7.0/10
-10. [UK ministers order Bank of England to boost digital currency innovation](#item-10) ⭐️ 7.0/10
-11. [Insurers pile into synthetic risk transfer deals with banks](#item-11) ⭐️ 7.0/10
-12. [Institutional Investors Back Blackstone and KKR Funds for Wealthy Individuals](#item-12) ⭐️ 7.0/10
-13. [YMTC&\#x27;s $5B Shanghai IPO escalates NAND flash race with Korean giants](#item-13) ⭐️ 7.0/10
-14. [Zhipu Reveals Popular Anonymous Model &\#x27;Ox-Alpha&\#x27; as Low-Cost GLM-5.3-Flash](#item-14) ⭐️ 7.0/10
-15. [SenseTime H1 Turns Net Profit, But Long-Term Receivables Near Half](#item-15) ⭐️ 7.0/10
-16. [Greentown Management H1 New Build-Transfer Area Falls 32% as Urban Investment Clients Cut Land Purchases](#item-16) ⭐️ 7.0/10
-17. [China Pushes Diversified Financing for &\#x27;Six Networks&\#x27; Infrastructure Plan](#item-17) ⭐️ 7.0/10
-18. [BYD Unveils Third-Generation Tang SUV at Chengdu Auto Show](#item-18) ⭐️ 6.0/10
-19. [BYD Unveils Third-Generation Tang SUV at Chengdu Auto Show, Q4 Launch Planned](#item-19) ⭐️ 6.0/10
-20. [UK energy bills to rise 4% to three-year high in October](#item-20) ⭐️ 6.0/10
+1. [Bitcoin treasury companies lose $80bn as strategy unwinds](#item-1) ⭐️ 9.0/10
+2. [Meta&\#x27;s $18B Settlement Signals Social Media Biometric Privacy](#item-2) ⭐️ 9.0/10
+3. [Iran War Risks Ukraine-Style Stalemate, Shipping Boss Warns](#item-3) ⭐️ 8.0/10
+4. [Dispute Over &\#x27;Two-Way Discount&\#x27; on Full-Margin Drafts at Taken-Over Zhongbang Bank](#item-4) ⭐️ 8.0/10
+5. [Hong Kong Court Rejects PwC International&\#x27;s Dismissal Bid in Evergrande Audit Case](#item-5) ⭐️ 8.0/10
+6. [US Federal Debt Tops $40 Trillion, Posing Bond Market Risks](#item-6) ⭐️ 8.0/10
+7. [BYD Datang to Launch June 17 with Over 100,000 Pre-Sale Orders](#item-7) ⭐️ 7.0/10
+8. [BYD Unveils Qin MAX, a Sub-100K RMB B-Segment EV](#item-8) ⭐️ 7.0/10
+9. [BYD Third-Gen Tang Debuts at Chengdu Auto Show, Q4 Launch Planned](#item-9) ⭐️ 7.0/10
+10. [BYD Qin MAX: B-Segment EV with Big Space &amp; Fast Charging at 100k](#item-10) ⭐️ 7.0/10
+11. [BYD Launches Qin MAX: B-Class Sedan with Fast Charging at ~100k RMB](#item-11) ⭐️ 7.0/10
+12. [Norway Doubles Down on Oil and Gas Despite EU Green Pressure](#item-12) ⭐️ 7.0/10
+13. [France Overtakes Italy as Top Worry for European Bond Investors](#item-13) ⭐️ 7.0/10
+14. [KKR settles DoJ lawsuit for record $250mn over buyout filings](#item-14) ⭐️ 7.0/10
+15. [UK Treasury Orders Bank of England to Boost Digital Currency Innovation](#item-15) ⭐️ 7.0/10
+16. [UK Energy Price Cap to Rise 4% to £1,723, a Three-Year High](#item-16) ⭐️ 7.0/10
+17. [US Bans Foreign Grid Equipment; Moonshot AI in Cloud Revenue-Share Talks](#item-17) ⭐️ 7.0/10
+18. [Foreign investors accelerate exits from Beijing, Shanghai commercial real estate at 40%+ discounts](#item-18) ⭐️ 7.0/10
+19. [China Overseas Development Overtakes Poly in H1 Sales Ranking](#item-19) ⭐️ 7.0/10
+20. [SenseTime Posts H1 Profit, Yet Receivables Aging Raises Concerns](#item-20) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Bessent&\#x27;s Bond Intervention Sets Treasury on Collision Course with Fed](https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1) ⭐️ 9.0/10
+## [Bitcoin treasury companies lose $80bn as strategy unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-Treasury Secretary Bessent has increased purchases of government debt, a move that risks undermining Federal Reserve Chair Kevin Warsh&\#x27;s campaign to tame inflation. This direct intervention puts the Treasury on a collision course with the Fed. This clash between fiscal and monetary policy could unsettle bond markets, alter interest rate expectations, and make it harder for the Fed to control inflation. The outcome may affect borrowing costs for households and businesses across the US economy. The article focuses on increased debt purchases by the Treasury, which threaten to undermine Fed Chair Kevin Warsh&\#x27;s inflation-fighting stance. The exact size or mechanism of the bond purchases is not specified in the available content.
+Bitcoin treasury companies have collectively shed $80bn in market value as they sell off their token holdings and abandon their Bitcoin-centric business model. The article reports that these firms are reverting to their original activities after the unwind. This massive value destruction signals a reversal of a once-popular corporate strategy, affecting major public companies like Strategy and Metaplanet. The unwinding could create ripple effects across both equity markets and the broader cryptocurrency sector, reshaping investor sentiment toward Bitcoin treasury adoption. The sell-off involves companies that had adopted Bitcoin as their primary treasury reserve asset, often funded through continuous stock sales and debt issuance. The article notes these firms are now selling tokens and reverting to their former business operations.
 
-rss · FT Markets · Aug 26, 04:00
+rss · FT Markets · Aug 27, 04:00
 
-**Background**: The US Treasury issues government debt to fund federal spending, while the Federal Reserve sets monetary policy to manage inflation and employment. When the Treasury steps up bond purchases, it can affect bond prices and yields, potentially injecting liquidity or signaling fiscal priorities. If those actions work against the Fed&\#x27;s tightening measures, it creates a policy collision that complicates inflation control.
+**Background**: Bitcoin treasury companies are firms that make accumulating bitcoin their primary corporate purpose, financed by a mix of equity sales, debt, and operating cash flow. Prominent examples include Strategy, Metaplanet, and Twenty One Capital, whose large holdings once made them significant crypto market players. The strategy gained popularity after MicroStrategy \(now Strategy\) demonstrated substantial paper gains, but recent price declines and funding pressures have led to an unwind.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Fiscal_dominance">Fiscal dominance - Wikipedia</a></li>
-<li><a href="https://tradingeconomics.com/united-states/government-bond-yield">US 10 Year Treasury Note Yield - Quote - Chart - Historical Data - News</a></li>
-<li><a href="https://www.mercatus.org/research/policy-briefs/fiscal-dominance-how-worried-should-we-be">Fiscal Dominance : How Worried Should We Be? | Mercatus Center</a></li>
+<li><a href="https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios">The 10 Public Companies With the Biggest Bitcoin Portfolios - Decrypt</a></li>
+<li><a href="https://bitcointreasuries.net/">Bitcoin Treasuries - Bitcoin Treasury Data, News &amp; Analysis</a></li>
+<li><a href="https://www.bitcoin.com/get-started/bitcoin/buying-spending/what-is-a-bitcoin-corporate-treasury/">Bitcoin Corporate Treasury: How Companies Hold BTC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#bonds`, `#Fed`, `#Treasury`, `#inflation`
+**Tags**: `#bitcoin`, `#crypto`, `#corporate strategy`, `#value destruction`, `#market selloff`
 
 ---
 
 <a id="item-2"></a>
-## [MiniMax H1 Revenue Soars 283%, Surpasses FY2025; ARR Tops $800M](https://www.caixin.com/2026-08-27/102478340.html) ⭐️ 9.0/10
+## [Meta&\#x27;s $18B Settlement Signals Social Media Biometric Privacy](https://www.ft.com/content/d0de10b8-e707-4153-9406-a537ab5b5791?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-MiniMax reported H1 2026 revenue of $117 million, up 283.1% year-over-year, exceeding its full-year 2025 revenue of $79.038 million. August annual recurring revenue \(ARR\) surpassed $800 million. This marks a significant growth acceleration for a listed AI company, demonstrating rapid commercialization of AI services. The strong earnings beat could boost investor confidence in the AI sector and drive positive market reaction for MiniMax&\#x27;s stock. H1 gross profit was $20.81 million, up 464.8%, while adjusted net loss widened 111.2% to $293 million. Q2 revenue rose 81.8% quarter-over-quarter, July API calls increased 20-fold from January, and open-platform and enterprise AI services contributed 63.4% of total revenue.
+Meta has agreed to pay up to $18bn to settle a major biometric privacy class action, likely under Illinois&\#x27; Biometric Information Privacy Act \(BIPA\), resolving claims that Facebook used facial recognition without user consent. This represents one of the largest privacy settlements in history, exceeding Meta&\#x27;s prior $650 million BIPA settlement. This settlement sets a powerful precedent for social media and tech companies, demonstrating that mishandling biometric data can carry enormous financial consequences. It will pressure other platforms to strengthen consent and data protection practices, and raises the bar for regulatory enforcement in the digital privacy landscape. The $18bn figure underscores BIPA&\#x27;s statutory damages of $1,000 to $5,000 per violation, which multiply across millions of Illinois Facebook users. The settlement could significantly impact Meta&\#x27;s quarterly earnings, although observers note it may be tax-deductible. Exact payment terms and the final approval process have not yet been disclosed.
 
-rss · 财新网 · Aug 27, 00:40
+rss · FT Markets · Aug 27, 04:00
 
-**Background**: MiniMax is a Chinese AI company listed on the Hong Kong Stock Exchange that develops large language models \(LLMs\). Annual recurring revenue \(ARR\) is a key metric for subscription-based software and AI services, measuring the annualized value of recurring revenue. The company&\#x27;s shift toward open-platform and enterprise AI services reflects a broader industry trend of commercializing foundation models.
+**Background**: Illinois&\#x27; Biometric Information Privacy Act \(BIPA\), enacted in 2008, regulates the collection, use, and destruction of biometric identifiers such as facial scans and fingerprints. It requires companies to obtain consent before collecting biometric data and allows individuals to sue for liquidated damages, making it a powerful tool for privacy class actions. Meta&\#x27;s case originated from Facebook&\#x27;s &\#x27;tag suggestions&\#x27; feature, which allegedly scanned faces in photos without proper consent. The settlement reflects the growing legal scrutiny of biometric data collection across U.S. states.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gemini_%28language_model%29">Gemini (language model ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Biometric_Information_Privacy_Act">Biometric Information Privacy Act - Wikipedia</a></li>
+<li><a href="https://law.justia.com/codes/illinois/chapter-740/act-740-ilcs-14/">740 ILCS 14/ - Biometric Information Privacy Act. :: 2025 ...</a></li>
+<li><a href="https://www.ilga.gov/Legislation/publicacts/view/095-0994">Public Act 095-0994 - Illinois General Assembly</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#earnings`, `#AI`, `#growth`, `#ARR`, `#Hong Kong listed`
+**Tags**: `#Meta`, `#regulation`, `#settlement`, `#social media`, `#legal`
 
 ---
 
 <a id="item-3"></a>
-## [Shipping boss warns Iran conflict may hit Ukraine-style stalemate](https://www.ft.com/content/e9b2231e-79b0-40b3-a72e-6c594839e157?syn-25a6b1a6=1) ⭐️ 8.0/10
+## [Iran War Risks Ukraine-Style Stalemate, Shipping Boss Warns](https://www.ft.com/content/e9b2231e-79b0-40b3-a72e-6c594839e157?syn-25a6b1a6=1) ⭐️ 8.0/10
 
-A shipping executive warned that the Iran conflict could settle into a Ukraine-style stalemate, while oil prices eased on reports of Iran-Oman talks to reopen the Strait of Hormuz. Freight rates remain at record highs despite the diplomatic signals. The Strait of Hormuz is a critical chokepoint for global oil supplies, so any prolonged standoff would keep freight rates elevated and add to inflationary pressure. A Ukraine-style attritional conflict could reshape energy shipping routes and risk premiums for years to come. The shipping boss specifically drew a parallel to the grinding, high-cost nature of the Ukraine war, implying a prolonged standoff rather than a quick resolution. Oil prices fell back on diplomatic signals, but freight rates have not yet responded, suggesting markets remain wary of a lasting disruption.
+A shipping executive warns that the conflict involving Iran is approaching a Ukraine-style stalemate, keeping freight rates at record highs. Meanwhile, oil prices have fallen on news of talks between Iran and Oman to reopen the Strait of Hormuz. A prolonged stalemate would keep shipping costs elevated and disrupt global energy supply chains, affecting importers and exporters worldwide. The potential reopening of the Strait of Hormuz could significantly reduce oil prices and reshape energy logistics. Record-high freight rates reflect continued rerouting and war-risk premiums despite the possible diplomatic breakthrough. Any reopening talks are still in flux, leaving markets sensitive to headlines about the Strait of Hormuz.
 
 rss · FT Markets · Aug 26, 12:48
 
-**Background**: The Strait of Hormuz, located between Iran and Oman, is the world&\#x27;s most important oil chokepoint, with roughly a fifth of global petroleum consumption passing through it. Iran has periodically threatened to close it in response to sanctions or military pressure, and such threats alone can spike insurance and freight costs. A &\#x27;Ukraine-style stalemate&\#x27; implies sustained, low-intensity conflict with no clear endpoint, keeping shipping lanes under constant threat.
+**Background**: The Strait of Hormuz is a narrow waterway between Iran and Oman through which a large share of global oil shipments pass. A Ukraine-style stalemate refers to a prolonged conflict where neither side can achieve a decisive victory, similar to the ongoing war in Ukraine, creating persistent market disruption and high shipping costs. Freight rates and oil prices often react inversely to geopolitical risks: transport costs rise when routes are threatened, while oil prices may fall when supply routes are expected to reopen.
 
 **Tags**: `#geopolitics`, `#oil`, `#shipping`, `#macro`, `#energy`
 
 ---
 
 <a id="item-4"></a>
-## [Foreign Investors Offload Beijing-Shanghai Commercial Properties at up to 40% Discounts](https://finance.caixin.com/2026-08-27/102478338.html) ⭐️ 8.0/10
+## [Dispute Over &\#x27;Two-Way Discount&\#x27; on Full-Margin Drafts at Taken-Over Zhongbang Bank](https://wenews.caixin.com/2026-08-27/102478354.html) ⭐️ 8.0/10
 
-According to a Caixin report published on August 27, 2026, commercial property assets held by foreign investors in Beijing and Shanghai are changing hands faster: at least 22 properties entered disposal between early 2024 and August 2026, and five Shanghai properties sold at nominal discounts of 41%–45% versus their original purchase prices. This shows a continued downward repricing of commercial real estate in China&\#x27;s two largest cities and a retreat by foreign capital. The trend could pressure valuations, leasing markets, and investor confidence in China&\#x27;s property and capital markets. The 41%–45% figure is a nominal decline relative to acquisition costs, and five Shanghai transactions have closed so far. The report indicates that sellers chose to exit even after accepting steep markdowns, reflecting structural adjustment pressure in the market.
+Asset scale exceeding 100 billion yuan, Zhongbang Bank has been under regulatory takeover since July 3, 2026, with Hankou Bank taking over its assets and liabilities. Nearly two months later, a dispute has emerged over the &\#x27;two-way discount&\#x27; treatment of full-margin bank acceptance drafts, leaving arbitrageurs facing losses. This is a major regulatory event involving a bank with over 100 billion yuan in assets, following the Baoshang Bank takeover in 2019. How full-margin acceptance drafts are settled will affect interbank market confidence and set a precedent for resolving similar problem banks in China. The takeover announcement guarantees full protection for existing personal deposits, and for deposits and interbank liabilities after the takeover; existing corporate deposits and interbank liabilities are to be &\#x27;guaranteed according to the protection plan.&\#x27; The article focuses on the unresolved question of how full-margin bank acceptance drafts—whose issuing customers have deposited 100% cash collateral—should be settled.
 
-rss · 财新网 · Aug 27, 00:19
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: During the 2000s and 2010s, foreign institutional investors such as real estate funds and sovereign wealth funds bought prime office buildings and retail properties in Beijing and Shanghai. When rents weaken, vacancies rise, or interest-rate and valuation conditions change, these investors may dispose of assets, often at prices below what they originally paid. &\#x27;换手&\#x27; simply means the properties change owners. The 22-property tally and 41%–45% price cuts in the Caixin report illustrate how far the repricing of core-city commercial real estate has gone.
+**Background**: A bank acceptance draft \(yinhang chengdui huipiao\) is a short-term instrument in which the bank promises to pay the holder at maturity. A full-margin draft means the applicant deposits cash equal to 100% of the draft amount, drastically reducing the bank&\#x27;s credit risk. The &\#x27;two-way discount&\#x27; in this dispute indicates that the resolution plan seeks to reduce both the margin deposit claim and the bank&\#x27;s payment obligation on the draft, which is controversial because the margin is cash already set aside. Arbitrageurs who purchased these drafts at a discount expect full repayment and are now exposed to unexpected losses.
 
-**Tags**: `#商业地产`, `#外资`, `#房地产`, `#折价处置`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/2022-11/18/content_5727779.htm">商业汇票承兑、贴现与再贴现管理办法_国务院部门文件_中国政府网</a></li>
+<li><a href="https://ailegal.baidu.com/legalarticle/qadetail?id=8a341413957576000713">全额保证金为什么还需要承兑 - ailegal.baidu.com</a></li>
+<li><a href="https://www.anpiaoda.com/content/6673710e67f3f3363d2f2a2e">电子商业 承 兑 汇 票 有哪些风险_ 银 行 商业汇 票 票 据 承 兑 贴现_安 票 达</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#银行接管`, `#监管政策`, `#同业市场`, `#票据`, `#风险处置`
 
 ---
 
 <a id="item-5"></a>
-## [Zhongbang Bank Takeover Sparks Dispute Over Acceptance Bill Haircuts](https://wenews.caixin.com/2026-08-27/102478354.html) ⭐️ 8.0/10
+## [Hong Kong Court Rejects PwC International&\#x27;s Dismissal Bid in Evergrande Audit Case](https://finance.caixin.com/2026-08-26/102478224.html) ⭐️ 8.0/10
 
-The regulatory takeover of Wuhan Zhongbang Bank, which began on July 3, 2026, has raised unresolved questions about how fully margined bank acceptance bills will be settled, prompting fears that arbitrageurs face losses from &\#x27;two-way discounting&\#x27;. This is the first major bank resolution in China since Baoshang Bank in 2019, and the treatment of acceptance bills could set a precedent for future bank failures, influencing investor and creditor confidence. The announcement guarantees full protection for individual deposits and for newly created deposits and interbank liabilities, but existing full-margin acceptance bills remain subject to disputed haircuts on both the bill payout and the underlying margin deposit.
+On August 26, 2026, the Hong Kong High Court rejected PwC International&\#x27;s application to be removed as a defendant, allowing the Evergrande liquidators&\#x27; claim of about RMB 57 billion against three PwC entities to proceed to substantive trial. This ruling signals that global accounting network firms may be held accountable for audits conducted by their member firms, expanding potential liability beyond local entities. It also strengthens investor confidence in pursuing auditor claims following corporate fraud and could set a precedent for similar litigation against other major audit networks. The liquidators allege that PwC Hong Kong and PwC Zhong Tian were negligent in audits for fiscal years 2017 to 2020, leading Evergrande to declare and pay about RMB 42.355 billion in dividends that were &\#x27;completely without justification.&\#x27; PwC International is claimed to have supervisory and review obligations over the member firms&\#x27; audits, and the court&\#x27;s dismissal of its removal application means it remains a defendant.
 
-rss · 财新网 · Aug 27, 00:13
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: A bank acceptance bill is a short-term promissory instrument issued by a bank customer and guaranteed by the bank, typically backed by a margin deposit placed with the bank. In a bank resolution, claims are often restructured, and the treatment of margin-backed bills is controversial because the margin is both a deposit claim and collateral for the bill payment.
+**Background**: China Evergrande, once one of China&\#x27;s largest property developers, defaulted on its debts and subsequently entered liquidation. Liquidators have since pursued legal action against its former auditor, alleging that audits failed to uncover financial misstatements before the company&\#x27;s collapse. The case focuses on audits of Evergrande&\#x27;s 2019 and 2020 fiscal years, which are linked to the company&\#x27;s reported financial fraud. Today&\#x27;s decision is a procedural ruling that allows the substantive claims against PwC to be heard.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.trcbank.com.cn/News/2013/6-28/11552710185.html">银 行 承 兑 汇 票 - 天津农商 银 行</a></li>
-<li><a href="https://fazhuwang.com.cn/19323/.html">银行 承 兑 汇 票 保 证 金 的性质认定与 处 理 – 法筑智辨</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#banking`, `#regulation`, `#takeover`, `#financial stability`, `#China`
+**Tags**: `#litigation`, `#Evergrande`, `#PwC`, `#auditing`, `#fraud`
 
 ---
 
 <a id="item-6"></a>
-## [BYD Qin MAX Enters B-Segment EV Market Under 100,000 RMB](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ablQzbThzeTA5ZGhxdjJfYXRmMFU0TUdiWGJLYXdIOG5xVG0yV1N4cGJtdkRoOWNMYk5nODhKcXA4OE1taXBPOS0xZGpMVVZuRHRUUUkzQmlSQXg2M3o0SEhaci1WZEdoTDJCcTlTWUJMbkNC?oc=5) ⭐️ 7.0/10
+## [US Federal Debt Tops $40 Trillion, Posing Bond Market Risks](https://opinion.caixin.com/2026-08-27/102478429.html) ⭐️ 8.0/10
 
-According to the report, BYD&\#x27;s Qin MAX, a B-segment pure electric sedan, is set to be priced under 100,000 RMB \(about $14,000\). This is an unusually low price for a mid-size EV from a major automaker. This aggressive pricing could intensify China&\#x27;s EV price war and pressure rivals such as Aion and Deepal to cut prices or reposition their models. It could also accelerate the adoption of pure electric vehicles among B-segment buyers, reshaping the competitive landscape. The Qin MAX is positioned between the popular Qin Plus and the larger Han models. However, official specifications, trim levels, and the launch date have not yet been announced, and the report provides no further technical details.
+In August 2026, total US federal debt exceeded $40 trillion for the first time, reaching about $40.05 trillion, with $32.3 trillion held by the public. The CBO projects a $1.9 trillion deficit for fiscal 2026, while net interest costs have climbed to roughly $1 trillion. The milestone heightens concerns about Treasury market pricing and US fiscal sustainability, especially with about $10 trillion of debt needing to be refinanced. Bond investors, macro strategists, and fiscal policymakers are watching for upward pressure on Treasury yields and rising interest costs. Relative to five years ago, US federal debt has grown by more than one-third, and over the past year it has increased by roughly $7.8 billion to $9 billion per day on average. Intragovernmental holdings account for about $7.8 trillion of the total, while the public holds $32.3 trillion.
 
-google\_news · 新浪汽车 · Aug 26, 20:14
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: The B-segment generally refers to mid-size cars, which in China are longer, roomier, and more expensive than compact models. Pure electric vehicles are powered solely by batteries, and China is the world&\#x27;s largest EV market. A B-segment pure EV priced under 100,000 RMB is rare, reflecting the intense price competition now sweeping the industry.
+**Background**: The CBO projects a fiscal 2026 deficit of about $1.9 trillion, or roughly 5.8% of GDP, with net interest costs around $1 trillion and climbing. The article frames the issue as a disconnect between fiscal arithmetic and bond-market pricing, drawing on Ray Dalio&\#x27;s warning and empirical evidence on term premiums and repo operations. The term premium is the extra compensation investors demand for holding longer-dated Treasuries rather than rolling over short-term bills, while repo operations are short-term collateralized funding transactions commonly used in the Treasury market.
 
-**Tags**: `#EV`, `#BYD`, `#product launch`, `#China`, `#pricing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.newyorkfed.org/research/data_indicators/term-premia-tabs">Treasury Term Premia - Federal Reserve Bank of New York</a></li>
+<li><a href="https://xiaoyinsi.com/wiki/stocks/term-premium">期限溢价是什么？为什么长期利率不只反映加息预期？ – 投资百科 – 小...</a></li>
+<li><a href="https://fred.stlouisfed.org/series/RRPONTSYD">Overnight Reverse Repurchase Agreements : Treasury... | St. Louis Fed</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macro`, `#US debt`, `#treasury`, `#fiscal policy`, `#interest rates`
 
 ---
 
 <a id="item-7"></a>
-## [BYD Han EV pre-sale starts at 249,900 yuan, targets D+ class](https://news.google.com/rss/articles/CBMidEFVX3lxTE96RjhramtETFZDRXFCYi1yRGtDczZZWnc4eUhlbUlaMnF1aERjRFgzdXZtSWhfdV8yTzhHVnA4S3BQV1VfZDltTmU2cnh3bDFSenE4Yjl5MUVTZ0hOTkVqR3NaTF93QnRpVW5pamw3VEp3cDBG?oc=5) ⭐️ 7.0/10
+## [BYD Datang to Launch June 17 with Over 100,000 Pre-Sale Orders](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90NDhqZzlETUZHLTBYZTR1bW1JVV9sLUdJNFM3c3F0S1NXTTRKdmwyV1pHZWo5QjQ4ZUhqVUNMOVZoYWlIQXNYX3o1RGs5bm1rUVJ3QWpNN0h5ZVVYQUE?oc=5) ⭐️ 7.0/10
 
-BYD has launched pre-sales for its Han EV sedan, starting at 249,900 yuan \(approximately $34,300\). The model is positioned as a D+ class pure electric sedan, signaling an upmarket push by China&\#x27;s leading EV maker. This launch could intensify competition in China&\#x27;s premium electric sedan segment, where BYD will face off against Tesla, NIO, and traditional luxury automakers. If the Han EV succeeds, it could strengthen BYD&\#x27;s brand image and its share of the lucrative high-end market. The D+ class is a Chinese automotive classification for large sedans, roughly equivalent to a stretched executive car like the Mercedes-Benz E-Class L or BMW 5 Series Li. The Han EV is available in pre-sale at 249,900 yuan, with higher trims likely to follow, featuring BYD&\#x27;s blade battery and advanced driving aids.
+BYD will officially launch the Datang model on June 17. Pre-sale orders for the vehicle have already exceeded 100,000 units before its official market debut. This milestone underscores strong consumer demand for BYD&\#x27;s latest EV offering, which could boost BYD&\#x27;s sales momentum and market position. It also reflects the broader trend of rapid EV adoption in China, where pre-sale figures are a key indicator of upcoming market performance. The Datang model will hit the market on June 17, with pre-sale orders surpassing 100,000 units. The exact configuration, pricing, and trim details have not been disclosed in the available information.
 
-google\_news · 新浪汽车 · Aug 26, 13:52
+google\_news · 车家号 · Aug 27, 00:01
 
-**Background**: Chinese automakers and media often use a letter-based size classification similar to but different from European segments. &\#x27;D+ class&\#x27; is commonly used to describe large sedans with generous dimensions and premium features, placed between the executive \(C-class\) and full-size \(D-class\) segments. The BYD Han is a full-size electric sedan in BYD&\#x27;s lineup, competing with models like the Tesla Model S or NIO ET7. This launch is part of BYD&\#x27;s broader strategy to expand into high-end segments beyond its mainstream affordable models.
+**Background**: BYD is one of China&\#x27;s leading electric vehicle manufacturers and a major global EV player. In China&\#x27;s auto industry, pre-sale order counts are often used as an early gauge of a new model&\#x27;s market acceptance before official deliveries begin. A figure above 100,000 units indicates exceptionally high initial demand for a passenger vehicle.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Car_classification">Car classification - Wikipedia</a></li>
-<li><a href="https://ru.wikipedia.org/wiki/D-%D0%BA%D0%BB%D0%B0%D1%81%D1%81">D-класс — Википедия</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#product launch`, `#EV`, `#BYD`, `#auto sector`, `#China`
+**Tags**: `#BYD`, `#EV`, `#product launch`, `#orders`, `#China`
 
 ---
 
 <a id="item-8"></a>
-## [BYD Qin MAX Launches at 99,900 Yuan, Filling Gap Between Qin L and Han](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RenFDWVVEMlhBS0RnOW9VQ05JNW5hXzI2ZzAxZUJsa2dPYmtfWXlZNlBFUEpDMjhoREVYX1ljYlhiWWhTZmhVNHFMU3BoYmZROUFpZ3pJWnJwTjJsN3c?oc=5) ⭐️ 7.0/10
+## [BYD Unveils Qin MAX, a Sub-100K RMB B-Segment EV](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ablQzbThzeTA5ZGhxdjJfYXRmMFU0TUdiWGJLYXdIOG5xVG0yV1N4cGJtdkRoOWNMYk5nODhKcXA4OE1taXBPOS0xZGpMVVZuRHRUUUkzQmlSQXg2M3o0SEhaci1WZEdoTDJCcTlTWUJMbkNC?oc=5) ⭐️ 7.0/10
 
-BYD has launched the Qin MAX sedan with a starting price of 99,900 yuan, positioning it between the Qin L and the Han in its lineup. This new model aims to strengthen BYD&\#x27;s sedan offerings in the competitive Chinese electric vehicle market. The Qin MAX fills a previously missing price segment in BYD&\#x27;s sedan range, potentially attracting buyers who find the Qin L too small and the Han too expensive. This launch could boost BYD&\#x27;s sales volume and market share in China&\#x27;s EV market. The starting price of 99,900 yuan places the Qin MAX in the entry-level mid-size sedan segment. No technical specifications or launch date details were provided in the announcement.
+BYD has launched the Qin MAX, a pure electric vehicle positioned in the B-segment with a starting price under 100,000 RMB. The model is reportedly set to disrupt the entry-level EV market in China. This launch makes a B-segment EV accessible at an unprecedented low price, potentially accelerating EV adoption and intensifying price competition among Chinese automakers. It also gives BYD a new volume-driving model to defend its leadership in the world&\#x27;s largest auto market. The initial announcement does not disclose the Qin MAX&\#x27;s battery capacity, motor output, or specific trim prices. It builds on BYD&\#x27;s strategy of squeezing costs through vertical integration and large-scale production to offer EVs at prices undercutting rivals.
 
-google\_news · 汽车之家 · Aug 26, 14:34
+google\_news · 新浪汽车 · Aug 26, 20:14
 
-**Background**: BYD is a leading Chinese automaker known for its Qin and Han sedans, which are popular in the new energy vehicle market. The Qin L is a compact sedan, while the Han is a larger executive sedan; the Qin MAX is designed to bridge the gap between them, offering a larger alternative to the Qin L and a more affordable option than the Han.
+**Background**: In the European automobile classification, the B-segment covers small superminis such as the Volkswagen Polo and Honda Fit, which are typically the most affordable cars in a brand&\#x27;s lineup. However, in Chinese automotive parlance, &\#x27;B级&\#x27; is often used to describe mid-size sedans, so the Qin MAX&\#x27;s exact market positioning may differ depending on the definition used. The model is part of BYD&\#x27;s broader push to dominate the Chinese new-energy vehicle market, where price competition has intensified sharply in 2024.
 
-**Tags**: `#product-launch`, `#BYD`, `#EV`, `#auto-industry`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/B-segment">B-segment - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Car_classification">Car classification - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#BYD`, `#EV`, `#product launch`, `#China auto market`, `#competition`
 
 ---
 
 <a id="item-9"></a>
-## [Russia Weakens Rouble to Boost Budget Revenues](https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency) ⭐️ 7.0/10
+## [BYD Third-Gen Tang Debuts at Chengdu Auto Show, Q4 Launch Planned](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QSTJSbm1tc2JZeEVKcHN6SmR4Tzd1V0xRQXN4SThRZkVKdjI2TEl6T2RVY29YbU5GZm02clpJeXIyd0hVVTNQSVo5MXVTREhuME1DTGZsOW5Wanc?oc=5) ⭐️ 7.0/10
 
-Russia is deliberately weakening the rouble because a strong currency was reducing government budget revenues, according to The Economist. This marks a strategic shift in its fiscal and exchange-rate policy. This matters because it inverts the usual central-bank preference for a strong currency and could affect inflation, Russian energy export earnings, and emerging-market currencies. Investors in EM assets and commodities should watch this policy shift closely. The Economist notes that a strong rouble was hurting the federal budget, implying the government favors a weaker exchange rate to boost local-currency budget receipts. No specific depreciation target or policy tool has been disclosed in the summary.
+BYD unveiled its third-generation Tang at the Chengdu Auto Show, with a market launch targeted for the fourth quarter. The model is positioned as a new benchmark for large five-seat flagship SUVs. The third-generation Tang strengthens BYD&\#x27;s push into the large SUV segment, a key growth area in China&\#x27;s new-energy vehicle market. A successful launch could help BYD defend its leadership amid intensifying competition from both domestic and global EV makers. The debut took place at the Chengdu Auto Show, one of China&\#x27;s major automotive events. Specific powertrain details and pricing were not disclosed in the announcement, leaving technical specifications for the official launch.
 
-rss · The Economist Finance · Aug 26, 18:28
+google\_news · 车家号 · Aug 27, 03:40
 
-**Background**: Russia&\#x27;s budget depends heavily on energy exports priced in foreign currency, which are converted into roubles; a strong rouble lowers the rouble value of those revenues, straining the budget. Many governments normally prefer a strong currency to curb inflation, but fiscal pressure can make a weaker exchange rate attractive. This deliberate weakening is an unusual policy stance for a major commodity exporter.
+**Background**: The Tang is one of BYD&\#x27;s flagship SUV nameplates, and the third-generation model represents a major redesign. BYD has been expanding its Dynasty series with plug-in hybrid and pure-electric powertrains to compete in China&\#x27;s fiercely competitive SUV market. The large five-seat layout targets families seeking premium space and advanced technology.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.wallstreetmojo.com/currency-devaluation/">Currency Devaluation - What It Is, 4 Effects, Example</a></li>
-<li><a href="https://www.bbc.com/news/business-66508154">Russia hikes interest rates to 12% as rouble falls</a></li>
-<li><a href="https://economictimes.indiatimes.com/topic/rouble-weakens">rouble weakens : Latest News &amp; Videos, Photos about rouble weakens</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#macro`, `#currency`, `#Russia`, `#policy`, `#emerging markets`
+**Tags**: `#BYD`, `#product-launch`, `#EV`, `#auto-industry`, `#China`
 
 ---
 
 <a id="item-10"></a>
-## [UK ministers order Bank of England to boost digital currency innovation](https://www.ft.com/content/7650d84f-4750-48c4-9a9e-ca899e608931?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [BYD Qin MAX: B-Segment EV with Big Space &amp; Fast Charging at 100k](https://news.google.com/rss/articles/CBMidEFVX3lxTE9xWDA3b2RrOVA0MWFRZFAxNFlYSEczcUVuSkhKakUxSkhNN19iT2RBSDlhQkdkNWpBOXpVcktRbTBMNUZSeF9YaGxxYnZkWU9KWU8tZlVRbEQxNGcyNEkyOVhMY1NNdGVHOVgyeEhfVHlSeW9D?oc=5) ⭐️ 7.0/10
 
-UK ministers have given the Bank of England a new legal objective to promote innovation in digital currencies, as part of a government push to establish the UK as a stablecoin hub. This marks a clear regulatory policy shift in the UK, potentially shaping the future of the cryptocurrency and stablecoin sectors and affecting fintech companies and financial markets. It could position the UK as a leading jurisdiction for digital currency innovation. The Treasury&\#x27;s directive establishes a formal legal objective for the central bank to support digital currency innovation, accompanying broader efforts to create a favorable environment for stablecoins. The move reflects the government&\#x27;s intent to balance innovation with regulation.
+BYD has launched the Qin MAX, a B-segment electric vehicle priced around 100,000 RMB, offering fast charging and a spacious interior for mainstream budget buyers. This launch targets the high-volume 100k RMB B-segment EV market, a key battleground for Chinese automakers. With BYD&\#x27;s brand strength and fast-charging capability, it could intensify competition and attract cost-conscious buyers seeking bigger vehicles. The Qin MAX is described as offering &\#x27;large space and flash charging&\#x27; within a mainstream budget. Its 100,000-yuan price class suggests it competes directly with popular gasoline and electric sedans.
 
-rss · FT Markets · Aug 26, 17:27
+google\_news · 新浪汽车 · Aug 26, 11:15
 
-**Background**: Stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to fiat currencies like the US dollar, often backed by reserves such as cash or short-term government debt. Central bank digital currencies \(CBDCs\) are the digital form of a country&\#x27;s fiat currency issued by the central bank, representing a claim on the central bank. The UK government is working on regulatory frameworks to support the development and adoption of both stablecoins and CBDCs.
+**Background**: Car classifications categorize vehicles by size; the B-segment, as defined by the European Commission, is the second smallest class, larger than the A-segment and smaller than the C-segment, roughly equivalent to subcompact cars in North America. This size class is popular for urban and budget-oriented buyers, offering a balance of affordability and practicality. BYD is a Chinese automaker that produces electric vehicles, and the Qin MAX represents its push into this segment with competitive pricing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://simpleswap.io/blog/stablecoins-guide-everything-you-need-to-know-about-stablecoins">What Are Stablecoins ? Types, Uses, and Risks</a></li>
-<li><a href="https://onekey.so/blog/ecosystem/what-are-central-bank-digital-currencies-can-cbdcs-displace-cryptocurrencies-core-concepts/">What is a Central Bank Digital Currency ? Will CBDC replace...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Car_classification">Car classification - Wikipedia</a></li>
+<li><a href="https://www.wikiwand.com/en/articles/B-segment">B - segment - Wikiwand</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#crypto`, `#stablecoins`, `#regulation`, `#UK`
+**Tags**: `#product launch`, `#EV`, `#BYD`, `#China auto`, `#consumer`
 
 ---
 
 <a id="item-11"></a>
-## [Insurers pile into synthetic risk transfer deals with banks](https://www.ft.com/content/04bad7f3-1b5d-4982-9967-229886be0beb?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [BYD Launches Qin MAX: B-Class Sedan with Fast Charging at ~100k RMB](https://news.google.com/rss/articles/CBMidEFVX3lxTE9Jc3o0YUZxdFBySzFKVzR5WVVZRjBaTmVaX3RfajlWS0lZbmE0VVhxaERCdGpoNXJ5cVprUjVMQnJIc1ctMzU3QVhyY2xubkx0eEo3Vk1MMlRtUWFsLW1tN2JsRUNGSUZGaDJ2RUcxSzQtR2Vm?oc=5) ⭐️ 7.0/10
 
-The Financial Times reports that insurers are increasingly offering banks unfunded synthetic risk transfer \(SRT\) structures, allowing banks to offload default risk on loan portfolios and reduce regulatory capital charges. The article notes the SRT market has boomed in recent years. This shift transfers credit risk from the banking sector to the insurance sector, potentially altering systemic risk distribution and affecting bank capital management. Regulators and investors in financials will need to monitor the insurance industry&\#x27;s growing exposure to credit risk. In an SRT, a bank pays a third party for credit protection against a portfolio of loans without selling the underlying assets, and the unfunded structure means insurers do not pay premiums upfront. Unfunded structures carry higher counterparty risk than funded ones, as collateral is not pre-funded.
+BYD has launched the Qin MAX, a B-class sedan priced around 100,000 RMB, featuring a spacious interior and the company&\#x27;s new fast-charging capability. The model aims to bring large-space and rapid-charging features to the high-volume entry-level mid-size sedan segment. The Qin MAX enters one of China&\#x27;s highest-volume vehicle segments at a very competitive price point, potentially strengthening BYD&\#x27;s market share. Its combined large-space and flash-charging proposition could pressure rivals and accelerate EV adoption in the mass market. The Qin MAX is positioned around the 100,000 RMB price level, targeting B-class \(mid-size\) buyers. It reportedly incorporates BYD&\#x27;s second-generation blade battery and the new flash-charging technology, which in tests can add hundreds of kilometers of range in just minutes.
 
-rss · FT Markets · Aug 26, 04:00
+google\_news · 新浪汽车 · Aug 26, 11:07
 
-**Background**: A synthetic risk transfer \(SRT\) is a combination of a loan portfolio and a credit protection instrument that together mimic a securitized financial product, allowing banks to reduce the capital they must hold against loan losses. Unlike physical securitisation, the underlying loans stay on the bank&\#x27;s balance sheet, while the risk is transferred to investors such as insurers. The market has expanded rapidly as banks seek capital relief and insurers look for higher-yielding assets.
+**Background**: BYD&\#x27;s flash-charging technology, paired with the second-generation blade battery, was recently demonstrated to recharge a vehicle from low battery to full in roughly 5 to 10 minutes under certain conditions, according to tests from Chinese media. The Qin MAX is a new sedan that brings this technology to the roughly 100,000 RMB B-class segment, a sweet spot for Chinese consumers. B-class refers to mid-size sedans, a category typically offering more interior space and comfort than entry-level compacts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bis.org/bcbs/publ/d607.pdf">Synthetic risk transfers</a></li>
-<li><a href="https://www.whitecase.com/insight-alert/synthetic-securitisations-credit-risk-management-tool-banks-and-non-bank-financial">Synthetic securitisations as a credit risk ... | White &amp; Case LLP</a></li>
+<li><a href="https://www.sandicliffe.co.uk/blog/full-charge-in-minutes-explaining-byds-next-gen-fast-charging-tech">BYD Fast Charging Tech Explained | Sandicliffe</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#banking`, `#insurance`, `#credit risk`, `#regulatory capital`, `#financial stability`
+**Tags**: `#BYD`, `#product launch`, `#EV`, `#China auto`, `#sector`
 
 ---
 
 <a id="item-12"></a>
-## [Institutional Investors Back Blackstone and KKR Funds for Wealthy Individuals](https://www.ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [Norway Doubles Down on Oil and Gas Despite EU Green Pressure](https://www.ft.com/content/62480805-a8e1-42c0-8d64-8af2e6309d2a?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Institutional investors are backing private equity funds from Blackstone and KKR that target wealthy individuals, signaling a break from the traditional 10-year closed-end fund model. This shift by the industry&\#x27;s traditional backers could put pressure on the standard locked-up fund structure. This development matters because it could disrupt the traditional private equity fundraising model, altering how capital flows into the asset class. If successful, it may expand wealthy individuals&\#x27; access to private equity and force changes in fee structures and fund terms. The funds are likely to use evergreen or open-ended structures, which allow investors to enter and exit regularly rather than waiting for a 10-year liquidation. The backing comes from the same institutions that historically supplied capital to fixed-term funds, making the endorsement particularly significant.
+Norway is set to increase oil and gas production, doubling down on fossil fuels even as EU leaders push for greener policies. The move challenges EU green rhetoric and signals a divergence over energy transition priorities. The expansion could reshape European energy supply expectations and influence oil and gas prices, while straining EU efforts to cut emissions. It highlights the tension between energy security and climate goals in Europe. Norway is not an EU member but remains a key energy supplier to Europe, making its production decisions highly consequential. The country is expected to continue issuing exploration and production licenses on its continental shelf, prioritizing energy security over climate pledges.
 
-rss · FT Markets · Aug 26, 04:00
+rss · FT Markets · Aug 27, 04:00
 
-**Background**: Traditional private equity funds are closed-end limited partnerships with a fixed life of about 10 years, during which investor capital is locked up and illiquid. Evergreen funds, by contrast, are open-ended structures that allow investors to buy in and exit periodically and recycle distributable proceeds into new investments. These newer structures can address common challenges individuals face when investing in private equity, such as long lock-up periods and complicated tax reporting.
+**Background**: Norway is Western Europe&\#x27;s largest producer of oil and natural gas, with output playing a central role in European energy supply. EU climate policy has called for reducing reliance on fossil fuels, but Europe&\#x27;s recent energy security concerns have led some nations, including Norway, to defend continued oil and gas investment. The phrase &\#x27;drill, baby, drill&\#x27; is a pro-fossil-fuel slogan used to express support for expanding extraction.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.harness.co/articles/evergreen-private-equity-funds">Evergreen Private Equity Funds and How They Differ From... | Harness</a></li>
-<li><a href="https://www.wespath.org/resource/investing-in-private-equity-what-you-should-know/">Investing in Private Equity : How Do Evergreen Funds Work? | Wespath</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#private equity`, `#Blackstone`, `#KKR`, `#fundraising`, `#industry shift`
+**Tags**: `#oil`, `#gas`, `#energy policy`, `#Norway`, `#supply`
 
 ---
 
 <a id="item-13"></a>
-## [YMTC&\#x27;s $5B Shanghai IPO escalates NAND flash race with Korean giants](https://www.ft.com/content/1b1c357f-6a1c-4ce3-bb47-980c3de4d3d2?syn-25a6b1a6=1) ⭐️ 7.0/10
+## [France Overtakes Italy as Top Worry for European Bond Investors](https://www.ft.com/content/2b780776-d8f3-4bd3-9daa-f601b5d4206a?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Chinese memory maker YMTC is raising $5 billion via a Shanghai IPO to expand its NAND flash production, directly challenging South Korean giants Samsung and SK Hynix. The company outlined its NAND production ambitions during investor meetings for the listing. The move could intensify price competition in the global flash memory market and reduce China&\#x27;s dependence on foreign chip suppliers. It also signals a major competitive shift with strategic implications for semiconductor investors and the broader tech industry. YMTC, founded in Wuhan in 2016 with government backing, was formerly a subsidiary of Tsinghua Unigroup. Its consumer products are marketed under the ZhiTai brand, and it supplies enterprise SSDs to brands including Lexar, HP, Acer, Kingston, and Teamgroup.
+French borrowing costs have exceeded Italy&\#x27;s for most of the summer, making France the biggest worry for European bond investors, driven by concerns over the upcoming budget and next year&\#x27;s elections. This marks a notable shift in European sovereign debt markets, as France is a major eurozone economy traditionally viewed as safer than Italy. Rising French yields signal growing fiscal and political risk that could affect investor confidence across the region. Paris&\#x27;s borrowing costs have stayed above Rome&\#x27;s for most of the summer. The move reflects market concerns over France&\#x27;s upcoming budget and the elections scheduled for next year, which could further strain public finances.
 
-rss · FT Markets · Aug 26, 03:31
+rss · FT Markets · Aug 27, 04:00
 
-**Background**: NAND flash is a type of non-volatile memory widely used in USB drives, memory cards, and solid-state drives. The market has long been dominated by South Korean companies Samsung and SK Hynix, along with Japan&\#x27;s Kioxia and Western Digital. YMTC&\#x27;s expansion is part of China&\#x27;s broader push for semiconductor self-sufficiency amid export controls and geopolitical tensions.
+**Background**: In the European sovereign bond market, government borrowing costs are measured by bond yields, which rise when investors demand higher compensation for risk. Italy has historically been seen as a riskier borrower than France due to its high debt levels, so French yields above Italian yields is an unusual development. The shift suggests investors are now more concerned about France&\#x27;s fiscal trajectory and political stability ahead of its budget and elections.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/YMTC">YMTC</a></li>
-<li><a href="https://en.wikipedia.org/wiki/NAND_flash_memory">NAND flash memory</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#IPO`, `#Semiconductors`, `#Memory`, `#China`, `#Competition`
+**Tags**: `#macro`, `#bonds`, `#fiscal policy`, `#Europe`
 
 ---
 
 <a id="item-14"></a>
-## [Zhipu Reveals Popular Anonymous Model &\#x27;Ox-Alpha&\#x27; as Low-Cost GLM-5.3-Flash](https://www.caixin.com/2026-08-27/102478385.html) ⭐️ 7.0/10
+## [KKR settles DoJ lawsuit for record $250mn over buyout filings](https://www.ft.com/content/6b1ec818-7989-4779-8af2-bd7026528b5e?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-On the evening of August 26, 2026, Zhipu launched and open-sourced GLM-5.3-Flash, a 320B-parameter multimodal model priced at one-tenth of GLM-5.3. The model had previously been tested anonymously as Ox-Alpha, topping OpenRouter with 23.2T calls in seven days. This launch signals a sharp competitive shift in the AI model market, as Zhipu undercuts rivals on price while delivering stronger performance and open-sourcing the model. The use of domestic chips for all inference computing during testing also highlights China&\#x27;s semiconductor self-reliance progress, which could influence AI and chip stocks. GLM-5.3-Flash has 320B parameters, below the 744B of GLM-5.3 and GLM-5.2, but exceeds GLM-5.2 in capability and supports a million-token context. On OpenRouter it logged 23.2T calls in seven days, more than double the second-ranked DeepSeek-V4-Flash; on OpenCode it ranked first for six consecutive days with 44T total calls.
+KKR has agreed to pay a record $250 million to settle a Department of Justice lawsuit that alleged the private equity firm failed to properly file premerger notifications, known as buyout filings, under the Hart-Scott-Rodino Act. The firm said it strongly disagrees with the US government&\#x27;s claims and maintains it acted in good faith. This is a landmark settlement — the largest ever of its kind — for a major private equity firm, and it signals that US regulators are intensifying scrutiny of how buyout firms comply with antitrust premerger notification rules. It could prompt other private equity firms to review their own filing practices and may lead to more enforcement actions across the industry. The settlement resolves the DoJ&\#x27;s lawsuit without an admission of liability, according to KKR&\#x27;s statement. The $250 million penalty is tied to allegations that KKR failed to comply with Hart-Scott-Rodino premerger notification and waiting-period requirements for certain buyout transactions.
 
-rss · 财新网 · Aug 27, 00:40
+rss · FT Markets · Aug 27, 02:06
 
-**Background**: OpenCode is an open-source, model-agnostic AI coding agent platform where developers can test and compare different models. A natively multimodal model is trained from the ground up to process text, images, audio, and video together in a unified architecture, rather than aligning separate single-modality models. Zhipu is a leading Chinese AI company known for its GLM series, and the anonymous Ox-Alpha&\#x27;s rapid rise reflects strong developer interest in high-performance, low-cost models.
+**Background**: The Hart-Scott-Rodino \(HSR\) Act requires companies to submit premerger notification to the Federal Trade Commission and the Department of Justice before completing large mergers or acquisitions, so regulators can review potential antitrust issues. In private equity, &\#x27;buyout filings&\#x27; refer to these required HSR notifications when a PE firm acquires a controlling stake in a target company. The FTC and DoJ can impose civil penalties for failures to comply, and the size of the penalty often depends on the transaction value and the duration of noncompliance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nimbalyst.com/blog/what-is-opencode/">What is OpenCode ? The 2026 Beginner&#x27;s Guide | Nimbalyst</a></li>
-<li><a href="https://www.mindstudio.ai/blog/what-is-gemini-embedding-2-multimodal">What Is Gemini Embedding 2? The First Natively Multimodal ...</a></li>
+<li><a href="https://www.ftc.gov/enforcement/premerger-notification-program">Premerger Notification Program | Federal Trade Commission</a></li>
+<li><a href="https://www.caisgroup.com/articles/an-introduction-to-private-equity-buyout">An Introduction to Private Equity Buyout - CAIS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#product launch`, `#competition`, `#semiconductors`, `#open source`
+**Tags**: `#legal`, `#private-equity`, `#regulation`, `#settlement`, `#KKR`
 
 ---
 
 <a id="item-15"></a>
-## [SenseTime H1 Turns Net Profit, But Long-Term Receivables Near Half](https://www.caixin.com/2026-08-27/102478348.html) ⭐️ 7.0/10
+## [UK Treasury Orders Bank of England to Boost Digital Currency Innovation](https://www.ft.com/content/7650d84f-4750-48c4-9a9e-ca899e608931?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-SenseTime reported H1 2026 revenue of 2.911 billion yuan, up 23.4% year-on-year, and a net profit of 617 million yuan, reversing a 1.489 billion yuan loss a year earlier. Adjusted net loss narrowed 67.3% to 386 million yuan, while receivables aged over three years accounted for 46.3% of total receivables. The headline net profit turnaround marks a milestone for SenseTime two years after its business restructuring, signaling improving fundamentals in China&\#x27;s AI sector. However, the persistent adjusted loss and heavy long-term receivables raise questions about earnings quality and cash collection risks. Generative AI revenue grew 28.2% to 2.327 billion yuan, accounting for 79.9% of total revenue, while traditional visual AI rose 13.9% to 497 million yuan. Receivables rose nearly 20% during the half, with amounts aged over three years reaching 3.261 billion yuan, or 46.3% of total receivables.
+The UK Treasury has granted the Bank of England a new legal objective to promote innovation in digital currencies, including stablecoins. This directive is part of the government&\#x27;s push to establish the UK as a global stablecoin hub. This policy shift signals explicit regulatory support from the UK government for the cryptocurrency and fintech sectors. It could lead to more favorable regulations, attracting stablecoin issuers and digital asset businesses to the UK and strengthening its competitive position against other financial hubs. The new legal objective requires the Bank of England to consider innovation in digital currencies as part of its mandate. The Treasury&\#x27;s strategy specifically aims to make the UK a hub for stablecoins, which are cryptocurrencies designed to maintain a stable value relative to a fiat currency or other assets.
 
-rss · 财新网 · Aug 27, 00:37
+rss · FT Markets · Aug 26, 17:27
 
-**Background**: SenseTime is a leading Chinese artificial intelligence company whose core businesses include generative AI and computer vision. In its H1 2026 report, the company&\#x27;s adjusted net loss excludes one-off income and expenses, providing a view of recurring operations. A high proportion of receivables aged over three years may indicate slower payment cycles from government and enterprise clients, potentially affecting future cash flow and asset quality.
+**Background**: Stablecoins are a type of cryptocurrency that aim to maintain a stable value by being pegged to a specified asset, such as a fiat currency like the US dollar. Meanwhile, central bank digital currencies \(CBDCs\) are digital forms of an official currency issued and regulated by a central bank, unlike decentralized cryptocurrencies. By directing the Bank of England to support digital currency innovation, the UK government is aligning its regulatory framework with its ambition to lead in financial technology and digital assets.
 
-**Tags**: `#earnings`, `#AI`, `#China`, `#financials`, `#receivables`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Stablecoin">Stablecoin - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Central_bank_digital_currency">Central bank digital currency - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#policy`, `#digital currencies`, `#stablecoins`, `#regulation`, `#central bank`
 
 ---
 
 <a id="item-16"></a>
-## [Greentown Management H1 New Build-Transfer Area Falls 32% as Urban Investment Clients Cut Land Purchases](https://www.caixin.com/2026-08-26/102478306.html) ⭐️ 7.0/10
+## [UK Energy Price Cap to Rise 4% to £1,723, a Three-Year High](https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-In H1 2026, Greentown Management&\#x27;s newly contracted daijian \(construction management\) area fell 32% year-on-year to 13.52 million square meters, and new management fees fell about 32% to RMB 3.41 billion. The decline far exceeds the industry&\#x27;s 8.2% contraction in newly signed area. Greentown Management is the largest listed construction management firm in China, so its sharp slowdown signals that the daijian industry&\#x27;s rapid expansion has ended amid a shrinking land market. Because urban investment \(chengtou\) companies are key clients, their roughly halved land purchases directly constrain future revenue for the whole industry. Management noted there is a time lag between contract signing, project commencement, and revenue recognition, so the drop in new orders has not yet fully hit current-period earnings. CEO Wang Junfeng said the industry&\#x27;s annual new contracted volume stayed stable at roughly 160–170 million square meters from 2023 to 2025, but is now shifting from high-speed expansion to steady development.
+UK household energy bills are set to hit a three-year high from October, as the energy price cap rises by 4% to £1,723 per year. The increase is attributed to higher wholesale energy costs driven by the Middle East conflict. The higher cap will directly increase household energy costs, adding to inflation pressure and squeezing consumer budgets. It also highlights how geopolitical instability in energy-producing regions can quickly feed through to household finances in the UK. The £1,723 figure represents the annual cap for a typical dual-fuel household paying by direct debit; actual bills vary with energy usage. The price cap normally adjusts quarterly, and wholesale energy costs are the main driver of changes.
 
-rss · 财新网 · Aug 27, 00:37
+rss · FT Markets · Aug 26, 08:18
 
-**Background**: Real estate daijian is a light-asset model under which a landowner \(the commissioning party\) hires a professional developer with brand and construction experience to manage project development, separating investment from development. Urban investment companies \(chengtou\) are local government financing and investment platforms that have become major land buyers and therefore key commissioning clients for daijian firms. As the land market contracts, these clients&\#x27; reduced land acquisitions directly reduce the pipeline of new development-management projects.
+**Background**: The UK energy price cap is set by the regulator Ofgem and limits the maximum amount suppliers can charge per unit of energy for customers on default or variable tariffs. It was introduced in 2019 to protect consumers from excessive charges. Wholesale gas and electricity prices are strongly influenced by global markets, including geopolitical events such as conflict in major producing regions. When wholesale prices jump, suppliers are allowed to pass on higher costs up to the cap limit.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://36kr.com/p/765069962422786">完全剥离 房 地 产 业 务 的万达商管，能否真正的「轻装上阵」？ -36氪</a></li>
-<li><a href="http://manong-it.com/sys-nd/47.html">房 地 产 代 建 模 式 将成新趋势 - 武汉码农之家企 业 服 务 有限公司</a></li>
-<li><a href="https://www.toutiao.com/topic/7551976948650608691/">经 投 ， 城 投 的员工有正式偏织吗-今日头条</a></li>
-
-</ul>
-</details>
-
-**Discussion**: No community comments were provided in the news item or search results, so no discussion summary is available.
-
-**Tags**: `#earnings`, `#real estate`, `#China`, `#sector`
+**Tags**: `#energy`, `#inflation`, `#UK`, `#macro`, `#policy`
 
 ---
 
 <a id="item-17"></a>
-## [China Pushes Diversified Financing for &\#x27;Six Networks&\#x27; Infrastructure Plan](https://www.caixin.com/2026-08-27/102478356.html) ⭐️ 7.0/10
+## [US Bans Foreign Grid Equipment; Moonshot AI in Cloud Revenue-Share Talks](https://cxdata.caixin.com/GeoFinAtlas/?id=2cbe954ec0074e2c9b54e7211dd1c9d9) ⭐️ 7.0/10
 
-On August 25, the National Development and Reform Commission \(NDRC\) held a coordination meeting to advance the &\#x27;six networks&\#x27; initiative, focusing on diversified investment and financing mechanisms and supporting policies. The initiative targets more than 7 trillion yuan in 2026 investment across six infrastructure areas. This marks a high-level policy push to channel large-scale capital into key infrastructure networks that are expected to anchor China&\#x27;s economic growth and emerging industries. The financing mechanisms being studied could shape investment flows and benefit sectors from utilities to computing and logistics. The six networks cover water, new-type power grid, computing power, next-generation communications, urban underground pipelines, and logistics. The meeting discussed categorizing fiscal, financial, investment, and pricing policies, and designing financing mechanisms tailored to different types of projects.
+The U.S. government has taken action to restrict or ban certain foreign-made equipment in the nation&\#x27;s power grid, while Chinese AI startup Moonshot AI is negotiating revenue-sharing agreements with three major cloud vendors for its large language models. The grid-equipment restriction could force U.S. utilities to replace existing hardware and reshape energy supply chains, while Moonshot AI&\#x27;s talks signal a shift toward monetizing open-weight AI models through cloud partnerships. The moves will affect equipment suppliers, utilities, and the broader AI ecosystem in both the U.S. and China. The ban targets the bulk-power system, which excludes local distribution networks, and gives the Department of Energy authority to require replacement of existing foreign equipment. Moonshot AI&\#x27;s open-weight Kimi models already carry revenue-sharing terms that charge inference providers up to 30% after $20 million in annual revenue, so the cloud negotiations likely aim to formalize similar arrangements.
 
-rss · 财新网 · Aug 27, 00:19
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: The &\#x27;six networks&\#x27; concept is part of China&\#x27;s 2026 push to build a modern infrastructure system, coordinating new and traditional infrastructure. In March, NDRC Chairman Zheng Shanjie announced that over 7 trillion yuan would be invested in the six networks and key areas in 2026. The August meeting is at the planning and study stage, so no specific project commitments have been made yet.
+**Background**: The bulk-power system is the interconnected generation and transmission network that delivers electricity over large areas, excluding local distribution lines; it is regulated in the U.S. by the Federal Energy Regulatory Commission and the North American Electric Reliability Corporation. Moonshot AI, founded in Beijing in 2023, is one of China&\#x27;s &\#x27;AI Tigers&\#x27; and develops the Kimi family of open-weights large language models. Its license ties revenue sharing to usage, which lets inference providers run the models while sharing a portion of their income. The U.S. ban reflects broader geopolitical efforts to reduce critical infrastructure dependence on foreign—especially Chinese—equipment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sxdaily.com.cn/2026-07/05/content_20051239.html">“ 六 张 网 ”构建现代化 基 础 设 施 体系</a></li>
-<li><a href="https://m.mp.oeeee.com/a/BAAFRD0000202607051620955.html">“ 六 张 网 ”构建现代化 基 础 设 施 体系 | 南都N视频</a></li>
+<li><a href="https://www.foxbusiness.com/energy/trump-order-could-force-us-utilities-replace-foreign-power-equipment">Trump order targets foreign equipment used across the US ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI</a></li>
+<li><a href="https://www.naruc.org/core-sectors/electricity-energy/bulk-power-system/">Bulk Power System - NARUC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#policy`, `#infrastructure`, `#macro`, `#investment`, `#China`
+**Tags**: `#geopolitics`, `#policy`, `#AI`, `#cloud`, `#regulation`
 
 ---
 
 <a id="item-18"></a>
-## [BYD Unveils Third-Generation Tang SUV at Chengdu Auto Show](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Fa0E1ZzcwT2hlOW1ZNlRWdG1ENmt6TGpkX1hWUkpaS1F4bnJRSmF2SW5yU21BYThTN0tzTjc4enJTWXdyNXZRU3dzOUZDOTZMOFVaT3hqOTU2WGk0UUhzQUtB?oc=5) ⭐️ 6.0/10
+## [Foreign investors accelerate exits from Beijing, Shanghai commercial real estate at 40%+ discounts](https://finance.caixin.com/2026-08-27/102478338.html) ⭐️ 7.0/10
 
-BYD debuted the third-generation Tang at the Chengdu Auto Show, featuring a large five-seat layout. The SUV is expected to go on sale in the fourth quarter of this year. The launch targets the popular large five-seat SUV segment in China, a key growth area for EVs. As a flagship model from BYD, it could strengthen the company&\#x27;s position against competitors in the mid-to-large SUV market. No pricing or sales forecasts were announced at the debut. The vehicle positions itself as a large five-seater, distinguishing it from the previous seven-seat configuration.
+From early 2024 to August 2026, foreign investors accelerated the disposal of commercial real estate in Beijing and Shanghai, with at least 22 properties put up for sale. In Shanghai, five transactions closed at nominal discounts of 41%-45% relative to the original purchase prices. This wave of deeply discounted selling signals deepening stress in China&\#x27;s commercial property market and could force broader asset repricing. Foreign investor exits may also weaken market sentiment and reduce liquidity for prime office and retail assets in top-tier cities. The report covers the period from January 2024 to August 2026 and counts at least 22 properties in Beijing and Shanghai that entered disposal. Even with markdowns of about 40%, sellers are still choosing to exit, underscoring the urgency of reducing exposure.
 
-google\_news · 观察者 · Aug 26, 10:58
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: The BYD Tang is one of the automaker&\#x27;s flagship SUVs, known for its performance and new-energy powertrains. The Chengdu Auto Show is a major automotive exhibition in China, often used for regional debuts and market showcases. BYD is a leading Chinese electric vehicle manufacturer, and updates to core models are closely watched in the domestic market.
+**Background**: Foreign-invested commercial real estate refers to office, retail, or other income-producing properties owned by overseas investors. The &\#x27;nominal discount&\#x27; cited in the report is the price gap against the original purchase price, not adjusted for currency, inflation, or holding costs. Such steep markdowns indicate that owners are prioritizing exit over holding out for better prices.
 
-**Tags**: `#product launch`, `#BYD`, `#EV`, `#China`, `#auto industry`
+**Tags**: `#real estate`, `#China`, `#commercial property`, `#distressed assets`, `#foreign investment`
 
 ---
 
 <a id="item-19"></a>
-## [BYD Unveils Third-Generation Tang SUV at Chengdu Auto Show, Q4 Launch Planned](https://news.google.com/rss/articles/CBMikAFBVV95cUxOOFBJaGt2ejV1cDEtTlJidkNZRU9nd2hnUzJOQjg4dFNVRmc4eDVoSzd4OWtvVUY4M1dhLXdZaEhwd2NFaFRBaFVtZlBWRW5wQU9LSXNlLUFRN0MwaWw1NV9kYTIyWkdmSWJONjVnSVFweDl2SmRZY0lvRlZHMmlnQ3ZrUkF6dF9SbXJpdVdFM3M?oc=5) ⭐️ 6.0/10
+## [China Overseas Development Overtakes Poly in H1 Sales Ranking](https://www.caixin.com/2026-08-27/102478413.html) ⭐️ 7.0/10
 
-BYD showcased the third-generation Tang, a large five-seat SUV, at the Chengdu Auto Show. The company plans to launch it in the fourth quarter of this year. The Tang is a key model for BYD, one of the world&\#x27;s largest EV makers, and a new generation could significantly affect its sales and market share. Investors will be watching for pricing and specifications, though none were disclosed at the reveal. No pricing or financial details were announced at the reveal. The vehicle is positioned as a large five-seat SUV, marking a generational update for the Tang lineup.
+China Overseas Development \(0688.HK\) reported H1 2026 contracted sales of RMB 134.35 billion, up 11.8% year-on-year. Its equity sales reached RMB 123.6 billion, outpacing Poly Development by RMB 17.1 billion to top the industry&\#x27;s equity sales ranking. This ranking change signals that central state-owned developers are relatively stronger during the prolonged property downturn, with China Overseas achieving double-digit growth while the top 100 developers&\#x27; total sales fell 13.6%. It may lead investors to focus more on land reserve quality and financial discipline as key competitive advantages. In 2025, China Overseas Development acquired 35 land parcels, adding 4.99 million square meters of construction area under new land reserves, up about 20% year-on-year; total land cost was RMB 118.69 billion and equity land cost was RMB 92.42 billion, up 47.2% and 32.7% respectively. Its H1 2026 results were released on August 26, and among the top 10 developers, four central SOEs posted positive sales growth, but only China Overseas exceeded 10%.
 
-google\_news · 新浪汽车 · Aug 26, 17:48
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: BYD is a leading Chinese automaker specializing in electric vehicles, and the Tang is one of its flagship SUV models. The Chengdu Auto Show is one of China&\#x27;s major auto industry events, often used for unveiling new models. This third-generation Tang represents a significant update for a model that has been central to BYD&\#x27;s growth in the competitive Chinese EV market.
+**Background**: Equity sales refers to sales attributed only to the developer&\#x27;s ownership stake in projects, unlike full-caliber sales which include all project sales. China Overseas Development is a Hong Kong-listed subsidiary of China State Construction Engineering Corporation, while Poly Developments is also a central state-owned enterprise. The comparison matters because equity sales better reflect a developer&\#x27;s actual scale and financial returns.
 
-**Tags**: `#new product`, `#auto sector`, `#BYD`, `#China EV`, `#launch`
+**Tags**: `#real-estate`, `#sales`, `#ranking`, `#China-Overseas`, `#sector`
 
 ---
 
 <a id="item-20"></a>
-## [UK energy bills to rise 4% to three-year high in October](https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1) ⭐️ 6.0/10
+## [SenseTime Posts H1 Profit, Yet Receivables Aging Raises Concerns](https://www.caixin.com/2026-08-27/102478348.html) ⭐️ 7.0/10
 
-The UK energy price cap will rise by 4% from October, pushing typical annual household bills to £1,723, a three-year high. The increase is driven by higher wholesale costs linked to Middle East conflict. The rise affects millions of households on default tariffs and could add to inflation and consumer hardship heading into winter. It also signals that geopolitical tensions in the Middle East are directly feeding through to UK energy costs. The new £1,723 annual figure is based on typical household usage under the Ofgem price cap. Analysts at Cornwall Insight had forecast a very similar increase to around £1,729, with the final official level subject to Ofgem&\#x27;s announcement.
+SenseTime reported a net profit of 617 million yuan for H1 2026, reversing a 1.489 billion yuan loss from a year earlier, with revenue up 23.4% to 2.911 billion yuan. However, its adjusted net loss still stood at 386 million yuan, narrowed by 67.3% year-over-year, and receivables aged beyond three years grew to 3.261 billion yuan. The results present a mixed picture: a headline return to profitability could boost investor confidence, but the persistence of adjusted losses and a high proportion of long-aged receivables signal potential collection problems. This matters for investors tracking China&\#x27;s AI sector and for assessing SenseTime&\#x27;s cash-flow health. Generative AI revenue reached 2.327 billion yuan, up 28.2% and accounting for 79.9% of total revenue, while visual AI revenue grew 13.9% to 497 million yuan and X-innovation revenue fell 18.6% to 87 million yuan. Receivables aged over three years rose to 3.261 billion yuan, representing 46.3% of total receivables, up from a year earlier.
 
-rss · FT Markets · Aug 26, 08:18
+rss · 财新网 · Aug 27, 04:18
 
-**Background**: The energy price cap, set by regulator Ofgem, limits how much suppliers can charge per unit of gas and electricity on default tariffs. Wholesale energy prices, which rose after Middle East conflicts disrupted supply routes, are a major driver of changes to the cap.
+**Background**: Adjusted net income is a non-GAAP measure that removes non-cash and non-recurring items to show a company&\#x27;s underlying profitability. An accounts receivable aging report categorizes unpaid invoices by how long they have been outstanding; a large share of receivables older than three years suggests higher default risk and weaker cash conversion, which is a red flag for financial health.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.aol.co.uk/articles/forecast-energy-price-cap-rise-121104000.html">Forecast energy price cap rise in Britain could push UK fuel bills up...</a></li>
+<li><a href="https://www.investopedia.com/ask/answers/010715/what-being-adjusted-adjusted-net-income.asp">Adjusted Net Income Definition and How It Is Determined Adjusted Net Income | Formula + Calculator - Wall Street Prep Adjusted Net Loss Definition | Law Insider Adjusted Net Income - What Is It, Examples, How To Calculate? Adjusted Loss Definition Formula Examples Common Pitfalls Net Loss: Definition, Formula, and Examples - Investopedia 26 U.S. Code § 56A - Adjusted financial statement income</a></li>
+<li><a href="https://www.wallstreetprep.com/knowledge/adjusted-net-income/">Adjusted Net Income | Formula + Calculator - Wall Street Prep</a></li>
+<li><a href="https://billed.app/hub/accounting/accounts-receivable-aging-report/">What Is an Accounts Receivable Aging Report? | Billed</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy`, `#UK`, `#macro`, `#policy`, `#inflation`
+**Tags**: `#earnings`, `#AI`, `#China tech`, `#receivables`, `#SenseTime`
 
 ---
