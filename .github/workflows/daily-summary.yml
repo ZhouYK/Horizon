@@ -1,14 +1,45 @@
 name: Daily Horizon Summary
 
 on:
-  schedule:
-    # GitHub scheduled workflows use UTC. 23:07 UTC is 07:07 (next day) Asia/Shanghai.
-    # Non-zero minute avoids the top-of-hour queue where many workflows trigger at once, which can delay runs.
-    - cron: '7 23 * * *'
   workflow_dispatch:      # Allow manual trigger
+  repository_dispatch:    # Triggered daily by an external cron (cron-job.org)
+    types: [daily-summary-trigger]
 
 jobs:
+  check-already-ran:
+    # Guards against duplicate runs on the same day (e.g. a cron-job.org retry or a
+    # manual re-trigger), which would otherwise double-commit gh-pages and
+    # double-send the webhook notification. Skip the real job if today's summary
+    # already exists on gh-pages.
+    runs-on: ubuntu-latest
+    outputs:
+      already_ran: ${{ steps.check.outputs.already_ran }}
+    steps:
+      - name: Determine today's date (Asia/Shanghai)
+        id: date
+        run: echo "date=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+      - name: Check gh-pages for today's summary
+        id: check
+        env:
+          TODAY: ${{ steps.date.outputs.date }}
+          REPO: ${{ github.repository }}
+        run: |
+          if git clone --depth=1 --branch gh-pages "https://github.com/${REPO}.git" gh-pages-check 2>/dev/null; then
+            if ls gh-pages-check/_posts/"${TODAY}"-summary* >/dev/null 2>&1; then
+              echo "Found existing summary for ${TODAY}, skipping."
+              echo "already_ran=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "already_ran=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "gh-pages branch not found yet, proceeding."
+            echo "already_ran=false" >> "$GITHUB_OUTPUT"
+          fi
+
   daily-summary:
+    needs: check-already-ran
+    if: needs.check-already-ran.outputs.already_ran != 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Needed to commit changes
