@@ -1,235 +1,205 @@
 ---
 layout: default
 title: "Horizon Summary: 2026-08-29 (ZH)"
-date: 2026-08-29 04:33:53 +0000
+date: 2026-08-29 23:06:43 +0000
 lang: zh
 report: ai
 ---
 
-> 从 292 条内容中筛选出 10 条重要资讯。
+> 从 241 条内容中筛选出 10 条重要资讯。
 
 ---
 
-1. [腾讯开源混元 Hy4 预览版：770B MoE，百万上下文](#item-1) ⭐️ 9.0/10
-2. [腾讯混元开源旗舰模型 Hy4preview：770B 参数与 1M 上下文](#item-2) ⭐️ 9.0/10
-3. [漏洞传闻足以让 AI 代理发现安全漏洞，OCaml 维护者发现](#item-3) ⭐️ 8.0/10
-4. [Anthropic 推出框架，让 AI 智能体控制硬件](#item-4) ⭐️ 8.0/10
-5. [腾讯元宝接入混元 Hy4preview，开启两周免费试用](#item-5) ⭐️ 8.0/10
-6. [腾讯开源混元 Hy4preview：770B 参数旗舰模型](#item-6) ⭐️ 8.0/10
-7. [Anthropic 发布模型硬件标准 MHS，AI 智能体迈向物理设备控制](#item-7) ⭐️ 8.0/10
-8. [Anthropic 发布具身 AI 硬件标准 MHS](#item-8) ⭐️ 8.0/10
-9. [Midjourney V8.2 推出图像编辑模型，支持指令微调和画布扩展](#item-9) ⭐️ 8.0/10
-10. [AI 巨头警告网络攻击将加剧 呼吁各国优先防御](#item-10) ⭐️ 8.0/10
+1. [滑铁卢大学研究发现开源 AI 模型存在重大安全缺陷](#item-1) ⭐️ 8.0/10
+2. [比尔·盖茨：动荡的 AI 时代，关键抉择在前](#item-2) ⭐️ 7.0/10
+3. [《自然》文章探讨合成生物学、人工智能与自动化融合中的监管碎片化](#item-3) ⭐️ 7.0/10
+4. [代理式 AI 改写分析栈，但有一种人类技能不可被取代](#item-4) ⭐️ 7.0/10
+5. [法官裁定五角大楼对 Anthropic 的措施非法且毫无根据](#item-5) ⭐️ 7.0/10
+6. [OpenAI 敦促加州强化新近通过的 AI 安全法](#item-6) ⭐️ 7.0/10
+7. [索尼和华纳起诉 Anthropic 侵犯版权](#item-7) ⭐️ 7.0/10
+8. [MIT 研究发现：多数计算机视觉任务中人力仍比 AI 更便宜](#item-8) ⭐️ 7.0/10
+9. [分析：中国正在视频 AI 领域建立对美竞争优势](#item-9) ⭐️ 7.0/10
+10. [音乐产业争议：AI 音乐是窃取还是创新？](#item-10) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [腾讯开源混元 Hy4 预览版：770B MoE，百万上下文](https://www.aibase.com/news/30698) ⭐️ 9.0/10
+## [滑铁卢大学研究发现开源 AI 模型存在重大安全缺陷](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjVHSWU1OEJPOG5LdUkyRHJZZkU4dXF1UXZLc1A2R1lLRThod3JpT2w2LTZyRmVqQ19xeXczS1hCLW00djctdlZYcEp6Vm9UMzNkTVcyZlJNWDRGMy1NbGoweTNmNng1Ty04bW1BS2hqSUJhelZoU1NxTHBvVXg4Z3Q3VTNJZm9LNGNVS0dNMA?oc=5) ⭐️ 8.0/10
 
-腾讯在 Hugging Face、GitHub、ModelScope 和 Gitcode 上开源了混元 Hy4 预览版模型，总参数 770B，激活参数 49B，上下文窗口达 100 万 token。该模型还接入了腾讯云 TokenHub 和 OpenRouter，据称在生产力任务的盲测中优于 GLM-5.3 和 Kimi K3。 这次发布将 770B 参数的开源模型带给社区，可能挑战现有开源 LLM 的性能上限，让开发者更容易触达顶级规模。百万 token 的上下文使得处理整本书或大型代码库成为可能，对基于开源模型进行研究的科研人员和企业而言意义重大。 混元 Hy4 预览版采用混合专家（MoE）架构，每个 token 仅激活 770B 参数中的 49B，从而在规模与推理效率之间取得平衡。该模型托管在 Hugging Face、GitHub、ModelScope 和 Gitcode 等多个平台，并可通过腾讯云 TokenHub 和 OpenRouter 访问。
+滑铁卢大学的研究人员发现了领先开源 AI 模型中的重大安全弱点。这些发现引发了对这些广泛采用系统的健壮性和安全部署的担忧。 这些漏洞可能被利用来生成有害或不正确的内容，削弱对开源 AI 的信任。依赖此类模型的开发者和组织需要在部署前评估并缓解这些风险。 公告中未详细说明具体的模型和攻击方式。这些发现与更广泛的趋势一致：DeepSeek R1 等开源 LLM 已被证明易于被操纵，并在大量越狱测试中失败。
 
-aibase · AIbase · 8月28日 15:27
+google\_news · University of Waterloo · 8月29日 12:45
 
-**背景**: 混合专家（MoE）是一种架构，它对于每个 token 只稀疏激活模型参数中的一小部分，从而使得非常大的模型能以比同规模稠密模型更低的计算成本运行。上下文长度（即上下文窗口）指的是模型一次能处理的最大 token 数量；更长的上下文使模型能够处理更长的文档或将更大的代码库保留在内存中。这两个概念正是混元 Hy4 预览版核心特性的基础：巨大参数量和百万 token 上下文。
+**背景**: 大型语言模型（LLM）是在海量文本数据上训练、能生成类似人类回复的 AI 系统。开源 LLM 允许任何人下载和修改，但它们可能缺乏商业模型的安全防护层，因此更容易受到越狱、提示注入等对抗性攻击。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://researchaudio.io/p/mixture-of-experts-moe-in-large-language-models">Mixture of Experts ( MoE ) in Large Language Models</a></li>
-<li><a href="https://datanorth.ai/blog/context-length">LLM Context Length &amp; Context Window Explained (2026)</a></li>
+<li><a href="https://opentools.ai/news/deepseek-r1-the-open-source-ai-model-making-waves-for-all-the-wrong-reasons">DeepSeek R1: The Open - Source AI Model Making... | OpenTools</a></li>
+<li><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/">OWASP Top 10 for Large Language Model ... | OWASP Foundation</a></li>
+<li><a href="https://github.com/requie/LLMSecurityGuide">️ LLM Security 101: The Complete Guide (2026 ... - GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#LLM`, `#open-source`, `#Tencent`, `#Hunyuan`
+**标签**: `#AI`, `#security`, `#open-source`, `#vulnerabilities`, `#LLM`
 
 ---
 
 <a id="item-2"></a>
-## [腾讯混元开源旗舰模型 Hy4preview：770B 参数与 1M 上下文](https://www.aibase.com/news/30694) ⭐️ 9.0/10
+## [比尔·盖茨：动荡的 AI 时代，关键抉择在前](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5) ⭐️ 7.0/10
 
-8 月 28 日，腾讯混元发布了开源旗舰大语言模型 Hy4preview，总参数量达 7700 亿，激活参数为 490 亿，上下文长度达 100 万 token。该模型已在 HuggingFace、GitHub、ModelScope、腾讯云 TokenHub 和 OpenRouter 等平台上线。 这是一次来自顶级科技公司的重要开源发布，巨大的参数量和超长上下文有望推动真实生产力应用。它为开发者在开放权重大模型生态中提供了强有力的新选择，并可能加剧中国及全球 AI 实验室之间的竞争。 Hy4preview 采用了混合专家（MoE）架构，每个 token 只激活 770B 参数中的 49B，从而降低了推理成本。该模型基于软件工程、游戏、金融和安全等领域的专家数据构建，用户还可通过 WorkBuddy/CodeBuddy、元宝和 IMA 进行体验。
+比尔·盖茨在 gatesnotes.com 上发表评论文章，认为社会正进入一个动荡的 AI 时代，现在做出的选择将决定 AI 能否造福人类。他呼吁采取积极主动且负责任的决定，而不是被动适应。 作为极具影响力的科技人物，盖茨的观点有助于塑造公众关于人工智能的讨论和政策方向。他强调早期决策的重要性，因为 AI 监管、发展路径和社会规范仍在形成之中，这正是一个关键的行动窗口期。 这篇文章是一篇观点评论而非技术报告，重点讨论伦理、治理和社会影响，而不是具体的 AI 模型或技术突破。新闻摘要中没有提供具体的政策建议或技术细节，表明这是一篇呼吁人们提高认识和审慎选择的宏观文章。
 
-aibase · AIbase · 8月28日 15:27
+google\_news · gatesnotes.com · 8月29日 20:35
 
-**背景**: 混合专家（MoE）是一种使用多个专门子模型（即“专家”）来提升模型质量的技术，与同等总规模的密集模型相比，其计算成本更低。在 MoE 模型中，每个 token 只激活一部分参数，因此“激活参数”指的是在前向传播中实际使用的参数。100 万 token 的上下文窗口允许模型一次处理整本书长度的文档，但如何有效利用超长上下文中的信息仍是一个待解决的挑战。
+**背景**: 比尔·盖茨是微软联合创始人和著名慈善家，经常就技术与全球议题发表文章。“AI 时代”指的是生成式 AI 及相关系统的快速发展，这些技术正开始影响经济、就业、教育和日常生活。盖茨此前曾对人工智能既表达乐观也表达谨慎，因此他的评论是当前关于如何引导 AI 走向有益结果的公众讨论的一部分。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ibm.com/think/topics/mixture-of-experts">What is mixture of experts? | IBM</a></li>
-<li><a href="https://www.mindstudio.ai/blog/claude-1m-token-context-window-ai-agents">Claude 1M Token Context Window: What It Means for AI Agents and Long-Running Tasks | MindStudio</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#LLM`, `#Tencent Hunyuan`, `#open-source`, `#large language model`
+**标签**: `#AI`, `#Policy`, `#Technology Ethics`, `#Commentary`
 
 ---
 
 <a id="item-3"></a>
-## [漏洞传闻足以让 AI 代理发现安全漏洞，OCaml 维护者发现](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) ⭐️ 8.0/10
+## [《自然》文章探讨合成生物学、人工智能与自动化融合中的监管碎片化](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNl8xYUNzQTdyV19YX0gxem45ZWZCdnl0QmhDQ3RKMkx5UWxuWl85TjNMcUZzeFgteGFtc1RLbUREUWlwcFRvem4zLVFkRF9Ra0dmb0Naa0c1QkdaN1g4?oc=5) ⭐️ 7.0/10
 
-剑桥大学教授、OCaml 核心维护者 Anil Madhavapeddy 报告称，OCaml 项目的安全补丁在讨论后约十分钟内，他的网站就收到了针对百分号编码路径遍历序列的探测，表明自动化 AI 代理在监视公开仓库。他展示了现代编码智能体仅凭一个漏洞传闻就能发现可利用的漏洞——在 Claude Fable 拒绝任务后，他改用 DeepSeek V4 Pro 完成演示。 这表明漏洞披露与主动利用之间的时间窗口已从数天缩短到数分钟，与现有开源保密发布（embargo）实践不相容。维护者和安全团队必须制定新的流程来安全地讨论和发布补丁，整个生态也应预料到 AI 驱动的利用尝试和安全报告将激增。 rclone 维护者 Nick Craig-Wood 在 Hacker News 评论中证实，rclone 项目头十年通过 GitHub 收到约 20 份安全披露，而仅上个月就收到超过 40 份；其中约 75% 含有值得调查的内容。他还指出，GitHub 分配 CVE 的时间从 2-3 天延长到 3-4 周，导致点版本发布时只能先在更新日志中标注“CVE-PENDING”。
+《自然》杂志新发表的一篇文章分析了合成生物学、人工智能和自动化融合时产生的监管碎片化问题。文章指出了治理缺口，并强调需要在此技术交汇处进行协调监管。 这篇文章之所以重要，是因为传统法规通常是针对单一技术或行业制定的，而这些领域的融合带来了现有规则可能无法应对的新风险和不确定性。政策制定者、研究人员和相关产业需要新的治理方式来避免安全或生物安全漏洞，同时促进负责任的创新。 这篇文章发表在顶级科学期刊《自然》上，聚焦治理问题而非具体的技术突破。文章据称探讨了计算、生物技术和自动化制造领域的碎片化规则如何在技术融合时带来合规挑战。
 
-rss · Simon Willison · 8月28日 22:12
+google\_news · Nature · 8月29日 11:11
 
-**背景**: 百分号编码（percent-encoding）是一种在 URI 中对字符进行编码的机制，而目录遍历攻击利用 ../ 或其编码变体来访问 Web 服务器根目录之外的文件；针对百分号编码路径遍历序列的探测表明攻击者正积极检查补丁漏洞是否可被利用。OCaml 是一种多范式通用编程语言，常用于静态分析、形式化方法和系统编程。AI 编码智能体已具备越来越强的自动分析代码与补丁差异、发现并利用漏洞的能力。
+**背景**: 合成生物学是一个多学科领域，它运用工程学原理设计并构建新的生物部件、装置和系统，或者对现有生物系统进行重新设计以用于有用目的。监管碎片化指的是规则分散在多个机构和司法管辖区、常常相互重叠甚至矛盾的局面，这会带来混淆和合规负担。随着人工智能和自动化加速生物工程发展，以往分别针对计算、制造和生物技术制定的法规可能难以跟上技术融合的节奏。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Directory_traversal_attack">Directory traversal attack - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/OCaml">OCaml - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek_%28product%29">DeepSeek (product)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Synthetic_biology">Synthetic biology</a></li>
+<li><a href="https://thecompliancedigest.com/dealing-with-regulatory-overlap-and-fragmentation/">Dealing with Regulatory Overlap and Fragmentation</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 讨论中，rclone 维护者 Nick Craig-Wood 证实安全披露数量剧增，即使使用 AI 工具进行分诊，也耗费了大量时间。讨论情绪警觉但务实，聚焦于实际影响：保密发布模式正在失效，GitHub 的 CVE 流程成为瓶颈，开源维护者需要新的支持机制。
-
-**标签**: `#security`, `#AI agents`, `#software supply chain`, `#OCaml`, `#exploit discovery`
+**标签**: `#synthetic biology`, `#artificial intelligence`, `#regulation`, `#automation`, `#policy`
 
 ---
 
 <a id="item-4"></a>
-## [Anthropic 推出框架，让 AI 智能体控制硬件](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1c5RE5HOUJ5Rlo0OXB3d0F0aVY3WFpqX29jcnAyblU1ZEs5Vy04MXpJNHNKeUprLXNOUlRpMkdPbmZkSVY1ZjVTU2pjM2J1d0VLQTc3b2lOU0dyWFZMVF93U285d1VGNE54UFdwb2wyWDZOV3JwdjdUbkJUVXIxRGNMWmtiR1g1cFZHcXN2ekJRZ0tPYlJXNHdfZzcyb085QUFwaU5sazhocVU?oc=5) ⭐️ 8.0/10
+## [代理式 AI 改写分析栈，但有一种人类技能不可被取代](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmVVekRVWXQxZFpvdkszV0FMZGNsb3RkYjk0b2NWWW9pRXRsUW1jSXAxR1BWUlpqaTlzaWdNRjBDc1VWdm5yYUNydTF1NWxLRFRVclBiaWxYX01kY2hhX3pXMlVkQmRpZXVwNjBxR0lTTXlTSmZOc0NMVW1CaG5jcmM1WUZNWGhlQkN5dUhGNjJkMmNxY0Q5TzhPdjkyRENuWFpzOS1zR3hvNjRVcTYtY1ZWLWRxZHM?oc=5) ⭐️ 7.0/10
 
-Anthropic 宣布了一个新框架，允许 AI 智能体直接控制硬件设备。这标志着 AI 自动化从纯软件领域扩展到物理系统控制。 这可能催生广泛的现实世界自动化应用场景，从 IT 基础设施管理到机器人技术和设备故障排除。这也标志着行业趋势正朝着赋予 AI 智能体对物理系统更多自主权的方向发展。 该框架旨在与 Anthropic 的 AI 模型配合使用，可能主要面向企业开发者。关于支持的硬件类型和集成方式等更多技术细节，公告中尚未详细说明。
+《Towards Data Science》的文章指出，代理式 AI 正通过自动化数据工作流来变革分析栈，但仍无法复制分析工作中一种特定的人类技能。 这之所以重要，是因为随着代理式 AI 承担更多分析任务，数据从业者和组织需要了解哪些人类能力仍然不可替代。这也有助于分析团队调整工作流程和技能培养方向。 文章将代理式 AI 描述为能够在有限人工监督下执行数据提取、转换和分析等任务的自主软件智能体。文章认为，尽管有这些进步，分析工作中仍存在一种当前 AI 无法复制的人类技能，但摘要中并未指明具体技能。
 
-google\_news · Computerworld · 8月28日 18:06
+google\_news · Towards Data Science · 8月29日 20:16
 
-**背景**: AI 智能体是利用大型语言模型自主执行任务的软件程序，例如浏览网页或调用 API。将这种能力扩展到硬件，可以让智能体与物理世界交互，例如向计算机或机器人发送指令。这反映了 AI 行业正推动智能体从聊天式工具向能够执行现实世界任务的可操作系统的更广泛趋势。
+**背景**: 代理式 AI（Agentic AI）是指能够自主追求目标并采取行动的人工智能系统，通常会使用外部工具，与仅生成响应的传统聊天机器人不同。分析栈通常包括数据采集、仓储、转换和可视化等工具，这些环节正越来越多地被 AI 智能体自动化。这篇文章讨论了两者交汇对数据从业者的影响。
 
-**标签**: `#Anthropic`, `#AI agents`, `#hardware control`, `#framework`, `#AI/ML`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is agentic AI? - IBM</a></li>
+<li><a href="https://www.holistics.io/books/setup-analytics/a-modern-analytics-stack/">A modern analytics stack | The Analytics Setup Guidebook</a></li>
+
+</ul>
+</details>
+
+**标签**: `#agentic AI`, `#analytics`, `#data science`, `#AI impact`, `#future of work`
 
 ---
 
 <a id="item-5"></a>
-## [腾讯元宝接入混元 Hy4preview，开启两周免费试用](https://www.aibase.com/news/30699) ⭐️ 8.0/10
+## [法官裁定五角大楼对 Anthropic 的措施非法且毫无根据](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv?oc=5) ⭐️ 7.0/10
 
-8 月 28 日，腾讯元宝在全球范围内率先集成混元开源旗舰模型 Hy4preview，并提供两周免费试用。该模型已在 Hugging Face 等平台开源。 这标志着腾讯以高参数旗舰模型进入竞争激烈的开源大模型领域，强化了其在企业和生产力场景中的 AI 生态。这也表明将先进开源模型整合到消费级助手产品中的行业趋势。 Hy4preview 采用混合专家（MoE）架构，总参数 7700 亿，每个 token 激活 490 亿参数，支持 100 万 token 上下文。Hy4preview 的免费试用期为两周，而混元 Hy3 的免费访问已延长至 9 月 30 日。
+联邦法官裁定，五角大楼对人工智能公司 Anthropic 采取的措施非法且毫无根据，这标志着美国国防部在法律上受挫。 这项裁决可能影响政府对待人工智能公司的方式，并可能对国防合同和人工智能监管产生影响。它还可能为政府机构与科技公司之间的其他法律纠纷树立先例。 有关五角大楼所采取措施的具体细节及法院的裁决理由尚未在标题中完全披露。该裁决被描述为美国国防部在法律上的重大挫折。
 
-aibase · AIbase · 8月28日 16:27
+google\_news · Federal News Network · 8月29日 05:13
 
-**背景**: 混元是腾讯推出的大语言模型系列，Hy4 preview 是其新一代 MoE 旗舰模型。MoE 架构通过为每个输入只激活部分专家，使模型规模扩大而不按比例增加计算量。100 万 token 的上下文窗口让模型能一次性处理超长文档。开源此类模型能让全球开发者自由使用。
+**背景**: Anthropic 是一家人工智能公司，以开发 AI 系统（包括 Claude 模型）而闻名。五角大楼即美国国防部，经常与科技公司签订合同以获取各种能力。这项法律裁决质疑了政府对一家私营人工智能公司采取的某些行动的合法性，凸显了国家安全利益与科技行业之间的紧张关系。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/Tencent-Hunyuan/Hy4-preview">GitHub - Tencent-Hunyuan/Hy4-preview · GitHub</a></li>
-<li><a href="https://huggingface.co/tencent/Hy4-preview">tencent/Hy4-preview · Hugging Face</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Tencent`, `#Hunyuan`, `#LLM`, `#Open Source`
+**标签**: `#AI regulation`, `#legal ruling`, `#Anthropic`, `#government contracting`, `#defense`
 
 ---
 
 <a id="item-6"></a>
-## [腾讯开源混元 Hy4preview：770B 参数旗舰模型](https://www.aibase.com/news/30697) ⭐️ 8.0/10
+## [OpenAI 敦促加州强化新近通过的 AI 安全法](https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5) ⭐️ 7.0/10
 
-腾讯发布了混元旗舰模型 Hy4preview 的预览版，总参数 770B、激活参数 49B，支持 1M 上下文，并已开源。在内部盲测中，它在编程、办公、科学等任务上的综合表现超过同类竞品，跻身开源模型第一梯队。 此举使腾讯模型直接跻身开源 AI 第一梯队，让开发者可以无限制地使用前沿规模的 MoE 架构。这也凸显了大厂将最强模型以开放权重形式发布的新趋势，可能重塑大语言模型生态的竞争格局。 该模型采用 Mixture-of-Experts（MoE）架构，每次 token 只激活 770B 参数中的 49B，保证了推理效率。消息还提到 Hy4preview 已在腾讯内部多个领域应用，但公告中未提供量化评测结果和具体许可证条款。
+据 Mashable 报道，OpenAI 公开呼吁加州强化该州新近通过的 AI 安全法。这是头部 AI 开发商积极参与州级 AI 监管的一个显著例子。 OpenAI 的立场可能影响其他科技公司对州级 AI 监管的看法，而由于加州往往引领全国政策趋势，这或许会影响美国整体的 AI 治理走向。此举也表明，大型 AI 实验室希望获得更可预测、更注重安全的规则，而非等待联邦立法。 新通过的加州法律是指 SB 53（《前沿 AI 透明度法案》），其重点在于要求前沿 AI 开发者进行模型披露、安全事故报告以及提供举报人保护。此前，州长 Gavin Newsom 在 2024 年否决了范围更广的 SB 1047，后者曾要求对超大模型进行风险评估并建立 CalCompute 云集群。
 
-aibase · AIbase · 8月28日 15:27
+google\_news · Mashable · 8月29日 16:53
 
-**背景**: Mixture of Experts（MoE）是一种神经网络设计，它将前馈层拆分为多个专门的“专家”子网络，并通过路由器只为每个 token 激活最相关的几个专家。密集模型每次推理会激活全部参数，而 MoE 模型总参数虽高、激活参数却较低，从而降低计算成本。这使得千亿级参数模型也可以在常见硬件上运行并保持较强性能。
+**背景**: 加州一直积极尝试监管前沿人工智能。2024 年，参议员 Scott Wiener 提出了 SB 1047，该法案要求训练成本超过 1 亿美元的先进 AI 模型进行发布前风险评估，并建立举报人保护机制，但被州长 Gavin Newsom 否决。此后，Newsom 成立了“加州 AI 联合政策工作组”以指导未来的监管。OpenAI 如今希望强化的新法律，正是这一州级监管进程的一部分。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts">A Visual Guide to Mixture of Experts ( MoE )</a></li>
-<li><a href="https://medium.com/@csburakkilic/understanding-moe-architectures-the-difference-between-total-and-active-parameters-ad1d161fccaa">Understanding MoE Architectures: The Difference Between Total and...</a></li>
-<li><a href="https://researchaudio.io/p/mixture-of-experts-moe-in-large-language-models">Mixture of Experts ( MoE ) in Large Language Models</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transparency_in_Frontier_Artificial_Intelligence_Act">Transparency in Frontier Artificial Intelligence Act - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#LLM`, `#open-source`, `#Tencent`, `#Hunyuan`
+**标签**: `#AI safety`, `#AI regulation`, `#OpenAI`, `#California`, `#AI policy`
 
 ---
 
 <a id="item-7"></a>
-## [Anthropic 发布模型硬件标准 MHS，AI 智能体迈向物理设备控制](https://www.aibase.com/news/30693) ⭐️ 8.0/10
+## [索尼和华纳起诉 Anthropic 侵犯版权](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWx4LXdRLVlvSEh2M2NGcEpuV2g4c01Ba0dBemY1MVo4YUNvVWNfWm9YSklIRzFzRlp6OGkxZ1hRakd6MHJFVG81b0xBMXUtYzRpWjR4T2ttUjJXSWZ2T0o3a1ZWc0l3YkczUFdGV3hSeFMwZklhdnJWM1N6YVU0UUxaWHNpQm5sVjl4aTlRaHUzeXdWN0JvOUxoZ0t0ck1kWERUcENncWtodFhDTUhUQTNENXNVcGNMakE?oc=5) ⭐️ 7.0/10
 
-Anthropic 发布了模型硬件标准（MHS），这是一套让 AI 智能体安全操作物理设备的共享规范，目前以研究预览形式提供给部分科研实验室和先进制造商。MHS 源自与霍华德·休斯医学研究所（HHMI）Janelia 研究园区的合作，目标是让 AI 智能体无需定制集成即可发现、读取并控制不同厂商的硬件。 MHS 意义重大，因为它连接了虚拟 AI 智能体与物理设备，降低了在科研和制造领域将 AI 接入真实设备的工程成本。如果该标准被广泛采用，有望加速药物发现实验、显微镜操作、机械臂控制以及量子计算机激光校准等任务。 该标准提供了一套通用接口，AI 智能体可据此发现、读取和控制设备，工程师无需再为每台设备单独构建集成方案。MHS 目前仍处于预览阶段，仅向首批研究实验室和先进制造商开放。
+索尼和华纳已对 AI 公司 Anthropic 提起诉讼，指控其存在大规模版权侵权行为。该法律行动聚焦于 Anthropic 在 AI 训练过程中未经授权使用受版权保护的材料。 这起诉讼可能为 AI 公司如何在训练数据中使用受版权保护的内容开创先例，同时凸显了音乐产业与 AI 开发者之间围绕知识产权日益紧张的局势。 指控涉及大规模版权侵权，但头条中未披露具体细节，如涉及哪些作品。该案可能涉及未经许可在 AI 训练数据集中使用歌词或录音。
 
-aibase · AIbase · 8月28日 14:27
+google\_news · Anadolu Ajansı · 8月29日 19:04
 
-**背景**: AI 智能体是由大语言模型驱动的软件系统，能够规划和执行任务。此前，让这类智能体操作物理仪器需要为每台机器编写定制软件，成本高且难以规模化。MHS 旨在将设备控制标准化，使同一个智能体能够操作多种工具，并把安全性作为关键重点。
+**背景**: Anthropic 是一家以开发 Claude 语言模型而闻名的 AI 安全与研究公司。索尼和华纳是拥有大量受版权保护歌曲的大型音乐公司，它们一直越来越担忧 AI 系统未经授权复制或利用其内容进行训练。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">Previewing the Model Hardware Standard \ Anthropic</a></li>
-<li><a href="https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/">Anthropic&#x27;s new hardware standard lets AI agents control the physical world - Ars Technica</a></li>
-<li><a href="https://modelhardwarestandard.com/">Model Hardware Standard</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI agents`, `#hardware standard`, `#Anthropic`, `#robotics`, `#AI safety`
+**标签**: `#AI`, `#copyright`, `#legal`, `#Anthropic`, `#music industry`
 
 ---
 
 <a id="item-8"></a>
-## [Anthropic 发布具身 AI 硬件标准 MHS](https://www.aibase.com/news/30692) ⭐️ 8.0/10
+## [MIT 研究发现：多数计算机视觉任务中人力仍比 AI 更便宜](https://news.google.com/rss/articles/CBMisAJBVV95cUxNRnktTWJ4X0VTSTBuSjRPNW8xUU85UVAtak5tQW54R2xFLVdnNVpJSl81b0czN3ZLcE16SkJxaGNnUFp0aEloM1h2aklpRlU2X3dFLUFINzFVSnBRQ0RoY1Z1RTZHb0w1bktZaEZEdlhnMjE5VHlKcGFaQWZ4VXc5X3Y0ODIwcGtFRkI2Qmlqa1hjSTN1MEczY29PLVkwXzJxS2N5V0ktMzgyWXdOWHNyMGxWVEM5Q0haM0ZVdGhISWpZUXN1WVlJMm1XUDY2TDhKMUU1d0FValYtVmVFajVjTksyWmN1VExSZ1haWnNZSmF1anZySFRsZ2xfYTdEYlgxcURkdy1BNE5wXzE0VERkRDB6ZTd3TDYxZnplSzlGQXBnYUhnWERTOG9iRWNVV0R4?oc=5) ⭐️ 7.0/10
 
-8 月 27 日，Anthropic 推出了 Model Hardware Standard（MHS）研究预览版，这是一项让 AI 智能体安全操作实体设备的共享规范。这标志着 Anthropic 首次公开进入具身 AI 领域，覆盖机器人、自动驾驶车辆和科学仪器等设备。 此举将 Anthropic 在互操作性方面的努力从软件扩展到物理系统，可能影响 AI 智能体在机器人和自主系统中控制硬件的方式。如果被广泛采用，MHS 可能成为 AI 驱动的科学研究和先进制造的基础层。 MHS 支持对机械臂、显微镜等设备进行统一控制和通信，并在驱动器层面（智能体之下）强制执行安全限制。该项目始于 Anthropic 与 HHMI Janelia 研究园区的合作，目前正向首批科研实验室和先进制造商开放预览。
+MIT 研究人员发布了一项研究，显示在计算机视觉技术上可以替代人工的大多数任务中，人力仍然更具成本效益。该分析计算了构建、部署和运行 AI 系统的全部费用，而不仅仅是理论上的能力。 这一发现挑战了普遍认为 AI 自动化将迅速取代许多行业人工的假设。它表明，对许多企业而言，尤其是在低工资地区，雇用人力比投资昂贵的 AI 系统更经济。 该研究聚焦于计算机视觉任务，如视觉检测和物体识别，并将 AI 系统的分摊成本与典型人力工资进行比较。研究人员发现，由于 AI 系统的前期和持续成本仍然很高，自动化往往无法节省足够的资金。
 
-aibase · AIbase · 8月28日 14:27
+google\_news · ScienceBlog.com · 8月29日 20:34
 
-**背景**: 具身 AI 是指嵌入物理实体、通过传感器感知环境并通过执行器采取行动的 AI 系统。Anthropic 此前推出了用于软件互操作的 Model Context Protocol（MCP），而 MHS 被视为对应的硬件标准，让模型拥有操作实体机器的“身体”。
+**背景**: 计算机视觉是人工智能的一个分支，使机器能够解释视觉数据并据此行动，已应用于制造业、零售业和农业等领域。虽然 AI 系统有时能在特定任务上达到甚至超过人类表现，但其总成本包括数据收集、模型训练、专用硬件、软件维护和人工监督。这项研究为关于 AI 取代人类工人的争论增添了重要的经济视角，强调技术可行性并不自动转化为财务可行性。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">Previewing the Model Hardware Standard \ Anthropic</a></li>
-<li><a href="https://modelhardwarestandard.com/">Model Hardware Standard</a></li>
-<li><a href="https://coursiv.io/blog/model-hardware-standard">Model Hardware Standard : AI Agents Meet Hardware | Coursiv Blog</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Anthropic`, `#hardware standard`, `#embodied AI`, `#robotics`, `#AI infrastructure`
+**标签**: `#AI`, `#computer vision`, `#automation`, `#economics`, `#MIT`
 
 ---
 
 <a id="item-9"></a>
-## [Midjourney V8.2 推出图像编辑模型，支持指令微调和画布扩展](https://www.aibase.com/news/30690) ⭐️ 8.0/10
+## [分析：中国正在视频 AI 领域建立对美竞争优势](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVRGZjQyT0RlaTNkYWE3cHRhZGlyR2d3ZlpubFVDTVlFSGRiNDl0TjItQzVZWjZjbXFyOXBpMmtGNE43WU1hUVNIenFhcm11SGJIX1B3c3pTeFJObGpTMGF5UFU2c3ozS0liVDFIOVlZMEpsUkdJOHJfT25Gekp0UXFZemZrMWxkOW1OMk81bHhEa3gyMi1nZ2xlRS1Za2NSMElCQ2Z2a2drRDNEd0JkanB0N1dCMk1hQ2xRRjNEMnBZRmNkeWfSAcYBQVVfeXFMT21URmY0Mk9EZWkzZGFhN3B0YWRpckdnd2ZabmxVQ01ZRUhkYjQ5dE4yLUM1WVo2Y21xcjlwaTJrRjRON1lNYVFTSHpxYXJtdUhiSF9Qd3N6U3hSTmxqUzBheVBVNnN6M0tJYlQxSDlZWTBKbFJHSThyX09uRnpKdFFxWXpmazFsZDltTjJPNWx4RGt4MjItZ2dsZUUtWWtjUjBJQkNmdmtna0QzRHdCZGpwdDdXQjJNYUNsUUYzRDJwWUZjZHln?oc=5) ⭐️ 7.0/10
 
-Midjourney 发布了 V8.2 图像编辑模型的测试版，突破了仅限文本生成的传统模式，集成了指令微调、多图像参考和修复（inpainting）功能。这使得专业视觉创作更加精确和可控。 此次更新对依赖 AI 图像生成的专业人士意义重大，为编辑流程带来了更强的控制力和精确度。它标志着生成式 AI 从单纯的图像生成向功能完善的编辑工具转变。 该模型支持指令微调，用户可以通过特定提示引导模型，并支持修复功能，用于填充或替换图像的局部区域。它还包含画布扩展功能，让创作者能够在原始尺寸之外扩展图像。
+《南华早报》的一篇分析探讨了中国企业如何在视频生成 AI 领域领先美国，其动力来自模型和基础设施方面的进步。文章概述了中国在这一快速发展领域建立优势的战略因素。 视频 AI 正成为中美科技竞争的关键战场，对创意产业、安防和国防都有深远影响。了解中国如何取得优势，有助于投资者、政策制定者和研究人员预判全球 AI 领导地位的变迁。 该分析聚焦于潜在扩散模型、视频 Transformer 架构以及保持帧间时间一致性等技术推动因素。这些方法使 AI 系统能够根据文本提示生成连贯、高质量的视频。
 
-aibase · AIbase · 8月28日 11:27
+google\_news · South China Morning Post · 8月29日 06:00
 
-**背景**: 指令微调是一种用于改进大型语言模型的技术，通过在带标注的指令提示和期望输出数据集上训练模型来完成。多图像参考允许模型从多个源图像中提取并组合视觉元素。图像修复是一种计算机视觉技术，用于填充图像中缺失或损坏的部分，常用于移除物体或修复旧照片。这些功能共同实现了更精确、专业级的图像编辑。
+**背景**: 视频生成 AI 利用深度学习模型，从文本、图像或运动数据中创建或编辑视频内容。潜在扩散模型将视觉数据压缩到较小的潜在空间中，从而高效生成图像；视频 Transformer 则通过处理时空 token 来理解和生成动态场景。核心挑战之一是时间一致性，即确保物体、光照和运动在连续帧之间保持稳定。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ibm.com/think/topics/instruction-tuning">What Is Instruction Tuning ? | IBM</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Inpainting">Inpainting - Wikipedia</a></li>
-<li><a href="https://www.rundiffusion.com/multi-image-prompt-guide">Multi - Image Prompt Guide: How to Target, Annotate, and Reference ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transformer_%28deep_learning%29">Transformer (deep learning) - Wikipedia</a></li>
+<li><a href="https://getstream.io/glossary/temporal-consistency/">Temporal Consistency - What is it and how does it work?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Midjourney`, `#Image Editing`, `#Generative Models`, `#Creative Tools`
+**标签**: `#AI`, `#video generation`, `#China`, `#US`, `#competition`
 
 ---
 
 <a id="item-10"></a>
-## [AI 巨头警告网络攻击将加剧 呼吁各国优先防御](https://www.aibase.com/news/30683) ⭐️ 8.0/10
+## [音乐产业争议：AI 音乐是窃取还是创新？](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5) ⭐️ 7.0/10
 
-OpenAI、Anthropic、微软、谷歌、亚马逊等 116 家机构联合发出警告，称 AI 驱动的网络攻击将在未来数月加剧，呼吁政府和企业在发布模型前将网络安全列为最高优先事项，并加速可信访问计划。 这一前所未有的跨行业共识标志着 AI 安全讨论从能力转向防御，可能促使监管机构和企业在一波预期的攻击浪潮前加强系统防护。 该警告特别呼吁加快部署可信访问计划，让安全研究人员在模型公开发布前进行测试，并强调政府和企业共同承担抵御 AI 驱动威胁的责任。
+《纽约时报》报道称，音乐行业正在激烈争论 AI 生成的音乐（能够模仿艺人的嗓音和风格）究竟算盗窃还是合法创新。随着 Google MusicLM 和语音克隆等技术日益普及，这一讨论应运而生。 这场争论可能影响版权法、授权模式以及音乐人和唱片公司的经济前景。其结论将决定 AI 公司如何利用受版权保护的音乐训练模型，以及艺术家如何获得报酬。 Google MusicLM 等 AI 音乐生成工具可以根据文字描述创作出高保真度的曲目，而语音克隆技术则能合成特定艺人的声音，引发对盗用的担忧。文章可能指出，现行版权框架并未明确涵盖 AI 生成内容，留下法律灰色地带。
 
-aibase · AIbase · 8月28日 09:27
+google\_news · The New York Times · 8月29日 12:00
 
-**背景**: AI 驱动的网络攻击利用深度伪造、多态恶意软件和自适应钓鱼等技术绕过传统防护。尽管这些攻击相当复杂，但仍有许多利用常见的弱点，如凭证管理不善，因此多因素认证和补丁更新等基本安全措施依然有效。安全团队还会开展 AI 红队测试，由授权专家模拟真实攻击，在部署前发现 AI 系统的漏洞。
+**背景**: 生成式 AI 模型（如 MusicLM）通过从现有曲目中学习模式，根据文字提示创作原创音乐。AI 语音克隆是深度伪造技术的一种应用，能从短音频样本中模仿某人的说话或唱歌声音。这些工具有实际益处，例如帮助失声患者和制作有声书，但也引发了关于未经授权使用艺术家形象与风格的伦理和法律问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://abnormal.ai/glossary/ai-enabled-cyberattacks">What Are AI - Enabled Cyberattacks ? Why They&#x27;re... | Abnormal AI</a></li>
-<li><a href="https://www.linkedin.com/pulse/why-ai-enabled-cyberattacks-signal-deeper-governance-failure-d9b8c">Why AI - Enabled Cyberattacks Signal a Deeper Governance Failure...</a></li>
-<li><a href="https://medium.com/@kalkinetra/why-ai-red-teaming-is-essential-the-non-negotiable-layer-of-safety-77631d36623b">Why AI Red Teaming is Essential: The Non-Negotiable... | Medium</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_voice_cloning">AI voice cloning</a></li>
+<li><a href="https://google-research.github.io/seanet/musiclm/musicfx/">MusicLM - GitHub Pages</a></li>
+<li><a href="https://musiclm.com/">MusicLM - AI Model for Music Generation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#cybersecurity`, `#policy`, `#tech industry`, `#risk warning`
+**标签**: `#AI`, `#music`, `#copyright`, `#ethics`, `#generative AI`
 
 ---

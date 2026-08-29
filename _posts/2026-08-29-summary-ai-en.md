@@ -1,245 +1,214 @@
 ---
 layout: default
 title: "Horizon Summary: 2026-08-29 (EN)"
-date: 2026-08-29 04:33:53 +0000
+date: 2026-08-29 23:06:43 +0000
 lang: en
 report: ai
 ---
 
-> From 292 items, 10 important content pieces were selected
+> From 241 items, 10 important content pieces were selected
 
 ---
 
-1. [Tencent Open-Sources Hunyuan Hy4 Preview: 770B Parameters, 1M Context](#item-1) ⭐️ 9.0/10
-2. [Tencent Hunyuan Open-Sources Hy4preview: 770B MoE with 1M Context](#item-2) ⭐️ 9.0/10
-3. [Rumor of a bug is enough for AI agents to find exploits, OCaml maintainer finds](#item-3) ⭐️ 8.0/10
-4. [Anthropic&\#x27;s new framework lets AI agents control hardware](#item-4) ⭐️ 8.0/10
-5. [Tencent WorkBuddy Integrates Hunyuan Hy4 Preview, Free Trial Launches](#item-5) ⭐️ 8.0/10
-6. [Tencent Open-Sources 770B-Parameter Hunyuan Hy4preview Model](#item-6) ⭐️ 8.0/10
-7. [Anthropic Launches Model Hardware Standard MHS for AI Physical Control](#item-7) ⭐️ 8.0/10
-8. [Anthropic Launches Model Hardware Standard for Physical AI](#item-8) ⭐️ 8.0/10
-9. [Midjourney V8.2 Beta Adds Image Editing with Instruction Fine-Tuning](#item-9) ⭐️ 8.0/10
-10. [116 Tech Giants Warn AI Cyber Attacks to Surge, Urge Prioritizing Defense](#item-10) ⭐️ 8.0/10
+1. [Security Flaws Found in Leading Open AI Models](#item-1) ⭐️ 8.0/10
+2. [AI&\#x27;s Turbulent Era Calls for Critical Choices Now, Gates Says](#item-2) ⭐️ 7.0/10
+3. [Synthetic Biology, AI, Automation Face Regulatory Fragmentation](#item-3) ⭐️ 7.0/10
+4. [Agentic AI Rewrites the Analytics Stack, but This Human Skill Remains Irreplaceable](#item-4) ⭐️ 7.0/10
+5. [Judge rules Pentagon actions against Anthropic illegal and baseless](#item-5) ⭐️ 7.0/10
+6. [OpenAI Urges California to Strengthen New AI Safety Law SB 1047](#item-6) ⭐️ 7.0/10
+7. [Sony, Warner Sue Anthropic Over Alleged Mass Copyright Infringement](#item-7) ⭐️ 7.0/10
+8. [MIT Study: Human Labor Still Cheaper Than AI for Most Computer Vision Tasks](#item-8) ⭐️ 7.0/10
+9. [China Builds Edge Over US in Video AI Race](#item-9) ⭐️ 7.0/10
+10. [Music Industry Debates AI-Generated Music: Theft or Innovation?](#item-10) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Tencent Open-Sources Hunyuan Hy4 Preview: 770B Parameters, 1M Context](https://www.aibase.com/news/30698) ⭐️ 9.0/10
+## [Security Flaws Found in Leading Open AI Models](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjVHSWU1OEJPOG5LdUkyRHJZZkU4dXF1UXZLc1A2R1lLRThod3JpT2w2LTZyRmVqQ19xeXczS1hCLW00djctdlZYcEp6Vm9UMzNkTVcyZlJNWDRGMy1NbGoweTNmNng1Ty04bW1BS2hqSUJhelZoU1NxTHBvVXg4Z3Q3VTNJZm9LNGNVS0dNMA?oc=5) ⭐️ 8.0/10
 
-Tencent released the Hunyuan Hy4 preview as an open-source model with 770B total parameters \(49B active\) and a 1 million-token context window, claiming top-tier performance among open-source models. It is now available on Hugging Face, GitHub, ModelScope, GitCode, and integrated with Tencent Cloud TokenHub and OpenRouter. This release pushes the frontier of open-source LLMs by combining massive scale \(770B params\) with an extremely long context window, making it competitive with proprietary models. Developers and enterprises gain access to a state-of-the-art model through multiple major platforms, potentially accelerating AI adoption in Chinese and global markets. The model uses a Mixture-of-Experts \(MoE\) architecture, activating only 49B of 770B parameters per token to save computation. According to Tencent, blind tests show Hunyuan Hy4 beats GLM-5.3 and Kimi K3 in productivity, and it is accessible via OpenAI-compatible and Anthropic-compatible endpoints on TokenHub.
+Researchers at the University of Waterloo have identified major security weaknesses in leading open AI models. The findings, announced via the university&\#x27;s news channel, raise concerns about the robustness and safe deployment of these widely adopted technologies. Open AI models are increasingly integrated into real-world applications, and these vulnerabilities could be exploited by malicious actors to bypass safety measures. This underscores the urgent need for rigorous security evaluation and hardening before such models are deployed in production environments. The announcement does not specify which models or attack methods were tested, but it highlights that even state-of-the-art open-weight models remain susceptible to adversarial inputs. The research adds to a growing body of evidence on the fragility of large language models under targeted attacks.
 
-aibase · AIbase · Aug 28, 15:27
+google\_news · University of Waterloo · Aug 29, 12:45
 
-**Background**: Mixture-of-Experts \(MoE\) models divide their parameters into specialized &\#x27;experts&\#x27; and activate only a small subset per input, allowing a large total parameter count without proportional compute costs. Context length in LLMs refers to the maximum number of tokens the model can process at once, acting like short-term memory; a 1 million-token context lets the model handle entire codebases or long documents in a single pass. Tencent Cloud TokenHub is a unified LLM gateway that provides a single API key to access multiple models, including Tencent&\#x27;s Hunyuan series.
+**Background**: Open AI models are large language models \(LLMs\) with publicly available weights, such as Llama, Mistral, Qwen, and DeepSeek, which can be self-hosted and fine-tuned. Adversarial attacks involve crafting inputs that trigger the model to produce undesired or unsafe outputs, often bypassing safety alignment. Security guides like the OWASP Top 10 for LLM applications catalog common vulnerabilities including prompt injection, data poisoning, and model theft, which threaten the safe deployment of these systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://medium.com/ramses-engineering/not-one-brain-but-many-how-mixture-of-experts-moe-makes-ai-smarter-and-faster-568f41220852">Not One Brain, But Many: How Mixture of Experts ( MoE ) Makes AI ...</a></li>
-<li><a href="https://daring-contributors-828702.framer.app/blog/ai-context-making-the-most-out-of-your-llm-context-length">Context length in LLMs: how to make the most out of it</a></li>
-<li><a href="https://litellm.vercel.app/docs/providers/tencent">Tencent TokenHub | liteLLM</a></li>
+<li><a href="https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/">Adversarial Attacks on LLMs | Lil&#x27;Log</a></li>
+<li><a href="https://aisecurityandsafety.org/en/guides/llm-security/">LLM Security: The Complete Guide to Securing Large Language ...</a></li>
+<li><a href="https://lmmarketcap.com/open-source-ai-models">Best Open Source AI Models &amp; LLM Leaderboard (2026)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#LLM`, `#open-source`, `#Tencent`, `#Hunyuan`
+**Tags**: `#AI`, `#security`, `#open-source`, `#vulnerabilities`, `#LLM`
 
 ---
 
 <a id="item-2"></a>
-## [Tencent Hunyuan Open-Sources Hy4preview: 770B MoE with 1M Context](https://www.aibase.com/news/30694) ⭐️ 9.0/10
+## [AI&\#x27;s Turbulent Era Calls for Critical Choices Now, Gates Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5) ⭐️ 7.0/10
 
-On August 28, Tencent Hunyuan released its open-source flagship model Hy4preview, featuring 770B total parameters with 49B activated and a context length of 1M tokens. The model is now available on HuggingFace, GitHub, ModelScope, Tencent Cloud TokenHub, and OpenRouter. This is a significant open-source LLM release from a major technology company, pushing the frontier of MoE scale and long-context processing. It likely accelerates both research and enterprise adoption, offering a high-capacity model that remains efficient at inference time. Hy4preview was built using expert data from fields such as software engineering, games, finance, and security. The 770B total / 49B activated parameter split indicates a sparse Mixture-of-Experts architecture, and it can be experienced through WorkBuddy/CodeBuddy, Yaobao, and IMA.
+Bill Gates published an essay on his blog gatesnotes.com titled &\#x27;The turbulent AI era is here. The choices we make now are critical.&\#x27; The post is an opinion piece rather than a technical announcement, arguing that society must make deliberate decisions about artificial intelligence today. Given Gates&\#x27; prominence in technology and global policy discussions, his commentary helps amplify public and political debate about AI governance. It reflects growing pressure on governments, companies, and civil society to establish responsible guardrails while AI capabilities continue to advance quickly. The essay was shared via Google News and does not introduce new technical details or data. Instead, it frames the current period as a pivotal moment where the choices made now will shape AI&\#x27;s long-term impact on society.
 
-aibase · AIbase · Aug 28, 15:27
+google\_news · gatesnotes.com · Aug 29, 20:35
 
-**Background**: Mixture of Experts \(MoE\) is a model architecture that divides a network into specialized sub-models, or &\#x27;experts,&\#x27; and activates only a subset of them for each token via routing. Dense models activate all parameters for every token, whereas sparse MoE models like Hy4preview keep total parameter counts large while limiting activated parameters to lower computational cost. Tencent Cloud TokenHub is a unified gateway that provides enterprises and developers with access to Tencent&\#x27;s Hunyuan series and mainstream third-party large models.
+**Background**: Bill Gates regularly publishes essays on technology, global health, and societal challenges on his personal blog gatesnotes.com. This post participates in the broader public conversation about how to govern artificial intelligence, including concerns about safety, jobs, fairness, and misuse. Gates argues that the turbulence accompanying AI&\#x27;s rise means immediate and deliberate choices are needed.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mindstudio.ai/blog/mixture-of-experts-architecture-glm-5-2-active-parameters">Mixture of Experts Architecture Explained : How GLM... | MindStudio</a></li>
-<li><a href="https://www.linkedin.com/pulse/mixture-experts-moe-ai-breakthrough-making-large-language-banafa-xk01c">Mixture of Experts ( MoE ): The AI Breakthrough Making Large ...</a></li>
-<li><a href="https://www.tencentcloud.com/products/tokenhub?lang=en&amp;pg=">LLM Service TokenHub</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#LLM`, `#Tencent Hunyuan`, `#open-source`, `#large language model`
+**Tags**: `#AI`, `#Policy`, `#Technology Ethics`, `#Commentary`
 
 ---
 
 <a id="item-3"></a>
-## [Rumor of a bug is enough for AI agents to find exploits, OCaml maintainer finds](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) ⭐️ 8.0/10
+## [Synthetic Biology, AI, Automation Face Regulatory Fragmentation](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNl8xYUNzQTdyV19YX0gxem45ZWZCdnl0QmhDQ3RKMkx5UWxuWl85TjNMcUZzeFgteGFtc1RLbUREUWlwcFRvem4zLVFkRF9Ra0dmb0Naa0c1QkdaN1g4?oc=5) ⭐️ 7.0/10
 
-Anil Madhavapeddy, a Cambridge professor and OCaml core maintainer, reports that within about ten minutes of security patches to OCaml projects being shared for discussion, his website fielded probes for percent-encoded traversal sequences, indicating automated AI agents are watching public repositories. He demonstrated that modern coding agents, including DeepSeek V4 Pro after Claude Fable refused the task, can turn a mere rumor of a bug into a working exploit. This shows that the window between vulnerability disclosure and active exploitation has collapsed from days to minutes, which is incompatible with existing open-source embargo practices. Maintainers and security teams must develop new processes for safely discussing and shipping patches, and the wider ecosystem should expect a surge in AI-driven exploit attempts and security disclosures. Nick Craig-Wood, rclone maintainer, confirms in Hacker News comments that rclone received about 20 security disclosures via GitHub in its first 10 years, but over 40 in the last month alone; roughly 75% contained something worth investigating. He also notes GitHub&\#x27;s CVE assignment time has grown from 2-3 days to 3-4 weeks, forcing point releases with &\#x27;CVE-PENDING&\#x27; in changelogs.
+This Nature article analyzes how the convergence of synthetic biology, artificial intelligence, and automation is exposing regulatory fragmentation, as existing rules were not designed for these combined technologies. It highlights governance gaps that must be addressed as autonomous biofoundries and AI-driven design-build-test-learn cycles become more common. The convergence could accelerate biomanufacturing and biodesign, but fragmented oversight creates safety, security, and innovation uncertainties for researchers, companies, and policymakers. Clearer integrated governance is needed to responsibly unlock the potential of these technologies. Regulatory fragmentation stems from overlapping or divergent rules across biosafety, data governance, and laboratory automation, with existing frameworks often treating each technology separately. The article argues that coordinated, cross-domain policy is needed to keep pace with AI-guided, automated biological engineering.
 
-rss · Simon Willison · Aug 28, 22:12
+google\_news · Nature · Aug 29, 11:11
 
-**Background**: Percent-encoding is a mechanism for encoding characters in URIs, and directory traversal attacks use sequences like ../ or encoded variants to access files outside a web server&\#x27;s root directory; probes for percent-encoded traversal sequences indicate attackers are actively checking whether a patched vulnerability is exploitable. OCaml is a general-purpose, multi-paradigm programming language used in static analysis, formal methods, and systems programming. AI coding agents have become increasingly capable of analyzing code and patch diffs to find and exploit vulnerabilities automatically.
+**Background**: Synthetic biology applies engineering principles to design and build biological systems, often using a design-build-test-learn \(DBTL\) cycle to iteratively optimize organisms. Automation facilities known as biofoundries and AI tools are speeding up each phase, from DNA design to data analysis, enabling faster and more complex engineering. The DBTL cycle is a framework commonly used in synthetic biology to systematically develop and optimize biological systems. This convergence is driving demand for updated, coordinated regulation, but oversight remains fragmented across agencies and jurisdictions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Directory_traversal_attack">Directory traversal attack - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/OCaml">OCaml - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek_%28product%29">DeepSeek (product)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7998708/">Building a biofoundry - PMC</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S187167842300002X">Automating the design-build-test-learn cycle towards next ...</a></li>
+<li><a href="https://commons-os.github.io/patterns/synthetic-biology-design-build-test-learn-cycle/">Synthetic Biology Design-Build-Test-Learn Cycle</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion features a confirmation from rclone maintainer Nick Craig-Wood, who describes a dramatic increase in security disclosures and time spent triaging, even with AI tools. The sentiment is alarmed but focused on practical implications: the embargo model is breaking, GitHub&\#x27;s CVE process is a bottleneck, and open-source maintainers need new support structures.
-
-**Tags**: `#security`, `#AI agents`, `#software supply chain`, `#OCaml`, `#exploit discovery`
+**Tags**: `#synthetic biology`, `#artificial intelligence`, `#regulation`, `#automation`, `#policy`
 
 ---
 
 <a id="item-4"></a>
-## [Anthropic&\#x27;s new framework lets AI agents control hardware](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1c5RE5HOUJ5Rlo0OXB3d0F0aVY3WFpqX29jcnAyblU1ZEs5Vy04MXpJNHNKeUprLXNOUlRpMkdPbmZkSVY1ZjVTU2pjM2J1d0VLQTc3b2lOU0dyWFZMVF93U285d1VGNE54UFdwb2wyWDZOV3JwdjdUbkJUVXIxRGNMWmtiR1g1cFZHcXN2ekJRZ0tPYlJXNHdfZzcyb085QUFwaU5sazhocVU?oc=5) ⭐️ 8.0/10
+## [Agentic AI Rewrites the Analytics Stack, but This Human Skill Remains Irreplaceable](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmVVekRVWXQxZFpvdkszV0FMZGNsb3RkYjk0b2NWWW9pRXRsUW1jSXAxR1BWUlpqaTlzaWdNRjBDc1VWdm5yYUNydTF1NWxLRFRVclBiaWxYX01kY2hhX3pXMlVkQmRpZXVwNjBxR0lTTXlTSmZOc0NMVW1CaG5jcmM1WUZNWGhlQkN5dUhGNjJkMmNxY0Q5TzhPdjkyRENuWFpzOS1zR3hvNjRVcTYtY1ZWLWRxZHM?oc=5) ⭐️ 7.0/10
 
-Anthropic has introduced a computer use framework in public beta, enabling AI agents to control computers by looking at the screen, moving a cursor, clicking buttons, and typing text. This capability is available today via the API as part of Claude 3.5 Sonnet, the first frontier AI model to offer computer use. This framework broadens AI automation beyond text and API-based tasks to any software interaction a human can perform, potentially transforming software testing, robotic process automation, and personal assistant capabilities. It also signals a trend where frontier AI models directly manipulate interfaces, increasing the practical scope of autonomous agents. The computer use tool is passed as part of the tools array in an API request, giving Claude four capabilities: screenshot analysis, cursor movement, clicking, and typing. The implementation is stateless and lacks an end-user personalization layer unless integrated into a broader agent framework, and Anthropic offers a Streamlit-based reference implementation.
+In a new Towards Data Science commentary, the author argues that agentic AI is rewriting the analytics stack by automating end-to-end data workflows. The article contends that the one skill AI still cannot touch is the human ability to frame the right questions and exercise judgment in ambiguous business contexts. As agentic AI becomes embedded in BI platforms and data pipelines, analysts will shift from building reports to supervising AI agents and validating their outputs. The human ability to provide context, define goals, and make consequential decisions will become the most scarce and valuable part of the analytics process. The article treats the analytics stack as including data collection, warehousing, transformation, and business intelligence, all of which are being reshaped by autonomous agents. It emphasizes that agentic AI still depends on clear goal-setting, and that ill-defined problems require human involvement to resolve.
 
-google\_news · Computerworld · Aug 28, 18:06
+google\_news · Towards Data Science · Aug 29, 20:16
 
-**Background**: Computer use refers to an AI model&\#x27;s ability to operate a graphical user interface like a human, by interpreting screenshots and performing keyboard and mouse actions. Traditional AI automation relies on APIs or structured data, which limits it to services that expose such interfaces. Anthropic&\#x27;s computer use framework combines Claude 3.5 Sonnet&\#x27;s vision and reasoning capabilities to enable general-purpose UI navigation, opening up legacy and desktop applications to AI control. This was announced alongside model upgrades and is currently in public beta for developers.
+**Background**: Agentic AI refers to artificial intelligence systems that can pursue goals, use software tools, and take actions with some level of autonomy, as opposed to earlier AI that only produced answers for humans to act on. An analytics stack is the integrated set of tools an organization uses to collect, store, transform, analyze, and act on its data, typically including data warehouses, transformation engines, and BI dashboards. Modern analytics stacks are increasingly adding AI agents that automate parts of this workflow, which is the trend the article explores.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/3-5-models-and-computer-use">Introducing computer use , a new Claude 3.5 Sonnet, and Claude ...</a></li>
-<li><a href="https://coda.io/@siddhant-sahu/openai-operator-deep-dive/anthropic-computer-use-21">Anthropic Computer Use · Autonomy Product Benchmarking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is agentic AI? - IBM</a></li>
+<li><a href="https://www.dimensionlabs.io/blog/analytics-stack">The Analytics Stack in 2026: Layers, Tools, Trends, and What ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Anthropic`, `#AI agents`, `#hardware control`, `#framework`, `#AI/ML`
+**Tags**: `#agentic AI`, `#analytics`, `#data science`, `#AI impact`, `#future of work`
 
 ---
 
 <a id="item-5"></a>
-## [Tencent WorkBuddy Integrates Hunyuan Hy4 Preview, Free Trial Launches](https://www.aibase.com/news/30699) ⭐️ 8.0/10
+## [Judge rules Pentagon actions against Anthropic illegal and baseless](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv?oc=5) ⭐️ 7.0/10
 
-On August 28, Tencent WorkBuddy globally integrated Hunyuan&\#x27;s open-source flagship model Hy4preview, offering a two-week free trial. The model has also been open-sourced on Hugging Face and GitHub. This marks Tencent&\#x27;s push to deploy its most advanced open-source model in a mainstream productivity assistant, intensifying the race in AI-powered office and code-generation tools. It also gives developers and enterprises access to a 770B-parameter MoE model with a 1M-token context for real productivity scenarios. Hy4preview uses a Mixture-of-Experts architecture with 770B total parameters but only 49B activated per token, and supports a 1M-token context window. The two-week free trial applies to Hy4preview, while free access to Hunyuan Hy3 has been extended to September 30.
+A federal judge has ruled that the Pentagon&\#x27;s actions against Anthropic were &\#x27;illegal and baseless,&\#x27; marking a legal setback for the U.S. Department of Defense. The ruling was reported by Federal News Network, though specific measures and remedies were not included in the available summary. The decision is significant because it checks government power in AI procurement and contracting, and may shape how defense agencies deal with AI companies. It also underscores the growing legal scrutiny around government–AI industry relationships. The available news item is a short headline with no discussion or technical depth. The specific Pentagon measures at issue, the court&\#x27;s legal reasoning, and any injunction or damages ordered were not disclosed in the provided content.
 
-aibase · AIbase · Aug 28, 16:27
+google\_news · Federal News Network · Aug 29, 05:13
 
-**Background**: Mixture-of-Experts \(MoE\) is a neural network architecture that divides a model into specialized sub-networks called experts and uses a router to activate only a small subset for each token. This technique allows massive total parameter counts while keeping computational costs manageable. Long context windows enable models to process entire documents or extended conversations at once, though performance can degrade with very long inputs. Hunyuan is Tencent&\#x27;s large language model family; open-sourcing on Hugging Face and GitHub allows broader community use and fine-tuning.
+**Background**: Anthropic is a U.S. artificial intelligence company best known for building the Claude family of large language models. The Pentagon, or U.S. Department of Defense, sometimes imposes security, contracting, or compliance measures on private firms. This ruling, which calls such measures illegal and baseless, could influence how the government evaluates AI vendors and applies regulations.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/Tencent-Hunyuan/Hy4-preview">GitHub - Tencent - Hunyuan / Hy 4 - preview · GitHub</a></li>
-<li><a href="https://huggingface.co/tencent/Hy4-preview">tencent / Hy 4 - preview · Hugging Face</a></li>
-<li><a href="https://www.aibase.com/news/30694">Tencent Hunyuan launches open-source flagship model Hy 4 preview ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Tencent`, `#Hunyuan`, `#LLM`, `#Open Source`
+**Tags**: `#AI regulation`, `#legal ruling`, `#Anthropic`, `#government contracting`, `#defense`
 
 ---
 
 <a id="item-6"></a>
-## [Tencent Open-Sources 770B-Parameter Hunyuan Hy4preview Model](https://www.aibase.com/news/30697) ⭐️ 8.0/10
+## [OpenAI Urges California to Strengthen New AI Safety Law SB 1047](https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5) ⭐️ 7.0/10
 
-Tencent released the preview version of its Hunyuan flagship model, Hy4preview, with 770B total parameters and 49B active parameters, supporting a 1M context window. It is now open-sourced and ranks among top-tier open-source models in coding, office work, and science tasks. This release strengthens Tencent&\#x27;s position in the open-source AI race and provides developers with a high-performance, cost-efficient MoE model comparable to leading proprietary systems. It could accelerate enterprise adoption of open-source LLMs, especially in productivity-focused applications like coding and office automation. The model uses a Mixture-of-Experts architecture, activating only 49B of its 770B parameters per token, which reduces inference cost while retaining large model capacity. According to the announcement, it has already been applied in multiple fields within Tencent.
+OpenAI has publicly asked California to strengthen the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act \(SB 1047\), the state&\#x27;s newly passed AI safety bill. The company is calling for broader or stricter safety requirements rather than asking for a veto or rollback. This marks a notable industry voice supporting stronger state-level AI regulation, potentially shifting the debate around AI safety and liability. Because SB 1047 would apply to any company doing business in California, the outcome could affect AI developers across the country and set a precedent for other states. SB 1047 applies to frontier models trained with more than $100 million in compute or 10^26 operations, and requires safety protocols, full shutdown capability, and whistleblower protections. The bill also creates CalCompute, a public cloud cluster at the University of California intended for startups and researchers.
 
-aibase · AIbase · Aug 28, 15:27
+google\_news · Mashable · Aug 29, 16:53
 
-**Background**: Mixture-of-Experts \(MoE\) is an architecture that divides a neural network into specialized sub-networks called experts and uses a router to activate only the most relevant ones for each token. Unlike dense models that activate all parameters, MoE models can dramatically increase total parameter count without proportionally increasing compute, making them attractive for large-scale LLMs. Active parameters determine inference speed and cost, while total parameters affect storage and memory requirements.
+**Background**: SB 1047, known as the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act, was introduced in California to mitigate catastrophic risks from very advanced AI systems. It passed the state legislature in 2024, but Governor Gavin Newsom later vetoed it, so it did not become law. The Mashable article reports on OpenAI&\#x27;s position while the legislation was under consideration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2406.18219">A Closer Look into Mixture - of - Experts in Large Language Models</a></li>
-<li><a href="https://researchaudio.io/p/mixture-of-experts-moe-in-large-language-models">Mixture of Experts (MoE) in Large Language Models</a></li>
-<li><a href="https://latenteast.com/insights/moe-total-vs-active-parameters">MoE Total vs Active Parameters , Explained | The Latent East</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</a></li>
+<li><a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB1047">Bill Text - SB-1047 Safe and Secure Innovation for Frontier Artificial Intelligence Models Act.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#LLM`, `#open-source`, `#Tencent`, `#Hunyuan`
+**Tags**: `#AI safety`, `#AI regulation`, `#OpenAI`, `#California`, `#AI policy`
 
 ---
 
 <a id="item-7"></a>
-## [Anthropic Launches Model Hardware Standard MHS for AI Physical Control](https://www.aibase.com/news/30693) ⭐️ 8.0/10
+## [Sony, Warner Sue Anthropic Over Alleged Mass Copyright Infringement](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWx4LXdRLVlvSEh2M2NGcEpuV2g4c01Ba0dBemY1MVo4YUNvVWNfWm9YSklIRzFzRlp6OGkxZ1hRakd6MHJFVG81b0xBMXUtYzRpWjR4T2ttUjJXSWZ2T0o3a1ZWc0l3YkczUFdGV3hSeFMwZklhdnJWM1N6YVU0UUxaWHNpQm5sVjl4aTlRaHUzeXdWN0JvOUxoZ0t0ck1kWERUcENncWtodFhDTUhUQTNENXNVcGNMakE?oc=5) ⭐️ 7.0/10
 
-On August 27, Anthropic opened a research preview of the Model Hardware Standard \(MHS\), a shared specification developed with HHMI Janelia Research Campus that lets AI agents safely discover and operate physical devices such as microscopes, liquid handlers, robot arms, and quantum calibration rigs. MHS bridges virtual AI capabilities and real-world hardware, offering a common driver layer that could accelerate scientific research and advanced manufacturing. It raises the stakes for AI/robotics integration and operational security, as agents that control physical machines need robust permissions and monitoring. The standard is built around a shared vocabulary between a physical device and an agent, making hardware easier to discover, understand, and coordinate. According to Anthropic, MHS enables agents to autonomously reason about experimental steps, dynamically update parameters, and recover from unexpected hardware failures without human intervention, though it is currently a preview limited to early research labs and advanced manufacturers.
+Sony and Warner have filed a lawsuit against Anthropic, the company behind the Claude AI models, alleging widespread copyright infringement in its AI training data. The lawsuit was reported by Anadolu Ajansı, though specific claims and damages have not been detailed. This lawsuit could set a significant precedent for how AI companies handle copyrighted material in training datasets, with far-reaching implications for the music industry and AI development. It is part of a growing wave of legal actions against AI firms from content creators and rights holders. The report identifies the plaintiffs as Sony and Warner, likely referring to the music divisions, but the exact companies and legal basis have not been fully disclosed. This action adds to existing copyright lawsuits against AI model makers over the use of copyrighted works in training.
 
-aibase · AIbase · Aug 28, 14:27
+google\_news · Anadolu Ajansı · Aug 29, 19:04
 
-**Background**: A model hardware standard \(MHS\) is a shared specification that defines how AI agents discover, understand, and safely operate physical devices. Anthropic developed it with HHMI Janelia Research Campus to help AI accelerate scientific research and advanced manufacturing. An &\#x27;AI agent&\#x27; is a large-model-driven system that can reason about tasks, plan actions, and operate tools or equipment autonomously. MHS provides a common &\#x27;vocabulary&\#x27; between devices and agents, so different hardware can be controlled through a unified interface.
+**Background**: Anthropic is an American AI safety and research company headquartered in San Francisco, best known for its Claude series of large language models. Claude is trained using a &\#x27;constitution&\#x27; technique designed to improve ethical and legal compliance. As AI models often rely on vast amounts of text data, including potentially copyrighted song lyrics and media, disputes over fair use and licensing have intensified across the industry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://modelhardwarestandard.com/">Model Hardware Standard</a></li>
-<li><a href="https://www.jahanzaib.ai/blog/anthropic-model-hardware-standard-ai-agents-physical-world">AI Hardware Standard : What Anthropic &#x27;s MHS Actually Ships</a></li>
-<li><a href="https://openclawlaunch.com/guides/model-hardware-standard">Model Hardware Standard (MHS) Explained: Anthropic MHS vs MCP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_%28AI%29">Claude (AI) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#hardware standard`, `#Anthropic`, `#robotics`, `#AI safety`
+**Tags**: `#AI`, `#copyright`, `#legal`, `#Anthropic`, `#music industry`
 
 ---
 
 <a id="item-8"></a>
-## [Anthropic Launches Model Hardware Standard for Physical AI](https://www.aibase.com/news/30692) ⭐️ 8.0/10
+## [MIT Study: Human Labor Still Cheaper Than AI for Most Computer Vision Tasks](https://news.google.com/rss/articles/CBMisAJBVV95cUxNRnktTWJ4X0VTSTBuSjRPNW8xUU85UVAtak5tQW54R2xFLVdnNVpJSl81b0czN3ZLcE16SkJxaGNnUFp0aEloM1h2aklpRlU2X3dFLUFINzFVSnBRQ0RoY1Z1RTZHb0w1bktZaEZEdlhnMjE5VHlKcGFaQWZ4VXc5X3Y0ODIwcGtFRkI2Qmlqa1hjSTN1MEczY29PLVkwXzJxS2N5V0ktMzgyWXdOWHNyMGxWVEM5Q0haM0ZVdGhISWpZUXN1WVlJMm1XUDY2TDhKMUU1d0FValYtVmVFajVjTksyWmN1VExSZ1haWnNZSmF1anZySFRsZ2xfYTdEYlgxcURkdy1BNE5wXzE0VERkRDB6ZTd3TDYxZnplSzlGQXBnYUhnWERTOG9iRWNVV0R4?oc=5) ⭐️ 7.0/10
 
-On August 27, Anthropic introduced the Model Hardware Standard \(MHS\) as a research preview, a shared specification for AI agents to safely operate physical devices. This marks Anthropic&\#x27;s first public move into embodied AI, unifying control and communication for applications like robotics and autonomous vehicles. This extends Anthropic&\#x27;s interoperability approach from software \(MCP\) to physical hardware, potentially influencing how AI systems interact with the physical world. If adopted, MHS could become a common protocol for robotics and autonomous systems, lowering integration barriers across the industry. MHS is initially offered to scientific research labs and advanced manufacturers, with built-in safety checks and human approval for high-risk decisions. It is similar in spirit to the Model Context Protocol but targets physical devices rather than data and software tools.
+MIT researchers analyzed the costs of automating computer vision tasks and found that human labor is still cheaper than AI in most cases when full system costs are counted. The study provides a framework for determining when automation actually becomes cost-effective. This finding challenges the widespread assumption that AI automation will soon replace human workers in many jobs. It highlights that businesses must weigh total cost of ownership, not just technical capability, when deciding whether to adopt AI. The research focuses on computer vision tasks such as image classification and object detection, which are technically automatable. Cost factors include model development, data labeling, hardware, software maintenance, and human oversight.
 
-aibase · AIbase · Aug 28, 14:27
+google\_news · ScienceBlog.com · Aug 29, 20:34
 
-**Background**: Embodied AI refers to the integration of artificial intelligence into physical systems such as robots and autonomous vehicles, enabling them to perceive and act in the real world. Anthropic previously developed the Model Context Protocol \(MCP\) to standardize how AI models connect to data and tools; MHS applies a similar unified orchestration approach to hardware. The research preview gives AI agents a &\#x27;body&\#x27; to operate physical devices, with safeguards to maintain human oversight.
+**Background**: Computer vision is a field of AI that enables machines to interpret and process visual information, often using deep learning models. While these models can match or exceed human performance on specific tasks, deploying them in real-world settings involves significant upfront and ongoing expenses. This MIT study offers a systematic way to compare the true costs of AI versus human labor in practice.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">Previewing the Model Hardware Standard \ Anthropic</a></li>
-<li><a href="https://dev.to/alifar/anthropic-mhs-brings-ai-agents-to-biotech-labs-and-quantum-hardware-57h6">Anthropic MHS Brings AI Agents to Biotech Labs... - DEV Community</a></li>
-<li><a href="https://www.nvidia.com/en-us/glossary/embodied-ai/">What is Embodied AI ? | NVIDIA Glossary</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Anthropic`, `#hardware standard`, `#embodied AI`, `#robotics`, `#AI infrastructure`
+**Tags**: `#AI`, `#computer vision`, `#automation`, `#economics`, `#MIT`
 
 ---
 
 <a id="item-9"></a>
-## [Midjourney V8.2 Beta Adds Image Editing with Instruction Fine-Tuning](https://www.aibase.com/news/30690) ⭐️ 8.0/10
+## [China Builds Edge Over US in Video AI Race](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVRGZjQyT0RlaTNkYWE3cHRhZGlyR2d3ZlpubFVDTVlFSGRiNDl0TjItQzVZWjZjbXFyOXBpMmtGNE43WU1hUVNIenFhcm11SGJIX1B3c3pTeFJObGpTMGF5UFU2c3ozS0liVDFIOVlZMEpsUkdJOHJfT25Gekp0UXFZemZrMWxkOW1OMk81bHhEa3gyMi1nZ2xlRS1Za2NSMElCQ2Z2a2drRDNEd0JkanB0N1dCMk1hQ2xRRjNEMnBZRmNkeWfSAcYBQVVfeXFMT21URmY0Mk9EZWkzZGFhN3B0YWRpckdnd2ZabmxVQ01ZRUhkYjQ5dE4yLUM1WVo2Y21xcjlwaTJrRjRON1lNYVFTSHpxYXJtdUhiSF9Qd3N6U3hSTmxqUzBheVBVNnN6M0tJYlQxSDlZWTBKbFJHSThyX09uRnpKdFFxWXpmazFsZDltTjJPNWx4RGt4MjItZ2dsZUUtWWtjUjBJQkNmdmtna0QzRHdCZGpwdDdXQjJNYUNsUUYzRDJwWUZjZHln?oc=5) ⭐️ 7.0/10
 
-Midjourney has released the V8.2 beta, its first image editing model that moves beyond text-only generation. The update adds instruction fine-tuning, multi-image reference, and inpainting capabilities for more precise and controllable visual creation. This update is significant because Midjourney is one of the most widely used AI image generation tools, and adding editing capabilities expands its utility for professional creators. It reflects a broader industry move toward more interactive and controllable generative models rather than one-shot generation. The V8.2 beta is described as a &\#x27;beta test&\#x27; of the first V8.2 image editing model, integrating instruction fine-tuning, multi-image reference, and inpainting. These features allow users to edit existing images, reference multiple images for style or content, and fill in or replace specific regions.
+The South China Morning Post article analyzes how China is gaining a competitive edge over the United States in video artificial intelligence. It highlights strategic advances by Chinese companies and researchers in AI-driven video generation and processing. Video AI is central to next-generation content creation, surveillance, and autonomous systems, making the China-US competition in this field a key battleground for technological leadership. The outcome could shape global standards and influence which country dominates the future AI economy. Specific details about the strategies or technologies mentioned in the article are not available from the given snippet. The full analysis may require accessing the original article for concrete model names, policies, or market data.
 
-aibase · AIbase · Aug 28, 11:27
+google\_news · South China Morning Post · Aug 29, 06:00
 
-**Background**: Instruction fine-tuning is a method used to adapt pre-trained models to follow specific instructions, often turning a base model into a chat-style assistant. Image inpainting is a technique that fills in missing or damaged parts of an image, and is commonly used in photo editing and restoration. Multi-image reference allows a model to take multiple images as input, enabling it to blend styles, subjects, or elements from different sources. Midjourney&\#x27;s new editing model combines these techniques to bring professional-grade editing into a generative AI tool.
+**Background**: Video AI refers to artificial intelligence systems that can generate, edit, and understand video content, with applications in entertainment, advertising, and security. China and the United States have both invested heavily in AI, but China benefits from vast amounts of data, strong government backing, and a large pool of engineering talent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Image_inpainting">Image inpainting</a></li>
-<li><a href="https://hackernoon.com/100-days-of-ai-day-13-how-instruction-finetuning-improves-a-pre-trained-llm?ref=hackernoon.com">100 Days of AI , Day 13: How Instruction Finetuning ... | HackerNoon</a></li>
-<li><a href="https://magichour.ai/tools/multi-reference-image-generator">Multi - Reference Image Generator - Free Online | Magic Hour</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transformer_%28deep_learning%29">Transformer (deep learning) - Wikipedia</a></li>
+<li><a href="https://getstream.io/glossary/temporal-consistency/">Temporal Consistency - What is it and how does it work?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Midjourney`, `#Image Editing`, `#Generative Models`, `#Creative Tools`
+**Tags**: `#AI`, `#video generation`, `#China`, `#US`, `#competition`
 
 ---
 
 <a id="item-10"></a>
-## [116 Tech Giants Warn AI Cyber Attacks to Surge, Urge Prioritizing Defense](https://www.aibase.com/news/30683) ⭐️ 8.0/10
+## [Music Industry Debates AI-Generated Music: Theft or Innovation?](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5) ⭐️ 7.0/10
 
-A coalition of 116 leading AI and technology entities, including OpenAI, Anthropic, Microsoft, Google, and Amazon, issued a collective warning that AI-enabled cyber attacks will intensify in the coming months. They urged governments and companies to prioritize cybersecurity defenses and accelerate trusted access programs before model releases. This rare industry-wide consensus from leading AI and tech companies signals a systemic shift in the threat landscape, where AI lowers the barrier for sophisticated cyber attacks. It could pressure policymakers to mandate pre-release security reviews and accelerate defensive AI deployments across critical infrastructure. The warning specifically calls for strengthening defenses and speeding up trusted access programs, which give vetted security researchers early access to capable AI models for defensive work. Notably, OpenAI already runs a Trusted Access for Cyber program with Microsoft, and the signatories stress that traditional measures like multi-factor authentication and patching remain highly effective.
+The New York Times reports that the music industry is debating whether AI-generated music constitutes theft or innovation. This highlights growing tensions around generative AI in creative fields. This debate affects artists, record labels, AI developers, and copyright law. The outcome could shape how AI is used in music and other creative industries. The article frames the issue as a clash between creativity and technological disruption. It likely discusses examples of AI-generated songs using artists&\#x27; voices or styles without permission, raising legal and ethical questions.
 
-aibase · AIbase · Aug 28, 09:27
+google\_news · The New York Times · Aug 29, 12:00
 
-**Background**: AI-enabled cyber attacks use techniques like deepfakes, polymorphic malware, and adaptive phishing to bypass traditional defenses. A trusted access program is a framework where AI developers grant vetted security researchers early access to capable models, so they can identify vulnerabilities and build defenses before public release. Despite the sophistication of AI-driven intrusions, most attacks still exploit familiar weaknesses such as weak credentials and unpatched systems.
+**Background**: Generative AI tools can create realistic music and vocals by learning from large datasets of existing songs. This raises copyright concerns because AI may replicate artists&\#x27; distinctive styles, and existing laws were not designed for machine-made content. The music industry has yet to reach a consensus on how to handle such works.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://logicity.in/en/blog/openai-launches-trusted-access-program-for-microsoft-cyber-defense">OpenAI Launches Trusted Access Program for Microsoft... | Logicity</a></li>
-<li><a href="https://abnormal.ai/glossary/ai-enabled-cyberattacks">What Are AI - Enabled Cyberattacks ? Why They&#x27;re... | Abnormal AI</a></li>
-<li><a href="https://www.linkedin.com/pulse/why-ai-enabled-cyberattacks-signal-deeper-governance-failure-d9b8c">Why AI - Enabled Cyberattacks Signal a Deeper Governance Failure...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_voice_cloning">AI voice cloning</a></li>
+<li><a href="https://google-research.github.io/seanet/musiclm/musicfx/">MusicLM - GitHub Pages</a></li>
+<li><a href="https://musiclm.com/">MusicLM - AI Model for Music Generation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#cybersecurity`, `#policy`, `#tech industry`, `#risk warning`
+**Tags**: `#AI`, `#music`, `#copyright`, `#ethics`, `#generative AI`
 
 ---

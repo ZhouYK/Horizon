@@ -1,331 +1,381 @@
 ---
 layout: default
 title: "Horizon Summary: 2026-08-29 (EN)"
-date: 2026-08-29 04:33:53 +0000
+date: 2026-08-29 23:06:43 +0000
 lang: en
 report: stock
 ---
 
-> From 292 items, 20 important content pieces were selected
+> From 241 items, 20 important content pieces were selected
 
 ---
 
-1. [BYD Electronic&\#x27;s H1 net profit plunges 75.4% to 426 million yuan](#item-1) ⭐️ 9.0/10
-2. [BYD H1 2026 Revenue and Profit Decline, Exports Surge Nearly 70%](#item-2) ⭐️ 9.0/10
-3. [BYD H1 Revenue Hits ¥344.82B but Net Profit Drops 20.5%](#item-3) ⭐️ 9.0/10
-4. [Trump says US to control 65bn barrels of Venezuelan oil](#item-4) ⭐️ 9.0/10
-5. [Warsh signals possible rate hikes, says inflation trend not improved enough](#item-5) ⭐️ 9.0/10
-6. [BYD H1 Revenue Hits 344.8B Yuan; Overseas Revenue Share Exceeds 52%](#item-6) ⭐️ 8.0/10
-7. [BYD H1 New Energy Vehicle Exports Rise Nearly 70% YoY](#item-7) ⭐️ 8.0/10
-8. [BYD&\#x27;s H1 Revenue, Net Profit, and R&amp;D Spending All Decline](#item-8) ⭐️ 8.0/10
-9. [Mindray H1 Net Profit Falls 5.37% Despite 6% Revenue Growth](#item-9) ⭐️ 8.0/10
-10. [BYD H1 2026 Net Profit Falls 20.5% to 12.3B Yuan](#item-10) ⭐️ 8.0/10
-11. [BYD H1 Net Profit Falls 20.5% as Overseas Revenue Hits 53% Share](#item-11) ⭐️ 8.0/10
-12. [Markets Favor Kevin Warsh&\#x27;s Conventional Central Banking Stance](#item-12) ⭐️ 8.0/10
-13. [Aberdeen fund takes £200mn hit as UK altnet Airband fails](#item-13) ⭐️ 8.0/10
-14. [Mindray Posts H1 2026 Profit of ¥4.80B, Proposes Dividend](#item-14) ⭐️ 7.0/10
-15. [Mindray Medical H1 2026 Net Profit Drops 5.37%](#item-15) ⭐️ 7.0/10
-16. [BYD H1 Revenue Hits 344.8B Yuan, Overseas Sales Surge 68%, Battery Capacity in Focus](#item-16) ⭐️ 7.0/10
-17. [BYD H1 Profit Slips, Q2 Doubles Sequentially, Exports Jump 68%](#item-17) ⭐️ 7.0/10
-18. [Mindray Medical H1 net profit drops 5.4% to 4.8B yuan despite revenue rise](#item-18) ⭐️ 7.0/10
-19. [Mindray Medical H1 Revenue Hits RMB 17.75B, Net Profit RMB 4.797B](#item-19) ⭐️ 7.0/10
-20. [Mindray Medical H1 Net Profit Falls 5.37% YoY to 4.797B Yuan](#item-20) ⭐️ 7.0/10
+1. [BYD 2026 Interim Net Profit Drops 20.54% Amid Large Receivables](#item-1) ⭐️ 9.0/10
+2. [BYD First-Half Net Profit Falls 20.5% to 12.33 Billion Yuan](#item-2) ⭐️ 9.0/10
+3. [BYD H1 2026 Net Profit and High-End Brand Share Double Sequentially](#item-3) ⭐️ 9.0/10
+4. [BYD Electronic H1 FY2026 Profit Plunges 75.35% to 426M Yuan](#item-4) ⭐️ 9.0/10
+5. [Trump Says U.S. Will Take Control of 65bn Barrels of Venezuelan Oil](#item-5) ⭐️ 9.0/10
+6. [SEC Sues Justin Sun for Unregistered Crypto Sales and Market Manipulation](#item-6) ⭐️ 9.0/10
+7. [Changxin Tech H1 Revenue Surges 873.6%, Net Profit Turns Positive](#item-7) ⭐️ 9.0/10
+8. [BYD H1 Revenue Hits 344.8B Yuan, Overseas Share Exceeds 52%](#item-8) ⭐️ 8.0/10
+9. [Mindray Medical H1 2026 Profit 4.797B Yuan, Proposes Dividend](#item-9) ⭐️ 8.0/10
+10. [Sunac&\#x27;s Cash Dips Below 10B Yuan, 117.18B Yuan Borrowings Overdue](#item-10) ⭐️ 8.0/10
+11. [Country Garden H1 2026 Loss Narrows to 15.6B Yuan as Sales Keep Falling](#item-11) ⭐️ 8.0/10
+12. [Mindray Medical H1 2026 Net Profit Hits 4.797B Yuan, Proposes Dividend](#item-12) ⭐️ 7.0/10
+13. [BYD H1 Revenue Dips 7.13% But Overseas Sales Surge 68%](#item-13) ⭐️ 7.0/10
+14. [Mindray Medical Q2 2026 Revenue and Profit Rise, Cash Flow Up 44%](#item-14) ⭐️ 7.0/10
+15. [Is the 60-40 Portfolio Dead? Inflation Breaks Bond Hedge](#item-15) ⭐️ 7.0/10
+16. [Glencore faces $1.4bn lawsuit threat from trader Radiant](#item-16) ⭐️ 7.0/10
+17. [China Signals Readiness to Roll Out Pragmatic Incremental Policies](#item-17) ⭐️ 7.0/10
+18. [Mindray H1 Net Profit Falls 5.37% Despite Revenue Growth](#item-18) ⭐️ 7.0/10
+19. [Swiss wealth managers urge delay to beneficial ownership register after Liechtenstein hack](#item-19) ⭐️ 6.0/10
+20. [Financial Repression Risk Rises as Forced US Bond Purchases Gain Traction](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [BYD Electronic&\#x27;s H1 net profit plunges 75.4% to 426 million yuan](http://finance.eastmoney.com/a/202608283858351145.html) ⭐️ 9.0/10
+## [BYD 2026 Interim Net Profit Drops 20.54% Amid Large Receivables](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dGtWRHhsanpXdXRHcUs5QTlaNlRLVnpsOUVGcmFXeUxmbW4zaDF3S2RlVjFtYm1Fc3BKeHRRZV9Nem9rMlp0OFoxRnVZbEgzMHJPRS1pdm9HdGtqNDZLVA?oc=5) ⭐️ 9.0/10
 
-BYD Electronic released its 2026 interim results on August 28, reporting a 75.4% year-on-year drop in net profit attributable to shareholders to 426 million yuan. This came despite a modest 2.0% increase in revenue to 82.234 billion yuan. The sharp profit decline represents a major earnings miss, far worse than market expectations, and is likely to weigh heavily on BYD Electronic&\#x27;s stock price. It signals deteriorating profitability even as revenue stagnates, which may raise concerns about margin pressure in the company&\#x27;s core businesses. Gross profit fell 27.2% year-on-year to 4.037 billion yuan, while basic and diluted earnings per share dropped to 0.19 yuan from 0.77 yuan in the same period last year. The figures indicate severe margin compression despite slight revenue growth.
+BYD released its 2026 interim report, showing a 20.54% year-over-year decline in net profit. The company also reported a substantial amount of accounts receivable, raising concerns about its financial health. This earnings miss for a leading Chinese EV maker could weigh on investor sentiment and pressure BYD&\#x27;s stock price. It may also signal broader challenges in the highly competitive EV market, where pricing wars and rising costs are squeezing margins. The interim report for the first half of 2026, as analyzed by 证券之星, highlights that net profit fell 20.54% year-over-year. Accounts receivable remain sizable, which may point to cash flow pressures or slower payment collections from customers.
 
-rss · 东方财富/比亚迪 · Aug 28, 10:05
+google\_news · 证券之星 · Aug 29, 22:24
 
-**Background**: BYD Electronic is a Hong Kong-listed subsidiary of the BYD Group, mainly engaged in manufacturing components and intelligent products for smart devices. Investors closely watch its earnings as a gauge of the consumer electronics supply chain and BYD&\#x27;s broader technology ambitions.
+**Background**: BYD is one of the world&\#x27;s largest new-energy vehicle manufacturers. An interim report summarizes a company&\#x27;s financial performance for the first half of its fiscal year. A decline in net profit with large accounts receivable can indicate weaker profitability and potential liquidity risks, especially when compared against rising revenue or industry expectations.
 
-**Tags**: `#earnings`, `#BYD`, `#technology`, `#profit warning`
+**Tags**: `#earnings`, `#BYD`, `#China`, `#auto`, `#financials`
 
 ---
 
 <a id="item-2"></a>
-## [BYD H1 2026 Revenue and Profit Decline, Exports Surge Nearly 70%](http://finance.eastmoney.com/a/202608283858800757.html) ⭐️ 9.0/10
+## [BYD First-Half Net Profit Falls 20.5% to 12.33 Billion Yuan](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XLWw4QzU4WFdTa3VqcFFuWk91UFJIbUFKblBmUFpSQ1N6RnF2b2hpZUxuSy1IaWpnUURjVGk3QmNpV3NTS29vd190c0Q3SUlxYk9QeGZ1RDlGUmI1ZHlXUQ?oc=5) ⭐️ 9.0/10
 
-In H1 2026, BYD&\#x27;s revenue fell 7.13% year-on-year to ¥344.815 billion, and net profit attributable to shareholders dropped 20.54% to ¥12.32 billion. Exports surged nearly 70%, and CEO Wang Chuanfu said this year&\#x27;s sales volume will depend on battery production capacity. As one of the world&\#x27;s largest EV manufacturers, BYD&\#x27;s earnings miss signals margin pressure amid fierce competition in the Chinese EV market. The export surge highlights BYD&\#x27;s aggressive overseas expansion, while the battery capacity constraint underscores a key production bottleneck that could affect its global sales strategy. The semi-annual report was released on August 28, 2026, covering the first half of the year. The 7.13% revenue decline and 20.54% profit drop represent a significant earnings miss, even as export growth remains strong, indicating differing performance between domestic and overseas markets.
+BYD reported a first-half net profit of 12.33 billion yuan, a year-over-year decline of 20.54%. The figures were reported by financial outlet East Money. The profit decline is significant because BYD is a bellwether for China&\#x27;s new-energy vehicle industry, and weaker profitability could weigh on market sentiment toward BYD and the broader EV sector. Investors may reconsider expectations for the sector amid intense competition. The report covers the first half of the year, but the summary does not disclose total revenue or vehicle delivery numbers. The decline suggests margin pressure, likely reflecting price competition and rising costs in the EV market.
 
-rss · 东方财富/002594 · Aug 28, 15:11
+google\_news · 东方财富 · Aug 29, 05:47
 
-**Background**: BYD is a leading Chinese company in electric vehicles, batteries, and semiconductor products. Its semi-annual report is a closely watched indicator of China&\#x27;s EV industry health. CEO Wang Chuanfu&\#x27;s comment about sales depending on battery production suggests that battery supply capacity is a strategic priority, influencing vehicle output and potential external battery sales.
+**Background**: BYD is one of the world&\#x27;s largest electric vehicle manufacturers and a major player in China&\#x27;s new-energy vehicle market. Its earnings are closely watched as an indicator of industry health. A year-over-year profit drop, even while sales remain strong, points to intensifying competition and price wars in China&\#x27;s auto market.
 
-**Tags**: `#earnings`, `#BYD`, `#electric vehicles`, `#exports`, `#China`
+**Tags**: `#earnings`, `#BYD`, `#China`, `#automotive`
 
 ---
 
 <a id="item-3"></a>
-## [BYD H1 Revenue Hits ¥344.82B but Net Profit Drops 20.5%](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVVTYnVkQUNDV2VDWUE5SUt2My1keUZmV21iN0ZQcFRfRm1YcUREMlhSZXpYQkxLOHV2LUt6YmVZWTlLRUxLaFZqQ0V0VFlwU2tvLWRpdHEzYUdnZW52cDlXUlgzU0dGcWlrT2JtMmJ0aGlKdERBV3ljNjIwZmZYaUlOQm5oanZPSExjNG5paDZobW1CQ1BTS0hRck1mS2VmM2d4VWpyMGJBWjN4a3ZBOWg2QUdxTWFBNWVpWG92NEZ2eWFvcnVuSjJHcFhSbWtNNldZODNmRTIxcl90?oc=5) ⭐️ 9.0/10
+## [BYD H1 2026 Net Profit and High-End Brand Share Double Sequentially](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGJqakdkYTBGa05SRjE2VUtSU3pGSmFVekJHbHQ3UXQyZzBRdmJKYm9QVmVLem1PXzdQWnVEczN2cG1pRXI0RUJaV094dnRkd2FZVldMMG9OSlUxZVN4WUJqX2JYdkNQSmNqbWZrMnNvWGc5ZWY1M0xZaW1HcmhhNg?oc=5) ⭐️ 9.0/10
 
-BYD reported first-half revenue of 344.82 billion yuan, while net profit declined 20.5% year-over-year, marking a significant earnings miss. This earnings miss could weigh on BYD&\#x27;s stock price and affect sentiment across China&\#x27;s EV sector, as BYD is a bellwether for the industry. It also highlights intensifying price competition and margin pressure among Chinese automakers. The net profit decline of 20.5% exceeded the 10% threshold often seen as a major miss. The report suggests that despite strong revenue growth, profitability is being squeezed, likely due to pricing strategies and rising costs.
+BYD released its first-half 2026 financial report, showing net profit and high-end brand share both doubled quarter-over-quarter. This significant earnings beat signals that BYD&\#x27;s premium brand strategy is gaining traction, which could boost investor confidence and pressure competitors in China&\#x27;s EV market. According to the headline, both net profit and the share of sales from premium sub-brands doubled compared to the previous quarter; the summary does not include absolute figures such as revenue or vehicle deliveries.
 
-google\_news · 新浪网 · Aug 28, 15:31
+google\_news · 新浪网 · Aug 29, 11:56
 
-**Background**: BYD is one of the world&\#x27;s largest new energy vehicle manufacturers, based in China. The company&\#x27;s half-year report is closely watched as an indicator of the health of the Chinese EV market. In recent years, the industry has faced intense price competition and demand fluctuations.
+**Background**: BYD is a leading Chinese electric vehicle manufacturer that sells cars under its main BYD brand as well as premium and niche sub-brands including Denza, Yangwang, and Fangchengbao, plus the commercial-oriented Linghui brand. The &\#x27;high-end brand share&\#x27; refers to the proportion of total vehicle sales coming from these premium sub-brands, which is a key indicator of BYD&\#x27;s move upmarket.
 
-**Tags**: `#earnings`, `#BYD`, `#automotive`, `#China`, `#EV`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fangchengbao">Fangchengbao - Wikipedia</a></li>
+<li><a href="https://www.gizguide.com/2025/09/byd-crash-course-2025-history-sub-brands-technologies.html">BYD 2025 guide—History, tech,brands, and top models</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#earnings`, `#BYD`, `#EV`, `#China`, `#growth`
 
 ---
 
 <a id="item-4"></a>
-## [Trump says US to control 65bn barrels of Venezuelan oil](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1) ⭐️ 9.0/10
+## [BYD Electronic H1 FY2026 Profit Plunges 75.35% to 426M Yuan](https://news.google.com/rss/articles/CBMifkFVX3lxTE1wNlBRemgtbEtub3VKOWZzVzdKdUhHRjMzRW45VjItZ044cXI5X3JuTV83WGI1dkhWQzd5M3lsbnZPX0RqMm9VczdTMFdReDdWUjZ1bmhmQlVCb1g1ZkRLMFFQcnNhdzl2UGE3aGtTQ0p0SUNWcVVHVk9pZWRJZw?oc=5) ⭐️ 9.0/10
 
-President Trump announced that the United States will take control of 65 billion barrels of Venezuelan oil through a joint venture, saying it will lower petrol prices for Americans. This marks a major geopolitical shift that could reshape global oil supply and energy prices, and it may open new investment opportunities for American oil companies while altering US-Venezuela relations. The statement refers to a joint venture between the two countries, but offers no specifics on its legal basis, implementation timeline, or how control would be exercised. The claim that it will lower US petrol prices remains unsubstantiated.
+BYD Electronic reported a net profit of 426 million yuan attributable to shareholders for the first half of fiscal year 2026, a year-on-year decline of 75.35%. This represents a major earnings collapse compared to the same period last year. The steep profit decline signals weakening demand or severe margin pressure in the electronics manufacturing services sector, likely triggering a sharp selloff in BYD Electronic&\#x27;s stock. As a major contract manufacturer for global tech brands, this could also dampen sector sentiment across the broader supply chain. The net profit attributable to shareholders was exactly 426 million yuan, a 75.35% year-on-year drop. The report covers the six-month period ending in mid-fiscal-year 2026, but specific revenue figures or one-off charges were not disclosed in the headline summary.
 
-rss · FT Markets · Aug 29, 00:36
+google\_news · 新浪网 · Aug 29, 10:11
 
-**Background**: Venezuela holds the world&\#x27;s largest proven oil reserves, yet its oil industry has collapsed under years of mismanagement and US sanctions. The US has previously imposed sanctions on Venezuela&\#x27;s state-owned oil company PDVSA, and a joint venture would represent a significant policy reversal.
+**Background**: BYD Electronic is the listed electronics manufacturing arm of BYD Group, specializing in components and assembly services for smartphones and other consumer electronics. In financial reporting, &\#x27;归母净利润&\#x27; refers to net profit attributable to shareholders of the parent company, a key metric for profitability. A half-year report \(半年报\) typically covers the first six months of the company&\#x27;s fiscal year, and &\#x27;同比下降&\#x27; means a year-on-year comparison with the same period in the prior year.
 
-**Tags**: `#oil`, `#policy`, `#geopolitics`, `#energy`, `#markets`
+**Tags**: `#earnings`, `#BYD Electronic`, `#electronics manufacturing`, `#profit warning`, `#China`
 
 ---
 
 <a id="item-5"></a>
-## [Warsh signals possible rate hikes, says inflation trend not improved enough](https://international.caixin.com/2026-08-29/102479519.html) ⭐️ 9.0/10
+## [Trump Says U.S. Will Take Control of 65bn Barrels of Venezuelan Oil](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1) ⭐️ 9.0/10
 
-At the Jackson Hole symposium on August 28, Fed Chair Kevin Warsh delivered a more hawkish signal, saying US financial conditions are not restrictive enough and that the Fed may need to raise rates if inflation progress stalls. He acknowledged summer inflation readings beat expectations but said the underlying trend had not significantly improved. This marks a potential shift in Fed policy stance within Warsh&\#x27;s first 100 days, moving from an easing bias toward possible tightening. It has direct implications for global markets, borrowing costs, and central bank policy expectations, as investors must now price in a potential rate hike rather than cuts. Warsh specifically said he finds it difficult to describe overall financial conditions as restrictive, despite some stress in housing and agriculture, and noted that credit markets show little evidence of policy restraint at current rate levels. He emphasized that elevated inflation remains the Fed&\#x27;s key concern.
+President Trump announced that the United States will take control of 65 billion barrels of Venezuelan oil through a joint venture. The administration says this arrangement will lower petrol prices for American consumers. This marks a major geopolitical shift in U.S. energy policy and its approach to Venezuela. If realized, it could significantly increase global oil supply and lower gasoline prices, while reshaping relations between the two countries. The plan is described as a joint venture between the U.S. and Venezuela, according to the Financial Times. The announcement does not specify the mechanics of the deal, legal hurdles, or how existing U.S. sanctions on Venezuelan oil would be affected.
 
-rss · 财新网 · Aug 29, 02:57
+rss · FT Markets · Aug 29, 14:20
 
-**Background**: Jackson Hole is the Federal Reserve&\#x27;s annual economic symposium, often used as a platform to signal major policy shifts. Warsh, who took office roughly 100 days ago, is confronting inflation that remains above the Fed&\#x27;s 2% target. Central bankers must balance inflation against financial conditions; if conditions remain loose, rate hikes may be necessary to cool demand.
+**Background**: Venezuela holds some of the world&\#x27;s largest proven oil reserves, but its production has fallen sharply due to economic mismanagement and U.S. sanctions. A joint venture could allow that oil to flow to international markets, which would help lower prices. However, such a deal would require significant investment and political approval from both governments.
 
-**Tags**: `#central-bank`, `#policy`, `#inflation`, `#rates`, `#fed`
+**Tags**: `#oil`, `#geopolitics`, `#policy`, `#energy`, `#Venezuela`
 
 ---
 
 <a id="item-6"></a>
-## [BYD H1 Revenue Hits 344.8B Yuan; Overseas Revenue Share Exceeds 52%](http://finance.eastmoney.com/a/202608293859103667.html) ⭐️ 8.0/10
+## [SEC Sues Justin Sun for Unregistered Crypto Sales and Market Manipulation](https://mini.caixin.com/2023-03-23/102011332.html) ⭐️ 9.0/10
 
-BYD reported first-half revenue of 344.8 billion yuan, with overseas revenue accounting for over 52% of the total. Overseas new-energy vehicle sales reached 790,000 units, up 68% year over year. The results show BYD&\#x27;s international expansion is accelerating, with overseas sales outpacing domestic growth and now covering more than 120 countries and regions. The rising share of premium brands \(Denza, Yangwang, Fangchengbao\) indicates a successful push into higher-margin segments, which matters for investors tracking China&\#x27;s EV leaders. The premium trio — Denza, Yangwang and Fangchengbao — delivered a combined 228,000 vehicles in H1, up 61% year over year, lifting their share of total BYD sales to 12.6%. Total new-energy vehicle sales reached 1.81 million units during the period.
+On March 22, 2023, the U.S. Securities and Exchange Commission \(SEC\) sued Justin Sun and his companies for offering and selling unregistered crypto asset securities Tronix \(TRX\) and BitTorrent \(BTT\). The SEC also alleges Sun fraudulently manipulated the secondary market for TRX through wash trading and secretly paid celebrity influencers to promote these tokens. This is a major regulatory enforcement action against a prominent crypto entrepreneur that underscores the SEC&\#x27;s aggressive stance on treating crypto assets as securities. It could set a precedent for token regulation and affect the broader crypto market and celebrity endorsement practices. The SEC alleges Sun used wash trading to create the false appearance of active trading in TRX, and that he paid celebrities with millions of Twitter followers without disclosing the payments. Additionally, the complaint notes that Sun is believed to have acquired Huobi Global, one of the major exchanges, after the alleged manipulation period in 2022.
 
-rss · 东方财富/比亚迪 · Aug 29, 00:17
+rss · 财新网 · Aug 29, 15:11
 
-**Background**: BYD is China&\#x27;s largest new-energy-vehicle maker and has expanded from mass-market Dynasty/Ocean models into premium segments. Denza \(a fully owned premium brand\), Yangwang \(ultra-luxury with the e4 platform\), and Fangchengbao \(off-road-oriented\) target different buyers. The company&\#x27;s global push now spans 120+ countries, and overseas revenue has become a major growth driver.
+**Background**: Wash trading is a form of market manipulation where a trader creates artificially high trading volume by simultaneously buying and selling the same asset. TRX \(Tronix\) is the native token of the Tron blockchain, originally issued as an ERC-20 token on Ethereum. Under U.S. federal securities laws, a digital asset may qualify as a security if it meets the definition, and the SEC has increasingly applied this framework to crypto tokens.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://chejiahao.m.autohome.com.cn/info/13831009?from=m">一文看懂 比 亚 迪 5大 品 牌 车型矩阵_车家号_汽车之家</a></li>
-<li><a href="https://www.baike.com/wikiid/7172820852752586020">仰 望 -快懂百科</a></li>
-<li><a href="https://k.sina.com.cn/article_7857141524_1d4527714019029day.html">k.sina.com.cn/article_7857141524_1d4527714019029day.html</a></li>
+<li><a href="https://www.niceactimize.com/glossary/wash-trading">Introduction to Wash Trading - NICE Actimize</a></li>
+<li><a href="https://www.coindesk.com/price/tron">TRON price today, TRX to USD live price, marketcap and... | CoinDesk</a></li>
+<li><a href="https://www.sec.gov/resources-small-businesses/capital-raising-building-blocks/crypto-assets-federal-securities-laws">Crypto Assets and the Federal Securities Laws - SEC.gov</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#earnings`, `#automotive`, `#EV`, `#global expansion`, `#premium brands`
+**Tags**: `#crypto`, `#regulation`, `#SEC`, `#market manipulation`
 
 ---
 
 <a id="item-7"></a>
-## [BYD H1 New Energy Vehicle Exports Rise Nearly 70% YoY](http://finance.eastmoney.com/a/202608283858842395.html) ⭐️ 8.0/10
+## [Changxin Tech H1 Revenue Surges 873.6%, Net Profit Turns Positive](https://www.caixin.com/2026-08-29/102479752.html) ⭐️ 9.0/10
 
-BYD released its 2026 semi-annual report on August 28, showing revenue of 344.815 billion yuan \(3448.15亿元\) and net profit attributable to shareholders of 12.325 billion yuan \(123.25亿元\). New energy vehicle exports surged nearly 70% year-on-year in the first half. The near-70% export growth signals BYD&\#x27;s accelerating global expansion and rising international demand for its electric vehicles. This could pressure traditional automakers and boost China&\#x27;s position in the global EV export market. The semi-annual report also showed operating cash flow of 37.335 billion yuan \(373.35亿元\), up 17.28% year-on-year. The export volume figure comes from the news headline, indicating record international sales during the period.
+On August 28, 2026, Changxin Technology \(688825.SH\) published its first earnings report since listing, with H1 revenue of 150.31 billion yuan, up 873.6% year-on-year. Its net profit attributable to shareholders excluding non-recurring items reached 78.79 billion yuan, swinging from a 2.39 billion yuan loss in the prior-year period and exceeding both the company&\#x27;s own forecast and Morgan Stanley&\#x27;s estimate. The first-half results are far above the company&\#x27;s guidance in its May prospectus \(revenue of 110-120 billion yuan and net profit of 52-58 billion yuan\) and above Morgan Stanley&\#x27;s forecasts \(revenue of 136 billion yuan and net profit of 65 billion yuan\). As the only memory IDM in China and the most valuable A-share company, Changxin&\#x27;s performance could significantly affect the semiconductor storage sector and the wider A-share market. The company&\#x27;s global DRAM market share is expected to rise to 11%-12% in the next two to three years. The actual non-GAAP net profit exceeded the upper bound of its own guidance by roughly 20.8 billion yuan and Morgan Stanley&\#x27;s estimate by roughly 13.8 billion yuan.
 
-rss · 东方财富/比亚迪 · Aug 28, 15:48
+rss · 财新网 · Aug 29, 15:11
 
-**Background**: BYD is a leading Chinese manufacturer of new energy vehicles \(NEVs\), which include battery electric and plug-in hybrid cars. China&\#x27;s NEV market is highly competitive, so exports have become a key growth strategy for BYD and other Chinese automakers. Strong export growth suggests improving global brand recognition and cost competitiveness.
-
-**Tags**: `#earnings`, `#automotive`, `#EV`, `#exports`, `#China`
-
----
-
-<a id="item-8"></a>
-## [BYD&\#x27;s H1 Revenue, Net Profit, and R&amp;D Spending All Decline](http://finance.eastmoney.com/a/202608283858767755.html) ⭐️ 8.0/10
-
-In the first half of the year, BYD&\#x27;s revenue, net profit, and R&amp;D investment all declined. Its cumulative new energy vehicle \(NEV\) sales fell 15.72% year-on-year to 1.8085 million units. This marks a significant deterioration for the world&\#x27;s largest NEV maker, which could hurt investor sentiment and signal broader headwinds in China&\#x27;s electric-vehicle market. Eight consecutive months of declining sales highlight intensifying competition and softening demand. Monthly NEV sales declined year-on-year for eight straight months starting in September 2025, only turning positive in May. BYD&\#x27;s first-half NEV sales totaled 1.8085 million units, down 15.72% from a year earlier.
-
-rss · 东方财富/比亚迪 · Aug 28, 14:34
-
-**Background**: BYD is a leading Chinese automaker focused on new energy vehicles, including battery-electric and plug-in hybrid cars. It has benefited in recent years from strong domestic NEV demand and its vertically integrated battery supply chain, but the Chinese auto market now faces intense price competition and moderating growth. Declines in revenue, profit, and R&amp;D spending together suggest that the company may be tightening its belt amid the slowdown.
-
-**Tags**: `#earnings`, `#autos`, `#China`, `#sales`
-
----
-
-<a id="item-9"></a>
-## [Mindray H1 Net Profit Falls 5.37% Despite 6% Revenue Growth](http://finance.eastmoney.com/a/202608283858379650.html) ⭐️ 8.0/10
-
-Mindray Medical released its half-year report on August 28, reporting operating revenue of 17.747 billion yuan, up 6.00% year-on-year, while net profit attributable to shareholders fell 5.37% to 4.797 billion yuan. The profit miss could weigh on Mindray&\#x27;s stock and signal broader margin pressure in China&\#x27;s medical device sector. As a bellwether company in the industry, its disappointing earnings may prompt investors to reassess expectations for domestic medical device makers. Revenue reached 17.747 billion yuan in the first half, up 6.00% year-on-year. After deducting non-recurring gains and losses, net profit was 4.785 billion yuan, down 3.32%, and basic earnings per share stood at 3.96 yuan.
-
-rss · 东方财富/迈瑞医疗 · Aug 28, 10:30
-
-**Background**: Mindray Medical is a leading Chinese medical device maker, producing patient monitors, in-vitro diagnostic instruments, and imaging equipment for hospitals globally. Its semi-annual results are closely watched as a barometer of the domestic medical device industry&\#x27;s health and pricing environment.
-
-**Tags**: `#earnings`, `#medical devices`, `#China A-share`, `#financial results`, `#profit decline`
-
----
-
-<a id="item-10"></a>
-## [BYD H1 2026 Net Profit Falls 20.5% to 12.3B Yuan](http://finance.eastmoney.com/a/202608283858834861.html) ⭐️ 8.0/10
-
-BYD reported H1 2026 revenue of 344.8 billion yuan, down 7.13% year-on-year, and net profit attributable to shareholders of 12.3 billion yuan, down 20.54% year-on-year. The results, released on August 28, represent a notable earnings miss for the major automaker. As one of China&\#x27;s largest electric vehicle manufacturers, BYD&\#x27;s significant earnings decline may pressure its stock price and reflect broader headwinds in the auto industry, including price competition and slowing demand. Investors and industry watchers will likely use this report to gauge the health of China&\#x27;s EV market. The net profit margin declined to roughly 3.6% from about 4.2% a year earlier, indicating compressed profitability amid an ongoing EV price war in China. The report covers the six months ended June 30, 2026, with both revenue and profit showing year-on-year declines.
-
-rss · 东方财富/002594 · Aug 28, 15:33
-
-**Background**: BYD is a leading Chinese automaker specializing in electric vehicles and plug-in hybrids. The half-year report \(H1\) summarizes financial performance for the first six months of the fiscal year and is closely watched by investors as a barometer of the electric vehicle industry in China.
-
-**Tags**: `#earnings`, `#autos`, `#China`, `#BYD`
-
----
-
-<a id="item-11"></a>
-## [BYD H1 Net Profit Falls 20.5% as Overseas Revenue Hits 53% Share](http://finance.eastmoney.com/a/202608283858661296.html) ⭐️ 8.0/10
-
-BYD reported first-half 2026 revenue of 344.815 billion yuan, down 7.13% year over year, and net profit of 12.325 billion yuan, down 20.54%. Overseas markets contributed 53% of total revenue during the period. The sharp profit decline for China&\#x27;s largest EV maker underscores intense domestic price competition and weak demand. The 53% overseas revenue share highlights rapid global expansion, but it has not yet offset the pressures at home. Net profit attributable to shareholders fell to 12.325 billion yuan from 15.481 billion yuan a year earlier. The company also reported net profit excluding non-recurring items, but the exact figure was not fully shown in the provided snippet.
-
-rss · 东方财富/002594 · Aug 28, 12:49
-
-**Background**: BYD Co., Ltd. is a Chinese automaker specializing in electric vehicles and batteries, listed on both the Shenzhen Stock Exchange \(002594.SZ\) and the Hong Kong Stock Exchange \(01211.HK\). In recent years, BYD has aggressively expanded overseas to counter slowing growth and price wars in the domestic new-energy-vehicle market. The H1 2026 results reflect these challenges, with profitability under pressure even as international sales rise to over half of total revenue.
-
-**Tags**: `#earnings`, `#BYD`, `#EV`, `#autos`, `#financial results`
-
----
-
-<a id="item-12"></a>
-## [Markets Favor Kevin Warsh&\#x27;s Conventional Central Banking Stance](https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker) ⭐️ 8.0/10
-
-The Economist&\#x27;s August 2026 article reports that Kevin Warsh appears to be adopting a more conventional central banking approach. Financial markets have responded favorably to this shift. Central bank policy direction heavily influences financial markets and the broader economy. A move toward a conventional stance could signal more predictable monetary policy, affecting investors, businesses, and consumers. The article title emphasizes that Warsh is &\#x27;trying&\#x27; to be a normal central banker, suggesting his previous approach was seen as unconventional. The one-line summary confirms that markets like what they see, even though specific policy details are not provided.
-
-rss · The Economist Finance · Aug 28, 17:02
-
-**Background**: Central bankers typically manage monetary policy, including setting interest rates and controlling inflation, with a focus on stability and predictability. Kevin Warsh is a former Federal Reserve governor who has long been a prominent figure in economic policy circles, often associated with unconventional or market-friendly views. His recent shift toward a more conventional approach may reassure investors who prefer familiar policy frameworks.
-
-**Tags**: `#central-bank`, `#monetary-policy`, `#markets`, `#policy`
-
----
-
-<a id="item-13"></a>
-## [Aberdeen fund takes £200mn hit as UK altnet Airband fails](https://www.ft.com/content/d3eead8b-7b38-45bd-8fba-489d02a3e440?syn-25a6b1a6=1) ⭐️ 8.0/10
-
-Aberdeen&\#x27;s fund has taken a £200mn loss after UK altnet broadband provider Airband failed and was sold to a Macquarie-backed rival. The sale marks another casualty in the UK&\#x27;s highly leveraged alternative network sector. This loss underscores mounting distress among UK altnets, which built fibre networks with heavy debt but face brutal competition from incumbents like Openreach and Virgin Media O2. Investors in the sector are bracing for further write-downs and consolidation. Airband was sold to a Macquarie-backed rival after failing as an independent business, and Aberdeen&\#x27;s exposure totalled £200mn. The deal is the latest sign of overbuilding in the UK fibre market, where the average home may have access to nearly three fibre connections by 2027.
-
-rss · FT Markets · Aug 28, 14:09
-
-**Background**: Altnets, or alternative network providers, are smaller UK broadband companies that build full-fibre networks, often targeting areas underserved by national providers. The sector attracted billions in investment but has suffered from overbuilding, high debt costs, and strong competition, prompting a wave of failures and takeovers.
+**Background**: DRAM \(Dynamic Random Access Memory\) is a type of volatile memory that stores each bit of data in a capacitor within an integrated circuit, requiring periodic refreshing to retain data. An IDM \(Integrated Device Manufacturer\) is a semiconductor company that designs, manufactures, and sells its own chips, in contrast to fabless companies and pure-play foundries. Changxin Technology is described as China&\#x27;s only memory IDM, making DRAM products used in computers, mobile devices, and AI servers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://stlpartners.com/articles/data-centres/telecoms-ma-deep-dive-into-uk-fibre-network/">Telecoms M&amp;A: A deep dive into the UK ’s fibre network - STL Partners</a></li>
-<li><a href="https://www.concentrix.com/insights/blog/altnets-are-hitting-our-streets-but-are-they-here-to-stay/">Altnets Are Hitting Our Streets, but Are They Here to Stay? - Concentrix</a></li>
-<li><a href="https://www.conntac.net/en/blog/altnets-wachstum-und-unbekanntheit/">Altnets in the UK: wanted, but unknown | Blog | Conntac</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/705460064">不懂DRAM？别急，看完这篇，你也是内存专家！ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/DRAM%EF%BC%88%E5%8A%A8%E6%80%81%E9%9A%8F%E6%9C%BA%E5%AD%98%E5%8F%96%E5%86%85%E5%AD%98%EF%BC%89/15233507">DRAM（动态随机存取内存）_百度百科</a></li>
+<li><a href="https://m.elecfans.com/article/1256415.html">半 导 体 行业 IDM 与Foundry的未来发展趋势-电子发烧友网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#distressed`, `#telecom`, `#UK`, `#investment loss`, `#M&amp;A`
+**Tags**: `#earnings`, `#semiconductor`, `#memory`, `#A-share`, `#turnaround`
 
 ---
 
-<a id="item-14"></a>
-## [Mindray Posts H1 2026 Profit of ¥4.80B, Proposes Dividend](http://finance.eastmoney.com/a/202608293859188075.html) ⭐️ 7.0/10
+<a id="item-8"></a>
+## [BYD H1 Revenue Hits 344.8B Yuan, Overseas Share Exceeds 52%](http://finance.eastmoney.com/a/202608293859103667.html) ⭐️ 8.0/10
 
-Mindray Medical reported H1 2026 net profit attributable to shareholders of 4.797 billion yuan and proposed a cash dividend of 13.3 yuan per 10 shares. The announcement was made on August 29, 2026. The earnings and dividend proposal reflect Mindray&\#x27;s stable profitability and commitment to shareholder returns, reinforcing its position as a leading Chinese medical device company. It also highlights the company&\#x27;s progress toward its goal of ranking among the global top 10 medical device firms. The dividend translates to 13.3 yuan per 10 shares, a common notation in China&\#x27;s A-share market. Mindray attributes its performance to a multi-engine growth model combining stable traditional business, overseas market expansion, emerging business lines, and technology R&amp;D.
+BYD reported H1 revenue of 344.8 billion yuan, with overseas revenue accounting for more than 52% of the total. Overseas new energy vehicle sales reached 790,000 units, up 68% year over year. The figures underscore BYD&\#x27;s accelerating global expansion and strong operational performance. Overseas revenue now exceeding half of total revenue signals that BYD is becoming a truly global automaker, which is significant for investors and the EV industry. Premium brands—Fangchengbao, Denza, and Yangwang—sold a combined 228,000 vehicles in H1, up 61% year over year, lifting their share of total sales to 12.6%. BYD&\#x27;s NEV products now cover more than 120 countries and regions.
 
-rss · 东方财富/迈瑞医疗 · Aug 29, 03:36
+rss · 东方财富/比亚迪 · Aug 29, 00:17
 
-**Background**: Mindray Medical is one of China&\#x27;s largest medical device manufacturers, known for patient monitoring, life support, and in-vitro diagnostics. The &\#x27;10派13.3元&\#x27; notation is a standard Chinese dividend format meaning 13.3 yuan per 10 shares held. Such earnings and dividend disclosures are closely watched by investors as indicators of corporate health and capital allocation.
+**Background**: BYD&\#x27;s passenger vehicle business operates through multiple brands: Dynasty and Ocean target the mainstream market, while Denza, Yangwang, and Fangchengbao are positioned as premium brands with different price points and customer groups. The company has been aggressively expanding overseas, establishing local production and sales networks in Southeast Asia, Europe, Latin America, and other regions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://chejiahao.m.autohome.com.cn/info/13831009">一文看懂 比 亚 迪 5大 品 牌 车型矩阵_车家号_汽车之家</a></li>
+<li><a href="https://post.smzdm.com/p/ax638063/">方 程 豹 、 腾 势 、 仰 望 ： 比 亚 迪 高端 品 牌 销量亮眼_新能源车_什么值得买</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#earnings`, `#BYD`, `#EV`, `#overseas expansion`, `#revenue`
+
+---
+
+<a id="item-9"></a>
+## [Mindray Medical H1 2026 Profit 4.797B Yuan, Proposes Dividend](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5haEpVcGZCN1ZiYlM0WFRlX2pMWnNBVm4zVjAwTmVxSkNRLVR6Sk1pQ210a0VBQzVZQ3BYbm9temE3NC1rRG40ZG9DQ2JnQi1ZZVJHVndnMWd2akdVaXFVWQ?oc=5) ⭐️ 8.0/10
+
+Mindray Medical announced H1 2026 revenue of 17.747 billion yuan and net profit attributable to shareholders of 4.797 billion yuan, and proposed an interim dividend of 13.3 yuan per 10 shares \(pre-tax\). This shows Mindray delivered stable profitability and maintained a high shareholder payout ratio of 65.19% for 2026, reinforcing its appeal to income-focused investors in China&\#x27;s medical device sector. The &\#x27;10派13.3元&\#x27; plan means 13.3 yuan cash dividend per 10 shares, totaling about 1.612 billion yuan. Combined with a March interim dividend, cumulative 2026 dividends reach 3.127 billion yuan.
+
+google\_news · 东方财富 · Aug 29, 09:47
+
+**Background**: In Chinese earnings reports, 归母净利润 \(net profit attributable to shareholders of parent company\) excludes minority interests and is the most-watched bottom-line figure. The proposed dividend, written as &\#x27;10派13.3元&\#x27;, is a common Chinese convention meaning 13.3 yuan per 10 shares. Many Chinese companies announce interim dividends during the August earnings season to reward shareholders, and payout ratios are closely tracked by investors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnstock.com/commonDetail/780060">迈瑞医疗：上半年营收增至177.47亿元 拟10派13.3元</a></li>
+<li><a href="https://xueqiu.com/8353550788/407228856">迈瑞医疗2026年上半年实现归母净利润47.97亿元 拟10派13.3元</a></li>
+<li><a href="https://wap.stockstar.com/detail/IG2026082900025625">最高10派13.3元！多家龙头公司，拟高分红！-证券之星</a></li>
+
+</ul>
+</details>
 
 **Tags**: `#earnings`, `#dividend`, `#medical devices`, `#China`
 
 ---
 
+<a id="item-10"></a>
+## [Sunac&\#x27;s Cash Dips Below 10B Yuan, 117.18B Yuan Borrowings Overdue](https://www.caixin.com/2026-08-29/102479805.html) ⭐️ 8.0/10
+
+On August 28, 2026, Sunac China released its interim results, reporting total cash of 9.78 billion yuan as of June 30, including 4.22 billion yuan in cash and cash equivalents and 5.56 billion yuan in restricted cash. The company also disclosed 117.18 billion yuan of overdue borrowing principal as of the report&\#x27;s approval date. This highlights that one of China&\#x27;s largest developers remains in severe liquidity distress even after completing domestic and offshore debt restructuring. The shortfall affects creditors, homebuyers, and distressed-debt investors, and underscores ongoing pressure across the Chinese real estate sector. The company&\#x27;s current borrowings stood at approximately 148.44 billion yuan at the end of June. The overdue amount is measured as of the half-year report&\#x27;s approval date, and restricted cash included in total cash is not readily available for general use.
+
+rss · 财新网 · Aug 29, 23:00
+
+**Background**: Sunac China, founded in 2003 and listed in Hong Kong in 2010, was a top-tier Chinese property developer ranked in the top three by full-caliber sales in 2021. After the property market entered a deep downturn, it began facing liquidity pressure in the second half of 2021, defaulted on debt in 2022, and subsequently pursued debt restructuring. In financial reporting, restricted cash is set aside for specific purposes and is generally excluded from liquidity ratios, while current borrowings refer to short-term obligations due within one year. Full-caliber sales is a real estate metric that includes contracted sales from projects where the developer has a stake, not just those it consolidates.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://corporatefinanceinstitute.com/resources/accounting/restricted-cash/">Restricted Cash - Definiton, Reasons, Example Restricted Cash: What Is It, Calculation &amp; Importance Restricted cash definition — AccountingTools 4.3 Cash, cash equivalents, and restricted cash - Viewpoint Restricted Cash | Accounting Definition + Examples Restricted Cash - What Is It, Examples, Accounting</a></li>
+<li><a href="https://www.investing.com/academy/analysis/restricted-cash-definition/">Restricted Cash: What Is It, Calculation &amp; Importance</a></li>
+<li><a href="https://www.tellerreport.com/business/2022-01-07-institutional-prediction--the-average-annual-sales-scale-of-the-property-market-may-return-to-the-level-five-years-ago.SylOYeQBhY.html">Institutional prediction: the average annual sales scale ... - Teller Report</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#real estate`, `#debt`, `#liquidity`, `#China`, `#distressed`
+
+---
+
+<a id="item-11"></a>
+## [Country Garden H1 2026 Loss Narrows to 15.6B Yuan as Sales Keep Falling](https://www.caixin.com/2026-08-29/102479776.html) ⭐️ 8.0/10
+
+In H1 2026, Country Garden reported revenue of 44.081 billion yuan, down 39.3% year-on-year, and a net loss attributable to shareholders of 15.616 billion yuan, narrowing about 18.1% from a year earlier. Contract liabilities have fallen more than 80% from the end of 2021, reflecting a sharp contraction in presales. As one of China&\#x27;s largest property developers, Country Garden&\#x27;s persistent large losses and plunging sales show how deep and prolonged the sector&\#x27;s downturn remains. The results will be closely watched by creditors, homebuyers, and regulators during the company&\#x27;s debt-restructuring and recovery phase. H1 2026 equity contracted sales fell 14.9% year-on-year, following a decline in full-year sales from 558 billion yuan in 2021 to about 33 billion yuan in 2025. The company calls 2026 its &\#x27;most critical year&\#x27; for shifting from housing delivery to normal operations; its offshore debt restructuring took effect in late December 2025 and plans for nine onshore bonds have been approved.
+
+rss · 财新网 · Aug 29, 15:12
+
+**Background**: Country Garden is a major Chinese property developer that grew rapidly during the country&\#x27;s housing boom. Since 2021, the sector has been hit by regulatory curbs on developer leverage and a sharp drop in home sales, forcing many companies into liquidity crises and debt restructuring. Contract liabilities represent prepayments from buyers for homes not yet delivered, so their sharp decline signals a much smaller future revenue pipeline. Debt restructuring involves negotiating new repayment terms with creditors to avoid insolvency.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/L0SCN1TJ0519QIKK.html">碧桂园上半年 权 益 合 同 销 售 额 142.5亿元 销 售 面积183万平米_网易订阅</a></li>
+<li><a href="https://m.kuaiji.com/cjkjzc/2626152824.html">合 同 负 债 是 指 什 么 ？ 如何做账？ 一文详细解答！ -会计网</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/7935425109/1d8fcfa5502001gr28">南京高科：二季度 权 益 合 同 销 售 额 5.1亿元， 同 比增长10.99%</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#earnings`, `#China real estate`, `#debt restructuring`, `#losses`, `#macro`
+
+---
+
+<a id="item-12"></a>
+## [Mindray Medical H1 2026 Net Profit Hits 4.797B Yuan, Proposes Dividend](http://finance.eastmoney.com/a/202608293859188075.html) ⭐️ 7.0/10
+
+Mindray Medical reported a net profit attributable to shareholders of 4.797 billion yuan for the first half of 2026, and proposed a cash dividend of 13.3 yuan per 10 shares. This earnings release underscores Mindray&\#x27;s continued profitability as a blue-chip medical device leader, and the dividend proposal signals confidence in its cash flow. The results matter to A-share investors tracking the company&\#x27;s progress toward becoming one of the top ten global medical device firms. The company said it has formed a multi-engine growth pattern combining stable traditional business, overseas expansion, emerging tracks, and R&amp;D empowerment. No comparison to market consensus was provided in the announcement.
+
+rss · 东方财富/迈瑞医疗 · Aug 29, 03:36
+
+**Background**: Mindray Medical is a major Chinese medical device maker listed on the Shenzhen Stock Exchange, known for patient monitoring, in-vitro diagnostics, and imaging products. The company has been working to expand globally and aims to enter the world&\#x27;s top ten medical device companies. Its interim results reflect both domestic leadership and growing overseas revenue.
+
+**Tags**: `#earnings`, `#dividend`, `#medical devices`, `#A-share market`
+
+---
+
+<a id="item-13"></a>
+## [BYD H1 Revenue Dips 7.13% But Overseas Sales Surge 68%](http://finance.eastmoney.com/a/202608293859181213.html) ⭐️ 7.0/10
+
+BYD released its 2026 semi-annual report on August 28, reporting revenue of 344.82 billion yuan, down 7.13% year-on-year, and net profit attributable to shareholders of 12.33 billion yuan. The report also highlighted a 68% year-on-year surge in overseas sales, with the company planning to focus on battery production capacity in the second half. This earnings disclosure offers a key snapshot of BYD&\#x27;s financial health amid intense price competition in China&\#x27;s EV market. The 68% overseas sales growth signals that BYD&\#x27;s global expansion is accelerating, which could reshape competitive dynamics in international electric vehicle markets. The 7.13% revenue decline suggests domestic market headwinds, while the 12.33 billion yuan profit indicates maintained profitability. Management&\#x27;s stated focus on battery capacity for the second half points to supply-chain priorities, though specific capacity targets were not disclosed in the provided summary.
+
+rss · 东方财富/002594 · Aug 29, 03:35
+
+**Background**: BYD \(002594.SZ\) is one of the world&\#x27;s largest electric vehicle manufacturers. A semi-annual report, or 半年报, is a mandatory financial disclosure for Chinese listed companies, covering the first six months of the fiscal year. Overseas sales growth is a notable bright spot for BYD amid heavy domestic price competition.
+
+**Tags**: `#earnings`, `#BYD`, `#automotive`, `#overseas growth`
+
+---
+
+<a id="item-14"></a>
+## [Mindray Medical Q2 2026 Revenue and Profit Rise, Cash Flow Up 44%](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VVUdTVkxOV2FUNGQ3TWZnQjVyaXkxZGQ1UmlWQWVzZ1BKR0pPZGZyZENsQ3ZlOS1KUVJXNVlYRnRSN3JnZ0ZKM3ZqQU9XRmlOVmg4M1F6U3NIeC1PU2JIYw?oc=5) ⭐️ 7.0/10
+
+Mindray Medical reported its Q2 2026 financial results, showing simultaneous growth in both revenue and net profit. Operating cash flow net amount also surged 44% year-over-year. This result signals strong operational health and earnings quality for one of China&\#x27;s largest medical device makers. The significant cash flow expansion may reassure investors about the company&\#x27;s ability to fund R&amp;D, expand production, or return capital to shareholders. The report specifically highlights a 44% year-over-year increase in operating cash flow net amount, while exact revenue and profit figures are not disclosed in the summary. The news is sourced from East Money, a major Chinese financial information platform.
+
+google\_news · 东方财富 · Aug 29, 04:48
+
+**Background**: Mindray Medical is a leading Chinese medical device company known for patient monitoring, life support, in-vitro diagnostics, and medical imaging products. Its quarterly results are closely watched as a barometer for China&\#x27;s healthcare equipment industry.
+
+**Tags**: `#earnings`, `#healthcare`, `#cash flow`, `#China`, `#sector`
+
+---
+
 <a id="item-15"></a>
-## [Mindray Medical H1 2026 Net Profit Drops 5.37%](http://finance.eastmoney.com/a/202608283858397511.html) ⭐️ 7.0/10
+## [Is the 60-40 Portfolio Dead? Inflation Breaks Bond Hedge](https://www.ft.com/content/59955452-1de0-40f0-a8d1-62139d502484?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-Mindray Medical released its 2026 semi-annual report showing revenue of 17.747 billion yuan, up 6% year-on-year, while net profit attributable to shareholders fell 5.37% to 4.797 billion yuan. The company also declared a cash dividend of 13.30 yuan per 10 shares. This earnings release is significant for the medical device sector and A-share investors as it highlights margin pressure despite revenue growth. The declared dividend may attract income-focused investors, while the profit decline could raise questions about the company&\#x27;s cost structure and competitive dynamics. The company is Mindray Medical \(300760.SZ\), a major medical device manufacturer. Revenue grew 6% to 17.747 billion yuan, but net profit dropped 5.37% to 4.797 billion yuan, indicating compression in profit margins. The proposed cash dividend is subject to tax.
+The Financial Times article argues that under inflation, the classic 60% stock / 40% bond portfolio loses its diversification benefit because bonds no longer hedge equity risk. This challenges a core assumption of traditional asset allocation. The 60-40 portfolio underpins many retirement funds and institutional portfolios, so if its diversification breaks down, investors may need to rethink rebalancing, seek alternative hedges, and adjust return expectations. This debate could influence capital flows across equities, bonds, and alternative assets. The article specifically identifies inflation as the culprit: when inflation is high, central banks raise rates, causing stocks and bonds to fall together, so the negative correlation that normally cushions the portfolio disappears. The summary does not include specific data or backtest figures.
 
-rss · 东方财富/迈瑞医疗 · Aug 28, 10:26
+rss · FT Markets · Aug 29, 09:30
 
-**Background**: Mindray Medical \(300760.SZ\) is one of China&\#x27;s largest medical device manufacturers, listed on the Shenzhen Stock Exchange, and produces patient monitoring, imaging, and in-vitro diagnostics equipment. For mature medical device firms, rising R&amp;D and sales expenses can offset revenue growth, leading to profit declines despite stable top-line performance.
+**Background**: The 60-40 portfolio is a traditional investment strategy that allocates 60% to stocks for growth and 40% to bonds for income and stability. In normal times, bonds generally rise when stocks fall, reducing overall volatility. Inflation breaks this relationship because rising prices prompt central banks to raise interest rates, pushing bond prices down at the same time as equities suffer. This has fueled renewed debate about the strategy&\#x27;s viability, especially after 2022, when both stocks and bonds posted steep losses.
 
-**Tags**: `#earnings`, `#medical devices`, `#dividend`, `#A-share`, `#performance`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bis.org/publ/qtrpdf/r_qt2312v.htm">The correlation of equity and bond returns</a></li>
+<li><a href="https://privatebank.barclays.com/insights/market-perspectives-march-2025-03-2025/where-next-for-the-equity-bond-correlation/">Where next for the equity-bond correlation? | Barclays ...</a></li>
+<li><a href="https://www.vanguard.co.uk/professional/vanguard-365/investment-knowledge/portfolio-construction/understanding-stock-bond-correlations">Understanding the dynamics of stock/bond correlations - Vanguard</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macro`, `#portfolio strategy`, `#inflation`, `#asset allocation`, `#fixed income`
 
 ---
 
 <a id="item-16"></a>
-## [BYD H1 Revenue Hits 344.8B Yuan, Overseas Sales Surge 68%, Battery Capacity in Focus](http://finance.eastmoney.com/a/202608293859181213.html) ⭐️ 7.0/10
+## [Glencore faces $1.4bn lawsuit threat from trader Radiant](https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-BYD released its 2026 semi-annual report on August 28, showing revenue of 344.815 billion yuan, down 7.13% year-on-year, and net profit attributable to shareholders of 12.325 billion yuan. Despite the overall decline, overseas sales surged 68%, and the company plans to prioritize battery capacity expansion in the second half. This matters because BYD is a bellwether for China&\#x27;s new-energy vehicle and battery supply chains, so its financial results and capacity plans signal industry trends in electrification and global expansion. The 68% surge in overseas sales suggests Chinese EV makers are rapidly gaining international market share despite domestic pricing pressure. The report was published on the evening of August 28, 2026, by BYD Co., Ltd. \(002594.SZ\). The company&\#x27;s headline revenue contracted while overseas demand grew sharply, and management explicitly identified battery capacity as the key focus for the second half of the year.
+Glencore is threatened with a $1.4bn lawsuit by Radiant, a Singapore-based iron ore trader currently battling a liquidity squeeze. This legal action adds a significant financial risk to Glencore&\#x27;s operations. A $1.4bn lawsuit could increase financial and reputational pressure on Glencore, one of the world&\#x27;s largest commodity traders, and may negatively affect its stock. It also highlights the legal and credit risks inherent in commodity trading, especially when counterparties face liquidity problems. The specific grounds of the dispute are not detailed in the available information, but the claim arises amid Radiant&\#x27;s ongoing liquidity squeeze. The $1.4bn amount represents a substantial claim that could have material consequences if it proceeds to court.
 
-rss · 东方财富/002594 · Aug 29, 03:35
+rss · FT Markets · Aug 29, 04:00
 
-**Background**: BYD is one of the world&\#x27;s largest new-energy vehicle and battery manufacturers, and its semi-annual report is closely watched by investors and industry analysts. In recent years, it has aggressively expanded overseas while also building vertical integration across EV production, including battery manufacturing capacity. The 2026 report reflects a challenging domestic pricing environment, with revenue down year over year even as global sales momentum remains strong.
+**Background**: Commodity traders like Glencore operate in high-value, high-risk markets, frequently entering into large supply contracts and hedging positions. When a counterparty such as Radiant faces financial distress, disputes can escalate into lawsuits, as seen with this threatened $1.4bn claim.
 
-**Discussion**: No community comments were provided for this news item.
-
-**Tags**: `#财报`, `#新能源汽车`, `#海外业务`, `#电池产能`
+**Tags**: `#litigation`, `#commodities`, `#Glencore`, `#legal-risk`
 
 ---
 
 <a id="item-17"></a>
-## [BYD H1 Profit Slips, Q2 Doubles Sequentially, Exports Jump 68%](http://finance.eastmoney.com/a/202608283858766222.html) ⭐️ 7.0/10
+## [China Signals Readiness to Roll Out Pragmatic Incremental Policies](https://weekly.caixin.com/2026-08-29/102479572.html) ⭐️ 7.0/10
 
-On August 28 after market close, BYD released its 2026 semi-annual report. Revenue reached 344.815 billion yuan and net profit 12.325 billion yuan, both down year over year, while Q2 net profit doubled quarter over quarter and exports rose 68% to 792,000 vehicles. The report signals that BYD is facing year-over-year margin pressure but is staging a sharp sequential recovery, driven by strong overseas sales. This is a key earnings update for investors tracking China&\#x27;s EV champion and the global shift to electric vehicles. The company&\#x27;s share price stood at 92.32 yuan, giving a market capitalization of 841.7 billion yuan. Non-GAAP net profit was 12.373 billion yuan, slightly above reported net profit, indicating modest non-recurring losses.
+In late August 2026, People&\#x27;s Daily published four articles under the pen name &quot;Zhong Caiwen&quot; interpreting the Politburo&\#x27;s deployment for H2 economic work, explicitly calling for timely introduction of pragmatic and effective incremental policies. The commentary cites H1 GDP growth of 4.7% and a strong 18.7% rise in industrial profits. This signals that Chinese official media and the Politburo are preparing further stimulus measures, which could strengthen market expectations for China-focused assets. The emphasis on incremental policies suggests policymakers are committed to meeting annual economic targets and supporting high-quality development. The fourth article, titled &quot;Promoting High-Quality Development Steadily and Far-Reachingly,&quot; calls for strengthening counter-cyclical adjustment, fully leveraging existing policies, and planning incremental policies. Supporting data include 4.7% GDP growth, 18.7% growth in industrial profits above designated size, 4.7% growth in general public budget revenue, and generally stable prices, employment, and international payments.
 
-rss · 东方财富/002594 · Aug 28, 14:35
+rss · 财新网 · Aug 29, 22:55
 
-**Background**: BYD is a major Chinese manufacturer of electric vehicles, batteries, and related components. Its semi-annual report covers January through June, and the decline in profit compared with the same period last year likely reflects intense domestic price competition, while the sequential doubling in Q2 suggests improving cost control and demand, with exports becoming a crucial growth engine.
+**Background**: The commentary series &quot;Zhong Caiwen&quot; is an authoritative voice in People&\#x27;s Daily that explains and supplements official policy decisions. In this context, the Politburo meeting set the broad direction for H2 economic work, and the articles aim to address domestic and international concerns about China&\#x27;s economy. The discussion of incremental policies reflects a common pattern where Chinese authorities use policy signaling to manage market expectations before specific measures are announced.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://baike.kuaiji.com/v348514479.html">扣 非 净 利 润 ( 扣 除 非 经常性损益 后 的 净 利 润 ) - 会计百科</a></li>
-<li><a href="https://til.lynda.run/ring-ratio-vs-year-over-year-comparison">环 比 vs 同 比 ：统计对 比 维度 的 区 别 - 柴柴&#x27;s TIL</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#earnings`, `#BYD`, `#autos`, `#exports`, `#China`
+**Tags**: `#macro`, `#policy`, `#China`, `#stimulus`, `#economy`
 
 ---
 
 <a id="item-18"></a>
-## [Mindray Medical H1 net profit drops 5.4% to 4.8B yuan despite revenue rise](http://finance.eastmoney.com/a/202608283858470983.html) ⭐️ 7.0/10
+## [Mindray H1 Net Profit Falls 5.37% Despite Revenue Growth](http://finance.eastmoney.com/a/202608293859299322.html) ⭐️ 7.0/10
 
-Mindray Medical published its 2026 semi-annual report on August 28, showing revenue of 17.75 billion yuan, up 6.0% year-on-year, while attributable net profit fell 5.4% to 4.80 billion yuan. Operating cash flow rose 24.3% to 4.877 billion yuan. As a leading large-cap medical device company in China, Mindray&\#x27;s profit decline despite revenue growth is a significant earnings development for investors. It may signal margin pressure or rising costs in the sector, affecting market sentiment toward medical device stocks. Non-GAAP net profit attributable to shareholders was 4.78 billion yuan, down 3.3% year-on-year. Fully diluted earnings per share came to 3.9584 yuan, while net operating cash flow totaled 4.877 billion yuan.
+Mindray Medical disclosed its 2026 semi-annual report on August 28, showing revenue of 17.747 billion yuan, up 6.00% year-over-year, but net profit attributable to shareholders fell 5.37% to 4.797 billion yuan. This marks a rare occurrence of revenue growth without profit growth for the company. The results indicate margin pressure and foreign exchange headwinds for China&\#x27;s leading medical device maker, which could affect investor sentiment across the medtech sector. This highlights how currency fluctuations can erode profitability even for a strong domestic player. The report was disclosed on August 28, 2026. Revenue grew 6.00% to 17.747 billion yuan, while net profit attributable to shareholders declined 5.37% to 4.797 billion yuan, a rare divergence from Mindray&\#x27;s historical pattern.
 
-rss · 东方财富/300760 · Aug 28, 11:07
+rss · 东方财富/300760 · Aug 29, 11:37
 
-**Background**: Mindray Medical is a major Chinese medical device manufacturer listed on the Shenzhen Stock Exchange under the ticker 300760. Its semi-annual results are widely watched as a bellwether for the domestic medical device industry in China.
+**Background**: Mindray Medical is a major Chinese medical device manufacturer listed on the Shenzhen Stock Exchange \(300760.SZ\). The company has historically delivered consistent profit growth alongside revenue growth, making the H1 2026 results a notable departure. The &\#x27;revenue growth without profit growth&\#x27; pattern is likely attributed to foreign exchange losses and margin pressures.
 
-**Tags**: `#earnings`, `#medical-devices`, `#China`, `#profit-decline`, `#semi-annual-results`
+**Tags**: `#earnings`, `#healthcare`, `#China`, `#forex`
 
 ---
 
 <a id="item-19"></a>
-## [Mindray Medical H1 Revenue Hits RMB 17.75B, Net Profit RMB 4.797B](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SM0ZTdkt4b2JVQTZsdkJqQ1RTVkg3aWlPeHJ3amwtMlBOYWU2b1J1bHB2ZlB1WTdneDhIdHAzeVRfS1JwQV9zdUpsYnFTQQ?oc=5) ⭐️ 7.0/10
+## [Swiss wealth managers urge delay to beneficial ownership register after Liechtenstein hack](https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1) ⭐️ 6.0/10
 
-Mindray Medical reported first-half revenue of RMB 17.75 billion and net profit of RMB 4.797 billion. The financial figures were released through media outlet 观点网 \(Guandian Web\) and reflect the company&\#x27;s performance for the first two quarters of the fiscal year. As one of China&\#x27;s leading medical device manufacturers, Mindray&\#x27;s results are an important indicator for the domestic healthcare equipment industry. Investors and industry watchers will likely assess these figures to gauge the company&\#x27;s growth trajectory and broader market demand for medical devices in China. The disclosed figures cover overall revenue and net profit only, with no year-over-year growth rates or segment-level breakdown provided in the summary. The information was reported by 观点网 \(Guandian Web\) based on Mindray&\#x27;s official financial disclosure.
+Swiss wealth managers are urging a delay to the beneficial ownership register, citing cybersecurity risks after a hack in Liechtenstein exposed data of over 500,000 entities. The call underscores growing concerns about data security in regulatory compliance. This highlights the tension between regulatory transparency and data security in Swiss banking, affecting over 500,000 companies and the compliance operations of wealth managers. It could influence the timing and design of similar registers globally. The Liechtenstein hack exposed data of more than 500,000 companies and other entities, prompting bankers to raise cybersecurity concerns over the list of ultimate owners. The delay would affect Switzerland&\#x27;s proposed beneficial ownership register, which is still in development.
 
-google\_news · 观点网 · Aug 28, 19:31
+rss · FT Markets · Aug 29, 11:00
 
-**Background**: Mindray Medical \(Shenzhen Stock Exchange: 300760\) is a major Chinese medical device company whose products include patient monitors, laboratory diagnostic systems, and ultrasound equipment. The company&\#x27;s semi-annual earnings are widely followed as a gauge of the overall health of China&\#x27;s medical device sector.
-
-**Tags**: `#earnings`, `#healthcare`, `#medical devices`, `#China`, `#financial results`
-
----
-
-<a id="item-20"></a>
-## [Mindray Medical H1 Net Profit Falls 5.37% YoY to 4.797B Yuan](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR1k4QkNCWlZ0alRWQnNnUUpoZkp0RzJmZVlSYkRVSHhudXpuUTl6NUZWbUl1Y3l3NmFRM2xJZm5jLUltRldQT2Y0N2VRZG1fU21xVXNxb1ZtRUk2aU1NSQ?oc=5) ⭐️ 7.0/10
-
-Mindray Medical reported a first-half net profit attributable to shareholders of 4.797 billion yuan, a 5.37% year-on-year decrease. The figures were presented in a graphic analysis by East Money \(东方财富\). This earnings decline for China&\#x27;s largest medical device maker is a notable negative signal that could pressure its stock price and investor sentiment. It also suggests potential margin compression or softening demand in the medical device sector, which may affect the broader industry outlook. The decline refers to net profit attributable to the parent company&\#x27;s shareholders \(归母净利润\), which excludes profits belonging to minority interests in subsidiaries. No specific reasons for the decline, such as revenue changes or cost factors, were disclosed in the summary.
-
-google\_news · 东方财富 · Aug 28, 15:54
-
-**Background**: 归母净利润 \(gui mu jing li run\) is the net profit attributable to shareholders of the parent company after eliminating internal transactions and minority interests; it is a key indicator for evaluating a listed company&\#x27;s profitability. 同比 \(year-on-year\) compares a financial metric with the same period in the previous year, allowing investors to assess growth or decline trends. Such indicators are commonly used in financial reporting to provide a clearer picture of a company&\#x27;s performance over time.
+**Background**: A beneficial ownership register is a list of the natural persons who ultimately own or control companies, used to combat money laundering and financial crime. The Liechtenstein hack underscores the data security risks of centralizing such sensitive information. Switzerland is considering its own register, and this incident has raised caution among Swiss wealth managers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://m.kuaiji.com/zhuanyewenda/0068109639.html">归 母 净 利 润 的计算公式-会计网</a></li>
-<li><a href="https://cadforex.com/licai/51607.html">环 比 和 同 比 是什么意思 - 财梯网</a></li>
-<li><a href="https://www.acc5.com/news-shiwu/detail_235195.html">归 母 净 利 同比为负表明 什 么 怎 么 看？ 财务人员必备知识-会计学堂</a></li>
+<li><a href="https://www.diligent.com/resources/blog/what-register-beneficial-ownership">What is the register of beneficial ownership (RBO)?</a></li>
+<li><a href="https://www.kychub.com/blog/ultimate-beneficial-owner-ubo">Ultimate Beneficial Owner (UBO) Guide | KYC Hub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#earnings`, `#medical devices`, `#China`, `#profit decline`
+**Tags**: `#regulation`, `#cybersecurity`, `#banking`, `#policy`, `#Switzerland`
+
+---
+
+<a id="item-20"></a>
+## [Financial Repression Risk Rises as Forced US Bond Purchases Gain Traction](https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1) ⭐️ 6.0/10
+
+The Financial Times published an analysis arguing that the risk of financial repression, particularly forcing investors to purchase US government bonds, is increasingly being taken seriously. The article signals a potential macro policy shift, though it remains speculative with no concrete policy actions announced. If financial repression materializes, it could distort bond markets, suppress yields, and force investors to accept negative real returns. This would affect anyone holding government bonds and could reshape global investment strategies, particularly in a high-debt environment. The article is speculative and does not cite concrete policy actions, but the debate centers on debt sustainability and central bank independence. Historical financial repression measures include interest rate caps, reserve requirements, and directed lending to governments.
+
+rss · FT Markets · Aug 29, 04:00
+
+**Background**: Financial repression refers to government policies that channel domestic savings to the public sector, often at below-market rates. Examples include forcing banks to hold government bonds, capping interest rates, and imposing capital controls. The term was popularized by economists like Carmen Reinhart to describe post-WWII debt reduction strategies. In today&\#x27;s high-debt environment, governments may again resort to such measures, raising concerns among investors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Financial_repression">Financial repression - Wikipedia</a></li>
+<li><a href="https://www.blackrock.com/institutions/en-us/insights/thought-leadership/fiscal-repression">Financial repression past and future | BlackRock</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macro`, `#policy`, `#bonds`, `#financial repression`, `#investment strategy`
 
 ---
