@@ -115,7 +115,7 @@
       },
       {
         "enabled": false,
-        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "stocks": ["迈瑞医疗", "中国中免", "300760", "601888"],
         "mode": "ArtList",
         "max_records": 75,
         "timespan": null,
@@ -136,7 +136,7 @@
       },
       {
         "enabled": true,
-        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "stocks": ["迈瑞医疗", "中国中免", "300760", "601888"],
         "language": "zh-CN",
         "country": "CN",
         "ceid": null,
@@ -178,7 +178,7 @@
         "categories": ["finance-cn", "finance", "stocks", "investing"],
         "report": "stock",
         "preset_domains": ["finance"],
-        "stocks": ["比亚迪", "迈瑞医疗", "中国中免", "002594", "300760", "601888"],
+        "stocks": ["迈瑞医疗", "中国中免", "300760", "601888"],
         "stock_limit": 5
       }
     },
